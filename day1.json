@@ -1,0 +1,1633 @@
+[
+  {
+    "id": 1001,
+    "word": "Evaluate",
+    "phonetic": "/ɪˈvæljueɪt/",
+    "翻译": "vt. 评价，估价，求……的值",
+    "sentence": "The committee will evaluate each candidate based on their experience."
+  },
+  {
+    "id": 1002,
+    "word": "Abandon",
+    "phonetic": "/əˈbændən/",
+    "翻译": "vt. 放弃，遗弃，抛弃",
+    "sentence": "The bad weather forced the climbers to abandon their plans to reach the top."
+  },
+  {
+    "id": 1003,
+    "word": "Identify",
+    "phonetic": "/aɪˈdentɪfaɪ/",
+    "翻译": "vt. 识别，认出；vi. 认同",
+    "sentence": "The main purpose of the research is to identify the common problems."
+  },
+  {
+    "id": 1004,
+    "word": "Maintain",
+    "phonetic": "/meɪnˈteɪn/",
+    "翻译": "vt. 维持，保持，维修",
+    "sentence": "It is important to maintain a healthy lifestyle during busy weeks."
+  },
+  {
+    "id": 1005,
+    "word": "Abnormal",
+    "phonetic": "/æbˈnɔːrml/",
+    "翻译": "adj. 反常的，异常的",
+    "sentence": "The laboratory tests showed an abnormal level of sugar in the blood."
+  },
+  {
+    "id": 1006,
+    "word": "Discover",
+    "phonetic": "/dɪˈskʌvər/",
+    "翻译": "vt. 发现，发觉，显示",
+    "sentence": "They discovered a new star in the sky during their observation."
+  },
+  {
+    "id": 1007,
+    "word": "Accelerate",
+    "phonetic": "/əkˈseləreɪt/",
+    "翻译": "v. 加速，促进",
+    "sentence": "The driver decided to accelerate the car to pass the slow truck."
+  },
+  {
+    "id": 1008,
+    "word": "Abolish",
+    "phonetic": "/əˈbɑːlɪʃ/",
+    "翻译": "vt. 废除，取消",
+    "sentence": "The government decided to abolish the old tax system next year."
+  },
+  {
+    "id": 1009,
+    "word": "Connect",
+    "phonetic": "/kəˈnekt/",
+    "翻译": "vt. 连接，联结",
+    "sentence": "The new bridge will connect the small island to the mainland."
+  },
+  {
+    "id": 1010,
+    "word": "Ability",
+    "phonetic": "/əˈbɪləti/",
+    "翻译": "n. 能力，才干",
+    "sentence": "She has the ability to solve complex mathematical problems quickly."
+  },
+  {
+    "id": 1011,
+    "word": "Analyze",
+    "phonetic": "/ˈænəlaɪz/",
+    "翻译": "vt. 分析，分解",
+    "sentence": "We need to analyze the data carefully before making a decision."
+  },
+  {
+    "id": 1012,
+    "word": "Abundant",
+    "phonetic": "/əˈbʌndənt/",
+    "翻译": "adj. 大量的，丰富的",
+    "sentence": "This river provides an abundant supply of fresh water for the city."
+  },
+  {
+    "id": 1013,
+    "word": "Access",
+    "phonetic": "/ˈækses/",
+    "翻译": "n. 通道，进入权；vt. 访问",
+    "sentence": "Students can easily access the online library from their room."
+  },
+  {
+    "id": 1014,
+    "word": "Accomplish",
+    "phonetic": "/əˈkɑːmplɪʃ/",
+    "翻译": "vt. 完成，实现",
+    "sentence": "They worked together through the night to accomplish the task."
+  },
+  {
+    "id": 1015,
+    "word": "Create",
+    "phonetic": "/kriˈeɪt/",
+    "翻译": "vt. 创造，创作",
+    "sentence": "The company wants to create a new platform for online learning."
+  },
+  {
+    "id": 1016,
+    "word": "Beneficial",
+    "phonetic": "/ˌbenɪˈfɪʃl/",
+    "翻译": "adj. 有益的，有利的",
+    "sentence": "Regular exercise is highly beneficial for both physical and mental health."
+  },
+  {
+    "id": 1017,
+    "word": "Category",
+    "phonetic": "/ˈkætəɡɔːri/",
+    "翻译": "n. 种类，类别",
+    "sentence": "Each item in the store belongs to a specific category."
+  },
+  {
+    "id": 1018,
+    "word": "Decline",
+    "phonetic": "/dɪˈklaɪn/",
+    "翻译": "v. 下降，减少，谢绝",
+    "sentence": "The company reported a sharp decline in sales this quarter."
+  },
+  {
+    "id": 1019,
+    "word": "Efficient",
+    "phonetic": "/ɪˈfɪʃnt/",
+    "翻译": "adj. 高效的，有能力的",
+    "sentence": "The new machinery allows for a more efficient production process."
+  },
+  {
+    "id": 1020,
+    "word": "Flexible",
+    "phonetic": "/ˈfleksəbl/",
+    "翻译": "adj. 易弯曲的，灵活的",
+    "sentence": "Having a flexible schedule allows her to spend more time with family."
+  },
+  {
+    "id": 1021,
+    "word": "Guarantee",
+    "phonetic": "/ˌɡærənˈtiː/",
+    "翻译": "n. 保证，保修单；vt. 保证",
+    "sentence": "The manufacturer provides a one-year guarantee on all electronic parts."
+  },
+  {
+    "id": 1022,
+    "word": "Hypothesis",
+    "phonetic": "/haɪˈpɑːθəsɪs/",
+    "翻译": "n. 假设，假说",
+    "sentence": "The scientists set up an experiment to test their new hypothesis."
+  },
+  {
+    "id": 1023,
+    "word": "Illustrate",
+    "phonetic": "/ˈɪləstreɪt/",
+    "翻译": "vt. 阐明，举例说明",
+    "sentence": "The professor used charts to illustrate the economic growth trends."
+  },
+  {
+    "id": 1024,
+    "word": "Justify",
+    "phonetic": "/ˈdʒʌstɪfaɪ/",
+    "翻译": "vt. 证明……是正当的，为……辩护",
+    "sentence": "It is hard to justify spending so much money on a luxury item."
+  },
+  {
+    "id": 1025,
+    "word": "Logical",
+    "phonetic": "/ˈlɑːdʒɪkl/",
+    "翻译": "adj. 符合逻辑的，合理的",
+    "sentence": "Please present your argument in a clear and logical order."
+  },
+  {
+    "id": 1026,
+    "word": "Maximize",
+    "phonetic": "/ˈmæksɪmaɪz/",
+    "翻译": "vt. 使最大化，最大程度地利用",
+    "sentence": "We need to update our strategy to maximize our profits this year."
+  },
+  {
+    "id": 1027,
+    "word": "Negotiate",
+    "phonetic": "/nɪˈɡoʊʃieɪt/",
+    "翻译": "v. 谈判，协商",
+    "sentence": "The manager is trying to negotiate a better deal with the supplier."
+  },
+  {
+    "id": 1028,
+    "word": "Objective",
+    "phonetic": "/əbˈdʒektɪv/",
+    "翻译": "n. 目标；adj. 客观的",
+    "sentence": "A journalist must remain objective when reporting the news."
+  },
+  {
+    "id": 1029,
+    "word": "Participate",
+    "phonetic": "/pɑːrˈtɪsɪpeɪt/",
+    "翻译": "vi. 参与，参加",
+    "sentence": "All students are encouraged to participate in school activities."
+  },
+  {
+    "id": 1030,
+    "word": "Qualitative",
+    "phonetic": "/ˈkwɑːlɪteɪtɪv/",
+    "翻译": "adj. 定性的，性质上的",
+    "sentence": "The researchers conducted a qualitative study based on interviews."
+  },
+  {
+    "id": 1031,
+    "word": "Reinforce",
+    "phonetic": "/ˌriːɪnˈfɔːrs/",
+    "翻译": "vt. 加强，巩固",
+    "sentence": "The coach used video clips to reinforce the tactical training."
+  },
+  {
+    "id": 1032,
+    "word": "Submit",
+    "phonetic": "/səbˈmɪt/",
+    "翻译": "v. 提交，呈递，屈服",
+    "sentence": "You must submit your final report before Friday afternoon."
+  },
+  {
+    "id": 1033,
+    "word": "Temporary",
+    "phonetic": "/ˈtempəreri/",
+    "翻译": "adj. 暂时的，临时的",
+    "sentence": "They found a temporary solution to the technical problem."
+  },
+  {
+    "id": 1034,
+    "word": "Ultimate",
+    "phonetic": "/ˈʌltɪmət/",
+    "翻译": "adj. 最终的，极限的",
+    "sentence": "Our ultimate goal is to expand the business into international markets."
+  },
+  {
+    "id": 1035,
+    "word": "Vague",
+    "phonetic": "/veɪɡ/",
+    "翻译": "adj. 模糊的，不明确的",
+    "sentence": "His instructions were so vague that nobody knew what to do."
+  },
+  {
+    "id": 1036,
+    "word": "Widespread",
+    "phonetic": "/ˈwaɪdspred/",
+    "翻译": "adj. 分布广泛的，普遍的",
+    "sentence": "The new policy received widespread support from the public."
+  },
+  {
+    "id": 1037,
+    "word": "Yield",
+    "phonetic": "/jiːld/",
+    "翻译": "vt. 出产，产生；vi. 屈服",
+    "sentence": "The investment is expected to yield high returns in the future."
+  },
+  {
+    "id": 1038,
+    "word": "Accumulate",
+    "phonetic": "/əˈkjuːmjəleɪt/",
+    "翻译": "v. 积累，积聚",
+    "sentence": "Dust will quickly accumulate on the furniture if you do not clean it."
+  },
+  {
+    "id": 1039,
+    "word": "Brief",
+    "phonetic": "/briːf/",
+    "翻译": "adj. 简短的，短暂的",
+    "sentence": "The manager gave a brief introduction of the new project."
+  },
+  {
+    "id": 1040,
+    "word": "Clarify",
+    "phonetic": "/ˈklærəfaɪ/",
+    "翻译": "vt. 澄清，阐明",
+    "sentence": "Could you please clarify the third point of the contract?"
+  },
+  {
+    "id": 1041,
+    "word": "Diverse",
+    "phonetic": "/daɪˈvɜːrs/",
+    "翻译": "adj. 不同的，多种多样的",
+    "sentence": "The university attracts a diverse group of students from all over the world."
+  },
+  {
+    "id": 1042,
+    "word": "Emphasis",
+    "phonetic": "/ˈemfəsɪs/",
+    "翻译": "n. 强调，重点",
+    "sentence": "The school puts great emphasis on practical skills."
+  },
+  {
+    "id": 1043,
+    "word": "Fundamental",
+    "phonetic": "/ˌfʌndəˈmentl/",
+    "翻译": "adj. 基本的，根本的",
+    "sentence": "Understanding consumer behavior is fundamental to successful marketing."
+  },
+  {
+    "id": 1044,
+    "word": "Furthermore",
+    "phonetic": "/ˌfɜːrðərˈmɔːr/",
+    "翻译": "adv. 此外，而且",
+    "sentence": "The house is beautiful; furthermore, it is located in a quiet area."
+  },
+  {
+    "id": 1045,
+    "word": "Ignore",
+    "phonetic": "/ɪɡˈnɔːr/",
+    "翻译": "vt. 忽视，不理睬",
+    "sentence": "You should not ignore the warning signs of stress."
+  },
+  {
+    "id": 1046,
+    "word": "Imply",
+    "phonetic": "/ɪmˈplaɪ/",
+    "翻译": "vt. 暗示，意味着",
+    "sentence": "Silence does not necessarily imply that she agrees with you."
+  },
+  {
+    "id": 1047,
+    "word": "Internal",
+    "phonetic": "/ɪnˈtɜːrnl/",
+    "翻译": "adj. 内部的，国内的",
+    "sentence": "The company is conducting an internal investigation into the matter."
+  },
+  {
+    "id": 1048,
+    "word": "Lecture",
+    "phonetic": "/ˈlektʃər/",
+    "翻译": "n./v. 演讲，讲课",
+    "sentence": "The professor delivered an interesting lecture on ancient history."
+  },
+  {
+    "id": 1049,
+    "word": "Migrate",
+    "phonetic": "/ˈmaɪɡreɪt/",
+    "翻译": "vi. 迁移，移居",
+    "sentence": "Many birds migrate south to find food during the winter."
+  },
+  {
+    "id": 1050,
+    "word": "Notion",
+    "phonetic": "/ˈnoʊʃn/",
+    "翻译": "n. 概念，见解，打算",
+    "sentence": "He rejected the notion that success is purely a matter of luck."
+  },
+  {
+    "id": 1051,
+    "word": "Passive",
+    "phonetic": "/ˈpæsɪv/",
+    "翻译": "adj. 被动的，消极的",
+    "sentence": "Sitting in front of the TV is a passive way to spend the evening."
+  },
+  {
+    "id": 1052,
+    "word": "Precise",
+    "phonetic": "/prɪˈsaɪs/",
+    "翻译": "adj. 精确的，准确的",
+    "sentence": "The instrument provides precise measurements of temperature changes."
+  },
+  {
+    "id": 1053,
+    "word": "Reject",
+    "phonetic": "/rɪˈdʒekt/",
+    "翻译": "vt. 拒绝，驳回",
+    "sentence": "The publisher decided to reject the author's first manuscript."
+  },
+  {
+    "id": 1054,
+    "word": "Restrict",
+    "phonetic": "/rɪˈstrɪkt/",
+    "翻译": "vt. 限制，约束",
+    "sentence": "The new law will restrict the use of plastic bags in supermarkets."
+  },
+  {
+    "id": 1055,
+    "word": "Status",
+    "phonetic": "/ˈsteɪtəs/",
+    "翻译": "n. 地位，身份，状态",
+    "sentence": "You can check the shipping status of your order online."
+  },
+  {
+    "id": 1056,
+    "word": "Transform",
+    "phonetic": "/trænsˈfɔːrm/",
+    "翻译": "v. 改变，使改观，转化",
+    "sentence": "The new technology will transform the way we communicate."
+  },
+  {
+    "id": 1057,
+    "word": "Vary",
+    "phonetic": "/ˈveri/",
+    "翻译": "vi. 变化，不同；vt. 改变",
+    "sentence": "The prices of vegetables vary depending on the season."
+  },
+  {
+    "id": 1058,
+    "word": "Volume",
+    "phonetic": "/ˈvɑːljuːm/",
+    "翻译": "n. 体积，容积，音量，卷",
+    "sentence": "Please turn down the volume of the radio; it is too loud."
+  },
+  {
+    "id": 1059,
+    "word": "Accurate",
+    "phonetic": "/ˈækjərət/",
+    "翻译": "adj. 精确的，准确的",
+    "sentence": "The scientists need to provide accurate reports for the experiment."
+  },
+  {
+    "id": 1060,
+    "word": "Alter",
+    "phonetic": "/ˈɔːltər/",
+    "翻译": "v. 改变，变更",
+    "sentence": "The tailor needs to alter the suit to make it fit perfectly."
+  },
+  {
+    "id": 1061,
+    "word": "Aware",
+    "phonetic": "/əˈwer/",
+    "翻译": "adj. 意识到的，知道的",
+    "sentence": "People are becoming more aware of the importance of recycling."
+  },
+  {
+    "id": 1062,
+    "word": "Capacity",
+    "phonetic": "/kəˈpæsəti/",
+    "翻译": "n. 容量，能力",
+    "sentence": "The stadium has a seating capacity of fifty thousand people."
+  },
+  {
+    "id": 1063,
+    "word": "Challenge",
+    "phonetic": "/ˈtʃælɪndʒ/",
+    "翻译": "n. 挑战；vt. 向……挑战",
+    "sentence": "Learning a new language is a challenge that requires patience."
+  },
+  {
+    "id": 1064,
+    "word": "Conflict",
+    "phonetic": "/ˈkɑːnflɪkt/",
+    "翻译": "n. 冲突，矛盾；vi. 冲突",
+    "sentence": "The schedule conflict forced him to miss the important meeting."
+  },
+  {
+    "id": 1065,
+    "word": "Consult",
+    "phonetic": "/kənˈsʌlt/",
+    "翻译": "v. 请教，咨询，查阅",
+    "sentence": "You should consult a financial expert before buying a house."
+  },
+  {
+    "id": 1066,
+    "word": "Display",
+    "phonetic": "/dɪˈspleɪ/",
+    "翻译": "vt./n. 陈列，展览，显示",
+    "sentence": "The museum will display rare artifacts during the summer exhibition."
+  },
+  {
+    "id": 1067,
+    "word": "Equivalent",
+    "phonetic": "/ɪˈkwɪvələnt/",
+    "翻译": "adj. 相等的，等价的；n. 等价物",
+    "sentence": "Changing jobs now is equivalent to starting your career over again."
+  },
+  {
+    "id": 1068,
+    "word": "Expose",
+    "phonetic": "/ɪkˈspoʊz/",
+    "翻译": "vt. 暴露，显露，揭露",
+    "sentence": "Do not expose your skin to direct sunlight for a long time."
+  },
+  {
+    "id": 1069,
+    "word": "External",
+    "phonetic": "/ɪkˈstɜːrnl/",
+    "翻译": "adj. 外部的，外面的",
+    "sentence": "The hard drive can be connected to any external monitor."
+  },
+  {
+    "id": 1070,
+    "word": "Frustrate",
+    "phonetic": "/ˈfrʌstreɪt/",
+    "翻译": "vt. 使沮丧，挫败",
+    "sentence": "Repeated failures can easily frustrate a young entrepreneur."
+  },
+  {
+    "id": 1071,
+    "word": "Grant",
+    "phonetic": "/ɡrænt/",
+    "翻译": "vt. 授予，同意，承认；n. 拨款",
+    "sentence": "The organization decided to grant a scholarship to the top student."
+  },
+  {
+    "id": 1072,
+    "word": "Implicate",
+    "phonetic": "/ˈɪmplɪkeɪt/",
+    "翻译": "vt. 牵连，暗示",
+    "sentence": "New evidence emerged that might implicate other officials in the case."
+  },
+  {
+    "id": 1073,
+    "word": "Indicate",
+    "phonetic": "/ˈɪndɪkeɪt/",
+    "翻译": "vt. 指示，指出，暗示",
+    "sentence": "The dark clouds indicate that a thunderstorm is on the way."
+  },
+  {
+    "id": 1074,
+    "word": "Inherent",
+    "phonetic": "/ɪnˈhɪrənt/",
+    "翻译": "adj. 固有的，内在的",
+    "sentence": "There are inherent risks involved in any stock market investment."
+  },
+  {
+    "id": 1075,
+    "word": "Invest",
+    "phonetic": "/ɪnˈvest/",
+    "翻译": "v. 投资，投入",
+    "sentence": "It is wise to invest some money in local businesses."
+  },
+  {
+    "id": 1076,
+    "word": "License",
+    "phonetic": "/ˈlaɪsns/",
+    "翻译": "n. 执照，许可证；vt. 特许",
+    "sentence": "You need to pass a driving test to get a driver's license."
+  },
+  {
+    "id": 1077,
+    "word": "Mature",
+    "phonetic": "/məˈtʃʊr/",
+    "翻译": "adj. 成熟的；v. 成熟",
+    "sentence": "He showed a very mature attitude toward dealing with the crisis."
+  },
+  {
+    "id": 1078,
+    "word": "Modify",
+    "phonetic": "/ˈmɑːdɪfaɪ/",
+    "翻译": "vt. 修改，修饰",
+    "sentence": "We had to modify our original plans due to the bad weather."
+  },
+  {
+    "id": 1079,
+    "word": "Network",
+    "phonetic": "/ˈnetwɜːrk/",
+    "翻译": "n. 网络，网状物",
+    "sentence": "The local railway network connects all major towns in the area."
+  },
+  {
+    "id": 1080,
+    "word": "Option",
+    "phonetic": "/ˈɑːpʃn/",
+    "翻译": "n. 选择，选项",
+    "sentence": "Students have the option to study a second foreign language."
+  },
+  {
+    "id": 1081,
+    "word": "Perspective",
+    "phonetic": "/pərˈspektɪv/",
+    "翻译": "n. 视角，观点，远景",
+    "sentence": "Traveling helps people gain a broader perspective on different cultures."
+  },
+  {
+    "id": 1082,
+    "word": "Pursue",
+    "phonetic": "/pərˈsuː/",
+    "翻译": "vt. 追求，追赶，从事",
+    "sentence": "She decided to move to New York to pursue her career in fashion."
+  },
+  {
+    "id": 1083,
+    "word": "Retain",
+    "phonetic": "/rɪˈteɪn/",
+    "翻译": "vt. 保持，保留",
+    "sentence": "The company managed to retain its core customers despite the crisis."
+  },
+  {
+    "id": 1084,
+    "word": "Sequence",
+    "phonetic": "/ˈsiːkwəns/",
+    "翻译": "n. 序列，顺序，一连串",
+    "sentence": "The historical events are arranged in a chronological sequence."
+  },
+  {
+    "id": 1085,
+    "word": "Sustain",
+    "phonetic": "/səˈsteɪn/",
+    "翻译": "vt. 维持，支撑，承受",
+    "sentence": "The country needs new economic reforms to sustain its growth."
+  },
+  {
+    "id": 1086,
+    "word": "Topic",
+    "phonetic": "/ˈtɑːpɪk/",
+    "翻译": "n. 话题，主题",
+    "sentence": "The environment has become a popular topic of conversation recently."
+  },
+  {
+    "id": 1087,
+    "word": "Undergo",
+    "phonetic": "/ˌʌndərˈɡoʊ/",
+    "翻译": "vt. 经历，遭受，承受",
+    "sentence": "The old building will undergo extensive renovations next month."
+  },
+  {
+    "id": 1088,
+    "word": "Valid",
+    "phonetic": "/ˈvælɪd/",
+    "翻译": "adj. 有效的，正当的",
+    "sentence": "Your passport must be valid for at least six more months."
+  },
+  {
+    "id": 1089,
+    "word": "Visible",
+    "phonetic": "/ˈvɪzəbl/",
+    "翻译": "adj. 看得见的，明显的",
+    "sentence": "The stars were clearly visible in the dark night sky."
+  },
+  {
+    "id": 1090,
+    "word": "Advantage",
+    "phonetic": "/ədˈvæntɪdʒ/",
+    "翻译": "n. 优势，有利条件",
+    "sentence": "Speaking a foreign language gives you a great advantage in business."
+  },
+  {
+    "id": 1091,
+    "word": "Advocate",
+    "phonetic": "/ˈædvəkət/",
+    "翻译": "vt. 提倡，主张；n. 提倡者",
+    "sentence": "Many doctors advocate eating more fresh fruits and vegetables."
+  },
+  {
+    "id": 1092,
+    "word": "Attribute",
+    "phonetic": "/əˈtrɪbjuːt/",
+    "翻译": "vt. 把……归因于；n. 属性",
+    "sentence": "He attributes his business success to hard work and patience."
+  },
+  {
+    "id": 1093,
+    "word": "Bias",
+    "phonetic": "/ˈbaɪəs/",
+    "翻译": "n. 偏见，偏爱",
+    "sentence": "The reporter tried to write the article without political bias."
+  },
+  {
+    "id": 1094,
+    "word": "Commit",
+    "phonetic": "/kəˈmɪt/",
+    "翻译": "vt. 犯（错误、罪行），使承担义务",
+    "sentence": "The company is willing to commit more funds to research."
+  },
+  {
+    "id": 1095,
+    "word": "Core",
+    "phonetic": "/kɔːr/",
+    "翻译": "n. 核心，果核；adj. 核心的",
+    "sentence": "The core problem of the project is a lack of financial support."
+  },
+  {
+    "id": 1096,
+    "word": "Domain",
+    "phonetic": "/doʊˈmeɪn/",
+    "翻译": "n. 领域，领土，域名",
+    "sentence": "Medical research is an area outside my professional domain."
+  },
+  {
+    "id": 1097,
+    "word": "Enhance",
+    "phonetic": "/ɪnˈhæns/",
+    "翻译": "vt. 提高，增强",
+    "sentence": "The new software will significantly enhance system performance."
+  },
+  {
+    "id": 1098,
+    "word": "Framework",
+    "phonetic": "/ˈfreɪmwɜːrk/",
+    "翻译": "n. 框架，结构",
+    "sentence": "The treaty provides a legal framework for international trade."
+  },
+  {
+    "id": 1099,
+    "word": "Incentive",
+    "phonetic": "/ɪnˈsentɪv/",
+    "翻译": "n. 激励，刺激，鼓励",
+    "sentence": "The company offers a cash bonus as an incentive to work harder."
+  },
+  {
+    "id": 1100,
+    "word": "Interact",
+    "phonetic": "/ˌɪntərˈækt/",
+    "翻译": "vi. 互动，相互作用",
+    "sentence": "Teachers should encourage students to interact with each other."
+  },
+  {
+    "id": 1101,
+    "word": "Link",
+    "phonetic": "/lɪŋk/",
+    "翻译": "n. 链接，联系；vt. 连接",
+    "sentence": "Scientists discovered a clear link between smoking and lung cancer."
+  },
+  {
+    "id": 1102,
+    "word": "Margin",
+    "phonetic": "/ˈmɑːrdʒɪn/",
+    "翻译": "n. 页边空白，边缘，利润空间",
+    "sentence": "Please write your notes in the right margin of the paper."
+  },
+  {
+    "id": 1103,
+    "word": "Orient",
+    "phonetic": "/ˈɔːrient/",
+    "翻译": "vt. 使适应，以……为方向",
+    "sentence": "The introductory course helps orient new students to campus life."
+  },
+  {
+    "id": 1104,
+    "word": "Publish",
+    "phonetic": "/ˈpʌblɪʃ/",
+    "翻译": "v. 出版，发行，公布",
+    "sentence": "The academic journal will publish her research paper next month."
+  },
+  {
+    "id": 1105,
+    "word": "Regulate",
+    "phonetic": "/ˈreɡjuleɪt/",
+    "翻译": "vt. 管制，控制，调节",
+    "sentence": "New safety laws were introduced to regulate the chemical industry."
+  },
+  {
+    "id": 1106,
+    "word": "Shift",
+    "phonetic": "/ʃɪft/",
+    "翻译": "v./n. 转移，转变，轮班",
+    "sentence": "There has been a significant shift in public opinion on the issue."
+  },
+  {
+    "id": 1107,
+    "word": "Task",
+    "phonetic": "/tæsk/",
+    "翻译": "n. 任务，工作",
+    "sentence": "Cleaning the entire warehouse was a difficult and boring task."
+  },
+  {
+    "id": 1108,
+    "word": "Underlie",
+    "phonetic": "/ˌʌndərˈlaɪ/",
+    "翻译": "vt. 成为……的基础，位于……之下",
+    "sentence": "A deep social economic crisis underlies the political unrest."
+  },
+  {
+    "id": 1109,
+    "word": "Accuse",
+    "phonetic": "/əˈkjuːz/",
+    "翻译": "vt. 指控，控告，谴责",
+    "sentence": "You should not accuse him of lying without showing proof first."
+  },
+  {
+    "id": 1110,
+    "word": "Acknowledge",
+    "phonetic": "/əkˈnɑːlɪdʒ/",
+    "翻译": "vt. 承认，鸣谢，告知收到",
+    "sentence": "The government refused to acknowledge the results of the election."
+  },
+  {
+    "id": 1111,
+    "word": "Acquire",
+    "phonetic": "/əˈkwaɪər/",
+    "翻译": "vt. 获得，学到，取得",
+    "sentence": "She managed to acquire a reputation as an expert in the field."
+  },
+  {
+    "id": 1112,
+    "word": "Adapt",
+    "phonetic": "/əˈdæpt/",
+    "翻译": "v. 适应，改编",
+    "sentence": "It takes time for international students to adapt to a new culture."
+  },
+  {
+    "id": 1113,
+    "word": "Adequate",
+    "phonetic": "/ˈædɪkwət/",
+    "翻译": "adj. 充足的，适当的",
+    "sentence": "The old hospital lacks adequate medical equipment for emergencies."
+  },
+  {
+    "id": 1114,
+    "word": "Adjust",
+    "phonetic": "/əˈdʒʌst/",
+    "翻译": "vt. 调整，校准，使适应",
+    "sentence": "You can adjust the height of the chair to make it comfortable."
+  },
+  {
+    "id": 1115,
+    "word": "Adopt",
+    "phonetic": "/əˈdɑːpt/",
+    "翻译": "vt. 采用，收养，接受",
+    "sentence": "The local council decided to adopt a new strategy for recycling."
+  },
+  {
+    "id": 1116,
+    "word": "Advance",
+    "phonetic": "/ədˈvæns/",
+    "翻译": "v. 前进，推进；n. 进步",
+    "sentence": "Medical technology continues to advance at a rapid pace."
+  },
+  {
+    "id": 1117,
+    "word": "Affect",
+    "phonetic": "/əˈfekt/",
+    "翻译": "vt. 影响，感动",
+    "sentence": "Smoking can seriously affect your health over a long time."
+  },
+  {
+    "id": 1118,
+    "word": "Agent",
+    "phonetic": "/ˈeɪdʒənt/",
+    "翻译": "n. 代理商，经纪人，特工",
+    "sentence": "Please contact our travel agent to book your flight tickets."
+  },
+  {
+    "id": 1119,
+    "word": "Aggregate",
+    "phonetic": "/ˈæɡrɪɡət/",
+    "翻译": "n. 总数；adj. 总共的；v. 总计",
+    "sentence": "The aggregate profits of the company reached a record high."
+  },
+  {
+    "id": 1120,
+    "word": "Allocate",
+    "phonetic": "/ˈæləkeɪt/",
+    "翻译": "vt. 分配，拨给",
+    "sentence": "The committee decided to allocate more money to education."
+  },
+  {
+    "id": 1121,
+    "word": "Annual",
+    "phonetic": "/ˈænjuəl/",
+    "翻译": "adj. 每年的，年度的",
+    "sentence": "The company holds its annual general meeting every September."
+  },
+  {
+    "id": 1122,
+    "word": "Apparent",
+    "phonetic": "/əˈpærənt/",
+    "翻译": "adj. 显然的，表面上的",
+    "sentence": "It became apparent that the two sides would not reach an agreement."
+  },
+  {
+    "id": 1123,
+    "word": "Approach",
+    "phonetic": "/əˈproʊtʃ/",
+    "翻译": "v. 接近，靠近；n. 方法",
+    "sentence": "We need to try a different approach to solve this mystery."
+  },
+  {
+    "id": 1124,
+    "word": "Appropriate",
+    "phonetic": "/əˈproʊprieɪt/",
+    "翻译": "adj. 适当的，恰当的",
+    "sentence": "Jeans are not appropriate clothes for a formal job interview."
+  },
+  {
+    "id": 1125,
+    "word": "Approximate",
+    "phonetic": "/əˈprɑːksɪmət/",
+    "翻译": "adj. 近似的，大约的",
+    "sentence": "Could you give me an approximate cost for the house repair?"
+  },
+  {
+    "id": 1126,
+    "word": "Area",
+    "phonetic": "/ˈeriə/",
+    "翻译": "n. 面积，地区，领域",
+    "sentence": "The central area of the city is closed to traffic on weekends."
+  },
+  {
+    "id": 1127,
+    "word": "Aspect",
+    "phonetic": "/ˈæspekt/",
+    "翻译": "n. 方面，方向，外观",
+    "sentence": "We must consider every aspect of the problem before deciding."
+  },
+  {
+    "id": 1128,
+    "word": "Assemble",
+    "phonetic": "/əˈsembl/",
+    "翻译": "v. 集合，组装，聚集",
+    "sentence": "The students were asked to assemble in the main school yard."
+  },
+  {
+    "id": 1129,
+    "word": "Assess",
+    "phonetic": "/əˈses/",
+    "翻译": "vt. 评估，评定，估算",
+    "sentence": "The experts will arrive to assess the damage caused by the storm."
+  },
+  {
+    "id": 1130,
+    "word": "Assign",
+    "phonetic": "/əˈsaɪn/",
+    "翻译": "vt. 分配，指派，指定",
+    "sentence": "The teacher will assign a new reading project to the class."
+  },
+  {
+    "id": 1131,
+    "word": "Assist",
+    "phonetic": "/əˈsɪst/",
+    "翻译": "v. 协助，帮助",
+    "sentence": "A team of volunteers arrived to assist the local rescue team."
+  },
+  {
+    "id": 1132,
+    "word": "Assume",
+    "phonetic": "/əˈsuːm/",
+    "翻译": "vt. 假设，假定，承担",
+    "sentence": "Do not assume that he knows the answer just because he is quiet."
+  },
+  {
+    "id": 1133,
+    "word": "Assure",
+    "phonetic": "/əˈʃʊr/",
+    "翻译": "vt. 向……保证，使确信",
+    "sentence": "I can assure you that your personal information is safe here."
+  },
+  {
+    "id": 1134,
+    "word": "Attach",
+    "phonetic": "/əˈtætʃ/",
+    "翻译": "v. 附加，贴上，系上",
+    "sentence": "Please remember to attach your photo to the application form."
+  },
+  {
+    "id": 1135,
+    "word": "Attain",
+    "phonetic": "/əˈteɪn/",
+    "翻译": "vt. 达到，获得",
+    "sentence": "She worked very hard to attain a high degree of skill in music."
+  },
+  {
+    "id": 1136,
+    "word": "Attitude",
+    "phonetic": "/ˈætɪtuːd/",
+    "翻译": "n. 态度，看法",
+    "sentence": "Having a positive attitude can help you overcome daily challenges."
+  },
+  {
+    "id": 1137,
+    "word": "Author",
+    "phonetic": "/ˈɔːθər/",
+    "翻译": "n. 作者，作家",
+    "sentence": "The famous author spent three years writing his latest novel."
+  },
+  {
+    "id": 1138,
+    "word": "Authority",
+    "phonetic": "/əˈθɔːrəti/",
+    "翻译": "n. 权威，权力，当局",
+    "sentence": "The local authority decided to build a new public park here."
+  },
+  {
+    "id": 1139,
+    "word": "Automate",
+    "phonetic": "/ˈɔːtəmeɪt/",
+    "翻译": "v. 使自动化",
+    "sentence": "The company plans to automate its assembly line to save time."
+  },
+  {
+    "id": 1140,
+    "word": "Available",
+    "phonetic": "/əˈveɪləbl/",
+    "翻译": "adj. 可用的，可得到的",
+    "sentence": "Free internet access is available in all public libraries."
+  },
+  {
+    "id": 1141,
+    "word": "Benefit",
+    "phonetic": "/ˈbenɪfɪt/",
+    "翻译": "n. 利益，好处；v. 有益于",
+    "sentence": "The new community library will benefit people of all ages."
+  },
+  {
+    "id": 1142,
+    "word": "Bond",
+    "phonetic": "/bɑːnd/",
+    "翻译": "n. 结合，纽带，债券；v. 结合",
+    "sentence": "Sharing difficult experiences created a strong bond between them."
+  },
+  {
+    "id": 1143,
+    "word": "Channel",
+    "phonetic": "/ˈtʃænl/",
+    "翻译": "n. 海峡，渠道，频道",
+    "sentence": "The television channel broadcasts news 24 hours a day."
+  },
+  {
+    "id": 1144,
+    "word": "Chapter",
+    "phonetic": "/ˈtʃæptər/",
+    "翻译": "n. 章，回，篇",
+    "sentence": "The first chapter of the biology textbook introduces basic cells."
+  },
+  {
+    "id": 1145,
+    "word": "Chart",
+    "phonetic": "/tʃɑːrt/",
+    "翻译": "n. 图表，航海图",
+    "sentence": "The sales chart clearly shows that business is improving."
+  },
+  {
+    "id": 1146,
+    "word": "Chemical",
+    "phonetic": "/ˈkemɪkl/",
+    "翻译": "adj. 化学的；n. 化学制品",
+    "sentence": "The local factory was closed for releasing a dangerous chemical."
+  },
+  {
+    "id": 1147,
+    "word": "Circumstance",
+    "phonetic": "/ˈsɜːrkəmstæns/",
+    "翻译": "n. 环境，情况",
+    "sentence": "Under no circumstance should you leave the laboratory doors open."
+  },
+  {
+    "id": 1148,
+    "word": "Cite",
+    "phonetic": "/saɪt/",
+    "翻译": "vt. 引用，引证，表彰",
+    "sentence": "You must cite the original sources in your academic essay."
+  },
+  {
+    "id": 1149,
+    "word": "Civil",
+    "phonetic": "/ˈsɪvl/",
+    "翻译": "adj. 公民的，民事的，文明的",
+    "sentence": "The two countries signed a historic civil aviation agreement."
+  },
+  {
+    "id": 1150,
+    "word": "Classic",
+    "phonetic": "/ˈklæsɪk/",
+    "翻译": "adj. 经典的，有代表性的；n. 杰作",
+    "sentence": "He likes reading classic literature written in the nineteenth century."
+  },
+  {
+    "id": 1151,
+    "word": "Clause",
+    "phonetic": "/klɔːz/",
+    "翻译": "n. 条款，从句",
+    "sentence": "The legal team insisted on adding a special clause to the contract."
+  },
+  {
+    "id": 1152,
+    "word": "Code",
+    "phonetic": "/koʊd/",
+    "翻译": "n. 代码，密码，准则",
+    "sentence": "You need to enter a secret code to unlock the laboratory door."
+  },
+  {
+    "id": 1153,
+    "word": "Coherent",
+    "phonetic": "/koʊˈhɪrənt/",
+    "翻译": "adj. 连贯的，一致的",
+    "sentence": "The speaker failed to provide a coherent explanation of his policy."
+  },
+  {
+    "id": 1154,
+    "word": "Coincide",
+    "phonetic": "/ˌkoʊɪnˈsaɪd/",
+    "翻译": "vi. 同时发生，一致",
+    "sentence": "My standard holiday plans coincide with my sister's wedding day."
+  },
+  {
+    "id": 1155,
+    "word": "Collapse",
+    "phonetic": "/kəˈlæps/",
+    "翻译": "vi./n. 倒塌，崩溃，虚脱",
+    "sentence": "The heavy snow caused the roof of the old garage to collapse."
+  },
+  {
+    "id": 1156,
+    "word": "Colleague",
+    "phonetic": "/ˈkɑːliːɡ/",
+    "翻译": "n. 同事，同僚",
+    "sentence": "He discussed the new marketing plan with a close colleague."
+  },
+  {
+    "id": 1157,
+    "word": "Commence",
+    "phonetic": "/kəˈmens/",
+    "翻译": "v. 开始，着手",
+    "sentence": "The annual graduation ceremony will commence at exactly ten o'clock."
+  },
+  {
+    "id": 1158,
+    "word": "Comment",
+    "phonetic": "/ˈkɑːment/",
+    "翻译": "n. 评论，意见；vi. 评论",
+    "sentence": "The prime minister refused to comment on the ongoing scandal."
+  },
+  {
+    "id": 1159,
+    "word": "Commodity",
+    "phonetic": "/kəˈmɑːdəti/",
+    "翻译": "n. 商品，日用品",
+    "sentence": "Crude oil remains the most traded commodity in international markets."
+  },
+  {
+    "id": 1160,
+    "word": "Compatible",
+    "phonetic": "/kəmˈpætəbl/",
+    "翻译": "adj. 兼容的，和睦相处的",
+    "sentence": "This new software is not compatible with older operating systems."
+  },
+  {
+    "id": 1161,
+    "word": "Compensate",
+    "phonetic": "/ˈkɑːmpenseɪt/",
+    "翻译": "v. 补偿，赔偿",
+    "sentence": "The delivery company promised to compensate him for the broken items."
+  },
+  {
+    "id": 1162,
+    "word": "Compile",
+    "phonetic": "/kəmˈpaɪl/",
+    "翻译": "vt. 汇编，编辑，搜集",
+    "sentence": "The research assistant spent weeks trying to compile data from various charts."
+  },
+  {
+    "id": 1163,
+    "word": "Complement",
+    "phonetic": "/ˈkɑːmplɪment/",
+    "翻译": "vt. 补充，与……相配；n. 补充物",
+    "sentence": "The delicious white wine perfectly complements the fresh fish dish."
+  },
+  {
+    "id": 1164,
+    "word": "Complex",
+    "phonetic": "/kəmˈpleks/",
+    "翻译": "adj. 复杂的；n. 复合体",
+    "sentence": "The computer system consists of a complex network of wires."
+  },
+  {
+    "id": 1165,
+    "word": "Component",
+    "phonetic": "/kəmˈpoʊnənt/",
+    "翻译": "n. 成分，部件，组件",
+    "sentence": "Trust is a vital component of any successful relationship."
+  },
+  {
+    "id": 1166,
+    "word": "Compound",
+    "phonetic": "/ˈkɑːmpaʊnd/",
+    "翻译": "n. 化合物，复合物；adj. 复合的",
+    "sentence": "Water is a chemical compound consisting of hydrogen and oxygen."
+  },
+  {
+    "id": 1167,
+    "word": "Comprehensive",
+    "phonetic": "/ˌkɑːmprɪˈhensɪv/",
+    "翻译": "adj. 全面的，综合的",
+    "sentence": "The textbook offers a comprehensive study of European history."
+  },
+  {
+    "id": 1168,
+    "word": "Comprise",
+    "phonetic": "/kəmˈpraɪz/",
+    "翻译": "vt. 包含，由……组成",
+    "sentence": "The local rescue team is comprised entirely of young volunteers."
+  },
+  {
+    "id": 1169,
+    "word": "Compute",
+    "phonetic": "/kəmˈpjuːt/",
+    "翻译": "v. 计算，估算",
+    "sentence": "The office system uses specialized software to compute monthly taxes."
+  },
+  {
+    "id": 1170,
+    "word": "Conceive",
+    "phonetic": "/kənˈsiːv/",
+    "翻译": "v. 构想，设想，怀孕",
+    "sentence": "It was difficult to conceive that the small company would succeed."
+  },
+  {
+    "id": 1171,
+    "word": "Concentrate",
+    "phonetic": "/ˈkɑːnsntreɪt/",
+    "翻译": "v. 集中，浓缩",
+    "sentence": "Noise outside made it impossible to concentrate on my homework."
+  },
+  {
+    "id": 1172,
+    "word": "Concept",
+    "phonetic": "/ˈkɑːnsept/",
+    "翻译": "n. 概念，观念",
+    "sentence": "The professor introduced the basic concept of general relativity theory."
+  },
+  {
+    "id": 1173,
+    "word": "Conclude",
+    "phonetic": "/kənˈkluːd/",
+    "翻译": "v. 推断出，结束，达成",
+    "sentence": "The committee concluded that the proposal was too expensive."
+  },
+  {
+    "id": 1174,
+    "word": "Concurrent",
+    "phonetic": "/kənˈkɜːrənt/",
+    "翻译": "adj. 同时发生的，并发的",
+    "sentence": "The prison sentences for the two minor crimes will be concurrent."
+  },
+  {
+    "id": 1175,
+    "word": "Conduct",
+    "phonetic": "/kənˈdʌkt/",
+    "翻译": "vt. 组织，实施，指挥；n. 行为",
+    "sentence": "The independent group will conduct a survey into consumer spending."
+  },
+  {
+    "id": 1176,
+    "word": "Confer",
+    "phonetic": "/kənˈfɜːr/",
+    "翻译": "vi. 商谈，协商；vt. 授予",
+    "sentence": "The manager needed to confer with his lawyers before signing."
+  },
+  {
+    "id": 1177,
+    "word": "Confine",
+    "phonetic": "/kənˈfaɪ/",
+    "翻译": "vt. 限制，使局限于",
+    "sentence": "Please confine your comments to the specific topic under discussion."
+  },
+  {
+    "id": 1178,
+    "word": "Confirm",
+    "phonetic": "/kənˈfɜːrm/",
+    "翻译": "vt. 确认，证实",
+    "sentence": "The hotel sent an urgent email to confirm my room reservation."
+  },
+  {
+    "id": 1179,
+    "word": "Conform",
+    "phonetic": "/kənˈfɔːrm/",
+    "翻译": "vi. 符合，遵照，适应",
+    "sentence": "All new buildings must conform to strict local safety regulations."
+  },
+  {
+    "id": 1180,
+    "word": "Consent",
+    "phonetic": "/kənˈsent/",
+    "翻译": "vi./n. 同意，允许",
+    "sentence": "Medical doctors need the medical consent of the patient before surgery."
+  },
+  {
+    "id": 1181,
+    "word": "Consequent",
+    "phonetic": "/ˈkɑːnsɪkwənt/",
+    "翻译": "adj. 随之发生的，作为结果的",
+    "sentence": "The heavy rains and consequent flooding caused widespread damage."
+  },
+  {
+    "id": 1182,
+    "word": "Considerable",
+    "phonetic": "/kənˈsɪdərəbl/",
+    "翻译": "adj. 相当大（或多）的，值得考虑的",
+    "sentence": "The construction project required a considerable amount of time."
+  },
+  {
+    "id": 1183,
+    "word": "Consist",
+    "phonetic": "/kənˈsɪst/",
+    "翻译": "vi. 由……组成，在于",
+    "sentence": "The examination will consist of fifty multiple choice questions."
+  },
+  {
+    "id": 1184,
+    "word": "Constant",
+    "phonetic": "/ˈkɑːnstənt/",
+    "翻译": "adj. 不断的，恒定的",
+    "sentence": "The old computer requires a constant connection to the server."
+  },
+  {
+    "id": 1185,
+    "word": "Constituent",
+    "phonetic": "/kənˈstɪtʃuənt/",
+    "翻译": "n. 成分，选民；adj. 组成的",
+    "sentence": "Sodium is a major constituent element of common table salt."
+  },
+  {
+    "id": 1186,
+    "word": "Constitute",
+    "phonetic": "/ˈkɑːnstɪtuːt/",
+    "翻译": "vt. 组成，构成，设立",
+    "sentence": "Twelve direct individual chapters constitute the entire history textbook."
+  },
+  {
+    "id": 1187,
+    "word": "Constrain",
+    "phonetic": "/kənˈstreɪn/",
+    "翻译": "vt. 限制，束缚，强迫",
+    "sentence": "Financial problems constrain the local council's ability to act."
+  },
+  {
+    "id": 1188,
+    "word": "Construct",
+    "phonetic": "/kənˈstrʌkt/",
+    "翻译": "vt. 建造，构建",
+    "sentence": "The engineering workers plan to construct a new bridge over the river."
+  },
+  {
+    "id": 1189,
+    "word": "Consume",
+    "phonetic": "/kənˈsuːm/",
+    "翻译": "vt. 消耗，消费，吃光",
+    "sentence": "Modern electric cars consume less overall energy than older models."
+  },
+  {
+    "id": 1190,
+    "word": "Contact",
+    "phonetic": "/ˈkɑːntækt/",
+    "翻译": "n./v. 接触，联系",
+    "sentence": "Please leave your telephone number so we can contact you later."
+  },
+  {
+    "id": 1191,
+    "word": "Contemporary",
+    "phonetic": "/kənˈtempəreri/",
+    "翻译": "adj. 当代的，同时代的；n. 同时代的人",
+    "sentence": "The modern museum displays rare works of contemporary art."
+  },
+  {
+    "id": 1192,
+    "word": "Context",
+    "phonetic": "/ˈkɑːntekst/",
+    "翻译": "n. 上下文，语境，背景",
+    "sentence": "It is difficult to understand historical events out of context."
+  },
+  {
+    "id": 1193,
+    "word": "Contract",
+    "phonetic": "/ˈkɑːntrækt/",
+    "翻译": "n. 合同，契约；v. 收缩，感染",
+    "sentence": "The two trading companies signed a three year business contract."
+  },
+  {
+    "id": 1194,
+    "word": "Contradict",
+    "phonetic": "/ˌkɑːntrəˈdɪkt/",
+    "翻译": "vt. 反驳，与……矛盾",
+    "sentence": "The witness report seemed to contradict his original statement."
+  },
+  {
+    "id": 1195,
+    "word": "Contrary",
+    "phonetic": "/ˈkɑːntreri/",
+    "翻译": "adj. 相反的；n. 相反，反面",
+    "sentence": "Contrary to common belief, sharks do not naturally hunt humans."
+  },
+  {
+    "id": 1196,
+    "word": "Contrast",
+    "phonetic": "/ˈkɑːntræst/",
+    "翻译": "n. 对比，对照；v. 形成对比",
+    "sentence": "There is a sharp contrast between the two different policies."
+  },
+  {
+    "id": 1197,
+    "word": "Contribute",
+    "phonetic": "/kənˈtrɪbjuːt/",
+    "翻译": "v. 贡献，捐助，促成",
+    "sentence": "Regular training will contribute significantly to your sports success."
+  },
+  {
+    "id": 1198,
+    "word": "Controversy",
+    "phonetic": "/ˈkɑːntrəvɜːrsi/",
+    "翻译": "n. 争论，争议",
+    "sentence": "The new government policy caused great controversy among voters."
+  },
+  {
+    "id": 1199,
+    "word": "Convene",
+    "phonetic": "/kənˈviːn/",
+    "翻译": "v. 召集，开会",
+    "sentence": "The committee chairman decided to convene an emergency meeting."
+  },
+  {
+    "id": 1200,
+    "word": "Converse",
+    "phonetic": "/kənˈvɜːrs/",
+    "翻译": "vi. 交谈，谈话；adj. 相反的",
+    "sentence": "It was pleasant to converse with colleagues over a warm coffee."
+  },
+  {
+    "id": 1201,
+    "word": "Convert",
+    "phonetic": "/kənˈvɜːrt/",
+    "翻译": "v. 转换，转化，改变信仰",
+    "sentence": "You can use this software to convert files into digital books."
+  },
+  {
+    "id": 1202,
+    "word": "Convince",
+    "phonetic": "/kənˈvɪns/",
+    "翻译": "vt. 使确信，说服",
+    "sentence": "He tried hard to convince the manager that his plan would work."
+  },
+  {
+    "id": 1203,
+    "word": "Cooperate",
+    "phonetic": "/koʊˈɑːpəreɪt/",
+    "翻译": "vi. 合作，协作",
+    "sentence": "The two local libraries agreed to cooperate on the new project."
+  },
+  {
+    "id": 1204,
+    "word": "Coordinate",
+    "phonetic": "/koʊˈɔːrdɪneɪt/",
+    "翻译": "v. 协调，配合；n. 坐标",
+    "sentence": "We need someone to coordinate the various parts of the project."
+  },
+  {
+    "id": 1205,
+    "word": "Corporate",
+    "phonetic": "/ˈkɔːrpərət/",
+    "翻译": "adj. 法人的，公司的",
+    "sentence": "The giant corporate headquarters are located in downtown London."
+  },
+  {
+    "id": 1206,
+    "word": "Correspond",
+    "phonetic": "/ˌkɔːrəˈspɑːnd/",
+    "翻译": "vi. 相符，一致，通信",
+    "sentence": "The finger prints on the glass correspond to the main suspect."
+  },
+  {
+    "id": 1207,
+    "word": "Credible",
+    "phonetic": "/ˈkredəbl/",
+    "翻译": "adj. 可信的，可靠的",
+    "sentence": "The police are looking for a credible witness to the accident."
+  },
+  {
+    "id": 1208,
+    "word": "Criteria",
+    "phonetic": "/kraɪˈtɪriə/",
+    "翻译": "n. 标准，准则（criterion的复数形式）",
+    "sentence": "What are the main criteria used for choosing the final winner?"
+  },
+  {
+    "id": 1209,
+    "word": "Critical",
+    "phonetic": "/ˈkrɪtɪkl/",
+    "翻译": "adj. 批评的，紧要的，批判性的",
+    "sentence": "The patient remains in critical condition in the city hospital."
+  },
+  {
+    "id": 1210,
+    "word": "Cruise",
+    "phonetic": "/kruːz/",
+    "翻译": "vi. 巡航，缓慢巡行；n. 乘船游览",
+    "sentence": "They decided to take a luxury cruise around the Greek islands."
+  },
+  {
+    "id": 1211,
+    "word": "Cue",
+    "phonetic": "/kjuː/",
+    "翻译": "n. 提示，暗示，线索",
+    "sentence": "The actor waited behind the curtain for his stage entrance cue."
+  },
+  {
+    "id": 1212,
+    "word": "Culture",
+    "phonetic": "/ˈkʌltʃər/",
+    "翻译": "n. 文化，教养，培养物",
+    "sentence": "Learning a new language gives insights into a foreign culture."
+  },
+  {
+    "id": 1213,
+    "word": "Currency",
+    "phonetic": "/ˈkɜːrənsi/",
+    "翻译": "n. 通货，货币，通用",
+    "sentence": "The Euro is the official currency used in many European nations."
+  },
+  {
+    "id": 1214,
+    "word": "Cycle",
+    "phonetic": "/ˈsaɪkl/",
+    "翻译": "n. 循环，周期；vi. 自行车，循环",
+    "sentence": "The continuous water cycle is essential for maintaining life on Earth."
+  },
+  {
+    "id": 1215,
+    "word": "Data",
+    "phonetic": "/ˈdeɪtə/",
+    "翻译": "n. 数据，资料（datum的复数形式）",
+    "sentence": "The research team spent days collecting data from various charts."
+  },
+  {
+    "id": 1216,
+    "word": "Debate",
+    "phonetic": "/dɪˈbeɪt/",
+    "翻译": "n./v. 辩论，争论",
+    "sentence": "The university organized a public debate on the new tax laws."
+  },
+  {
+    "id": 1217,
+    "word": "Decade",
+    "phonetic": "/ˈdekeɪd/",
+    "翻译": "n. 十年，十年期",
+    "sentence": "The global tech economy changed dramatically over the last decade."
+  },
+  {
+    "id": 1218,
+    "word": "Deduce",
+    "phonetic": "/dɪˈduːs/",
+    "翻译": "vt. 推论，推断",
+    "sentence": "From the physical evidence, the detective managed to deduce the truth."
+  },
+  {
+    "id": 1219,
+    "word": "Definite",
+    "phonetic": "/ˈdefɪnət/",
+    "翻译": "adj. 明确的，肯定的",
+    "sentence": "We need a definite answer from the manager before we proceed."
+  },
+  {
+    "id": 1220,
+    "word": "Demonstrate",
+    "phonetic": "/ˈdemənstreɪt/",
+    "翻译": "vt. 论证，证明，显示，示范",
+    "sentence": "The assistant will demonstrate how to operate the new machine."
+  },
+  {
+    "id": 1221,
+    "word": "Denote",
+    "phonetic": "/dɪˈnoʊt/",
+    "翻译": "vt. 表示，意味着",
+    "sentence": "A red cross on the road map is used to denote a hospital."
+  },
+  {
+    "id": 1222,
+    "word": "Deny",
+    "phonetic": "/dɪˈnaɪ/",
+    "翻译": "vt. 否定，拒绝承认",
+    "sentence": "The suspect continuous to deny any involvement in the robbery."
+  },
+  {
+    "id": 1223,
+    "word": "Depress",
+    "phonetic": "/dɪˈpres/",
+    "翻译": "vt. 使沮丧，使不景气，压下",
+    "sentence": "Bad financial news can quickly depress the local stock market."
+  },
+  {
+    "id": 1224,
+    "word": "Derive",
+    "phonetic": "/dɪˈraɪv/",
+    "翻译": "v. 起源，衍生，得到",
+    "sentence": "Many common English words derive their origin from old Latin."
+  },
+  {
+    "id": 1225,
+    "word": "Design",
+    "phonetic": "/dɪˈzaɪn/",
+    "翻译": "vt./n. 设计，构思",
+    "sentence": "The architect spent weeks drawing the design for the library."
+  },
+  {
+    "id": 1226,
+    "word": "Despite",
+    "phonetic": "/dɪˈspaɪt/",
+    "翻译": "prep. 不管，尽管",
+    "sentence": "Despite the heavy rain, they thoroughly enjoyed their football game."
+  },
+  {
+    "id": 1227,
+    "word": "Detect",
+    "phonetic": "/dɪˈtekt/",
+    "翻译": "vt. 察觉，发觉，检测",
+    "sentence": "The kitchen security alarm is designed to detect smoke leaks."
+  },
+  {
+    "id": 1228,
+    "word": "Deviate",
+    "phonetic": "/ˈdiːvieɪt/",
+    "翻译": "vi. 脱离，越轨，偏离",
+    "sentence": "The airplane was forced to deviate from its original route."
+  },
+  {
+    "id": 1229,
+    "word": "Device",
+    "phonetic": "/dɪˈvaɪs/",
+    "翻译": "n. 设备，装置，策略",
+    "sentence": "This small electronic device is used to measure heart rates."
+  },
+  {
+    "id": 1230,
+    "word": "Devote",
+    "phonetic": "/dɪˈvoʊt/",
+    "翻译": "vt. 奉献，致力于",
+    "sentence": "She decided to devote her entire weekend to studying biology."
+  },
+  {
+    "id": 1231,
+    "word": "Differentiate",
+    "phonetic": "/ˌdɪfəˈrenʃieɪt/",
+    "翻译": "v. 区分，区别",
+    "sentence": "It is difficult to differentiate between the two identical twins."
+  },
+  {
+    "id": 1232,
+    "word": "Dimension",
+    "phonetic": "/daɪˈmenʃn/",
+    "翻译": "n. 尺寸，尺度，维",
+    "sentence": "The designer needs to check the precise dimension of the room."
+  },
+  {
+    "id": 1233,
+    "word": "Diminish",
+    "phonetic": "/dɪˈmɪnɪʃ/",
+    "翻译": "v. 减少，缩小，贬低",
+    "sentence": "The local supplies of fresh water began to diminish during summer."
+  }
+]
