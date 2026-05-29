@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>7000高频词闪卡工具 v2.0</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            background-color: #f5f7fb;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        .phone-container {
+            width: 100%;
+            max-width: 414px;
+            height: 100vh;
+            max-height: 736px;
+            background: white;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            border-radius: 16px;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+            position: relative;
+        }
+        .header {
+            padding: 16px;
+            background: #4A90E2;
+            color: white;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-weight: bold;
+        }
+        .card-area {
+            flex: 1;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+            background: #fafafa;
+            position: relative;
+        }
+        canvas {
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            background: white;
+            max-width: 100%;
+        }
+        /* 选词面板遮罩层 */
+        .selector-panel {
+            position: absolute;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background: white;
+            z-index: 10;
+            display: flex;
+            flex-direction: column;
+            padding: 20px;
+        }
+        .word-list {
+            flex: 1;
+            overflow-y: auto;
+            margin: 15px 0;
+            border: 1px solid #eee;
+            border-radius: 8px;
+            padding: 10px;
+        }
+        .word-item {
+            display: flex;
+            align-items: center;
+            padding: 10px;
+            border-bottom: 1px solid #f9f9f9;
+        }
+        .word-item input { margin-right: 12px; transform: scale(1.2); }
+        
+        .footer {
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            background: white;
+            border-top: 1px solid #eee;
+        }
+        .btn-group { display: flex; gap: 12px; }
+        button {
+            flex: 1; padding: 14px; border: none; border-radius: 8px;
+            font-size: 16px; font-weight: bold; cursor: pointer; transition: background 0.2s;
+        }
+        .btn-study { background: #4A90E2; color: white; }
+        .btn-review { background: #5CBB7A; color: white; }
+        .btn-action { background: #E6A23C; color: white; }
+        .btn-yes { background: #2ecc71; color: white; }
+        .btn-no { background: #e74c3c; color: white; }
+        button:disabled { background: #ccc !important; cursor: not-allowed; }
+        button:active { opacity: 0.9; }
+    </style>
+</head>
+<body>
+
+<div class="phone-container">
+    <div class="header">
+        <span id="mode-title">选词阶段 ⚙️</span>
+        <span id="progress-text">已学: 0/0</span>
+    </div>
+    
+    <div class="card-area">
+        <div id="selectorPanel" class="selector-panel">
+            <h3>🎯 请勾选本次要学习的单词：</h3>
+            <div id="wordListContainer" class="word-list">加载词库中...</div>
+            <button class="btn-study" id="startStudyBtn" onclick="confirmSelection()" disabled>开始学习已选单词</button>
+        </div>
+        
+        <canvas id="cardCanvas" width="350" height="400"></canvas>
+    </div>
+    
+    <div class="footer">
+        <div class="btn-group">
+            <button class="btn-study" onclick="openSelector()">重新选词 ⚙️</button>
+            <button class="btn-review" onclick="switchMode('review')">进入复习 ⏳</button>
+        </div>
+        <div id="action-area" class="btn-group">
+            <button class="btn-action" disabled>请先选词</button>
+        </div>
+    </div>
+</div>
+
+<script>
+// 艾宾浩斯时间间隔（分钟）
+const ebbinghausIntervals = [0, 5, 30, 720, 1440, 2880, 5760, 10080, 21600];
+
+let fullWordBank = [];     // 从JSON读取的完整词库
+let userProgress = [];     // 用户学习进度状态库
+let currentMode = 'study'; 
+let currentList = [];      
+let currentIndex = 0;      
+let reviewStep = 0;        
+
+window.onload = function() {
+    loadJsonData();
+};
+
+// 1. 从外部 JSON 文件异步读取数据
+function loadJsonData() {
+    fetch('vocabulary.json')
+        .then(response => {
+            if (!response.ok) throw new Error('无法读取单词文件，请检查文件是否存在。');
+            return response.json();
+        })
+        .then(data => {
+            fullWordBank = data;
+            // 初始化本地进度
+            initUserProgress();
+            // 渲染选词列表
+            renderSelectorList();
+        })
+        .catch(err => {
+            document.getElementById('wordListContainer').innerHTML = `<p style="color:red;">❌ 错误: ${err.message}<br><small>提示：由于浏览器安全限制，本地直接双击HTML可能无法读取JSON，建议使用本地服务器环境（如 Live Server）或将数据直接贴入代码中。</small></p>`;
+        });
+}
+
+// 初始化用户进度
+function initUserProgress() {
+    const localData = localStorage.getItem('vocab_progress_v2');
+    if (localData) {
+        userProgress = JSON.parse(localData);
+        // 如果外部JSON增加了新词，同步更新到本地进度里
+        fullWordBank.forEach(w => {
+            if (!userProgress.some(p => p.id === w.id)) {
+                userProgress.push({ id: w.id, stage: 0, nextReviewTime: 0, selected: false });
+            }
+        });
+    } else {
+        userProgress = fullWordBank.map(w => ({ id: w.id, stage: 0, nextReviewTime: 0, selected: false }));
+    }
+    localStorage.setItem('vocab_progress_v2', JSON.stringify(userProgress));
+}
+
+// 2. 渲染选词控制面板
+function renderSelectorList() {
+    const container = document.getElementById('wordListContainer');
+    container.innerHTML = '';
+    
+    fullWordBank.forEach(w => {
+        const progress = userProgress.find(p => p.id === w.id);
+        const isLearned = progress && progress.stage > 0;
+        
+        const item = document.createElement('div');
+        item.className = 'word-item';
+        item.innerHTML = `
+            <input type="checkbox" id="chk_${w.id}" ${progress.selected ? 'checked' : ''} onchange="toggleSelect(${w.id})">
+            <label window.onload for="chk_${w.id}">
+                <strong>${w.word}</strong> <span style="color:#999;">${w.phonetic}</span> 
+                ${isLearned ? '✅(已学)' : '🆕(未学)'}
+            </label>
+        `;
+        container.appendChild(item);
+    });
+    
+    checkButtonStatus();
+}
+
+function toggleSelect(id) {
+    const progress = userProgress.find(p => p.id === id);
+    if (progress) {
+        progress.selected = document.getElementById(`chk_${id}`).checked;
+    }
+    checkButtonStatus();
+}
+
+function checkButtonStatus() {
+    const hasSelection = userProgress.some(p => p.selected);
+    document.getElementById('startStudyBtn').disabled = !hasSelection;
+}
+
+// 3. 确认选词并开始背诵
+function confirmSelection() {
+    document.getElementById('selectorPanel').style.display = 'none';
+    localStorage.setItem('vocab_progress_v2', JSON.stringify(userProgress));
+    switchMode('study');
+}
+
+function openSelector() {
+    document.getElementById('selectorPanel').style.display = 'flex';
+    document.getElementById('mode-title').innerText = "选词阶段 ⚙️";
+    renderSelectorList();
+}
+
+// 4. 核心学习业务逻辑（升级支持外部数据联查）
+function switchMode(mode) {
+    currentMode = mode;
+    currentIndex = 0;
+    reviewStep = 0;
+    document.getElementById('selectorPanel').style.display = 'none';
+    document.getElementById('mode-title').innerText = mode === 'study' ? "背诵阶段 📝" : "艾宾浩斯复习 ⏳";
+    
+    refreshList();
+    updateUI();
+}
+
+function refreshList() {
+    if (currentMode === 'study') {
+        // 过滤出：用户勾选了的，且 stage === 0 (尚未开始学) 的单词
+        currentList = fullWordBank.filter(w => {
+            const p = userProgress.find(up => up.id === w.id);
+            return p && p.selected && p.stage === 0;
+        });
+    } else {
+        // 过滤出：用户勾选了的，且达到了艾宾浩斯复习时间的单词
+        const now = Date.now();
+        currentList = fullWordBank.filter(w => {
+            const p = userProgress.find(up => up.id === w.id);
+            return p && p.selected && p.stage > 0 && now >= p.nextReviewTime;
+        });
+    }
+}
+
+function updateUI() {
+    const progressText = document.getElementById('progress-text');
+    const totalLearned = userProgress.filter(p => p.stage > 0).length;
+    progressText.innerText = `总共已学: ${totalLearned}/${fullWordBank.length}`;
+    
+    const actionArea = document.getElementById('action-area');
+    
+    if (currentList.length === 0) {
+        actionArea.innerHTML = `<button class="btn-action" style="background:#ccc;" disabled>当前列表空空如也</button>`;
+    } else if (currentMode === 'study') {
+        actionArea.innerHTML = `<button class="btn-action" onclick="handleAction()">已学会，下一张</button>`;
+    } else {
+        if (reviewStep === 0) {
+            actionArea.innerHTML = `<button class="btn-study" onclick="handleAction()">看图片提示</button>`;
+        } else if (reviewStep === 1) {
+            actionArea.innerHTML = `<button class="btn-study" onclick="handleAction()">看例句翻译</button>`;
+        } else if (reviewStep === 2) {
+            actionArea.innerHTML = `
+                <button class="btn-no" onclick="feedbackReview(false)">没记住 (降级)</button>
+                <button class="btn-yes" onclick="feedbackReview(true)">记住了 (升级)</button>
+            `;
+        }
+    }
+    drawCard();
+}
+
+function handleAction() {
+    if (currentList.length === 0) return;
+
+    if (currentMode === 'study') {
+        const currentWord = currentList[currentIndex];
+        updateWordStage(currentWord.id, 1);
+        refreshList(); 
+        updateUI();
+    } else {
+        if (reviewStep < 2) {
+            reviewStep++;
+            updateUI();
+        }
+    }
+}
+
+function feedbackReview(remembered) {
+    const currentWord = currentList[currentIndex];
+    const p = userProgress.find(up => up.id === currentWord.id);
+    let nextStage = p.stage;
+    
+    if (remembered) {
+        nextStage = Math.min(8, nextStage + 1);
+    } else {
+        nextStage = 1; 
+    }
+    
+    updateWordStage(currentWord.id, nextStage);
+    reviewStep = 0;
+    refreshList();
+    updateUI();
+}
+
+function updateWordStage(id, newStage) {
+    const p = userProgress.find(up => up.id === id);
+    if (p) {
+        p.stage = newStage;
+        p.nextReviewTime = Date.now() + ebbinghausIntervals[newStage] * 60 * 1000;
+        localStorage.setItem('vocab_progress_v2', JSON.stringify(userProgress));
+    }
+}
+
+// 5. Canvas 动态渲染引擎
+function drawCard() {
+    const canvas = document.getElementById('cardCanvas');
+    const ctx = canvas.getContext('2d');
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    
+    if (currentList.length === 0) {
+        ctx.fillStyle = "#666";
+        ctx.font = "18px sans-serif";
+        ctx.textAlign = "center";
+        let tip = currentMode === 'study' ? "🎉 所选背诵词汇已学完！\n请点击下方按钮重新选词。" : "☕ 暂时没有需要复习的词汇！\n可以去背诵新词或休息一下。";
+        let lines = tip.split('\n');
+        ctx.fillText(lines[0], canvas.width / 2, canvas.height / 2 - 15);
+        ctx.fillText(lines[1], canvas.width / 2, canvas.height / 2 + 15);
+        return;
+    }
+    
+    const wordObj = currentList[currentIndex];
+    
+    // 单词
+    ctx.fillStyle = "#2C3E50";
+    ctx.font = "bold 32px sans-serif";
+    ctx.textAlign = "center";
+    ctx.fillText(wordObj.word, canvas.width / 2, 80);
+    
+    // 音标与场景
+    if (currentMode === 'study' || reviewStep >= 1) {
+        ctx.fillStyle = "#E74C3C";
+        ctx.font = "20px sans-serif";
+        ctx.fillText(wordObj.phonetic, canvas.width / 2, 120);
+        
+        ctx.fillStyle = "#7F8C8D";
+        ctx.font = "italic 14px sans-serif";
+        wrapText(ctx, `🖼️ 场景: ${wordObj.scene}`, canvas.width / 2, 170, canvas.width - 40, 22);
+    } else {
+        ctx.fillStyle = "#BDC3C7";
+        ctx.font = "16px sans-serif";
+        ctx.fillText("🔍 尝试回想它的意思和场景...", canvas.width / 2, 200);
+    }
+    
+    // 例句与翻译
+    if (currentMode === 'study' || reviewStep === 2) {
+        ctx.fillStyle = "#34495E";
+        ctx.font = "600 15px sans-serif";
+        wrapText(ctx, `📝 ${wordObj.sentence}`, canvas.width / 2, 260, canvas.width - 40, 22);
+        
+        ctx.fillStyle = "#16A085";
+        ctx.font = "14px sans-serif";
+        wrapText(ctx, `🇨🇳 ${wordObj.translation}`, canvas.width / 2, 330, canvas.width - 40, 22);
+    }
+}
+
+function wrapText(ctx, text, x, y, maxWidth, lineHeight) {
+    const words = text.split('');
+    let line = '';
+    let currentY = y;
+    
+    for (let n = 0; n < words.length; n++) {
+        let testLine = line + words[n];
+        let metrics = ctx.measureText(testLine);
+        if (metrics.width > maxWidth && n > 0) {
+            ctx.fillText(line, x, currentY);
+            line = words[n];
+            currentY += lineHeight;
+        } else {
+            line = testLine;
+        }
+    }
+    ctx.fillText(line, x, currentY);
+}
+</script>
+
+</body>
+</html>
