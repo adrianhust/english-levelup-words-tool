@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>10天全自动智能闪卡</title>
+    <title>10天全自动智能闪卡（自适应对齐版）</title>
     <style>
         * { box-sizing: border-box; margin: 0; padding: 0; }
         body {
@@ -66,13 +66,13 @@
 </div>
 
 <script>
-// ⏱️ 测试加速参数：第一阶段设为 0.05 分钟（3秒钟到期），方便立刻测试复习！
+// 测试加速参数：第一阶段设为 0.05 分钟（3秒钟到期）
 const ebbinghausIntervals = [0, 0.05, 30, 720, 1440, 2880, 5760, 10080, 21600];
 
 let currentDayNum = 1;
 let currentMode = 'study'; 
 let currentList = [];      
-let activeDayWords = []; // 当前天数从外部文件加载来的单词
+let activeDayWords = []; 
 let currentIndex = 0;      
 let reviewStep = 0;        
 
@@ -86,7 +86,7 @@ window.onload = function() {
 function renderCalendar() {
     const bar = document.getElementById('calendarBar');
     bar.innerHTML = '';
-    for (let d = 1; d <= 10; d++) { // 测试版先生成 10 天
+    for (let d = 1; d <= 10; d++) {
         const btn = document.createElement('button');
         btn.className = `day-btn ${d === currentDayNum ? 'active' : ''}`;
         btn.innerText = `第 ${d} 天`;
@@ -95,9 +95,8 @@ function renderCalendar() {
     }
 }
 
-// 📂 核心：根据天数动态读取对应的本地 JSON 文件
 function loadDayFile(dayNum) {
-    const fileName = `day${dayNum}.json`; // 严格保持文件名对应
+    const fileName = `day${dayNum}.json`;
     fetch(fileName)
         .then(res => {
             if (!res.ok) throw new Error(`请检查是否存在 ${fileName}`);
@@ -112,11 +111,8 @@ function loadDayFile(dayNum) {
             switchMode(currentMode);
         })
         .catch(err => {
-            activeDayWords = [];
-            currentList = [];
-            updateUI();
-            const canvas = document.getElementById('cardCanvas');
-            const ctx = canvas.getContext('2d');
+            activeDayWords = []; currentList = []; updateUI();
+            const canvas = document.getElementById('cardCanvas'); const ctx = canvas.getContext('2d');
             ctx.clearRect(0, 0, canvas.width, canvas.height);
             ctx.fillStyle = "red"; ctx.font = "14px sans-serif"; ctx.textAlign = "center";
             ctx.fillText(`❌ 读取错误: 找不到文件 ${fileName}`, canvas.width / 2, canvas.height / 2);
@@ -124,9 +120,7 @@ function loadDayFile(dayNum) {
 }
 
 function switchMode(mode) {
-    currentMode = mode;
-    currentIndex = 0;
-    reviewStep = 0;
+    currentMode = mode; currentIndex = 0; reviewStep = 0;
     refreshList();
 }
 
@@ -134,21 +128,15 @@ function refreshList() {
     if (currentMode === 'study') {
         currentList = activeDayWords.filter(w => userProgress[w.id].stage === 0);
         document.getElementById('mode-title').innerText = `第 ${currentDayNum} 天 📝 背诵`;
-        updateUI();
     } else {
-        // 全局复习：由于是异步，我们需要把所有 10 个文件的到期判断做成多文件扫描。
-        // 为了能在纯前端单机流畅测试，复习时我们扫描当前已在进度库里且时间到期的所有ID
         const now = Date.now();
-        
-        // 收集所有已经加载过、且到期的单词
-        // 在真实环境下，可以配合一个包含全部7000词索引的母表。此处我们联查当前已加载的词库
         currentList = activeDayWords.filter(w => {
             const prog = userProgress[w.id];
             return prog && prog.stage > 0 && now >= prog.nextReviewTime;
         });
         document.getElementById('mode-title').innerText = `全局艾宾浩斯复习 ⏳`;
-        updateUI();
     }
+    updateUI();
 }
 
 function updateUI() {
@@ -185,8 +173,7 @@ function handleAction() {
         const currentWord = currentList[currentIndex];
         userProgress[currentWord.id].stage = 1;
         userProgress[currentWord.id].nextReviewTime = Date.now() + ebbinghausIntervals[1] * 60 * 1000;
-        saveProgress();
-        refreshList();
+        saveProgress(); refreshList();
     } else {
         if (reviewStep < 2) { reviewStep++; updateUI(); }
     }
@@ -198,19 +185,13 @@ function feedbackReview(remembered) {
     let nextStage = remembered ? Math.min(8, prog.stage + 1) : 1;
     userProgress[currentWord.id].stage = nextStage;
     userProgress[currentWord.id].nextReviewTime = Date.now() + ebbinghausIntervals[nextStage] * 60 * 1000;
-    saveProgress();
-    reviewStep = 0;
-    refreshList();
+    saveProgress(); reviewStep = 0; refreshList();
 }
 
-function goToNextDay() {
-    currentDayNum++;
-    renderCalendar();
-    loadDayFile(currentDayNum);
-}
-
+function goToNextDay() { currentDayNum++; renderCalendar(); loadDayFile(currentDayNum); }
 function saveProgress() { localStorage.setItem('vocab_progress_v5', JSON.stringify(userProgress)); }
 
+// 🎨 核心修复：自适应高度的渲染引擎
 function drawCard() {
     const canvas = document.getElementById('cardCanvas'); const ctx = canvas.getContext('2d');
     ctx.clearRect(0, 0, canvas.width, canvas.height);
@@ -220,23 +201,38 @@ function drawCard() {
         return;
     }
     const wordObj = currentList[currentIndex];
-    ctx.fillStyle = "#2c3e50"; ctx.font = "bold 34px sans-serif"; ctx.textAlign = "center";
-    ctx.fillText(wordObj.word, canvas.width / 2, 70);
     
+    // 1. 单词
+    ctx.fillStyle = "#2c3e50"; ctx.font = "bold 34px sans-serif"; ctx.textAlign = "center";
+    ctx.fillText(wordObj.word, canvas.width / 2, 65);
+    
+    // 2. 音标与提示框
+    let boxBottomY = 240; // 记录上方提示区域的底部位置
     if (currentMode === 'study' || reviewStep >= 1) {
-        ctx.fillStyle = "#e74c3c"; ctx.font = "20px sans-serif"; ctx.fillText(wordObj.phonetic, canvas.width / 2, 110);
-        ctx.fillStyle = "#f8f9fa"; ctx.beginPath(); ctx.roundRect ? ctx.roundRect(20, 130, canvas.width - 40, 110, 12) : ctx.rect(20, 130, canvas.width - 40, 110); ctx.fill();
-        ctx.fillStyle = "#34495e"; ctx.font = "15px sans-serif"; wrapText(ctx, wordObj.scene, canvas.width / 2, 165, canvas.width - 70, 24);
+        ctx.fillStyle = "#e74c3c"; ctx.font = "20px sans-serif"; ctx.fillText(wordObj.phonetic, canvas.width / 2, 105);
+        ctx.fillStyle = "#f8f9fa"; ctx.beginPath(); ctx.roundRect ? ctx.roundRect(20, 125, canvas.width - 40, 115, 12) : ctx.rect(20, 125, canvas.width - 40, 115); ctx.fill();
+        ctx.fillStyle = "#34495e"; ctx.font = "15px sans-serif"; wrapText(ctx, wordObj.scene, canvas.width / 2, 155, canvas.width - 70, 24);
     } else {
-        ctx.fillStyle = "#ecf0f1"; ctx.beginPath(); ctx.roundRect ? ctx.roundRect(20, 130, canvas.width - 40, 110, 12) : ctx.rect(20, 130, canvas.width - 40, 110); ctx.fill();
-        ctx.fillStyle = "#bdc3c7"; ctx.font = "bold 16px sans-serif"; ctx.fillText("🧠 努力检索这个单词的场景大图...", canvas.width / 2, 190);
+        ctx.fillStyle = "#ecf0f1"; ctx.beginPath(); ctx.roundRect ? ctx.roundRect(20, 125, canvas.width - 40, 115, 12) : ctx.rect(20, 125, canvas.width - 40, 115); ctx.fill();
+        ctx.fillStyle = "#bdc3c7"; ctx.font = "bold 16px sans-serif"; ctx.fillText("🧠 努力检索这个单词的场景大图...", canvas.width / 2, 185);
     }
+    
+    // 3. 动态计算例句与翻译（防止重叠遮挡）
     if (currentMode === 'study' || reviewStep === 2) {
-        ctx.fillStyle = "#2c3e50"; ctx.font = "600 15px sans-serif"; wrapText(ctx, `📝 ${wordObj.sentence}`, canvas.width / 2, 285, canvas.width - 40, 22);
-        ctx.fillStyle = "#27ae60"; ctx.font = "14px sans-serif"; wrapText(ctx, `🇨🇳 ${wordObj.translation}`, canvas.width / 2, 355, canvas.width - 40, 22);
+        let currentY = boxBottomY + 25; // 例句起始 Y 坐标
+        
+        // 渲染英文例句
+        ctx.fillStyle = "#2c3e50"; ctx.font = "600 15px sans-serif";
+        let nextY = wrapText(ctx, `📝 ${wordObj.sentence}`, canvas.width / 2, currentY, canvas.width - 40, 22);
+        
+        // 根据英文例句实际结束的 nextY，动态计算中文翻译的起始坐标
+        currentY = nextY + 12; 
+        ctx.fillStyle = "#27ae60"; ctx.font = "14px sans-serif";
+        wrapText(ctx, `🇨🇳 ${wordObj.translation}`, canvas.width / 2, currentY, canvas.width - 40, 22);
     }
 }
 
+// 🎯 升级版 wrapText：返回最后一行绘制完毕后的下边缘 Y 坐标
 function wrapText(ctx, text, x, y, maxWidth, lineHeight) {
     const words = text.split(''); let line = ''; let currentY = y;
     for (let n = 0; n < words.length; n++) {
@@ -246,6 +242,7 @@ function wrapText(ctx, text, x, y, maxWidth, lineHeight) {
         } else { line = testLine; }
     }
     ctx.fillText(line, x, currentY);
+    return currentY; // 返回当前文本块写到了哪高度
 }
 </script>
 </body>
