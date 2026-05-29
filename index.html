@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>30天高效流式闪卡（精简刷词版）</title>
+    <title>30天高效智能闪卡（新格式版）</title>
     <style>
         * { box-sizing: border-box; margin: 0; padding: 0; }
         body {
@@ -65,7 +65,6 @@
 </div>
 
 <script>
-// ⏱️ 秒级复习测试参数
 const ebbinghausIntervals = [0, 0.05, 30, 720, 1440, 2880, 5760, 10080, 21600];
 
 let currentDayNum = 1;
@@ -75,7 +74,7 @@ let activeDayWords = [];
 let currentIndex = 0;      
 let reviewStep = 0;        
 
-let userProgress = JSON.parse(localStorage.getItem('vocab_progress_v6')) || {};
+let userProgress = JSON.parse(localStorage.getItem('vocab_progress_v7')) || {};
 
 window.onload = function() {
     renderCalendar();
@@ -85,7 +84,7 @@ window.onload = function() {
 function renderCalendar() {
     const bar = document.getElementById('calendarBar');
     bar.innerHTML = '';
-    for (let d = 1; d <= 30; d++) { // 恢复 30 天日历全开
+    for (let d = 1; d <= 30; d++) {
         const btn = document.createElement('button');
         btn.className = `day-btn ${d === currentDayNum ? 'active' : ''}`;
         btn.innerText = `第 ${d} 天`;
@@ -150,8 +149,7 @@ function updateUI() {
     } else if (currentMode === 'study') {
         actionArea.innerHTML = `<button class="btn-study" onclick="handleAction()">已学会，下一张</button>`;
     } else {
-        // 复习模式简化为两步：看词 -> 看释义并反馈
-        if (reviewStep === 0) actionArea.innerHTML = `<button class="btn-study" onclick="handleAction()">查看中文释义 👁️</button>`;
+        if (reviewStep === 0) actionArea.innerHTML = `<button class="btn-study" onclick="handleAction()">查看释义与例句 👁️</button>`;
         else if (reviewStep === 1) {
             actionArea.innerHTML = `
                 <button class="btn-no" onclick="feedbackReview(false)">❌ 没记住</button>
@@ -184,9 +182,8 @@ function feedbackReview(remembered) {
 }
 
 function goToNextDay() { currentDayNum++; renderCalendar(); loadDayFile(currentDayNum); }
-function saveProgress() { localStorage.setItem('vocab_progress_v6', JSON.stringify(userProgress)); }
+function saveProgress() { localStorage.setItem('vocab_progress_v7', JSON.stringify(userProgress)); }
 
-// 🎨 专为“精简刷词版”定制的画板逻辑
 function drawCard() {
     const canvas = document.getElementById('cardCanvas'); const ctx = canvas.getContext('2d');
     ctx.clearRect(0, 0, canvas.width, canvas.height);
@@ -200,7 +197,7 @@ function drawCard() {
     const startX = 30;              
     const textMaxWidth = canvas.width - 60; 
     
-    // 1. 绘制英文单词 (严格左对齐)
+    // 1. 绘制英文单词
     ctx.textAlign = "left"; 
     ctx.fillStyle = "#2c3e50"; ctx.font = "bold 36px sans-serif";
     ctx.fillText(wordObj.word, startX, 75);
@@ -209,23 +206,23 @@ function drawCard() {
     ctx.fillStyle = "#e74c3c"; ctx.font = "18px sans-serif";
     ctx.fillText(wordObj.phonetic, startX, 115);
     
-    // 3. 绘制核心释义大框 (背诵模式直接显示，复习模式点击后显示)
+    // 3. 绘制翻译与例句区域
     if (currentMode === 'study' || reviewStep >= 1) {
-        // 绿色调舒适背景框
-        ctx.fillStyle = "#f4fbf7"; ctx.beginPath(); 
-        ctx.roundRect ? ctx.roundRect(startX - 5, 145, textMaxWidth + 10, 160, 12) : ctx.rect(startX - 5, 145, textMaxWidth + 10, 160); 
-        ctx.fill();
-        
-        // 渲染释义文本
+        // 渲染中文翻译
         ctx.fillStyle = "#27ae60"; ctx.font = "bold 16px sans-serif"; 
-        wrapText(ctx, wordObj.scene, startX + 10, 185, textMaxWidth - 10, 26);
+        let nextY = wrapText(ctx, `🇨🇳 ${wordObj.翻译}`, startX, 155, textMaxWidth, 24);
+        
+        // 动态计算间距，渲染英文例句
+        let sentenceY = nextY + 25;
+        ctx.fillStyle = "#34495e"; ctx.font = "600 15px sans-serif";
+        wrapText(ctx, `📝 ${wordObj.sentence}`, startX, sentenceY, textMaxWidth, 22);
     } else {
-        // 灰色未解锁状态
+        // 复习模式未解锁状态
         ctx.fillStyle = "#f8f9fa"; ctx.beginPath(); 
-        ctx.roundRect ? ctx.roundRect(startX - 5, 145, textMaxWidth + 10, 160, 12) : ctx.rect(startX - 5, 145, textMaxWidth + 10, 160); 
+        ctx.roundRect ? ctx.roundRect(startX - 5, 140, textMaxWidth + 10, 120, 12) : ctx.rect(startX - 5, 140, textMaxWidth + 10, 120); 
         ctx.fill();
         ctx.fillStyle = "#bdc3c7"; ctx.font = "16px sans-serif";
-        ctx.fillText("❓ 点击下方按钮显示中文释义", startX + 15, 225);
+        ctx.fillText("❓ 点击下方按钮显示释义与例句", startX + 15, 205);
     }
 }
 
