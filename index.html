@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>10天全自动智能闪卡（自适应对齐版）</title>
+    <title>10天智能闪卡（严格左对齐自适应版）</title>
     <style>
         * { box-sizing: border-box; margin: 0; padding: 0; }
         body {
@@ -25,14 +25,13 @@
             font-size: 13px; font-weight: bold; white-space: nowrap; cursor: pointer; border: none;
         }
         .day-btn.active { background: #e74c3c; color: white; }
-        .day-btn.has-learned { border: 1px solid #2ecc71; }
         .header {
             padding: 14px 16px; background: #3498db; color: white;
             display: flex; justify-content: space-between; align-items: center; font-weight: bold;
         }
         .card-area {
             flex: 1; display: flex; justify-content: center; align-items: center;
-            padding: 15px; background: #fdfdfd; position: relative;
+            padding: 15px; background: #fdfdfd;
         }
         canvas { border-radius: 16px; background: white; max-width: 100%; border: 1px solid #eaeaea; }
         .footer { padding: 20px; display: flex; flex-direction: column; gap: 12px; background: white; border-top: 1px solid #eee; }
@@ -66,7 +65,6 @@
 </div>
 
 <script>
-// 测试加速参数：第一阶段设为 0.05 分钟（3秒钟到期）
 const ebbinghausIntervals = [0, 0.05, 30, 720, 1440, 2880, 5760, 10080, 21600];
 
 let currentDayNum = 1;
@@ -98,24 +96,20 @@ function renderCalendar() {
 function loadDayFile(dayNum) {
     const fileName = `day${dayNum}.json`;
     fetch(fileName)
-        .then(res => {
-            if (!res.ok) throw new Error(`请检查是否存在 ${fileName}`);
-            return res.json();
-        })
+        .then(res => { if (!res.ok) throw new Error(); return res.json(); })
         .then(data => {
             activeDayWords = data;
             activeDayWords.forEach(w => {
                 if (!userProgress[w.id]) userProgress[w.id] = { stage: 0, nextReviewTime: 0 };
             });
-            saveProgress();
-            switchMode(currentMode);
+            saveProgress(); switchMode(currentMode);
         })
-        .catch(err => {
+        .catch(() => {
             activeDayWords = []; currentList = []; updateUI();
             const canvas = document.getElementById('cardCanvas'); const ctx = canvas.getContext('2d');
             ctx.clearRect(0, 0, canvas.width, canvas.height);
             ctx.fillStyle = "red"; ctx.font = "14px sans-serif"; ctx.textAlign = "center";
-            ctx.fillText(`❌ 读取错误: 找不到文件 ${fileName}`, canvas.width / 2, canvas.height / 2);
+            ctx.fillText(`❌ 未找到文件 ${fileName}`, canvas.width / 2, canvas.height / 2);
         });
 }
 
@@ -191,7 +185,7 @@ function feedbackReview(remembered) {
 function goToNextDay() { currentDayNum++; renderCalendar(); loadDayFile(currentDayNum); }
 function saveProgress() { localStorage.setItem('vocab_progress_v5', JSON.stringify(userProgress)); }
 
-// 🎨 核心修复：自适应高度的渲染引擎
+// 🎨 核心修复：全元素左对齐与安全边界布局
 function drawCard() {
     const canvas = document.getElementById('cardCanvas'); const ctx = canvas.getContext('2d');
     ctx.clearRect(0, 0, canvas.width, canvas.height);
@@ -202,37 +196,53 @@ function drawCard() {
     }
     const wordObj = currentList[currentIndex];
     
-    // 1. 单词
-    ctx.fillStyle = "#2c3e50"; ctx.font = "bold 34px sans-serif"; ctx.textAlign = "center";
-    ctx.fillText(wordObj.word, canvas.width / 2, 65);
+    const startX = 25;              // 🔍 统一的左对齐安全起点
+    const textMaxWidth = canvas.width - 50; // 🔍 动态计算的最大文本可用宽度 (310px)
     
-    // 2. 音标与提示框
-    let boxBottomY = 240; // 记录上方提示区域的底部位置
+    // 1. 单词与音标 (保持左对齐)
+    ctx.textAlign = "left"; 
+    ctx.fillStyle = "#2c3e50"; ctx.font = "bold 34px sans-serif";
+    ctx.fillText(wordObj.word, startX, 60);
+    
+    let boxBottomY = 240; 
+    
+    // 2. 场景图片描述框
     if (currentMode === 'study' || reviewStep >= 1) {
-        ctx.fillStyle = "#e74c3c"; ctx.font = "20px sans-serif"; ctx.fillText(wordObj.phonetic, canvas.width / 2, 105);
-        ctx.fillStyle = "#f8f9fa"; ctx.beginPath(); ctx.roundRect ? ctx.roundRect(20, 125, canvas.width - 40, 115, 12) : ctx.rect(20, 125, canvas.width - 40, 115); ctx.fill();
-        ctx.fillStyle = "#34495e"; ctx.font = "15px sans-serif"; wrapText(ctx, wordObj.scene, canvas.width / 2, 155, canvas.width - 70, 24);
+        ctx.fillStyle = "#e74c3c"; ctx.font = "18px sans-serif";
+        ctx.fillText(wordObj.phonetic, startX, 95);
+        
+        // 灰色视觉焦点背景框
+        ctx.fillStyle = "#f8f9fa"; ctx.beginPath(); 
+        ctx.roundRect ? ctx.roundRect(startX - 5, 115, textMaxWidth + 10, 115, 12) : ctx.rect(startX - 5, 115, textMaxWidth + 10, 115); 
+        ctx.fill();
+        
+        // 框内文字同样左对齐，并保持安全边界
+        ctx.fillStyle = "#34495e"; ctx.font = "15px sans-serif"; 
+        wrapText(ctx, wordObj.scene, startX, 145, textMaxWidth - 10, 24);
     } else {
-        ctx.fillStyle = "#ecf0f1"; ctx.beginPath(); ctx.roundRect ? ctx.roundRect(20, 125, canvas.width - 40, 115, 12) : ctx.rect(20, 125, canvas.width - 40, 115); ctx.fill();
-        ctx.fillStyle = "#bdc3c7"; ctx.font = "bold 16px sans-serif"; ctx.fillText("🧠 努力检索这个单词的场景大图...", canvas.width / 2, 185);
+        ctx.fillStyle = "#ecf0f1"; ctx.beginPath(); 
+        ctx.roundRect ? ctx.roundRect(startX - 5, 115, textMaxWidth + 10, 115, 12) : ctx.rect(startX - 5, 115, textMaxWidth + 10, 115); 
+        ctx.fill();
+        ctx.fillStyle = "#bdc3c7"; ctx.font = "bold 15px sans-serif";
+        ctx.fillText("🧠 努力检索这个单词的场景大图...", startX + 10, 180);
     }
     
-    // 3. 动态计算例句与翻译（防止重叠遮挡）
+    // 3. 例句与翻译区域 (严格继承 startX 和 textMaxWidth 限制)
     if (currentMode === 'study' || reviewStep === 2) {
-        let currentY = boxBottomY + 25; // 例句起始 Y 坐标
+        let currentY = boxBottomY + 25; 
         
-        // 渲染英文例句
+        // 英文例句
         ctx.fillStyle = "#2c3e50"; ctx.font = "600 15px sans-serif";
-        let nextY = wrapText(ctx, `📝 ${wordObj.sentence}`, canvas.width / 2, currentY, canvas.width - 40, 22);
+        let nextY = wrapText(ctx, `📝 ${wordObj.sentence}`, startX, currentY, textMaxWidth, 22);
         
-        // 根据英文例句实际结束的 nextY，动态计算中文翻译的起始坐标
-        currentY = nextY + 12; 
+        // 中文翻译 (完美紧跟英文，绝不重叠和溢出)
+        currentY = nextY + 14; 
         ctx.fillStyle = "#27ae60"; ctx.font = "14px sans-serif";
-        wrapText(ctx, `🇨🇳 ${wordObj.translation}`, canvas.width / 2, currentY, canvas.width - 40, 22);
+        wrapText(ctx, `🇨🇳 ${wordObj.translation}`, startX, currentY, textMaxWidth, 22);
     }
 }
 
-// 🎯 升级版 wrapText：返回最后一行绘制完毕后的下边缘 Y 坐标
+// 🎯 高精度的换行计算函数
 function wrapText(ctx, text, x, y, maxWidth, lineHeight) {
     const words = text.split(''); let line = ''; let currentY = y;
     for (let n = 0; n < words.length; n++) {
@@ -242,7 +252,7 @@ function wrapText(ctx, text, x, y, maxWidth, lineHeight) {
         } else { line = testLine; }
     }
     ctx.fillText(line, x, currentY);
-    return currentY; // 返回当前文本块写到了哪高度
+    return currentY; 
 }
 </script>
 </body>
