@@ -1,1633 +1,2102 @@
 [
   {
     "id": 1001,
-    "word": "Evaluate",
-    "phonetic": "/ɪˈvæljueɪt/",
-    "翻译": "vt. 评价，估价，求……的值",
-    "sentence": "The committee will evaluate each candidate based on their experience."
+    "word": "Subsequent",
+    "phonetic": "/ˈsʌbsɪkwənt/",
+    "翻译": "adj. 随后的，后来的（特指在某项特定历史事件、科学实验步骤或自然现象之后紧接着发生、出现的）",
+    "sentence": "The initial report was brief, but subsequent analyses provided much more detail."
   },
   {
     "id": 1002,
-    "word": "Abandon",
-    "phonetic": "/əˈbændən/",
-    "翻译": "vt. 放弃，遗弃，抛弃",
-    "sentence": "The bad weather forced the climbers to abandon their plans to reach the top."
+    "word": "Devastate",
+    "phonetic": "/ˈdevəsteɪt/",
+    "翻译": "v. 毁灭，破坏（指对自然生态系统、城市基础设施造成极大的、难以挽回的物理破坏或生态结构毁灭）",
+    "sentence": "The hurricane managed to devastate the entire coastal region within a few hours."
   },
   {
     "id": 1003,
-    "word": "Identify",
-    "phonetic": "/aɪˈdentɪfaɪ/",
-    "翻译": "vt. 识别，认出；vi. 认同",
-    "sentence": "The main purpose of the research is to identify the common problems."
+    "word": "Fluctuate",
+    "phonetic": "/ˈflʌktʃueɪt/",
+    "翻译": "v. 波动，起伏（指数据、气温、价格或野生动物群落数量等在一定范围内连续不断地发生不规则、不可预测的改变）",
+    "sentence": "Vegetation patterns often change when temperatures fluctuate unpredictably."
   },
   {
     "id": 1004,
-    "word": "Maintain",
-    "phonetic": "/meɪnˈteɪn/",
-    "翻译": "vt. 维持，保持，维修",
-    "sentence": "It is important to maintain a healthy lifestyle during busy weeks."
+    "word": "Precipitation",
+    "phonetic": "/prɪˌsɪpɪˈteɪʃn/",
+    "翻译": "n. 降水（在气象学中统称雨、雪、冰雹等各种从天气系统中落下的、气态水转化为液态或固态的水份总量）",
+    "sentence": "The severe shortage of precipitation led to a major drought in the agricultural zones."
   },
   {
     "id": 1005,
-    "word": "Abnormal",
-    "phonetic": "/æbˈnɔːrml/",
-    "翻译": "adj. 反常的，异常的",
-    "sentence": "The laboratory tests showed an abnormal level of sugar in the blood."
+    "word": "Artifact",
+    "phonetic": "/ˈɑːrtɪfækt/",
+    "翻译": "n. 人工制品（尤指历史遗迹中发掘出来的、具有特定考古学、人类学或历史文化研究价值的手工艺品、工具或遗物）",
+    "sentence": "The ancient clay artifact revealed that the tribe possessed advanced pottery techniques."
   },
   {
     "id": 1006,
-    "word": "Discover",
-    "phonetic": "/dɪˈskʌvər/",
-    "翻译": "vt. 发现，发觉，显示",
-    "sentence": "They discovered a new star in the sky during their observation."
+    "word": "Chronological",
+    "phonetic": "/ˌkrɒnəˈlɒdʒɪkl/",
+    "翻译": "adj. 按时间顺序的（指将历史数据、地质地层、化石记录或演化事件严格按照发生的先后时间节点进行的线性排列）",
+    "sentence": "The museum arranged the dynasty's paintings in strict chronological order."
   },
   {
     "id": 1007,
-    "word": "Accelerate",
-    "phonetic": "/əkˈseləreɪt/",
-    "翻译": "v. 加速，促进",
-    "sentence": "The driver decided to accelerate the car to pass the slow truck."
+    "word": "Symbiotic",
+    "phonetic": "/ˌsɪmbiˈɒtɪk/",
+    "翻译": "adj. 共生的（在生态学中指两个截然不同的生物物种之间，为了生存而形成的互相依附、紧密合作或互利共赢的特殊生态关系）",
+    "sentence": "Fungi and tree roots establish a symbiotic relationship that helps both survive."
   },
   {
     "id": 1008,
-    "word": "Abolish",
-    "phonetic": "/əˈbɑːlɪʃ/",
-    "翻译": "vt. 废除，取消",
-    "sentence": "The government decided to abolish the old tax system next year."
+    "word": "Adaptation",
+    "phonetic": "/ˌædæpˈteɪʃn/",
+    "翻译": "n. 适应（指生物体为了在特定的自然环境或气候剧变中生存下来，而在生理结构、内部代谢或行为习性上经历的演化改变）",
+    "sentence": "The desert camel's ability to store fat in its hump is a remarkable evolutionary adaptation."
   },
   {
     "id": 1009,
-    "word": "Connect",
-    "phonetic": "/kəˈnekt/",
-    "翻译": "vt. 连接，联结",
-    "sentence": "The new bridge will connect the small island to the mainland."
+    "word": "Celestial",
+    "phonetic": "/səˈlestʃl/",
+    "翻译": "adj. 天体的，天空的（与地球大气层外的深空宇宙、行星、恒星、星云等天文学研究对象密切相关的）",
+    "sentence": "Early sailors relied entirely on the positions of celestial bodies for navigation."
   },
   {
     "id": 1010,
-    "word": "Ability",
-    "phonetic": "/əˈbɪləti/",
-    "翻译": "n. 能力，才干",
-    "sentence": "She has the ability to solve complex mathematical problems quickly."
+    "word": "Erosion",
+    "phonetic": "/ɪˈrəʊʒn/",
+    "翻译": "n. 侵蚀，磨损（由于风力、流水、冰川流动等自然外力地质作用，导致岩石表面、土壤地表逐渐被风化流失的物理过程）",
+    "sentence": "The heavy rain accelerated the erosion of the hillside, causing a minor landslide."
   },
   {
     "id": 1011,
-    "word": "Analyze",
-    "phonetic": "/ˈænəlaɪz/",
-    "翻译": "vt. 分析，分解",
-    "sentence": "We need to analyze the data carefully before making a decision."
+    "word": "Hierarchical",
+    "phonetic": "/ˌhaɪəˈrɑːkɪkl/",
+    "翻译": "adj. 等级制度的（在人类社会学或群居动物研究中，指按照权力、统治地位或重要性分层排列、界限分明的结构）",
+    "sentence": "Ant colonies operate under a highly hierarchical social structure dominated by the queen."
   },
   {
     "id": 1012,
-    "word": "Abundant",
-    "phonetic": "/əˈbʌndənt/",
-    "翻译": "adj. 大量的，丰富的",
-    "sentence": "This river provides an abundant supply of fresh water for the city."
+    "word": "Cognitive",
+    "phonetic": "/ˈkɒɡnətɪv/",
+    "翻译": "adj. 认知的（涉及人类或高级动物思维、感知、学习、记忆、语言加工以及大脑处理逻辑信息的智力过程）",
+    "sentence": "Sleep deprivation can severely impair a student's cognitive functions during exams."
   },
   {
     "id": 1013,
-    "word": "Access",
-    "phonetic": "/ˈækses/",
-    "翻译": "n. 通道，进入权；vt. 访问",
-    "sentence": "Students can easily access the online library from their room."
+    "word": "Aesthetic",
+    "phonetic": "/iːsˈθetɪk/",
+    "翻译": "adj. 美学的，审美的（与艺术创作、视觉美感、设计哲学或人类对美的事物的感知与鉴赏能力相关的）",
+    "sentence": "The minimalist design of the museum balances functional utility with aesthetic appeal."
   },
   {
     "id": 1014,
-    "word": "Accomplish",
-    "phonetic": "/əˈkɑːmplɪʃ/",
-    "翻译": "vt. 完成，实现",
-    "sentence": "They worked together through the night to accomplish the task."
+    "word": "Innovative",
+    "phonetic": "/ˈɪnəveɪtɪv/",
+    "翻译": "adj. 创新的，新颖的（指引入了前所未有的全新理念、科学方法、实验技术或打破传统艺术形式的）",
+    "sentence": "The director used an innovative filmmaking technique that merged live action with stage theater."
   },
   {
     "id": 1015,
-    "word": "Create",
-    "phonetic": "/kriˈeɪt/",
-    "翻译": "vt. 创造，创作",
-    "sentence": "The company wants to create a new platform for online learning."
+    "word": "Prosperity",
+    "phonetic": "/prɒˈsperəti/",
+    "翻译": "n. 繁荣，兴旺（尤指某一历史时期、国家或社会在经济发展、物质财富积累以及生活水平上的持续增长与成功）",
+    "sentence": "The discovery of new trade routes ushered in an era of unprecedented economic prosperity."
   },
   {
     "id": 1016,
-    "word": "Beneficial",
-    "phonetic": "/ˌbenɪˈfɪʃl/",
-    "翻译": "adj. 有益的，有利的",
-    "sentence": "Regular exercise is highly beneficial for both physical and mental health."
+    "word": "Obsolete",
+    "phonetic": "/ˈɒbsəliːt/",
+    "翻译": "adj. 淘汰的，过时的（因更新、更先进、更高效的科学技术、工业工具或理论模型的出现，而不再被社会广泛使用的）",
+    "sentence": "With the rise of smartphones, traditional stand-alone digital cameras have largely become obsolete."
   },
   {
     "id": 1017,
-    "word": "Category",
-    "phonetic": "/ˈkætəɡɔːri/",
-    "翻译": "n. 种类，类别",
-    "sentence": "Each item in the store belongs to a specific category."
+    "word": "Hypothesis",
+    "phonetic": "/haɪˈpɒθəsɪs/",
+    "翻译": "n. 假设，假说（学术研究中，基于有限的已知现象或初步证据提出的、有待通过进一步实验或田野调查来验证的推测性理论）",
+    "sentence": "The scientists set up a controlled experiment to test their initial hypothesis about plant growth."
   },
   {
     "id": 1018,
-    "word": "Decline",
-    "phonetic": "/dɪˈklaɪn/",
-    "翻译": "v. 下降，减少，谢绝",
-    "sentence": "The company reported a sharp decline in sales this quarter."
+    "word": "Empirical",
+    "phonetic": "/ɪmˈpɪrɪkl/",
+    "翻译": "adj. 以观察或实验为依据的（在学术论证中，指源于实际测量、经验观察或直接实验数据，而非纯粹依靠逻辑推导或理论思辨的）",
+    "sentence": "The researcher gathered empirical data for three years before publishing her conclusions."
   },
   {
     "id": 1019,
-    "word": "Efficient",
-    "phonetic": "/ɪˈfɪʃnt/",
-    "翻译": "adj. 高效的，有能力的",
-    "sentence": "The new machinery allows for a more efficient production process."
+    "word": "MacroConvertion",
+    "phonetic": "/kənˈvɜːt/",
+    "翻译": "v. 宏观转化（指在宏观生态、大范围地质结构、宏观经济体制层面，系统性地发生根本性的物理状态、用途或理论性质的演变）",
+    "sentence": "The process will convert raw agricultural materials into high-value organic goods."
   },
   {
     "id": 1020,
-    "word": "Flexible",
-    "phonetic": "/ˈfleksəbl/",
-    "翻译": "adj. 易弯曲的，灵活的",
-    "sentence": "Having a flexible schedule allows her to spend more time with family."
+    "word": "Paradigm",
+    "phonetic": "/ˈpærədaɪm/",
+    "翻译": "n. 范式，典范（某一科学发展阶段内，指导特定学科领域研究者共同遵循的、核心的理论框架、方法论系统或思维模式）",
+    "sentence": "The shift from theoretical to computational physics represented a massive new paradigm."
   },
   {
     "id": 1021,
-    "word": "Guarantee",
-    "phonetic": "/ˌɡærənˈtiː/",
-    "翻译": "n. 保证，保修单；vt. 保证",
-    "sentence": "The manufacturer provides a one-year guarantee on all electronic parts."
+    "word": "Abundant",
+    "phonetic": "/əˈbʌndənt/",
+    "翻译": "adj. 大量的，充足的（指自然资源、生物个体数量或地理水分供应极为充沛，完全能够满足或超出正常生存、生产所需）",
+    "sentence": "The region is famous for its abundant natural resources, particularly timber and minerals."
   },
   {
     "id": 1022,
-    "word": "Hypothesis",
-    "phonetic": "/haɪˈpɑːθəsɪs/",
-    "翻译": "n. 假设，假说",
-    "sentence": "The scientists set up an experiment to test their new hypothesis."
+    "word": "Accelerate",
+    "phonetic": "/əkˈseləreɪt/",
+    "翻译": "v. 加速，促进（指某种化学反应速率、地质侵蚀过程、地表升温或历史事件发展进程在特定催化因子的作用下明显加快）",
+    "sentence": "Rising global temperatures accelerate the melting of polar ice caps."
   },
   {
     "id": 1023,
-    "word": "Illustrate",
-    "phonetic": "/ˈɪləstreɪt/",
-    "翻译": "vt. 阐明，举例说明",
-    "sentence": "The professor used charts to illustrate the economic growth trends."
+    "word": "Accumulate",
+    "phonetic": "/əˈkjuːmjəleɪt/",
+    "翻译": "v. 积累，积聚（指物质、泥沙、财富、地层沉淀物在漫长的历史或自然过程中，逐渐、连续不断地聚集并增加数量）",
+    "sentence": "Over millions of years, organic debris began to accumulate on the ocean floor."
   },
   {
     "id": 1024,
-    "word": "Justify",
-    "phonetic": "/ˈdʒʌstɪfaɪ/",
-    "翻译": "vt. 证明……是正当的，为……辩护",
-    "sentence": "It is hard to justify spending so much money on a luxury item."
+    "word": "Aggressive",
+    "phonetic": "/əˈɡresɪv/",
+    "翻译": "adj. 挑衅的，具攻击性的（在动物行为学中，指雄性动物在争夺领地、配偶或食物资源时表现出的、带有强烈敌意和身体对抗倾向的冲突性行为）",
+    "sentence": "Male birds typically become much more aggressive during the spring breeding season."
   },
   {
     "id": 1025,
-    "word": "Logical",
-    "phonetic": "/ˈlɑːdʒɪkl/",
-    "翻译": "adj. 符合逻辑的，合理的",
-    "sentence": "Please present your argument in a clear and logical order."
+    "word": "Allocate",
+    "phonetic": "/ˈæləkeɪt/",
+    "翻译": "v. 分配，分派（指为了达成特定科研目标、经济项目或行政规划，而系统化地分配有限的资金、物资、土地、人力等资源）",
+    "sentence": "The university decided to allocate a substantial budget for archaeological excavations."
   },
   {
     "id": 1026,
-    "word": "Maximize",
-    "phonetic": "/ˈmæksɪmaɪz/",
-    "翻译": "vt. 使最大化，最大程度地利用",
-    "sentence": "We need to update our strategy to maximize our profits this year."
+    "word": "Alter",
+    "phonetic": "/ˈɔːltər/",
+    "翻译": "v. 改变，更改（指在不完全摧毁原有事物的前提下，对其局部物理结构、外观、遗传性状或生存习性进行调整与改变）",
+    "sentence": "Human activities have significantly managed to alter the landscape of the valley."
   },
   {
     "id": 1027,
-    "word": "Negotiate",
-    "phonetic": "/nɪˈɡoʊʃieɪt/",
-    "翻译": "v. 谈判，协商",
-    "sentence": "The manager is trying to negotiate a better deal with the supplier."
+    "word": "Alternative",
+    "phonetic": "/ɔːlˈtɜːrnətɪv/",
+    "翻译": "adj. 可替代的，备选的 n. 替代方案（在生态能源或科学假设中，指在主要方案不可行或对环境有害时，可以选用的另一种技术路径）",
+    "sentence": "Solar and wind energy are excellent alternative power sources to fossil fuels."
   },
   {
     "id": 1028,
-    "word": "Objective",
-    "phonetic": "/əbˈdʒektɪv/",
-    "翻译": "n. 目标；adj. 客观的",
-    "sentence": "A journalist must remain objective when reporting the news."
+    "word": "Amplify",
+    "phonetic": "/ˈæmplɪfaɪ/",
+    "翻译": "v. 放大，增强（指由于物理波动叠加、声波反射或生态食物链的聚集效应，导致信号、声音、能量或化学毒素浓度成倍增强）",
+    "sentence": "The canyon walls tend to amplify the sound of running water underneath."
   },
   {
     "id": 1029,
-    "word": "Participate",
-    "phonetic": "/pɑːrˈtɪsɪpeɪt/",
-    "翻译": "vi. 参与，参加",
-    "sentence": "All students are encouraged to participate in school activities."
+    "word": "Analogous",
+    "phonetic": "/əˈnæləɡəs/",
+    "翻译": "adj. 类似的，可比拟的（在演化生物学或逻辑论证中，指两种截然不同的物种或概念，在功能、结构或演变方式上表现出高度的相似性）",
+    "sentence": "The wing of a bird is functionally analogous to the wing of a butterfly."
   },
   {
     "id": 1030,
-    "word": "Qualitative",
-    "phonetic": "/ˈkwɑːlɪteɪtɪv/",
-    "翻译": "adj. 定性的，性质上的",
-    "sentence": "The researchers conducted a qualitative study based on interviews."
+    "word": "Analyze",
+    "phonetic": "/ˈænəlaɪz/",
+    "翻译": "v. 分析，分解（指通过系统性的科学手段，将复杂的混合物、大数据样本、历史文献拆解为各个组成部分，以探寻其内在本质和规律）",
+    "sentence": "Researchers will analyze the core samples to determine historic climate shifts."
   },
   {
     "id": 1031,
-    "word": "Reinforce",
-    "phonetic": "/ˌriːɪnˈfɔːrs/",
-    "翻译": "vt. 加强，巩固",
-    "sentence": "The coach used video clips to reinforce the tactical training."
+    "word": "Ancestor",
+    "phonetic": "/ˈænsestər/",
+    "翻译": "n. 祖先，祖宗（在人类学与古生物学中，指现存物种、民族在几千甚至几百万年前，在演化谱系上直系源出的早期原始物种或族群）",
+    "sentence": "The modern horse evolved from a small, multi-toed ancestor that lived in forests."
   },
   {
     "id": 1032,
-    "word": "Submit",
-    "phonetic": "/səbˈmɪt/",
-    "翻译": "v. 提交，呈递，屈服",
-    "sentence": "You must submit your final report before Friday afternoon."
+    "word": "Anomalous",
+    "phonetic": "/əˈnɒmələs/",
+    "翻译": "adj. 异常的，反常的（指在科学实验、天体观测或气象记录中，出现了明显偏离正常规律、统计期望值或常规模型的数据与现象）",
+    "sentence": "The spacecraft detected an anomalous thermal patch on the moon's surface."
   },
   {
     "id": 1033,
-    "word": "Temporary",
-    "phonetic": "/ˈtempəreri/",
-    "翻译": "adj. 暂时的，临时的",
-    "sentence": "They found a temporary solution to the technical problem."
+    "word": "Anticipate",
+    "phonetic": "/ænˈtɪsɪpeɪt/",
+    "翻译": "v. 预料，预期（指基于现有的科学数据模型、前瞻性规律或气候征兆，对即将到来的地质剧变、物种迁徙或市场波动提前做出预判）",
+    "sentence": "Biologists anticipate a sharp decline in bird populations if the wetland dries up."
   },
   {
     "id": 1034,
-    "word": "Ultimate",
-    "phonetic": "/ˈʌltɪmət/",
-    "翻译": "adj. 最终的，极限的",
-    "sentence": "Our ultimate goal is to expand the business into international markets."
+    "word": "Apparent",
+    "phonetic": "/əˈpærənt/",
+    "翻译": "adj. 显而易见的，表面的（指无需经过极其复杂的深层挖掘或实验证明，通过肉眼直接观察或初步实验就非常清晰、明确的现象）",
+    "sentence": "The connection between regular rainfall and crop yields became immediately apparent."
   },
   {
     "id": 1035,
-    "word": "Vague",
-    "phonetic": "/veɪɡ/",
-    "翻译": "adj. 模糊的，不明确的",
-    "sentence": "His instructions were so vague that nobody knew what to do."
+    "word": "Attribute",
+    "phonetic": "/əˈtrɪbjuːt/",
+    "翻译": "v. 归因于（在学术因果论证中，指明确地将某种自然现象、生态危机、历史演变的结果，指向某一特定的原因或催化因子）",
+    "sentence": "Geologists attribute the unique rock formations to millions of years of wind erosion."
   },
   {
     "id": 1036,
-    "word": "Widespread",
-    "phonetic": "/ˈwaɪdspred/",
-    "翻译": "adj. 分布广泛的，普遍的",
-    "sentence": "The new policy received widespread support from the public."
+    "word": "Authentic",
+    "phonetic": "/ɔːˈθentɪk/",
+    "翻译": "adj. 真正的，真实的（在考古学与艺术史中，指经过科学碳十四测定、文献比对后，确证不是伪造的、源自特定历史时期的真品原件）",
+    "sentence": "The museum confirmed that the parchment scroll was an authentic Roman document."
   },
   {
     "id": 1037,
-    "word": "Yield",
-    "phonetic": "/jiːld/",
-    "翻译": "vt. 出产，产生；vi. 屈服",
-    "sentence": "The investment is expected to yield high returns in the future."
+    "word": "Autonomous",
+    "phonetic": "/ɔːˈtɒnəməs/",
+    "翻译": "adj. 自治的，自主的（在人类政治社会学或机器智能研究中，指具有独立决策、不受外界控制、能够自我调节运行的个体、部落或系统）",
+    "sentence": "Certain primitive tribes operated as autonomous units without a centralized empire."
   },
   {
     "id": 1038,
-    "word": "Accumulate",
-    "phonetic": "/əˈkjuːmjəleɪt/",
-    "翻译": "v. 积累，积聚",
-    "sentence": "Dust will quickly accumulate on the furniture if you do not clean it."
+    "word": "Barren",
+    "phonetic": "/ˈbærən/",
+    "翻译": "adj. 荒芜的，不毛的（在地理与生态学中，指由于严重缺水、土壤极端贫瘠或遭受化学污染，导致植物几乎无法生长、完全无法耕作的土地）",
+    "sentence": "The volcanic landscape remained barren for decades before lichens began to grow."
   },
   {
     "id": 1039,
-    "word": "Brief",
-    "phonetic": "/briːf/",
-    "翻译": "adj. 简短的，短暂的",
-    "sentence": "The manager gave a brief introduction of the new project."
+    "word": "Beneficial",
+    "phonetic": "/ˌbenɪˈfɪʃl/",
+    "翻译": "adj. 有益的，有利的（在生物互利共生、医药学或社会改革中，指对物种生存繁衍、生态平衡维护或人类健康能产生积极正面推动作用的）",
+    "sentence": "Insects play a beneficial role in agriculture by pollinating many essential crops."
   },
   {
     "id": 1040,
-    "word": "Clarify",
-    "phonetic": "/ˈklærəfaɪ/",
-    "翻译": "vt. 澄清，阐明",
-    "sentence": "Could you please clarify the third point of the contract?"
+    "word": "Bias",
+    "phonetic": "/ˈbaɪəs/",
+    "翻译": "n. 偏见，偏差（指社会学调查或科学实验中，由于研究者主观偏好、样本抽取不均而导致的偏离客观事实、统计学不公正的现象）",
+    "sentence": "The researcher took steps to eliminate personal bias from the psychological study."
   },
   {
     "id": 1041,
-    "word": "Diverse",
-    "phonetic": "/daɪˈvɜːrs/",
-    "翻译": "adj. 不同的，多种多样的",
-    "sentence": "The university attracts a diverse group of students from all over the world."
+    "word": "Biodegradable",
+    "phonetic": "/ˌbaɪəʊdɪˈɡreɪdəbl/",
+    "翻译": "adj. 可生物降解的（在环境科学中，指某种人造材料或有机化合物在自然状态下，能够被微生物在较短时间内完全彻底分解的非污染性材料）",
+    "sentence": "The government is forcing industries to switch to biodegradable packaging materials."
   },
   {
     "id": 1042,
-    "word": "Emphasis",
-    "phonetic": "/ˈemfəsɪs/",
-    "翻译": "n. 强调，重点",
-    "sentence": "The school puts great emphasis on practical skills."
+    "word": "Boom",
+    "phonetic": "/buːm/",
+    "翻译": "n. / v. 繁荣，激增（指人口数量爆发式增长、某一特定经济产业在极短时间内迎来极度火爆、迅猛发展的黄金时期）",
+    "sentence": "The discovery of gold triggered a population boom in the sleepy Western towns."
   },
   {
     "id": 1043,
-    "word": "Fundamental",
-    "phonetic": "/ˌfʌndəˈmentl/",
-    "翻译": "adj. 基本的，根本的",
-    "sentence": "Understanding consumer behavior is fundamental to successful marketing."
+    "word": "Boundless",
+    "phonetic": "/ˈbaʊndləs/",
+    "翻译": "adj. 无穷无尽的，无限的（常用于修饰太空宇宙的物理广袤空间、自然界蕴含的某种无尽能量或人类探索科学的求知欲）",
+    "sentence": "Deep space offers a boundless field of study for modern astronomers."
   },
   {
     "id": 1044,
-    "word": "Furthermore",
-    "phonetic": "/ˌfɜːrðərˈmɔːr/",
-    "翻译": "adv. 此外，而且",
-    "sentence": "The house is beautiful; furthermore, it is located in a quiet area."
+    "word": "Breed",
+    "phonetic": "/briːd/",
+    "翻译": "v. 繁殖，饲养（在动物学中指野生动物在特定的求偶季节产卵、孵化或哺乳后代；或人类通过人工选择定向改良特定动植物品种）",
+    "sentence": "Many species of salmon travel thousands of miles upriver purely to breed."
   },
   {
     "id": 1045,
-    "word": "Ignore",
-    "phonetic": "/ɪɡˈnɔːr/",
-    "翻译": "vt. 忽视，不理睬",
-    "sentence": "You should not ignore the warning signs of stress."
+    "word": "Brittle",
+    "phonetic": "/ˈbrɪtl/",
+    "翻译": "adj. 易碎的，脆弱的（在材料学和地质学中，指某种矿物、坚硬骨骼或冰层虽然具有极高的硬度，但在受到外力撞击时极易发生粉碎性断裂的）",
+    "sentence": "As water freezes solid under high pressure, it forms a highly brittle crystalline structure."
   },
   {
     "id": 1046,
-    "word": "Imply",
-    "phonetic": "/ɪmˈplaɪ/",
-    "翻译": "vt. 暗示，意味着",
-    "sentence": "Silence does not necessarily imply that she agrees with you."
+    "word": "Buoyant",
+    "phonetic": "/ˈbɔɪənt/",
+    "翻译": "adj. 有浮力的，能漂浮的（在物理学与海洋学中，指某种材质的密度小于周围流体，从而在液体或气体表面能够向上浮起的特征）",
+    "sentence": "The seeds of the coconut palm are buoyant, allowing them to drift to distant shores."
   },
   {
     "id": 1047,
-    "word": "Internal",
-    "phonetic": "/ɪnˈtɜːrnl/",
-    "翻译": "adj. 内部的，国内的",
-    "sentence": "The company is conducting an internal investigation into the matter."
+    "word": "Burrow",
+    "phonetic": "/ˈbɜːrəʊ/",
+    "翻译": "n. 洞穴 v. 挖洞（在动物行为学中，指啮齿类、爬行类动物在地下挖掘的、用以躲避天敌捕杀、储存食物或越冬繁衍的隧道系统）",
+    "sentence": "To escape the intense midday heat, desert rodents typically burrow deep into the sand."
   },
   {
     "id": 1048,
-    "word": "Lecture",
-    "phonetic": "/ˈlektʃər/",
-    "翻译": "n./v. 演讲，讲课",
-    "sentence": "The professor delivered an interesting lecture on ancient history."
+    "word": "Capability",
+    "phonetic": "/ˌkeɪpəˈbɪləti/",
+    "翻译": "n. 能力，才干（指某个生物个体、社会组织或先进机械系统，在生理限制、硬件技术上所能达到的最大极限、潜能或功能范围）",
+    "sentence": "The telescope's capability to detect distant light changed our view of the universe."
   },
   {
     "id": 1049,
-    "word": "Migrate",
-    "phonetic": "/ˈmaɪɡreɪt/",
-    "翻译": "vi. 迁移，移居",
-    "sentence": "Many birds migrate south to find food during the winter."
+    "word": "Catastrophe",
+    "phonetic": "/kəˈtæstrəfi/",
+    "翻译": "n. 大灾难，大祸（如火山猛烈喷发、小行星撞击地表、特大地震等对全球或局部生态系统带来彻底毁灭性重创的突发性自然事件）",
+    "sentence": "The sudden eruption of the supervolcano triggered a planetary climate catastrophe."
   },
   {
     "id": 1050,
-    "word": "Notion",
-    "phonetic": "/ˈnoʊʃn/",
-    "翻译": "n. 概念，见解，打算",
-    "sentence": "He rejected the notion that success is purely a matter of luck."
+    "word": "Champion",
+    "phonetic": "/ˈtʃæmpiən/",
+    "翻译": "v. 支持，捍卫（在社会学或学术思辨中，指某位知名学者、社会活动家站出来极力拥护、公开支持并推广某种边缘或前沿的科学学说、民权法案）",
+    "sentence": "The progressive senator chose to champion new laws protecting indigenous lands."
   },
   {
     "id": 1051,
-    "word": "Passive",
-    "phonetic": "/ˈpæsɪv/",
-    "翻译": "adj. 被动的，消极的",
-    "sentence": "Sitting in front of the TV is a passive way to spend the evening."
+    "word": "Civic",
+    "phonetic": "/ˈsɪvɪk/",
+    "翻译": "adj. 公民的，城市的（与城市公共管理、市民群体的社会责任、选举权利、公共利益密不可分的）",
+    "sentence": "Constructing public parks was seen as an essential civic duty by Roman leaders."
   },
   {
     "id": 1052,
-    "word": "Precise",
-    "phonetic": "/prɪˈsaɪs/",
-    "翻译": "adj. 精确的，准确的",
-    "sentence": "The instrument provides precise measurements of temperature changes."
+    "word": "Coarse",
+    "phonetic": "/kɔːrs/",
+    "翻译": "adj. 粗糙的，粗粒的（在地质学和土壤学中，指沙砾、岩石碎屑或动物毛发颗粒较大、质地不细腻、表面凹凸不平的）",
+    "sentence": "Desert soil is often coarse and sandy, which prevents it from holding water well."
   },
   {
     "id": 1053,
-    "word": "Reject",
-    "phonetic": "/rɪˈdʒekt/",
-    "翻译": "vt. 拒绝，驳回",
-    "sentence": "The publisher decided to reject the author's first manuscript."
+    "word": "Cohesion",
+    "phonetic": "/kəʊˈhiːʒn/",
+    "翻译": "n. 凝聚力，内聚性（在物理学中指同种分子之间的相互吸引力；在社会学中指一个社会群体、部落内部能够紧密团结、互助而不瓦解的向心力）",
+    "sentence": "Water molecules exhibit strong cohesion, creating a high surface tension."
   },
   {
     "id": 1054,
-    "word": "Restrict",
-    "phonetic": "/rɪˈstrɪkt/",
-    "翻译": "vt. 限制，约束",
-    "sentence": "The new law will restrict the use of plastic bags in supermarkets."
+    "word": "Coincide",
+    "phonetic": "/ˌkəʊɪnˈsaɪd/",
+    "翻译": "v. 同时发生，相符（指两个看似独立的自然历史事件、冰川周期的起点或物种迁徙恰好在同一时间节点汇合；或两种独立的研究结论完全吻合）",
+    "sentence": "The bird's nesting season is timed to coincide with the peak hatch of caterpillars."
   },
   {
     "id": 1055,
-    "word": "Status",
-    "phonetic": "/ˈsteɪtəs/",
-    "翻译": "n. 地位，身份，状态",
-    "sentence": "You can check the shipping status of your order online."
+    "word": "Collaborate",
+    "phonetic": "/kəˈlæbəreɪt/",
+    "翻译": "v. 合作，协作（指多名不同领域的跨学科科学家、跨国科研团队联合起来共同开展某项前沿的大型科学实验、考古挖掘或课题攻关）",
+    "sentence": "Botanists and zoologists often collaborate to study fragile rainforest ecosystems."
   },
   {
     "id": 1056,
-    "word": "Transform",
-    "phonetic": "/trænsˈfɔːrm/",
-    "翻译": "v. 改变，使改观，转化",
-    "sentence": "The new technology will transform the way we communicate."
+    "word": "Collapse",
+    "phonetic": "/kəˈlæps/",
+    "翻译": "v. / n. 崩溃，塌陷（由于地壳运动、结构失稳或复杂的内生性危机，导致古文明突然消亡、建筑物发生物理塌陷、或整个生态平衡系统骤然解体）",
+    "sentence": "Severe, prolonged droughts caused the sudden collapse of the Mayan civilization."
   },
   {
     "id": 1057,
-    "word": "Vary",
-    "phonetic": "/ˈveri/",
-    "翻译": "vi. 变化，不同；vt. 改变",
-    "sentence": "The prices of vegetables vary depending on the season."
+    "word": "Collective",
+    "phonetic": "/kəˈlektɪv/",
+    "翻译": "adj. 集体的，共同的（在群居动物行为学或社会学中，指整个物种群体、部落为了御敌、捕食而展现出的、而非单打独斗的社会性行为）",
+    "sentence": "Wolf packs rely on collective hunting strategies to bring down large prey."
   },
   {
     "id": 1058,
-    "word": "Volume",
-    "phonetic": "/ˈvɑːljuːm/",
-    "翻译": "n. 体积，容积，音量，卷",
-    "sentence": "Please turn down the volume of the radio; it is too loud."
+    "word": "Collision",
+    "phonetic": "/kəˈlɪʒn/",
+    "翻译": "n. 碰撞，冲突（在地质学和天文学中，指两个庞大的板块之间剧烈撞击引发造山运动，或陨石、彗星等天体与行星表面发生的猛烈肉体碰撞）",
+    "sentence": "The collision of the Indian tectonic plate with Asia formed the Himalayas."
   },
   {
     "id": 1059,
-    "word": "Accurate",
-    "phonetic": "/ˈækjərət/",
-    "翻译": "adj. 精确的，准确的",
-    "sentence": "The scientists need to provide accurate reports for the experiment."
+    "word": "Colonial",
+    "phonetic": "/kəˈləʊniəl/",
+    "翻译": "adj. 殖民的，群居的（在历史学中指与大航海时代宗主国海外扩张、殖民统治相关的；在生物学中指成千上万个单细胞或多细胞生物聚集成群生活的）",
+    "sentence": "Corals are colonial organisms made up of thousands of individual polyps."
   },
   {
     "id": 1060,
-    "word": "Alter",
-    "phonetic": "/ˈɔːltər/",
-    "翻译": "v. 改变，变更",
-    "sentence": "The tailor needs to alter the suit to make it fit perfectly."
+    "word": "Compact",
+    "phonetic": "/kəmˈpækt/",
+    "翻译": "adj. 紧密的，结实的 v. 压紧（在地质压实作用或材料加工中，指松散的沉积物、冰川积雪受到长年累月的重力压迫，分子空隙急剧缩小、变得异常坚硬实密）",
+    "sentence": "Over time, heavy layers of snow compact into dense, solid glacial ice."
   },
   {
     "id": 1061,
-    "word": "Aware",
-    "phonetic": "/əˈwer/",
-    "翻译": "adj. 意识到的，知道的",
-    "sentence": "People are becoming more aware of the importance of recycling."
+    "word": "Comparable",
+    "phonetic": "/ˈkɒmpərəbl/",
+    "翻译": "adj. 可比较的，相当的（指在体量、历史重要性、演化阶段或学术研究分量上基本处于同一水平，可以进行横向公允对比的）",
+    "sentence": "The severe economic decline of that era was comparable to the Great Depression."
   },
   {
     "id": 1062,
-    "word": "Capacity",
-    "phonetic": "/kəˈpæsəti/",
-    "翻译": "n. 容量，能力",
-    "sentence": "The stadium has a seating capacity of fifty thousand people."
+    "word": "Compel",
+    "phonetic": "/kəmˈpel/",
+    "翻译": "v. 强迫，迫使（指干旱、严寒、栖息地丧失等残酷的自然界环境生存压力，客观上逼迫某些动物种群必须改变原有的迁徙路线或进行生存习性演化）",
+    "sentence": "Extreme winter conditions often compel herds of elk to descend into warmer valleys."
   },
   {
     "id": 1063,
-    "word": "Challenge",
-    "phonetic": "/ˈtʃælɪndʒ/",
-    "翻译": "n. 挑战；vt. 向……挑战",
-    "sentence": "Learning a new language is a challenge that requires patience."
+    "word": "Compensate",
+    "phonetic": "/ˈkɒmpenseɪt/",
+    "翻译": "v. 补偿，弥补（在生理学或生态自我修复中，指由于某一器官退化、某些资源匮乏，生物体通过强化其他感官、开拓新食物源来进行功能上的平衡对冲）",
+    "sentence": "Bats developed echolocation to compensate for their extremely poor eyesight."
   },
   {
     "id": 1064,
-    "word": "Conflict",
-    "phonetic": "/ˈkɑːnflɪkt/",
-    "翻译": "n. 冲突，矛盾；vi. 冲突",
-    "sentence": "The schedule conflict forced him to miss the important meeting."
+    "word": "Competent",
+    "phonetic": "/ˈkɒmpɪtənt/",
+    "翻译": "adj. 有能力的，胜任的（指某一生物个体发育完全、生存技能熟练，在残酷的自然界优胜劣汰中完全具备独立捕食、抵御天敌攻击的合格能力）",
+    "sentence": "By late summer, the young eagles are competent enough to hunt without parental help."
   },
   {
     "id": 1065,
-    "word": "Consult",
-    "phonetic": "/kənˈsʌlt/",
-    "翻译": "v. 请教，咨询，查阅",
-    "sentence": "You should consult a financial expert before buying a house."
+    "word": "Complement",
+    "phonetic": "/ˈkɒmplɪment/",
+    "翻译": "v. 补充，互补（指两种不同的学科研究视角、两种不同的营养物质或生态位，在相互结合后能够达到更完美、全面的状态）",
+    "sentence": "Field excavations and laboratory testing complement each other in archaeology."
   },
   {
     "id": 1066,
-    "word": "Display",
-    "phonetic": "/dɪˈspleɪ/",
-    "翻译": "vt./n. 陈列，展览，显示",
-    "sentence": "The museum will display rare artifacts during the summer exhibition."
+    "word": "Component",
+    "phonetic": "/kəmˈpəʊnənt/",
+    "翻译": "n. 组成部分，成分（在化学分析、地质矿物化验或机器工程中，指构成某个复杂整体、岩石矿体、生态系统所必不可少的某一基础元素或零部件）",
+    "sentence": "Nitrogen is a critical component of amino acids, which form the base of all proteins."
   },
   {
     "id": 1067,
-    "word": "Equivalent",
-    "phonetic": "/ɪˈkwɪvələnt/",
-    "翻译": "adj. 相等的，等价的；n. 等价物",
-    "sentence": "Changing jobs now is equivalent to starting your career over again."
+    "word": "Compress",
+    "phonetic": "/kəmˈpres/",
+    "翻译": "v. 压缩，压紧（指通过施加外部强大的机械压力、水压或气压，使气体分子的体积缩小，或者使疏松的固态沉积物理形态变扁平）",
+    "sentence": "Tectonic forces compress the rock layers, creating massive folds in the earth's crust."
   },
   {
     "id": 1068,
-    "word": "Expose",
-    "phonetic": "/ɪkˈspoʊz/",
-    "翻译": "vt. 暴露，显露，揭露",
-    "sentence": "Do not expose your skin to direct sunlight for a long time."
+    "word": "Comprise",
+    "phonetic": "/kəmˈpraɪz/",
+    "翻译": "v. 包含，由…组成（在分类学、学术论文阐述中，指一个庞大的学术体系、宏观生态圈或地质构造单元具体由哪些分支、群落或岩层所共同构筑）",
+    "sentence": "The scientific committee is expected to comprise experts from several different disciplines."
   },
   {
     "id": 1069,
-    "word": "External",
-    "phonetic": "/ɪkˈstɜːrnl/",
-    "翻译": "adj. 外部的，外面的",
-    "sentence": "The hard drive can be connected to any external monitor."
+    "word": "Compulsory",
+    "phonetic": "/kəmˈpʌlsəri/",
+    "翻译": "adj. 强制性的，义务的（在社会管理、古代法典或现代高等教育中，指受到法律、行业铁律、学校规章明文约束，不容置疑必须贯彻执行的行为）",
+    "sentence": "In ancient Sparta, military training was compulsory for all young men."
   },
   {
     "id": 1070,
-    "word": "Frustrate",
-    "phonetic": "/ˈfrʌstreɪt/",
-    "翻译": "vt. 使沮丧，挫败",
-    "sentence": "Repeated failures can easily frustrate a young entrepreneur."
+    "word": "Conceal",
+    "phonetic": "/kənˈsiːl/",
+    "翻译": "v. 隐藏，隐蔽（在进化保护色机制中，指野生动物利用斑纹、拟态或茂密的植被遮挡，将自己的身体完全融入周围环境以躲避天敌或隐蔽捕食）",
+    "sentence": "The snow leopard's spotted coat helps conceal it against the mountain rocks."
   },
   {
     "id": 1071,
-    "word": "Grant",
-    "phonetic": "/ɡrænt/",
-    "翻译": "vt. 授予，同意，承认；n. 拨款",
-    "sentence": "The organization decided to grant a scholarship to the top student."
+    "word": "Concede",
+    "phonetic": "/kənˈsiːd/",
+    "翻译": "v. 承认（失败），让步（在学术辩论或历史战和谈判中，指一方在面对铁证如山的实验数据、或者无法逆转的军事溃败时，不得不客观承认对方理论成立或妥协）",
+    "sentence": "The historian had to concede that new carbon dating evidence proved his theory wrong."
   },
   {
     "id": 1072,
-    "word": "Implicate",
-    "phonetic": "/ˈɪmplɪkeɪt/",
-    "翻译": "vt. 牵连，暗示",
-    "sentence": "New evidence emerged that might implicate other officials in the case."
+    "word": "Concentration",
+    "phonetic": "/ˌkɒnsnˈtreɪʃn/",
+    "翻译": "n. 浓度，集中（在化学实验中指单位溶液内所含溶质的多少；在地理学中指某一种族、野生动物群落集中居住、分布在某一核心地理区域的现象）",
+    "sentence": "The unique salt lake has an incredibly high concentration of dissolved minerals."
   },
   {
     "id": 1073,
-    "word": "Indicate",
-    "phonetic": "/ˈɪndɪkeɪt/",
-    "翻译": "vt. 指示，指出，暗示",
-    "sentence": "The dark clouds indicate that a thunderstorm is on the way."
+    "word": "Conclusive",
+    "phonetic": "/kənˈkluːsɪv/",
+    "翻译": "adj. 确凿的，结论性的（指科学实验或考古挖掘中获得的化石或数据链具有一锤定音的威力，能够彻底结束长久以来的学术学术争论）",
+    "sentence": "The discovering of the skeleton provided conclusive evidence of early human migration."
   },
   {
     "id": 1074,
-    "word": "Inherent",
-    "phonetic": "/ɪnˈhɪrənt/",
-    "翻译": "adj. 固有的，内在的",
-    "sentence": "There are inherent risks involved in any stock market investment."
+    "word": "Concur",
+    "phonetic": "/kənˈkɜːr/",
+    "翻译": "v. 同意，赞同（在学术界中，指多位独立开展研究的同行学者，在审阅了相同的研究报告后，发表意见一致赞同某一种科学假说或理论成果）",
+    "sentence": "Most climatologists concur that global greenhouse emissions are driving climate extremes."
   },
   {
     "id": 1075,
-    "word": "Invest",
-    "phonetic": "/ɪnˈvest/",
-    "翻译": "v. 投资，投入",
-    "sentence": "It is wise to invest some money in local businesses."
+    "word": "Condense",
+    "phonetic": "/kənˈdens/",
+    "翻译": "v. 凝结，浓缩（在热力学和气象学中，指气态水蒸气因温度下降、热量释放而转变成液态小水滴的物理相变过程）",
+    "sentence": "As warm, moist air rises up the mountain side, it cools and begins to condense into clouds."
   },
   {
     "id": 1076,
-    "word": "License",
-    "phonetic": "/ˈlaɪsns/",
-    "翻译": "n. 执照，许可证；vt. 特许",
-    "sentence": "You need to pass a driving test to get a driver's license."
+    "word": "Conduct",
+    "phonetic": "/kənˈdʌkt/",
+    "翻译": "v. 进行（实验），传导（在科学研究中指研究人员严格按照流程亲自组织、实施某项社会调查或物理试验；在材料学中指金属传导热量、电流）",
+    "sentence": "The lab will conduct a long-term study to monitor how fish react to water pollution."
   },
   {
     "id": 1077,
-    "word": "Mature",
-    "phonetic": "/məˈtʃʊr/",
-    "翻译": "adj. 成熟的；v. 成熟",
-    "sentence": "He showed a very mature attitude toward dealing with the crisis."
+    "word": "Confer",
+    "phonetic": "/kənˈfɜːr/",
+    "翻译": "v. 赋予，带来（在进化生物学中，指某种特定的基因突变、生理构造在面对严酷自然选择时，能够赋予该个体更强的生存与繁衍竞争优势）",
+    "sentence": "Thick layer of blubber confer a massive survival advantage to marine mammals in polar waters."
   },
   {
     "id": 1078,
-    "word": "Modify",
-    "phonetic": "/ˈmɑːdɪfaɪ/",
-    "翻译": "vt. 修改，修饰",
-    "sentence": "We had to modify our original plans due to the bad weather."
+    "word": "Confine",
+    "phonetic": "/kənˈfaɪn/",
+    "翻译": "v. 限制，禁锢（在地理隔离或生态研究中，指由于高山、海洋、沙漠等天然地理屏障的阻隔，导致某特定珍稀物种的栖息范围被死死局限在狭小孤立区域）",
+    "sentence": "The steep mountain ranges manage to confine the rare flower to a single valley."
   },
   {
     "id": 1079,
-    "word": "Network",
-    "phonetic": "/ˈnetwɜːrk/",
-    "翻译": "n. 网络，网状物",
-    "sentence": "The local railway network connects all major towns in the area."
+    "word": "Confirm",
+    "phonetic": "/kənˈfɜːrm/",
+    "翻译": "v. 证实，确证（指通过多次独立的重复实验、发掘出新的文字碑刻铭文，从而彻底坐实、确证了此前某个猜测或理论的正确性）",
+    "sentence": "Satellite imagery managed to confirm the existence of ancient irrigation canals in the sands."
   },
   {
     "id": 1080,
-    "word": "Option",
-    "phonetic": "/ˈɑːpʃn/",
-    "翻译": "n. 选择，选项",
-    "sentence": "Students have the option to study a second foreign language."
+    "word": "Conflict",
+    "phonetic": "/ˈkɒnflɪkt/",
+    "翻译": "n. / v. 冲突，抵触（指两个不同的土著群体因争夺水源而爆发的物理对抗；或者在科学论证中，新发现的实验结果与旧理论之间产生的尖锐对立）",
+    "sentence": "The newly gathered carbon dates conflict sharply with earlier historical timelines."
   },
   {
     "id": 1081,
-    "word": "Perspective",
-    "phonetic": "/pərˈspektɪv/",
-    "翻译": "n. 视角，观点，远景",
-    "sentence": "Traveling helps people gain a broader perspective on different cultures."
+    "word": "Conform",
+    "phonetic": "/kənˈfɔːrm/",
+    "翻译": "v. 遵从，符合（在社会学中指个体为了不被排斥而选择顺应、遵守群体的行为规范和主流价值观；在自然科学中指某些测量值完全符合物理学定律）",
+    "sentence": "Members of the early agricultural community were expected to conform to collective schedules."
   },
   {
     "id": 1082,
-    "word": "Pursue",
-    "phonetic": "/pərˈsuː/",
-    "翻译": "vt. 追求，追赶，从事",
-    "sentence": "She decided to move to New York to pursue her career in fashion."
+    "word": "Confront",
+    "phonetic": "/kənˈfrʌnt/",
+    "翻译": "v. 直面，面对（指某地区由于人口暴增而不得不直面水资源枯竭的生存死局；或者动物在野外直面掠食者的生死时刻）",
+    "sentence": "Island species often suffer terribly when forced to confront aggressive introduced predators."
   },
   {
     "id": 1083,
-    "word": "Retain",
-    "phonetic": "/rɪˈteɪn/",
-    "翻译": "vt. 保持，保留",
-    "sentence": "The company managed to retain its core customers despite the crisis."
+    "word": "Congestion",
+    "phonetic": "/kənˈdʒestʃən/",
+    "翻译": "n. 拥堵，拥挤（在城市规划学中特指因交通系统规划不善、人口密度过高导致道路干线、物流枢纽发生的严重交通瘫痪阻滞现象）",
+    "sentence": "The ancient Roman capital suffered from constant traffic congestion on its narrow streets."
   },
   {
     "id": 1084,
-    "word": "Sequence",
-    "phonetic": "/ˈsiːkwəns/",
-    "翻译": "n. 序列，顺序，一连串",
-    "sentence": "The historical events are arranged in a chronological sequence."
+    "word": "Consequent",
+    "phonetic": "/ˈkɒnsɪkwənt/",
+    "翻译": "adj. 随之发生的，作为结果的（在学术因果逻辑中，特指由于前一个地质灾害、物种入侵或经济崩溃所直接必然导致的下一个连锁反应）",
+    "sentence": "The heavy industrial pollution and consequent decline in water quality alarmed the public."
   },
   {
     "id": 1085,
-    "word": "Sustain",
-    "phonetic": "/səˈsteɪn/",
-    "翻译": "vt. 维持，支撑，承受",
-    "sentence": "The country needs new economic reforms to sustain its growth."
+    "word": "Conservation",
+    "phonetic": "/ˌkɒnsəˈveɪʃn/",
+    "翻译": "n. 保护，保存（在生态学和环境科学中，指为了防止濒危物种灭绝、自然资源耗尽而实施的长期、有计划的保护区的设立和法律干预行为）",
+    "sentence": "Wildlife conservation groups are struggling to save the remaining wetland ecosystems."
   },
   {
     "id": 1086,
-    "word": "Topic",
-    "phonetic": "/ˈtɑːpɪk/",
-    "翻译": "n. 话题，主题",
-    "sentence": "The environment has become a popular topic of conversation recently."
+    "word": "Considerable",
+    "phonetic": "/kənˈsɪdərəbl/",
+    "翻译": "adj. 相当大的，值得考虑的（指数量、体量、金额或者地质影响范围巨大到不容忽视，在科学统计上具有极高权重和显著意义的）",
+    "sentence": "The building of the grand aqueduct required a considerable amount of stone and labor."
   },
   {
     "id": 1087,
-    "word": "Undergo",
-    "phonetic": "/ˌʌndərˈɡoʊ/",
-    "翻译": "vt. 经历，遭受，承受",
-    "sentence": "The old building will undergo extensive renovations next month."
+    "word": "Consistent",
+    "phonetic": "/kənˈsɪstənt/",
+    "翻译": "adj. 一致的，连贯的（在科学实验中，指多次重复测试所获得的一系列数据在统计曲线上高度重合、没有出现自相矛盾的波动）",
+    "sentence": "The results of the third trial are entirely consistent with the original data."
   },
   {
     "id": 1088,
-    "word": "Valid",
-    "phonetic": "/ˈvælɪd/",
-    "翻译": "adj. 有效的，正当的",
-    "sentence": "Your passport must be valid for at least six more months."
+    "word": "Consolidate",
+    "phonetic": "/kənˈsɒlɪdeɪt/",
+    "翻译": "v. 巩固，合并（在历史政治学中指统治阶层通过中央集权或联姻，将零散脆弱的松散部落联盟转化为牢固一统的强大政权）",
+    "sentence": "The king managed to consolidate his power by gaining total control over regional trade."
   },
   {
     "id": 1089,
-    "word": "Visible",
-    "phonetic": "/ˈvɪzəbl/",
-    "翻译": "adj. 看得见的，明显的",
-    "sentence": "The stars were clearly visible in the dark night sky."
+    "word": "Conspicuous",
+    "phonetic": "/kənˈspɪkjuəs/",
+    "翻译": "adj. 显著的，引人注目的（在动物警戒色进化研究中，指某些剧毒昆虫或鸟类长着极度鲜艳、对比强烈、在森林中大老远就能被看清的色彩）",
+    "sentence": "The bright red plumage of the male cardinal makes it highly conspicuous to predators."
   },
   {
     "id": 1090,
-    "word": "Advantage",
-    "phonetic": "/ədˈvæntɪdʒ/",
-    "翻译": "n. 优势，有利条件",
-    "sentence": "Speaking a foreign language gives you a great advantage in business."
+    "word": "Constant",
+    "phonetic": "/ˈkɒnstənt/",
+    "翻译": "adj. 恒定的，持续不断的（在物理学和数学中，指数值、环境温度、或某一特定地壳板块的运移速率在漫长时间里始终保持一条直线、不增不减）",
+    "sentence": "Deep ocean environments are characterized by constant temperatures and complete darkness."
   },
   {
     "id": 1091,
-    "word": "Advocate",
-    "phonetic": "/ˈædvəkət/",
-    "翻译": "vt. 提倡，主张；n. 提倡者",
-    "sentence": "Many doctors advocate eating more fresh fruits and vegetables."
+    "word": "Constituent",
+    "phonetic": "/kənˈstɪtʃuənt/",
+    "翻译": "n. 成分，选民 adj. 构成的（在化学和地质学中，指构成某种复合岩石、矿石结晶或者大气混合气体的每一个不可分割的基础化学微粒）",
+    "sentence": "Quartz is a primary constituent element found in many types of continental granite."
   },
   {
     "id": 1092,
-    "word": "Attribute",
-    "phonetic": "/əˈtrɪbjuːt/",
-    "翻译": "vt. 把……归因于；n. 属性",
-    "sentence": "He attributes his business success to hard work and patience."
+    "word": "Constrain",
+    "phonetic": "/kənˈstreɪn/",
+    "翻译": "v. 限制，束缚（指极度缺乏氮肥的环境客观上死死限制了该地区植被的繁茂程度，或者干旱限制了某些物种的繁殖率）",
+    "sentence": "Limited nutrients in the soil heavily constrain the seasonal growth of the crops."
   },
   {
     "id": 1093,
-    "word": "Bias",
-    "phonetic": "/ˈbaɪəs/",
-    "翻译": "n. 偏见，偏爱",
-    "sentence": "The reporter tried to write the article without political bias."
+    "word": "Consume",
+    "phonetic": "/kənˈsuːm/",
+    "翻译": "v. 消耗，吞噬（在生态系统食物链中指捕食者吃掉猎物以获取卡路里；或指野外熊熊森林大火在短时间内将成片树木彻底化为灰烬）",
+    "sentence": "Large predatory mammals must consume vast amounts of meat daily to maintain energy."
   },
   {
     "id": 1094,
-    "word": "Commit",
-    "phonetic": "/kəˈmɪt/",
-    "翻译": "vt. 犯（错误、罪行），使承担义务",
-    "sentence": "The company is willing to commit more funds to research."
+    "word": "Contemporary",
+    "phonetic": "/kənˈtemprəri/",
+    "翻译": "adj. 当代的，同时代的 n. 同时代的人（在历史学和艺术史中，指与某个特定历史人物或文化运动处于同一时间横切面、并存生存的现象）",
+    "sentence": "Our primary understanding of the event comes from contemporary historical diaries."
   },
   {
     "id": 1095,
-    "word": "Core",
-    "phonetic": "/kɔːr/",
-    "翻译": "n. 核心，果核；adj. 核心的",
-    "sentence": "The core problem of the project is a lack of financial support."
+    "word": "Contend",
+    "phonetic": "/kənˈtend/",
+    "翻译": "v. 主张，争论（在学术争鸣中，指某位科学家坚决、有力地提出并公开辩护自己的学术观点，与主流或者传统学术权威分庭抗礼）",
+    "sentence": "Some geologists contend that a sudden asteroid impact was the sole cause of extinction."
   },
   {
     "id": 1096,
-    "word": "Domain",
-    "phonetic": "/doʊˈmeɪn/",
-    "翻译": "n. 领域，领土，域名",
-    "sentence": "Medical research is an area outside my professional domain."
+    "word": "Context",
+    "phonetic": "/ˈkɒntekst/",
+    "翻译": "n. 上下文，背景（在考古学或人类学中，指发掘出的某件古物所处的具体地层深度、周围并存遗迹等能够决定其真正历史含义的整体客观环境）",
+    "sentence": "Without understanding the historical context, the ancient law codes make little sense."
   },
   {
     "id": 1097,
-    "word": "Enhance",
-    "phonetic": "/ɪnˈhæns/",
-    "翻译": "vt. 提高，增强",
-    "sentence": "The new software will significantly enhance system performance."
+    "word": "Continental",
+    "phonetic": "/ˌkɒntɪˈnentl/",
+    "翻译": "adj. 大陆的，大陆性的（在地质学和气候学中，特指与庞大的非海洋陆地板块、大陆架或者远离海洋、四季温差极大的大陆性气候紧密相关的）",
+    "sentence": "The continental crust is significantly thicker and less dense than the oceanic crust."
   },
   {
     "id": 1098,
-    "word": "Framework",
-    "phonetic": "/ˈfreɪmwɜːrk/",
-    "翻译": "n. 框架，结构",
-    "sentence": "The treaty provides a legal framework for international trade."
+    "word": "Contradict",
+    "phonetic": "/ˌkɒntrəˈdɪkt/",
+    "翻译": "v. 反驳，与…矛盾（指最新完成的深海钻探岩心样本所展现的数据，直接从根本上否定、推翻了此前流行了几十年的古气候假说）",
+    "sentence": "These new fossil discoveries directly contradict previous theories about bird evolution."
   },
   {
     "id": 1099,
-    "word": "Incentive",
-    "phonetic": "/ɪnˈsentɪv/",
-    "翻译": "n. 激励，刺激，鼓励",
-    "sentence": "The company offers a cash bonus as an incentive to work harder."
+    "word": "Contribute",
+    "phonetic": "/kənˈtrɪbjuːt/",
+    "翻译": "v. 贡献，促成（在多因素学术分析中，指某个特定的因子或人为温室气体排放，是造成最终温室效应加剧的重要催化力量之一）",
+    "sentence": "Widespread deforestation continues to contribute directly to rising global carbon levels."
   },
   {
     "id": 1100,
-    "word": "Interact",
-    "phonetic": "/ˌɪntərˈækt/",
-    "翻译": "vi. 互动，相互作用",
-    "sentence": "Teachers should encourage students to interact with each other."
+    "word": "Controversial",
+    "phonetic": "/ˌkɒntrəˈvɜːrʃl/",
+    "翻译": "adj. 有争议的（指某个新提出的科学学说、物种分类调整或者历史事件的定性，在当前的学术界引发了各派学者面红耳赤的公开大论战）",
+    "sentence": "The extraction of natural gas through fracking remains a highly controversial environmental issue."
   },
   {
     "id": 1101,
-    "word": "Link",
-    "phonetic": "/lɪŋk/",
-    "翻译": "n. 链接，联系；vt. 连接",
-    "sentence": "Scientists discovered a clear link between smoking and lung cancer."
+    "word": "Convene",
+    "phonetic": "/kənˈviːn/",
+    "翻译": "v. 召集，开会（指为了应对突发性的公共生态灾难或者国际性学术危机，官方正式下令召集世界各地的顶级专家举办紧急研讨会）",
+    "sentence": "The academy decided to convene an emergency council to discuss the bird flu outbreak."
   },
   {
     "id": 1102,
-    "word": "Margin",
-    "phonetic": "/ˈmɑːrdʒɪn/",
-    "翻译": "n. 页边空白，边缘，利润空间",
-    "sentence": "Please write your notes in the right margin of the paper."
+    "word": "Conventional",
+    "phonetic": "/kənˈvenʃənl/",
+    "翻译": "adj. 传统的，常规的（指在某个行业、学术界或者日常农业耕作中，被人们长久沿用、墨守成规、视作标准常规的传统方法或开采技术）",
+    "sentence": "Organic farmers avoid conventional agricultural methods that rely heavily on chemical pesticides."
   },
   {
     "id": 1103,
-    "word": "Orient",
-    "phonetic": "/ˈɔːrient/",
-    "翻译": "vt. 使适应，以……为方向",
-    "sentence": "The introductory course helps orient new students to campus life."
+    "word": "Converge",
+    "phonetic": "/kənˈvɜːrdʒ/",
+    "翻译": "v. 汇聚，聚集（指多条河流在山谷低洼处汇合成大河，或者在演化生物学中指两种亲缘关系极远的生物因面临相同生存压力而向同种特征演化）",
+    "sentence": "Tens of thousands of migrating caribou converge on the river bank every spring."
   },
   {
     "id": 1104,
-    "word": "Publish",
-    "phonetic": "/ˈpʌblɪʃ/",
-    "翻译": "v. 出版，发行，公布",
-    "sentence": "The academic journal will publish her research paper next month."
+    "word": "Convey",
+    "phonetic": "/kənˈveɪ/",
+    "翻译": "v. 传达，运输（在动物行为学中指灵长类动物通过特定的面部表情、嘶吼声向同伴精准传递出周围有猛兽逼近的危险战争信号）",
+    "sentence": "Honeybees use complex dances to convey the exact location of food sources to the hive."
   },
   {
     "id": 1105,
-    "word": "Regulate",
-    "phonetic": "/ˈreɡjuleɪt/",
-    "翻译": "vt. 管制，控制，调节",
-    "sentence": "New safety laws were introduced to regulate the chemical industry."
+    "word": "Copious",
+    "phonetic": "/ˈkəʊpiəs/",
+    "翻译": "adj. 丰富的，大量的（指某次火山大喷发释放出了海量的二氧化硫气体，或者某个历史遗迹中出土了数量极度庞大丰富的文书档案）",
+    "sentence": "The ancient scholar took copious notes during his travels throughout Eurasia."
   },
   {
     "id": 1106,
-    "word": "Shift",
-    "phonetic": "/ʃɪft/",
-    "翻译": "v./n. 转移，转变，轮班",
-    "sentence": "There has been a significant shift in public opinion on the issue."
+    "word": "Core",
+    "phonetic": "/kɔːr/",
+    "翻译": "n. 核心，地核 adj. 最主要的（在地质学中特指地球最中心、温度压力极高的金属铁镍核心；在跨学科研究中指某个理论最基础、稳固的核心支撑部分）",
+    "sentence": "The team drilled deep into the ice sheet to extract a cylindrical core sample."
   },
   {
     "id": 1107,
-    "word": "Task",
-    "phonetic": "/tæsk/",
-    "翻译": "n. 任务，工作",
-    "sentence": "Cleaning the entire warehouse was a difficult and boring task."
+    "word": "Correlate",
+    "phonetic": "/ˈkɒrəleɪt/",
+    "翻译": "v. 相互关联（在统计学和气候学中，指两个完全不同的变量，例如树木年轮的宽窄与当年的降雨量之间，存在着高度正相关的统计学对应关系）",
+    "sentence": "Studies show that heavy industrial output tends to correlate with increased smog days."
   },
   {
     "id": 1108,
-    "word": "Underlie",
-    "phonetic": "/ˌʌndərˈlaɪ/",
-    "翻译": "vt. 成为……的基础，位于……之下",
-    "sentence": "A deep social economic crisis underlies the political unrest."
+    "word": "Correspond",
+    "phonetic": "/ˌkɒrəˈspɒnd/",
+    "翻译": "v. 相符合，相一致（指从某一考古遗址发掘出的陶器纹饰，刚好与同一历史时期另一书面典籍中记载的部落图腾完全契合呼应）",
+    "sentence": "The layers of dark ash correspond precisely to the dates of known volcanic eruptions."
   },
   {
     "id": 1109,
-    "word": "Accuse",
-    "phonetic": "/əˈkjuːz/",
-    "翻译": "vt. 指控，控告，谴责",
-    "sentence": "You should not accuse him of lying without showing proof first."
+    "word": "Corrode",
+    "phonetic": "/kəˈrəʊd/",
+    "翻译": "v. 腐蚀，侵蚀（在化学与冶金学中，指金属材料由于长年暴露在潮湿、含盐量极高的空气或酸性液体中，发生电化学反应而表面剥落变质）",
+    "sentence": "Saltwater will rapidly corrode the iron bolts on ocean research equipment."
   },
   {
     "id": 1110,
-    "word": "Acknowledge",
-    "phonetic": "/əkˈnɑːlɪdʒ/",
-    "翻译": "vt. 承认，鸣谢，告知收到",
-    "sentence": "The government refused to acknowledge the results of the election."
+    "word": "Counteract",
+    "phonetic": "/ˌkaʊntərˈækt/",
+    "翻译": "v. 抵消，对抗（指通过人为向大气层喷射气溶胶、或者生物体内部自发分泌碱性物质，来有效对冲、抵消过高酸性所带来的破坏性恶果）",
+    "sentence": "Certain desert plants produce chemical compounds to counteract the effects of high soil salinity."
   },
   {
     "id": 1111,
-    "word": "Acquire",
-    "phonetic": "/əˈkwaɪər/",
-    "翻译": "vt. 获得，学到，取得",
-    "sentence": "She managed to acquire a reputation as an expert in the field."
+    "word": "Counterpart",
+    "phonetic": "/ˈkaʊntəpɑːt/",
+    "翻译": "n. 对应的人或物（在横向跨区域对比研究中，指在另一个孤立生态系统、或另一个古代文明中，处于完全相同生态位、或担任完全相同社会职责的对应事物）",
+    "sentence": "The North American bison is a close relative of its European counterpart."
   },
   {
     "id": 1112,
-    "word": "Adapt",
-    "phonetic": "/əˈdæpt/",
-    "翻译": "v. 适应，改编",
-    "sentence": "It takes time for international students to adapt to a new culture."
+    "word": "Crater",
+    "phonetic": "/ˈkreɪtər/",
+    "翻译": "n. 火山口，陨石坑（在天文学和地质学中，特指火山猛烈喷发后在山顶留下的碗状凹陷，或者是巨大的外天体流星猛烈撞击行星表面炸裂出的深坑）",
+    "sentence": "The massive impact crater spans over twenty miles across the desert floor."
   },
   {
     "id": 1113,
-    "word": "Adequate",
-    "phonetic": "/ˈædɪkwət/",
-    "翻译": "adj. 充足的，适当的",
-    "sentence": "The old hospital lacks adequate medical equipment for emergencies."
+    "word": "Credible",
+    "phonetic": "/ˈkredəbl/",
+    "翻译": "adj. 可信的，可靠的（在历史文献考证或科学实验中，指证据来源清晰正规、实验方法无懈可击、完全经得起同行严格评议质疑的成果）",
+    "sentence": "The laboratory generated credible data that supported the newly proposed chemical model."
   },
   {
     "id": 1114,
-    "word": "Adjust",
-    "phonetic": "/əˈdʒʌst/",
-    "翻译": "vt. 调整，校准，使适应",
-    "sentence": "You can adjust the height of the chair to make it comfortable."
+    "word": "Criteria",
+    "phonetic": "/kraɪˈtɪəriə/",
+    "翻译": "n. 标准，准则（在进行物种归类、评估某片森林是否应被列入国家级生态保护区、或者评判实验结果是否成功时，所必须严格依循的一套核心量化指标）",
+    "sentence": "The primary criteria for selecting the fossil site included accessibility and safety."
   },
   {
     "id": 1115,
-    "word": "Adopt",
-    "phonetic": "/əˈdɑːpt/",
-    "翻译": "vt. 采用，收养，接受",
-    "sentence": "The local council decided to adopt a new strategy for recycling."
+    "word": "Critical",
+    "phonetic": "/ˈkrɪtɪkl/",
+    "翻译": "adj. 关键的，批判性的（在生态系统中指某关键物种的存在对维持整个食物网的不崩盘起到了生死攸关的维系作用；或指具有高度理性的学术审视态度）",
+    "sentence": "Pollination is a critical stage in the life cycle of flowering forest plants."
   },
   {
     "id": 1116,
-    "word": "Advance",
-    "phonetic": "/ədˈvæns/",
-    "翻译": "v. 前进，推进；n. 进步",
-    "sentence": "Medical technology continues to advance at a rapid pace."
+    "word": "Crude",
+    "phonetic": "/kruːd/",
+    "翻译": "adj. 粗糙的，天然的（在工业或历史学中指尚未经过现代精炼工艺提纯的天然原油；或者指远古人类用粗糙打制方式做出的、极其简陋的石器工具）",
+    "sentence": "Early humans crafted crude stone axes to butcher large animals for food."
   },
   {
     "id": 1117,
-    "word": "Affect",
-    "phonetic": "/əˈfekt/",
-    "翻译": "vt. 影响，感动",
-    "sentence": "Smoking can seriously affect your health over a long time."
+    "word": "Crust",
+    "phonetic": "/krʌst/",
+    "翻译": "n. 地壳，外壳（在地质学中特指地球最外层、主要由固态岩石构成的冰冷坚硬外壳；也指盐碱地表面因水分蒸发后形成的一层坚硬白色盐霜外皮）",
+    "sentence": "The Earth's crust is divided into several major tectonic plates that move slowly."
   },
   {
     "id": 1118,
-    "word": "Agent",
-    "phonetic": "/ˈeɪdʒənt/",
-    "翻译": "n. 代理商，经纪人，特工",
-    "sentence": "Please contact our travel agent to book your flight tickets."
+    "word": "Crystalline",
+    "phonetic": "/ˈkrɪstəlaɪn/",
+    "翻译": "adj. 水晶般的，结晶的（在矿物学中指某种物质其内部的原子或分子排列表现出高度几何对称、整齐划一的固态结晶构造）",
+    "sentence": "Deep below the surface, magma cools slowly to form large crystalline rocks."
   },
   {
     "id": 1119,
-    "word": "Aggregate",
-    "phonetic": "/ˈæɡrɪɡət/",
-    "翻译": "n. 总数；adj. 总共的；v. 总计",
-    "sentence": "The aggregate profits of the company reached a record high."
+    "word": "Cultivate",
+    "phonetic": "/ˈkʌltɪveɪt/",
+    "翻译": "v. 耕作，培养（指新石器时代的原始人类告别采摘、开始在开垦的土地上人工播种、改良作物品种；也指在实验室培养皿里定向培育某种菌株）",
+    "sentence": "Ancient native peoples learned to cultivate maize along the fertile river floodplains."
   },
   {
     "id": 1120,
-    "word": "Allocate",
-    "phonetic": "/ˈæləkeɪt/",
-    "翻译": "vt. 分配，拨给",
-    "sentence": "The committee decided to allocate more money to education."
+    "word": "Cumulative",
+    "phonetic": "/ˈkjuːmjələtɪv/",
+    "翻译": "adj. 累积的，渐增的（指微小的环境污染或地表沉降在经历了几百年的长年累月之后，所产生的一种极为恐怖、威力巨大的总和叠加效应）",
+    "sentence": "The cumulative effect of years of minor flooding transformed the landscape into a marsh."
   },
   {
     "id": 1121,
-    "word": "Annual",
-    "phonetic": "/ˈænjuəl/",
-    "翻译": "adj. 每年的，年度的",
-    "sentence": "The company holds its annual general meeting every September."
+    "word": "Currency",
+    "phonetic": "/ˈkʌrənsi/",
+    "翻译": "n. 货币，通用（在经济史中指某种在特定帝国或贸易圈内部被官方指定、被商旅广泛接受作为交换媒介的金银币、贝壳或纸币系统）",
+    "sentence": "Cowrie shells served as a widespread form of currency in ancient African kingdoms."
   },
   {
     "id": 1122,
-    "word": "Apparent",
-    "phonetic": "/əˈpærənt/",
-    "翻译": "adj. 显然的，表面上的",
-    "sentence": "It became apparent that the two sides would not reach an agreement."
+    "word": "Debris",
+    "phonetic": "/dəˈbriː/",
+    "翻译": "n. 残骸，碎片（指岩体大塌方、房屋坍塌、或者彗星炸裂后，漫天散落、堆积在山脚或散布在太空轨道上的不规则物理碎块残渣）",
+    "sentence": "After the glacier retreated, it left behind a massive wall of rocky debris."
   },
   {
     "id": 1123,
-    "word": "Approach",
-    "phonetic": "/əˈproʊtʃ/",
-    "翻译": "v. 接近，靠近；n. 方法",
-    "sentence": "We need to try a different approach to solve this mystery."
+    "word": "Decay",
+    "phonetic": "/dɪˈkeɪ/",
+    "翻译": "v. / n. 腐烂，衰变（在生态学中指死去的动植物尸体在真菌和细菌的作用下发生有机质分解归还土壤；在核物理学中指放射性同位素的定时自然衰变）",
+    "sentence": "The damp conditions of the temperate rainforest cause fallen logs to decay rapidly."
   },
   {
     "id": 1124,
-    "word": "Appropriate",
-    "phonetic": "/əˈproʊprieɪt/",
-    "翻译": "adj. 适当的，恰当的",
-    "sentence": "Jeans are not appropriate clothes for a formal job interview."
+    "word": "Decisive",
+    "phonetic": "/dɪˈsaɪsɪv/",
+    "翻译": "adj. 决定性的（指在一场旷日持久的古代战争、或者漫长的进化竞争中，某次决定性的气候严寒导致了其中一方遭遇彻底被淘汰出局的决定性终局）",
+    "sentence": "The invention of iron weapons played a decisive role in the expansion of the empire."
   },
   {
     "id": 1125,
-    "word": "Approximate",
-    "phonetic": "/əˈprɑːksɪmət/",
-    "翻译": "adj. 近似的，大约的",
-    "sentence": "Could you give me an approximate cost for the house repair?"
+    "word": "Decline",
+    "phonetic": "/dɪˈklaɪn/",
+    "翻译": "v. / n. 下降，衰落（指由于环境恶化导致某种濒危珍稀野生鸟类的总群落数量连年呈现不可逆的断崖式下跌；或者指一个伟大的帝国走入末路）",
+    "sentence": "A sharp decline in the sea otter population allowed sea urchins to overpopulate."
   },
   {
     "id": 1126,
-    "word": "Area",
-    "phonetic": "/ˈeriə/",
-    "翻译": "n. 面积，地区，领域",
-    "sentence": "The central area of the city is closed to traffic on weekends."
+    "word": "Decompose",
+    "phonetic": "/ˌdiːkəmˈpəʊz/",
+    "翻译": "v. 分解，腐烂（在生物化学和环境科学中，特指微生物将极其复杂的落叶有机化合物彻底拆解、转化为最基础的无机物和二氧化碳的过程）",
+    "sentence": "Bacteria in the soil decompose leaf litter, releasing vital nutrients back to the earth."
   },
   {
     "id": 1127,
-    "word": "Aspect",
-    "phonetic": "/ˈæspekt/",
-    "翻译": "n. 方面，方向，外观",
-    "sentence": "We must consider every aspect of the problem before deciding."
+    "word": "Deficiency",
+    "phonetic": "/dɪˈfɪʃnsi/",
+    "翻译": "n. 缺乏，缺陷（在植物病理学或营养学中，指由于土壤中极度缺少某种微量元素，导致庄稼叶片发黄、生长发育严重畸形受阻的病态生理现象）",
+    "sentence": "A severe deficiency of iron in the soil can turn growing plant leaves yellow."
   },
   {
     "id": 1128,
-    "word": "Assemble",
-    "phonetic": "/əˈsembl/",
-    "翻译": "v. 集合，组装，聚集",
-    "sentence": "The students were asked to assemble in the main school yard."
+    "word": "Deforestation",
+    "phonetic": "/ˌdiːˌfɒrɪˈsteɪʃn/",
+    "翻译": "n. 砍伐森林，大面积毁林（指人类为了全面开垦农田或者获取木材，对原始热带雨林实施的毁灭性、大面积彻底砍伐与焚烧行为）",
+    "sentence": "Widespread deforestation has destroyed the natural habitat of thousands of rare species."
   },
   {
     "id": 1129,
-    "word": "Assess",
-    "phonetic": "/əˈses/",
-    "翻译": "vt. 评估，评定，估算",
-    "sentence": "The experts will arrive to assess the damage caused by the storm."
+    "word": "Degradation",
+    "phonetic": "/ˌdeɡrəˈdeɪʃn/",
+    "翻译": "n. 退化，降解（在土地与资源管理中，指由于过度放牧、滥砍滥伐导致原本肥沃的土壤性质发生灾难性恶化，逐步演变成无法存活作物的荒漠）",
+    "sentence": "Overgrazing by cattle is a primary cause of soil degradation in semi-arid zones."
   },
   {
     "id": 1130,
-    "word": "Assign",
-    "phonetic": "/əˈsaɪn/",
-    "翻译": "vt. 分配，指派，指定",
-    "sentence": "The teacher will assign a new reading project to the class."
+    "word": "Deliberate",
+    "phonetic": "/dɪˈlɪbərət/",
+    "翻译": "adj. 故意的，深思熟虑的（指印第安土著为了改良森林生态系统而实施的有预谋、有特定控制目标的季节性主动放火烧山行为）",
+    "sentence": "The forest fires were not accidental; they were a deliberate tool used by early farmers."
   },
   {
     "id": 1131,
-    "word": "Assist",
-    "phonetic": "/əˈsɪst/",
-    "翻译": "v. 协助，帮助",
-    "sentence": "A team of volunteers arrived to assist the local rescue team."
+    "word": "Delicate",
+    "phonetic": "/ˈdelɪkət/",
+    "翻译": "adj. 微妙的，脆弱的（指珊瑚礁或者高山草甸生态系统其内部的能量和物种关系平衡极其脆弱微妙，经不起哪怕一丝一毫的外界人为污染和触碰）",
+    "sentence": "The delicate balance of the reef ecosystem can be easily disrupted by minor temperature rises."
   },
   {
     "id": 1132,
-    "word": "Assume",
-    "phonetic": "/əˈsuːm/",
-    "翻译": "vt. 假设，假定，承担",
-    "sentence": "Do not assume that he knows the answer just because he is quiet."
+    "word": "Demise",
+    "phonetic": "/dɪˈmaɪz/",
+    "翻译": "n. 灭亡，消亡（在历史学和人类文明史中，特指一个曾经极度辉煌的封建王朝、古代城市或者某一个庞大的古生物种群彻底绝迹、覆灭的终结状态）",
+    "sentence": "Climatologists suspect that a sudden century-long drought led to the demise of the city."
   },
   {
     "id": 1133,
-    "word": "Assure",
-    "phonetic": "/əˈʃʊr/",
-    "翻译": "vt. 向……保证，使确信",
-    "sentence": "I can assure you that your personal information is safe here."
+    "word": "Dense",
+    "phonetic": "/dens/",
+    "翻译": "adj. 稠密的，密集的（指亚马逊热带雨林中乔木灌木遮天蔽日、叫人寸步难行的极高植被密度；或者指物理材质中分子排列极度紧密、密度极高）",
+    "sentence": "The hunters struggled to navigate through the dense thickets of the coastal forest."
   },
   {
     "id": 1134,
-    "word": "Attach",
-    "phonetic": "/əˈtætʃ/",
-    "翻译": "v. 附加，贴上，系上",
-    "sentence": "Please remember to attach your photo to the application form."
+    "word": "Density",
+    "phonetic": "/ˈdensəti/",
+    "翻译": "n. 密度（在物理学中指单位体积内物体的质量；在生态学中特指单位地理面积或体积内，某特定野生动物个体的存活总数量）",
+    "sentence": "The population density of gray wolves depends heavily on the availability of deer."
   },
   {
     "id": 1135,
-    "word": "Attain",
-    "phonetic": "/əˈteɪn/",
-    "翻译": "vt. 达到，获得",
-    "sentence": "She worked very hard to attain a high degree of skill in music."
+    "word": "Depict",
+    "phonetic": "/dɪˈpɪkt/",
+    "翻译": "v. 描绘，描述（在考古学艺术史中，特指旧石器时代的远古猎人在洞穴深处的岩壁上，用天然矿物颜料生动刻画、勾勒出野牛、长毛象的写实图案）",
+    "sentence": "The cave paintings vividly depict herds of prehistoric horses being hunted by tribal men."
   },
   {
     "id": 1136,
-    "word": "Attitude",
-    "phonetic": "/ˈætɪtuːd/",
-    "翻译": "n. 态度，看法",
-    "sentence": "Having a positive attitude can help you overcome daily challenges."
+    "word": "Deplete",
+    "phonetic": "/dɪˈpliːt/",
+    "翻译": "v. 耗尽，使枯竭（指在工业化开采过程中，人类在短短几十年内将地底储藏了数亿年的煤炭、非再生地下水彻底开采抽干、消耗殆尽）",
+    "sentence": "Intensive farming practices can rapidly deplete the soil of essential organic nitrogen."
   },
   {
     "id": 1137,
-    "word": "Author",
-    "phonetic": "/ˈɔːθər/",
-    "翻译": "n. 作者，作家",
-    "sentence": "The famous author spent three years writing his latest novel."
+    "word": "Deposit",
+    "phonetic": "/dɪˈpɒzɪt/",
+    "翻译": "v. 沉积，沉淀 n. 矿床（指浩浩荡荡的河流携带了大量的泥沙流向入海口，由于流速骤降，泥沙在河口层层堆积、淤积下来的物理过程）",
+    "sentence": "As the floodwaters slow down, they deposit layers of fertile silt across the valley plains."
   },
   {
     "id": 1138,
-    "word": "Authority",
-    "phonetic": "/əˈθɔːrəti/",
-    "翻译": "n. 权威，权力，当局",
-    "sentence": "The local authority decided to build a new public park here."
+    "word": "Depression",
+    "phonetic": "/dɪˈpreʃn/",
+    "翻译": "n. 洼地，萧条（在地理学中指低于海平面或周围地表的一大片天然碗状低洼地形；在经济学中特指全社会工厂倒闭、失业率冲天的长达数年的经济大危机）",
+    "sentence": "Rainwater pooled in the shallow depression on the rocky surface, creating a temporary pond."
   },
   {
     "id": 1139,
-    "word": "Automate",
-    "phonetic": "/ˈɔːtəmeɪt/",
-    "翻译": "v. 使自动化",
-    "sentence": "The company plans to automate its assembly line to save time."
+    "word": "Derive",
+    "phonetic": "/dɪˈraɪv/",
+    "翻译": "v. 源于，获得（在化学提纯和演化史中，指某种高效的治病抗生素是从某种罕见的深林真菌提取物中提炼出来的；或者某个词汇源于古希腊语）",
+    "sentence": "Many modern medicines are actively derived from rare plants found in remote tropical forests."
   },
   {
     "id": 1140,
-    "word": "Available",
-    "phonetic": "/əˈveɪləbl/",
-    "翻译": "adj. 可用的，可得到的",
-    "sentence": "Free internet access is available in all public libraries."
+    "word": "Desolate",
+    "phonetic": "/ˈdesələt/",
+    "翻译": "adj. 荒凉的，无人烟的（形容极地、高海拔雪山顶部或者极度缺水的内陆大沙漠中央，生命绝迹、狂风呼啸、环境死寂且异常残酷的地理景观）",
+    "sentence": "The robotic rover sent back panoramic images of the desolate, rocky Martian landscape."
   },
   {
     "id": 1141,
-    "word": "Benefit",
-    "phonetic": "/ˈbenɪfɪt/",
-    "翻译": "n. 利益，好处；v. 有益于",
-    "sentence": "The new community library will benefit people of all ages."
+    "word": "Detection",
+    "phonetic": "/dɪˈtekʃn/",
+    "翻译": "n. 检测，察觉（指利用最新研制的高精度超声波声呐或光学天文传感器，成功捕捉到潜伏在深海幽冥处的神秘物种、或遥远星系发出的微弱信号）",
+    "sentence": "Early detection of seismic tremors is crucial for warning coastal towns about incoming tsunamis."
   },
   {
     "id": 1142,
-    "word": "Bond",
-    "phonetic": "/bɑːnd/",
-    "翻译": "n. 结合，纽带，债券；v. 结合",
-    "sentence": "Sharing difficult experiences created a strong bond between them."
+    "word": "Deteriorate",
+    "phonetic": "/dɪˈtɪəriəreɪt/",
+    "翻译": "v. 恶化，变坏（指由于突然遭遇严重的环境酸雨污染、或者保存环境温度湿度失控，导致原本完好的古代羊皮纸手稿其物理质地迅速腐烂发脆）",
+    "sentence": "If historical text scrolls are exposed to humid air, their fragile fibers deteriorate rapidly."
   },
   {
     "id": 1143,
-    "word": "Channel",
-    "phonetic": "/ˈtʃænl/",
-    "翻译": "n. 海峡，渠道，频道",
-    "sentence": "The television channel broadcasts news 24 hours a day."
+    "word": "Detrimental",
+    "phonetic": "/ˌdetrɪˈmentl/",
+    "翻译": "adj. 有害的，不利的（特指外来物种的盲目引入、或者是大量工业废水的超标排放，对当地土著生态平衡系统所造成的极其致命的、不可逆的破坏）",
+    "sentence": "The introduction of the invasive vine had a highly detrimental impact on local oak trees."
   },
   {
     "id": 1144,
-    "word": "Chapter",
-    "phonetic": "/ˈtʃæptər/",
-    "翻译": "n. 章，回，篇",
-    "sentence": "The first chapter of the biology textbook introduces basic cells."
+    "word": "Deviate",
+    "phonetic": "/ˈdiːvieɪt/",
+    "翻译": "v. 偏离，违背（指在严谨的科学控制实验中，某一组数据在特定化学催化剂的干扰下，突然明显偏离了牛顿力学或标准数学模型的既定轨道）",
+    "sentence": "The migratory flock did not deviate from its traditional path despite the fierce storm."
   },
   {
     "id": 1145,
-    "word": "Chart",
-    "phonetic": "/tʃɑːrt/",
-    "翻译": "n. 图表，航海图",
-    "sentence": "The sales chart clearly shows that business is improving."
+    "word": "Device",
+    "phonetic": "/dɪˈvaɪs/",
+    "翻译": "n. 设备，装置（在科学实验或现代野外环境监测中，指为了特定测量目的而专门设计、安装了各种微处理芯片的高精密科学仪器或机械工具）",
+    "sentence": "The oceanographers designed a unique device to record sea floor pressure variations."
   },
   {
     "id": 1146,
-    "word": "Chemical",
-    "phonetic": "/ˈkemɪkl/",
-    "翻译": "adj. 化学的；n. 化学制品",
-    "sentence": "The local factory was closed for releasing a dangerous chemical."
+    "word": "Devoid",
+    "phonetic": "/dɪˈvɔɪd/",
+    "翻译": "adj. 完全没有的，缺乏的（在地质学和天文学中，形容某个天体表面没有半点大气层护罩、或者某片地下深层死水坑内部完全没有任何溶解氧生命迹象）",
+    "sentence": "The rocky moon is entirely devoid of atmosphere, water, and any form of life."
   },
   {
     "id": 1147,
-    "word": "Circumstance",
-    "phonetic": "/ˈsɜːrkəmstæns/",
-    "翻译": "n. 环境，情况",
-    "sentence": "Under no circumstance should you leave the laboratory doors open."
+    "word": "Diffusion",
+    "phonetic": "/dɪˈfjuːʒn/",
+    "翻译": "n. 扩散，传播（在物理化学中指高浓度分子在无外力作用下由于热运动自然向低浓度区域均匀散开的物理现象；在文化学中指造纸术跨区域传播）",
+    "sentence": "The rapid diffusion of agricultural techniques helped early human tribal populations expand."
   },
   {
     "id": 1148,
-    "word": "Cite",
-    "phonetic": "/saɪt/",
-    "翻译": "vt. 引用，引证，表彰",
-    "sentence": "You must cite the original sources in your academic essay."
+    "word": "Digest",
+    "phonetic": "/daɪˈdʒest/",
+    "翻译": "v. 消化，吸收（在动物生理学中，特指高级动物的胃肠道系统通过分泌各种高度特异性的复杂酶类，将坚硬的植物纤维或者生肉彻底分解吸收）",
+    "sentence": "Ruminants rely on specialized stomach bacteria to fully digest tough prairie grasses."
   },
   {
     "id": 1149,
-    "word": "Civil",
-    "phonetic": "/ˈsɪvl/",
-    "翻译": "adj. 公民的，民事的，文明的",
-    "sentence": "The two countries signed a historic civil aviation agreement."
+    "word": "Dilute",
+    "phonetic": "/daɪˈluːt/",
+    "翻译": "v. 稀释，变淡（在化学实验或水污染评估中，指通过大量向酸性浓溶液中倾倒纯净水，从而使其单位体积内的化学毒素或溶质浓度大幅稀释降低）",
+    "sentence": "Heavy seasonal spring rains help dilute the concentrations of pollutants in the bay."
   },
   {
     "id": 1150,
-    "word": "Classic",
-    "phonetic": "/ˈklæsɪk/",
-    "翻译": "adj. 经典的，有代表性的；n. 杰作",
-    "sentence": "He likes reading classic literature written in the nineteenth century."
+    "word": "Diminish",
+    "phonetic": "/dɪˈmɪnɪʃ/",
+    "翻译": "v. 减少，削弱（指随着夏季的到来，高山冰川的大面积融化导致山脚下赖以灌溉农田的标志性河流其整体水流量在八月份开始逐日明显缩水减小）",
+    "sentence": "As the food supply began to diminish, competition among predators grew fierce."
   },
   {
     "id": 1151,
-    "word": "Clause",
-    "phonetic": "/klɔːz/",
-    "翻译": "n. 条款，从句",
-    "sentence": "The legal team insisted on adding a special clause to the contract."
+    "word": "Disaster",
+    "phonetic": "/dɪˈzɑːstər/",
+    "翻译": "n. 天灾，灾难（指突然毫无征兆地发生的超大规模地震、森林大火或核泄露，在短短几小时内给方圆数百里造成惨绝人寰的财产与生命损失的悲剧）",
+    "sentence": "The nuclear meltdown was an environmental disaster that poisoned the surrounding forests."
   },
   {
     "id": 1152,
-    "word": "Code",
-    "phonetic": "/koʊd/",
-    "翻译": "n. 代码，密码，准则",
-    "sentence": "You need to enter a secret code to unlock the laboratory door."
+    "word": "Discard",
+    "phonetic": "/dɪˈskɑːrd/",
+    "翻译": "v. 扔掉，抛弃（在考古学中指远古人类在长期使用某件石制工具、或者大批陶罐意外碎裂后，将其当作毫无价值垃圾随手丢弃在聚落废墟堆的举动）",
+    "sentence": "Early hunters would typically discard heavy animal bones after extracting the rich marrow."
   },
   {
     "id": 1153,
-    "word": "Coherent",
-    "phonetic": "/koʊˈhɪrənt/",
-    "翻译": "adj. 连贯的，一致的",
-    "sentence": "The speaker failed to provide a coherent explanation of his policy."
+    "word": "Discharge",
+    "phonetic": "/dɪsˈtʃɑːrdʒ/",
+    "翻译": "v. / n. 排放（废水），释放（在环境毒理学中特指沿海不法化工厂通过隐蔽的暗管道，违法向清澈的河流干线大肆倾倒、排泄未经处理的重金属工业废水）",
+    "sentence": "The industrial complex is prohibited from choosing to discharge heated wastewater into the river."
   },
   {
     "id": 1154,
-    "word": "Coincide",
-    "phonetic": "/ˌkoʊɪnˈsaɪd/",
-    "翻译": "vi. 同时发生，一致",
-    "sentence": "My standard holiday plans coincide with my sister's wedding day."
+    "word": "Discipline",
+    "phonetic": "/ˈdɪsəplɪn/",
+    "翻译": "n. 学科，纪律（在高等教育和学术研究分类中，特指像地质学、语言学、古昆虫学等拥有各自独立方法论体系、研究范式的庞大专门学术领域）",
+    "sentence": "Marine biology is a complex discipline that draws heavily from oceanography and ecology."
   },
   {
     "id": 1155,
-    "word": "Collapse",
-    "phonetic": "/kəˈlæps/",
-    "翻译": "vi./n. 倒塌，崩溃，虚脱",
-    "sentence": "The heavy snow caused the roof of the old garage to collapse."
+    "word": "Discrete",
+    "phonetic": "/dɪˈskriːt/",
+    "翻译": "adj. 分离的，不连续的（在统计学和数据建模中，指各个实验样本、测量数值之间完全彼此独立、界限分明，不连成一片的离散状态）",
+    "sentence": "The evolutionary study broken down the process into several discrete, observable stages."
   },
   {
     "id": 1156,
-    "word": "Colleague",
-    "phonetic": "/ˈkɑːliːɡ/",
-    "翻译": "n. 同事，同僚",
-    "sentence": "He discussed the new marketing plan with a close colleague."
+    "word": "Displace",
+    "phonetic": "/dɪsˈpleɪs/",
+    "翻译": "v. 取代，迫使迁徙（在物种入侵研究中，指极具侵略性的外来北美灰松鼠凭借更强的抢食能力，彻底将英国当地土著红松鼠赶出原有的森林家园）",
+    "sentence": "The rapid expansion of human settlements managed to displace herds of native deer."
   },
   {
     "id": 1157,
-    "word": "Commence",
-    "phonetic": "/kəˈmens/",
-    "翻译": "v. 开始，着手",
-    "sentence": "The annual graduation ceremony will commence at exactly ten o'clock."
+    "word": "Display",
+    "phonetic": "/dɪˈspleɪ/",
+    "翻译": "v. / n. 展示，炫耀行为（在动物求偶行为学中，特指雄性孔雀或者极乐鸟为了吸引雌性注意，在繁殖期高高抖动、展示全身艳丽羽毛的炫耀性生理行为）",
+    "sentence": "Male birds of paradise display their vibrant feathers to attract potential mates."
   },
   {
     "id": 1158,
-    "word": "Comment",
-    "phonetic": "/ˈkɑːment/",
-    "翻译": "n. 评论，意见；vi. 评论",
-    "sentence": "The prime minister refused to comment on the ongoing scandal."
+    "word": "Disrupt",
+    "phonetic": "/dɪsˈrʌpt/",
+    "翻译": "v. 扰乱，破坏（指由于特大太阳耀斑爆发产生极其恐怖的电磁风暴，从而彻底切断、瘫痪、摧毁了地表人类赖以生存的短波无线电通信和电网运行）",
+    "sentence": "An unexpected late frost can severely disrupt the normal flowering cycle of fruit trees."
   },
   {
     "id": 1159,
-    "word": "Commodity",
-    "phonetic": "/kəˈmɑːdəti/",
-    "翻译": "n. 商品，日用品",
-    "sentence": "Crude oil remains the most traded commodity in international markets."
+    "word": "Disseminate",
+    "phonetic": "/dɪˈsemɪneɪt/",
+    "翻译": "v. 散布，传播（在历史社会学中，特指古登堡活字印刷术的大规模普及，极大地加速、推动了新教改革思想在整个欧洲社会底层的广泛传播）",
+    "sentence": "The internet allows scientific researchers to disseminate new data worldwide in seconds."
   },
   {
     "id": 1160,
-    "word": "Compatible",
-    "phonetic": "/kəmˈpætəbl/",
-    "翻译": "adj. 兼容的，和睦相处的",
-    "sentence": "This new software is not compatible with older operating systems."
+    "word": "Dissolve",
+    "phonetic": "/dɪˈzɒlv/",
+    "翻译": "v. 溶解，融化（在化学和地质溶蚀作用中，特指含有微弱酸性的漫长地下水流，长年累月地将地底坚硬的碳酸钙石灰岩彻底溶解、掏空出巨大地下溶洞）",
+    "sentence": "Acidic groundwater can slowly dissolve limestone rock, creating massive subterranean caves."
   },
   {
     "id": 1161,
-    "word": "Compensate",
-    "phonetic": "/ˈkɑːmpenseɪt/",
-    "翻译": "v. 补偿，赔偿",
-    "sentence": "The delivery company promised to compensate him for the broken items."
+    "word": "Distant",
+    "phonetic": "/ˈdɪstənt/",
+    "翻译": "adj. 遥远的（在天文学中特指跨越了数万、数亿光年，位于银河系边缘或者已知宇宙边界处、肉眼完全无法察觉的极其遥远的未知深空星系）",
+    "sentence": "The powerful space telescope captured clear images of stars in a distant galaxy."
   },
   {
     "id": 1162,
-    "word": "Compile",
-    "phonetic": "/kəmˈpaɪl/",
-    "翻译": "vt. 汇编，编辑，搜集",
-    "sentence": "The research assistant spent weeks trying to compile data from various charts."
+    "word": "Distinct",
+    "phonetic": "/dɪˈstɪŋkt/",
+    "翻译": "adj. 截然不同的，明显的（指同一区域的两种近亲鸟类，在漫长的地理隔离演化后，在鸟喙物理形态和求偶鸣叫声上展现出了完全清晰、不容混淆的差异）",
+    "sentence": "The two fossil skulls belonged to two entirely distinct species of early hominids."
   },
   {
     "id": 1163,
-    "word": "Complement",
-    "phonetic": "/ˈkɑːmplɪment/",
-    "翻译": "vt. 补充，与……相配；n. 补充物",
-    "sentence": "The delicious white wine perfectly complements the fresh fish dish."
+    "word": "Distortion",
+    "phonetic": "/dɪˈstɔːrʃn/",
+    "翻译": "n. 扭曲，失真（在光学透镜制造、或者是制图学中，指由于地球是球体，在将三维地球强行绘制到二维平面地图时所必然引发的地理轮廓物理变形）",
+    "sentence": "All flat world maps suffer from some form of geographic shape distortion near the poles."
   },
   {
     "id": 1164,
-    "word": "Complex",
-    "phonetic": "/kəmˈpleks/",
-    "翻译": "adj. 复杂的；n. 复合体",
-    "sentence": "The computer system consists of a complex network of wires."
+    "word": "Diversify",
+    "phonetic": "/daɪˈvɜːrsɪfaɪ/",
+    "翻译": "v. 使多样化（在物种进化或经济活动中，指从单一品种或产业中繁衍、演变出多种不同形态、适应不同生态位的新群落）",
+    "sentence": "As flowering plants evolved, insects began to diversify rapidly to exploit new food sources."
   },
   {
     "id": 1165,
-    "word": "Component",
-    "phonetic": "/kəmˈpoʊnənt/",
-    "翻译": "n. 成分，部件，组件",
-    "sentence": "Trust is a vital component of any successful relationship."
+    "word": "Diversity",
+    "phonetic": "/daɪˈvɜːrsəti/",
+    "翻译": "n. 多样性（在群落生态学中特指生物多样性，即某一特定雨林或珊瑚礁保护区内部所蕴含的庞大动植物、昆虫和微生物物种的丰富饱满程度）",
+    "sentence": "The tropical rainforest boasts the highest biological diversity of any biome on Earth."
   },
   {
     "id": 1166,
-    "word": "Compound",
-    "phonetic": "/ˈkɑːmpaʊnd/",
-    "翻译": "n. 化合物，复合物；adj. 复合的",
-    "sentence": "Water is a chemical compound consisting of hydrogen and oxygen."
+    "word": "Divert",
+    "phonetic": "/daɪˈvɜːrt/",
+    "翻译": "v. 转移，使转向（在古代大型水利水利工程中，指农夫通过在江心修筑分水鱼嘴大坝，成功将汹涌的长江主流分流、引向干旱的灌溉成都平原）",
+    "sentence": "Ancient engineers built canals to divert river water to dry agricultural fields."
   },
   {
     "id": 1167,
-    "word": "Comprehensive",
-    "phonetic": "/ˌkɑːmprɪˈhensɪv/",
-    "翻译": "adj. 全面的，综合的",
-    "sentence": "The textbook offers a comprehensive study of European history."
+    "word": "Docile",
+    "phonetic": "/ˈdɒsaɪl/",
+    "翻译": "adj. 驯服的，温顺的（在野生动物驯化史研究中，形容狼群中那些对人类敌意较弱、脾气温和、极易被远古猎人喂养并最终演化为狗的那些个体）",
+    "sentence": "Early humans selected the most docile wild cattle for continuous domestication."
   },
   {
     "id": 1168,
-    "word": "Comprise",
-    "phonetic": "/kəmˈpraɪz/",
-    "翻译": "vt. 包含，由……组成",
-    "sentence": "The local rescue team is comprised entirely of young volunteers."
+    "word": "Document",
+    "phonetic": "/ˈdɒkjument/",
+    "翻译": "v. 记录 n. 文献（在野外科学考察中，指科学家通过高清摄像机、精确的经纬度定位，逐一、详细地把某珍稀物种的捕食全过程在笔记本上记录下来）",
+    "sentence": "Biologists spent decades in the field to document the migration of polar bears."
   },
   {
     "id": 1169,
-    "word": "Compute",
-    "phonetic": "/kəmˈpjuːt/",
-    "翻译": "v. 计算，估算",
-    "sentence": "The office system uses specialized software to compute monthly taxes."
+    "word": "Domain",
+    "phonetic": "/dəʊˈmeɪn/",
+    "翻译": "n. 领域，领土（在科学分类学中，指生物分类的最高阶元“域”；在学术研究中指某位著名学者拥有绝对发言权、深耕了一辈子的狭窄专业核心地盘）",
+    "sentence": "For a long time, the study of high-energy physics remained the domain of a few elite labs."
   },
   {
     "id": 1170,
-    "word": "Conceive",
-    "phonetic": "/kənˈsiːv/",
-    "翻译": "v. 构想，设想，怀孕",
-    "sentence": "It was difficult to conceive that the small company would succeed."
+    "word": "Domesticate",
+    "phonetic": "/dəˈmestɪkeɪt/",
+    "翻译": "v. 驯养，驯化（特指在一万多年前的新石器时代农业革命中，人类成功将凶猛暴躁的野猪、野牛逐渐驯服、圈养为家畜，彻底改变了食物获取方式）",
+    "sentence": "It took generations of selective breeding to fully domesticate the wild wolf into the dog."
   },
   {
     "id": 1171,
-    "word": "Concentrate",
-    "phonetic": "/ˈkɑːnsntreɪt/",
-    "翻译": "v. 集中，浓缩",
-    "sentence": "Noise outside made it impossible to concentrate on my homework."
+    "word": "Dominant",
+    "phonetic": "/ˈdɒmɪnənt/",
+    "翻译": "adj. 占优势的，统治地位的（在群落生态学中指某一种大乔木其数量和林冠覆盖率极大，对整个森林的阳光和养分分配起到了绝对主导支配权）",
+    "sentence": "Oak trees are the dominant plant species in this temperate deciduous forest."
   },
   {
     "id": 1172,
-    "word": "Concept",
-    "phonetic": "/ˈkɑːnsept/",
-    "翻译": "n. 概念，观念",
-    "sentence": "The professor introduced the basic concept of general relativity theory."
+    "word": "Dormant",
+    "phonetic": "/ˈdɔːrmənt/",
+    "翻译": "adj. 休眠的，潜伏的（在植物学中形容植物种子在寒冬期新陈代谢几乎完全停滞、静静等待春天苏醒的状态；在地质学中指随时可能复活的休眠火山）",
+    "sentence": "The seeds of some desert wild flowers can remain dormant in the sand for years."
   },
   {
     "id": 1173,
-    "word": "Conclude",
-    "phonetic": "/kənˈkluːd/",
-    "翻译": "v. 推断出，结束，达成",
-    "sentence": "The committee concluded that the proposal was too expensive."
+    "word": "Dramatic",
+    "phonetic": "/drəˈmætɪk/",
+    "翻译": "adj. 戏剧性的，骤降的（指由于某些不可抗的全球大灾变，导致气温在极短的几十年内发生了令人触目惊心、幅度极其夸张的过山车式暴跌或暴涨）",
+    "sentence": "The industrial revolution triggered a dramatic shift in how human societies functioned."
   },
   {
     "id": 1174,
-    "word": "Concurrent",
-    "phonetic": "/kənˈkɜːrənt/",
-    "翻译": "adj. 同时发生的，并发的",
-    "sentence": "The prison sentences for the two minor crimes will be concurrent."
+    "word": "Drought",
+    "phonetic": "/draʊt/",
+    "翻译": "n. 干旱，旱灾（特指某个原本雨水充沛的农业区域连续多年几乎无雨，导致地表河流彻底断流、地下水位枯竭、庄稼大面积枯死的灾难性气候事件）",
+    "sentence": "A multi-year drought wiped out the crops and forced the local population to migrate."
   },
   {
     "id": 1175,
-    "word": "Conduct",
-    "phonetic": "/kənˈdʌkt/",
-    "翻译": "vt. 组织，实施，指挥；n. 行为",
-    "sentence": "The independent group will conduct a survey into consumer spending."
+    "word": "Duplicate",
+    "phonetic": "/ˈdjuːplɪkeɪt/",
+    "翻译": "v. 复制，重复（在严谨的分子生物学实验中，指其他科研团队严格复制某著名实验室的基因剪切步骤，看能否制造出一模一样的生物模型以验证真实性）",
+    "sentence": "Other teams tried to duplicate the cell-cloning experiment, but they all failed."
   },
   {
     "id": 1176,
-    "word": "Confer",
-    "phonetic": "/kənˈfɜːr/",
-    "翻译": "vi. 商谈，协商；vt. 授予",
-    "sentence": "The manager needed to confer with his lawyers before signing."
+    "word": "Durable",
+    "phonetic": "/ˈdjʊərəbl/",
+    "翻译": "adj. 耐用的，持久的（在人类工具进化史中，指青铜或铁制工具相比于脆弱的石头木块，具有极高的抗磨损物理强度，经得起几十年高强度的砍伐耕作）",
+    "sentence": "The invention of durable iron tools allowed farmers to plow heavy clay soils."
   },
   {
     "id": 1177,
-    "word": "Confine",
-    "phonetic": "/kənˈfaɪ/",
-    "翻译": "vt. 限制，使局限于",
-    "sentence": "Please confine your comments to the specific topic under discussion."
+    "word": "Dwelling",
+    "phonetic": "/ˈdwelɪŋ/",
+    "翻译": "n. 住宅，住所（在人类考古学中，特指远古人类在悬崖峭壁上开凿的石窟、或者用树枝兽皮搭建的、用以遮风挡雨躲避严寒的最原始房屋遗迹）",
+    "sentence": "Archaeologists discovered ruins of early stone dwelling units nestled along the cliff face."
   },
   {
     "id": 1178,
-    "word": "Confirm",
-    "phonetic": "/kənˈfɜːrm/",
-    "翻译": "vt. 确认，证实",
-    "sentence": "The hotel sent an urgent email to confirm my room reservation."
+    "word": "Dynamic",
+    "phonetic": "/daɪˈnæmɪk/",
+    "翻译": "adj. 动态的，充满活力的（在系统科学和生态学中，形容森林生态系统绝非一潭死水，而是时刻处于物种迁入迁出、能量剧烈循环流动的变化发展中）",
+    "sentence": "Ecosystems are dynamic networks that continuously adjust to environmental changes."
   },
   {
     "id": 1179,
-    "word": "Conform",
-    "phonetic": "/kənˈfɔːrm/",
-    "翻译": "vi. 符合，遵照，适应",
-    "sentence": "All new buildings must conform to strict local safety regulations."
+    "word": "Eccentric",
+    "phonetic": "/ɪkˈsentrɪk/",
+    "翻译": "adj. 古怪的，偏心的（在天文学中，特指某颗系外彗星或行星运行轨道的离心率极大，呈现出一种极度拉长、严重偏离正圆轨迹的椭圆形运行特征）",
+    "sentence": "The comet travels along a highly eccentric orbit that brings it close to the sun only once a century."
   },
   {
     "id": 1180,
-    "word": "Consent",
-    "phonetic": "/kənˈsent/",
-    "翻译": "vi./n. 同意，允许",
-    "sentence": "Medical doctors need the medical consent of the patient before surgery."
+    "word": "Echo",
+    "phonetic": "/ˈekəʊ/",
+    "翻译": "v. 发出回声，附和 n. 回音（在声学中指声音在遇到高耸险峻的峡谷绝壁后发生物理反射折回的现象；在历史学中指某种古代思想在现代被重新唤醒）",
+    "sentence": "The acoustic design of the ancient stone amphitheater made the actor's voice echo perfectly."
   },
   {
     "id": 1181,
-    "word": "Consequent",
-    "phonetic": "/ˈkɑːnsɪkwənt/",
-    "翻译": "adj. 随之发生的，作为结果的",
-    "sentence": "The heavy rains and consequent flooding caused widespread damage."
+    "word": "Eclipse",
+    "phonetic": "/ɪˈklɪps/",
+    "翻译": "n. 日食/月食 v. 遮蔽，使相形见绌（在天文学中指三个天体刚好运行到一条直线上，由于光线被遮挡导致日全食或月全食；引申指光芒盖过他人）",
+    "sentence": "The sudden solar eclipse completely terrified the ancient tribal warriors who were fighting."
   },
   {
     "id": 1182,
-    "word": "Considerable",
-    "phonetic": "/kənˈsɪdərəbl/",
-    "翻译": "adj. 相当大（或多）的，值得考虑的",
-    "sentence": "The construction project required a considerable amount of time."
+    "word": "Ecology",
+    "phonetic": "/iˈkɒlədʒi/",
+    "翻译": "n. 生态学（一门专门研究大自然里的野生生物个体、种群，与它们赖以生存的无机自然环境之间如何发生物质和能量交换的宏观复杂学科）",
+    "sentence": "Understanding ocean ecology is vital before we clear out deep-sea mineral vents."
   },
   {
     "id": 1183,
-    "word": "Consist",
-    "phonetic": "/kənˈsɪst/",
-    "翻译": "vi. 由……组成，在于",
-    "sentence": "The examination will consist of fifty multiple choice questions."
+    "word": "Economic",
+    "phonetic": "/ˌiːkəˈnɒmɪk/",
+    "翻译": "adj. 经济的，经济学上的（指与某古代帝国内部猖獗的海外贸易、手工业行会作坊税收、商品长途流通以及社会总财富分配紧密纠结在一起的）",
+    "sentence": "The empire's overall stability depended on the economic success of its wine exports."
   },
   {
     "id": 1184,
-    "word": "Constant",
-    "phonetic": "/ˈkɑːnstənt/",
-    "翻译": "adj. 不断的，恒定的",
-    "sentence": "The old computer requires a constant connection to the server."
+    "word": "Economical",
+    "phonetic": "/ˌiːkəˈnɒmɪkl/",
+    "翻译": "adj. 节约的，经济实惠的（在工业设计或生存策略研究中，指某种极地动物通过缩减日常新陈代谢消耗，以最节省卡路里、最高效省钱的方式渡过严冬）",
+    "sentence": "Building small, rounded mud huts was an economical way to retain winter heat."
   },
   {
     "id": 1185,
-    "word": "Constituent",
-    "phonetic": "/kənˈstɪtʃuənt/",
-    "翻译": "n. 成分，选民；adj. 组成的",
-    "sentence": "Sodium is a major constituent element of common table salt."
+    "word": "Elaborate",
+    "phonetic": "/ɪˈlæbərət/",
+    "翻译": "adj. 精心制作的，复杂的 v. 详述（在社会人类学中形容法老随葬的黄金面具其工艺和花纹极为繁复考究；或指鸟类在求偶时展示出极其复杂的仪式）",
+    "sentence": "Male bowerbirds build elaborate structures decorated with colorful shells to attract mates."
   },
   {
     "id": 1186,
-    "word": "Constitute",
-    "phonetic": "/ˈkɑːnstɪtuːt/",
-    "翻译": "vt. 组成，构成，设立",
-    "sentence": "Twelve direct individual chapters constitute the entire history textbook."
+    "word": "Elasticity",
+    "phonetic": "/ˌɪlæˈstɪsəti/",
+    "翻译": "n. 弹性，弹力（在固体物理学和材料工程中，特指某种高分子橡胶或动物肌腱在受到外力疯狂拉扯延长后，依然能完美恢复原有初始形态的物理特性）",
+    "sentence": "The unique elasticity of spider silk allows the web to capture fast-flying insects without snapping."
   },
   {
     "id": 1187,
-    "word": "Constrain",
-    "phonetic": "/kənˈstreɪn/",
-    "翻译": "vt. 限制，束缚，强迫",
-    "sentence": "Financial problems constrain the local council's ability to act."
+    "word": "Electron",
+    "phonetic": "/ɪˈlektrɒn/",
+    "翻译": "n. 电子（在微观原子物理学中，特指长年累月围绕带正电的原子核高速旋转的、带有负电荷的极其微小的亚原子基本粒子）",
+    "sentence": "An electron microscope uses a beam of electrons to view structures smaller than a single cell."
   },
   {
     "id": 1188,
-    "word": "Construct",
-    "phonetic": "/kənˈstrʌkt/",
-    "翻译": "vt. 建造，构建",
-    "sentence": "The engineering workers plan to construct a new bridge over the river."
+    "word": "Elegant",
+    "phonetic": "/ˈelɪɡənt/",
+    "翻译": "adj. 优美的，高雅的（在数学和物理学论证中，形容某位伟大科学家提出的推导公式极其简洁洗练、却能瞬间破解百年物理世纪死题的绝妙美感）",
+    "sentence": "The physicist proposed an elegant solution that explained the anomalies in the planetary light data."
   },
   {
     "id": 1189,
-    "word": "Consume",
-    "phonetic": "/kənˈsuːm/",
-    "翻译": "vt. 消耗，消费，吃光",
-    "sentence": "Modern electric cars consume less overall energy than older models."
+    "word": "Elevate",
+    "phonetic": "/ˈelɪveɪt/",
+    "翻译": "v. 抬高，提升（在地质造山运动中特指巨大的板块地壳挤压导致原本沉没在海底的沉积岩层被高高抬升，最终变成了耸入云霄的高山峻岭）",
+    "sentence": "Tectonic uplift can elevate deep marine sediments to the tops of mountain ranges."
   },
   {
     "id": 1190,
-    "word": "Contact",
-    "phonetic": "/ˈkɑːntækt/",
-    "翻译": "n./v. 接触，联系",
-    "sentence": "Please leave your telephone number so we can contact you later."
+    "word": "Elongate",
+    "phonetic": "/ɪˈlɔːŋɡeɪt/",
+    "翻译": "v. 拉长，延长（指生物的骨骼、植物的根茎由于生存适应环境的需要，在物理形态上变得更加细长）",
+    "sentence": "Certain deep-sea organisms developed elongate fins to navigate through dark, narrow rocky crevices."
   },
   {
     "id": 1191,
-    "word": "Contemporary",
-    "phonetic": "/kənˈtempəreri/",
-    "翻译": "adj. 当代的，同时代的；n. 同时代的人",
-    "sentence": "The modern museum displays rare works of contemporary art."
+    "word": "Eloquent",
+    "phonetic": "/ˈeləkwənt/",
+    "翻译": "adj. 雄辩的，有说服力的（在古罗马或古希腊政治史中，形容某位伟大演说家在公民大会上发表的演讲具有无与伦比的煽动性、逻辑和语言美感）",
+    "sentence": "The tribal chief gave an eloquent speech that convinced different clans to unite."
   },
   {
     "id": 1192,
-    "word": "Context",
-    "phonetic": "/ˈkɑːntekst/",
-    "翻译": "n. 上下文，语境，背景",
-    "sentence": "It is difficult to understand historical events out of context."
+    "word": "Elusive",
+    "phonetic": "/ɪˈluːsɪv/",
+    "翻译": "adj. 难以捉摸的，难找的（在野外动物学中特指那些行踪极度神秘、警惕性逆天、在原始密林里潜伏几十年都极难被摄像机抓拍到的濒危雪豹等动物）",
+    "sentence": "Tracking the elusive mountain gorilla requires weeks of trekking through thick mountain jungles."
   },
   {
     "id": 1193,
-    "word": "Contract",
-    "phonetic": "/ˈkɑːntrækt/",
-    "翻译": "n. 合同，契约；v. 收缩，感染",
-    "sentence": "The two trading companies signed a three year business contract."
+    "word": "Embody",
+    "phonetic": "/ɪmˈbɒdi/",
+    "翻译": "v. 体现，具体表达（在艺术史或建筑学中，指某座宏伟的大教堂其独特的哥特式尖顶设计，完美地把中世纪全社会对天国的宗教狂热具体化展现出来）",
+    "sentence": "The grand palace design managed to embody the absolute power of the ruling dynasty."
   },
   {
     "id": 1194,
-    "word": "Contradict",
-    "phonetic": "/ˌkɑːntrəˈdɪkt/",
-    "翻译": "vt. 反驳，与……矛盾",
-    "sentence": "The witness report seemed to contradict his original statement."
+    "word": "Embryo",
+    "phonetic": "/ˈembriəʊ/",
+    "翻译": "n. 胚胎（在发育生物学和胚胎学中，特指受精卵刚刚分裂不久，在母体子宫内、或者鸟蛋蛋壳内部尚未成形、处于最早期发育发育阶段的生命原始形态）",
+    "sentence": "Scientists studied how the fish embryo developed its spinal cord in the early hours."
   },
   {
     "id": 1195,
-    "word": "Contrary",
-    "phonetic": "/ˈkɑːntreri/",
-    "翻译": "adj. 相反的；n. 相反，反面",
-    "sentence": "Contrary to common belief, sharks do not naturally hunt humans."
+    "word": "Emerge",
+    "phonetic": "/ɪˈmɜːrdʒ/",
+    "翻译": "v. 浮现，出现（指长年潜伏在泥土地底下的蝉类幼虫在盛夏深夜破土而出爬上树干；或者指一个新的古代文明在历史长河中突然崭露头角）",
+    "sentence": "New winged adult insects emerge from the river mud after years as underwater nymphs."
   },
   {
     "id": 1196,
-    "word": "Contrast",
-    "phonetic": "/ˈkɑːntræst/",
-    "翻译": "n. 对比，对照；v. 形成对比",
-    "sentence": "There is a sharp contrast between the two different policies."
+    "word": "Eminent",
+    "phonetic": "/ˈemɪnənt/",
+    "翻译": "adj. 杰出的，著名的（在科学界或学术研究中，特指那些在特定领域建树极高、发表过无数奠基性论文、受到全人类同行发自内心景仰的泰斗级人物）",
+    "sentence": "An eminent geologist was invited to head the international tectonic research institute."
   },
   {
     "id": 1197,
-    "word": "Contribute",
-    "phonetic": "/kənˈtrɪbjuːt/",
-    "翻译": "v. 贡献，捐助，促成",
-    "sentence": "Regular training will contribute significantly to your sports success."
+    "word": "Emission",
+    "phonetic": "/ɪˈmɪʃn/",
+    "翻译": "n. 排放物，辐射（在环境科学中特指汽车尾气排气管、或者重工业高烟囱向大气圈没完没了喷吐出来的各种滚滚黑烟、温室气体及有害悬浮颗粒）",
+    "sentence": "Strict regulations were introduced to cut down the toxic carbon emission from factories."
   },
   {
     "id": 1198,
-    "word": "Controversy",
-    "phonetic": "/ˈkɑːntrəvɜːrsi/",
-    "翻译": "n. 争论，争议",
-    "sentence": "The new government policy caused great controversy among voters."
+    "word": "Emphasis",
+    "phonetic": "/ˈemfəsɪs/",
+    "翻译": "n. 强调，重点（在教育学、或者是某种流派的艺术理论中，指评论家或教授将全盘关注点强有力地焊死在某一核心概念、或某项基本生存技能上）",
+    "sentence": "The university place a strong emphasis on hands-on field experience for archaeology students."
   },
   {
     "id": 1199,
-    "word": "Convene",
-    "phonetic": "/kənˈviːn/",
-    "翻译": "v. 召集，开会",
-    "sentence": "The committee chairman decided to convene an emergency meeting."
+    "word": "Empirical",
+    "phonetic": "/ɪmˈpɪrɪkl/",
+    "翻译": "adj. 以观察或实验为依据的（在学术论证中，指源于实际测量、经验观察或直接实验数据，而非纯粹依靠逻辑推导或理论思辨的）",
+    "sentence": "The researcher gathered empirical data for three years before publishing her conclusions."
   },
   {
     "id": 1200,
-    "word": "Converse",
-    "phonetic": "/kənˈvɜːrs/",
-    "翻译": "vi. 交谈，谈话；adj. 相反的",
-    "sentence": "It was pleasant to converse with colleagues over a warm coffee."
+    "word": "Enact",
+    "phonetic": "/ɪˈnækt/",
+    "翻译": "v. 制定（法律），扮演（在封建或现代法制史中，特指最高统治阶层或议会通过了繁琐正规的法律程序，正式颁布、推行某项具有法律强制力的全新法案）",
+    "sentence": "The city assembly moved quickly to enact strict conservation laws for the local bay."
   },
   {
     "id": 1201,
-    "word": "Convert",
-    "phonetic": "/kənˈvɜːrt/",
-    "翻译": "v. 转换，转化，改变信仰",
-    "sentence": "You can use this software to convert files into digital books."
+    "word": "Enclose",
+    "phonetic": "/ɪnˈkləʊz/",
+    "翻译": "v. 围住，把…圈起来（在古代农业经济学中特指地主用坚硬的石头围墙或密集的树篱将原本公用的草场土地死死圈占为私人领地的英国圈地运动行为）",
+    "sentence": "Early medieval farmers built massive wooden fences to enclose their livestock at night."
   },
   {
     "id": 1202,
-    "word": "Convince",
-    "phonetic": "/kənˈvɪns/",
-    "翻译": "vt. 使确信，说服",
-    "sentence": "He tried hard to convince the manager that his plan would work."
+    "word": "Encounter",
+    "phonetic": "/ɪnˈkaʊntər/",
+    "翻译": "v. / n. 遭遇，邂逅（特指野外考察队在穿越热带雨林深处时，毫无心理准备地迎面撞见一条剧毒巨蟒、或遭遇了一场极其凶猛的突发山洪危机）",
+    "sentence": "Deep-sea divers frequently encounter unique, unidentified organisms near hydrothermic vents."
   },
   {
     "id": 1203,
-    "word": "Cooperate",
-    "phonetic": "/koʊˈɑːpəreɪt/",
-    "翻译": "vi. 合作，协作",
-    "sentence": "The two local libraries agreed to cooperate on the new project."
+    "word": "Encourage",
+    "phonetic": "/ɪnˈkʌrɪdʒ/",
+    "翻译": "v. 鼓励，促进（在植物生理学或农业栽培中，指通过人为调高温室内的夜间环境温度、浇灌特定营养液，从而极大地促进花卉植物提早开花抽芽）",
+    "sentence": "Warm currents flowing past the island encourage the growth of dense coral reefs."
   },
   {
     "id": 1204,
-    "word": "Coordinate",
-    "phonetic": "/koʊˈɔːrdɪneɪt/",
-    "翻译": "v. 协调，配合；n. 坐标",
-    "sentence": "We need someone to coordinate the various parts of the project."
+    "word": "Encroach",
+    "phonetic": "/ɪnˈkrəʊtʃ/",
+    "翻译": "v. 侵占，蚕食（指由于大范围过度放牧、气候严重干旱，导致漫天沙漠的沙丘年复一年、蛮横地向周围肥沃的水源绿洲耕地进行物理推进吞噬）",
+    "sentence": "As city limits expand, industrial buildings continue to encroach on wild forest lands."
   },
   {
     "id": 1205,
-    "word": "Corporate",
-    "phonetic": "/ˈkɔːrpərət/",
-    "翻译": "adj. 法人的，公司的",
-    "sentence": "The giant corporate headquarters are located in downtown London."
+    "word": "Endangered",
+    "phonetic": "/ɪnˈdeɪndʒərd/",
+    "翻译": "adj. 濒危的（在保护生物学中，特指某种极度珍稀的野生动物，因其全球总个体活体数量已跌破安全警戒线，正处于随时被彻底灭绝的历史生死关头）",
+    "sentence": "The giant panda remains one of the most heavily protected endangered mammals in China."
   },
   {
     "id": 1206,
-    "word": "Correspond",
-    "phonetic": "/ˌkɔːrəˈspɑːnd/",
-    "翻译": "vi. 相符，一致，通信",
-    "sentence": "The finger prints on the glass correspond to the main suspect."
+    "word": "Endeavor",
+    "phonetic": "/ɪnˈdevər/",
+    "翻译": "n. / v. 努力，尝试（在科学探索史上，指几代杰出的科学家前赴后继、克服极度恶劣的高寒缺氧生存条件，为了测出地球真正半径而付出的艰苦探索）",
+    "sentence": "Mapping the complete human genome was a monumental endeavor that took over a decade."
   },
   {
     "id": 1207,
-    "word": "Credible",
-    "phonetic": "/ˈkredəbl/",
-    "翻译": "adj. 可信的，可靠的",
-    "sentence": "The police are looking for a credible witness to the accident."
+    "word": "Endless",
+    "phonetic": "/ˈendləs/",
+    "翻译": "adj. 无止境的，连续不断的（修饰北极极夜期间长达数月暗无天日呼啸着刺骨暴风雪的漫长黑夜；或者描述某种物质在生态圈内的无尽循环）",
+    "sentence": "The planetary water cycle is an endless loop powered entirely by the heat of the sun."
   },
   {
     "id": 1208,
-    "word": "Criteria",
-    "phonetic": "/kraɪˈtɪriə/",
-    "翻译": "n. 标准，准则（criterion的复数形式）",
-    "sentence": "What are the main criteria used for choosing the final winner?"
+    "word": "Endow",
+    "phonetic": "/ɪnˈdaʊ/",
+    "翻译": "v. 天赋，赋予（在进化生物学中指大自然基因突变的神奇力量，赐予了北极熊一层极其特殊空心吸光的白色毛发，使其天生具备无与伦比的御寒超能力）",
+    "sentence": "Millions of years of forest evolution endow eagles with sharp eyesight for catching small prey."
   },
   {
     "id": 1209,
-    "word": "Critical",
-    "phonetic": "/ˈkrɪtɪkl/",
-    "翻译": "adj. 批评的，紧要的，批判性的",
-    "sentence": "The patient remains in critical condition in the city hospital."
+    "word": "Endure",
+    "phonetic": "/ɪnˈdjʊər/",
+    "翻译": "v. 忍受，持久（指某种极地苔原植物能够死死咬牙挺过零下六十度的极度深寒、在狂风暴雪肆虐下依然奇迹般存活到第二年春天的惊人生命顽强性）",
+    "sentence": "Desert cacti must endure months of intense heat and total absence of rainfall."
   },
   {
     "id": 1210,
-    "word": "Cruise",
-    "phonetic": "/kruːz/",
-    "翻译": "vi. 巡航，缓慢巡行；n. 乘船游览",
-    "sentence": "They decided to take a luxury cruise around the Greek islands."
+    "word": "Energetic",
+    "phonetic": "/ˌenəˈdʒetɪk/",
+    "翻译": "adj. 精力充沛的，高能的（在物理学和天文学中，特指具有极高频率、能释放出极其恐怖撕裂破坏能量的短波高能伽马射线爆或宇宙射线粒子）",
+    "sentence": "Young ocean waves are highly energetic, smashing coastal granite rocks with extreme force."
   },
   {
     "id": 1211,
-    "word": "Cue",
-    "phonetic": "/kjuː/",
-    "翻译": "n. 提示，暗示，线索",
-    "sentence": "The actor waited behind the curtain for his stage entrance cue."
+    "word": "Enforce",
+    "phonetic": "/ɪnˈfɔːrs/",
+    "翻译": "v. 执行，实施（指国家环境监督总局铁面无私地派出执法突击队，强行查封违规排污企业、铁腕贯彻、执行最新颁布的生态保护红线法案）",
+    "sentence": "The government deployed rangers to strictly enforce anti-poaching rules in the park."
   },
   {
     "id": 1212,
-    "word": "Culture",
-    "phonetic": "/ˈkʌltʃər/",
-    "翻译": "n. 文化，教养，培养物",
-    "sentence": "Learning a new language gives insights into a foreign culture."
+    "word": "Engage",
+    "phonetic": "/ɪnˈɡeɪdʒ/",
+    "翻译": "v. 参与，吸引（在高级灵长类行为研究中，指几只成年黑猩猩聚在一起，高度专注、有组织地共同投入到一场复杂的社会化合作捕猎猴子的行动中）",
+    "sentence": "Chimpanzees often engage in social grooming to reinforce bonds within the pack."
   },
   {
     "id": 1213,
-    "word": "Currency",
-    "phonetic": "/ˈkɜːrənsi/",
-    "翻译": "n. 通货，货币，通用",
-    "sentence": "The Euro is the official currency used in many European nations."
+    "word": "Engrave",
+    "phonetic": "/ɪnˈɡreɪv/",
+    "翻译": "v. 雕刻，铭记（在青铜器考古和碑刻研究中，特指古代工匠用极其坚硬的合金刻刀，在不朽的青铜鼎表面深深刻下记录重大历史战功的复杂铭文）",
+    "sentence": "Ancient scribes used to engrave royal decrees onto heavy stone tablets for the public."
   },
   {
     "id": 1214,
-    "word": "Cycle",
-    "phonetic": "/ˈsaɪkl/",
-    "翻译": "n. 循环，周期；vi. 自行车，循环",
-    "sentence": "The continuous water cycle is essential for maintaining life on Earth."
+    "word": "Enhance",
+    "phonetic": "/ɪnˈhæns/",
+    "翻译": "v. 提高，增强（指通过往贫瘠的地表土壤里科学添加大量的腐殖质和天然有机氮肥，从而大幅度提高、改善庄稼作物的抗病抗旱能力和最终产量）",
+    "sentence": "Adding organic compost can significantly enhance the water retention of sandy soils."
   },
   {
-    "id": 1215,
-    "word": "Data",
-    "phonetic": "/ˈdeɪtə/",
-    "翻译": "n. 数据，资料（datum的复数形式）",
-    "sentence": "The research team spent days collecting data from various charts."
+    "id": 1115,
+    "word": "Enormous",
+    "phonetic": "/ɪˈnɔːməs/",
+    "翻译": "adj. 巨大的，庞大的（形容中生代侏罗纪时期重达几十吨、体长等同于好几辆双层大巴车的震龙、腕龙等巨型草食性恐龙那令人惊叹的肉体吨位）",
+    "sentence": "The impact of the rogue asteroid carved an enormous crater into the Earth's crust."
   },
   {
     "id": 1216,
-    "word": "Debate",
-    "phonetic": "/dɪˈbeɪt/",
-    "翻译": "n./v. 辩论，争论",
-    "sentence": "The university organized a public debate on the new tax laws."
+    "word": "Ensure",
+    "phonetic": "/ɪnˈʃʊər/",
+    "翻译": "v. 确保，保证（指母鸟在筑巢时，特意把巢穴安放在四周长满尖锐毒刺的荆棘灌木丛最深处，以万无一失地保证刚孵化出的娇嫩雏鸟绝不会被天敌偷袭）",
+    "sentence": "Sea turtles bury their eggs deep under warm beach sand to ensure their safe development."
   },
   {
     "id": 1217,
-    "word": "Decade",
-    "phonetic": "/ˈdekeɪd/",
-    "翻译": "n. 十年，十年期",
-    "sentence": "The global tech economy changed dramatically over the last decade."
+    "word": "Entail",
+    "phonetic": "/ɪnˈteɪl/",
+    "翻译": "v. 牵涉，必然带来（在复杂的学术宏大工程规划中，指出海开展为期三年的深海海底大范围采样，势必会带来难以预估的巨额资金消耗和极高海上风险）",
+    "sentence": "Building a lunar outpost will entail resolving major long-term human radiation safety issues."
   },
   {
     "id": 1218,
-    "word": "Deduce",
-    "phonetic": "/dɪˈduːs/",
-    "翻译": "vt. 推论，推断",
-    "sentence": "From the physical evidence, the detective managed to deduce the truth."
+    "word": "Enterprise",
+    "phonetic": "/ˈentəpraɪz/",
+    "翻译": "n. 企业，事业（在经济史中特指工业革命早期，那些由私人资本家冒险投资组建的、配备了大型蒸汽动力织布机的初代全机械化纺织棉布工厂事业）",
+    "sentence": "The setup of the early Hudson Bay trading enterprise transformed North American economics."
   },
   {
     "id": 1219,
-    "word": "Definite",
-    "phonetic": "/ˈdefɪnət/",
-    "翻译": "adj. 明确的，肯定的",
-    "sentence": "We need a definite answer from the manager before we proceed."
+    "word": "Enthusiastic",
+    "phonetic": "/ɪnˌθjuːziˈæstɪk/",
+    "翻译": "adj. 热情的，热心的（形容某地年轻一代的学生和自愿者，受到环保理念的感召，极度狂热、全身心积极投入到海滩垃圾清理的社会公益运动中）",
+    "sentence": "Volunteers were highly enthusiastic about tree-planting efforts to stop local desert expansion."
   },
   {
     "id": 1220,
-    "word": "Demonstrate",
-    "phonetic": "/ˈdemənstreɪt/",
-    "翻译": "vt. 论证，证明，显示，示范",
-    "sentence": "The assistant will demonstrate how to operate the new machine."
+    "word": "Entire",
+    "phonetic": "/ɪnˈtaɪər/",
+    "翻译": "adj. 整个的，完全的（特指某场突如其来的超大规模地质大海啸，在一夜之间将方圆上百公里内的整个沿海繁华低洼渔村全部无情吞没、彻底扫平）",
+    "sentence": "The ice age covered the entire northern continent under ice sheets two miles deep."
   },
   {
     "id": 1221,
-    "word": "Denote",
-    "phonetic": "/dɪˈnoʊt/",
-    "翻译": "vt. 表示，意味着",
-    "sentence": "A red cross on the road map is used to denote a hospital."
+    "word": "Entity",
+    "phonetic": "/ˈentəti/",
+    "翻译": "n. 实体，独立存在（在法学或生物分类研究中，指某个具有独立生命机能、能够自我调节、区别于周围死水环境的独立的单一生物个体或合法组织）",
+    "sentence": "Each bacterial cell functions as a completely independent, single-celled biological entity."
   },
   {
     "id": 1222,
-    "word": "Deny",
-    "phonetic": "/dɪˈnaɪ/",
-    "翻译": "vt. 否定，拒绝承认",
-    "sentence": "The suspect continuous to deny any involvement in the robbery."
+    "word": "Environment",
+    "phonetic": "/ɪnˈvaɪrənmənt/",
+    "翻译": "n. 环境，生态（在生态学中特指包围在野生动植物周围的、由阳光、水分、空气、土壤以及其他协同进化的复杂共生捕食族群构成的整体外部物质世界）",
+    "sentence": "The arctic tundra is an environment characterized by low plants and long cold winters."
   },
   {
     "id": 1223,
-    "word": "Depress",
-    "phonetic": "/dɪˈpres/",
-    "翻译": "vt. 使沮丧，使不景气，压下",
-    "sentence": "Bad financial news can quickly depress the local stock market."
+    "word": "Envision",
+    "phonetic": "/ɪnˈvɪʒn/",
+    "翻译": "v. 展望，想象（在未来科技与可持续发展规划中，指顶尖科学家基于现有的前沿受控核聚变理论，大胆勾勒、设想五十年后人类彻底告别化石能的美好蓝图）",
+    "sentence": "City planners envision a future metropolis powered entirely by green renewable grids."
   },
   {
     "id": 1224,
-    "word": "Derive",
-    "phonetic": "/dɪˈraɪv/",
-    "翻译": "v. 起源，衍生，得到",
-    "sentence": "Many common English words derive their origin from old Latin."
+    "word": "Ephemeral",
+    "phonetic": "/ɪˈfemərəl/",
+    "翻译": "adj. 朝生暮死的，短暂的（在干旱荒漠植物学中，特指某些长年潜伏在沙底下的神奇短生杂草，只有在遭遇百年一遇的暴雨后的短短几天内完成发芽开花结籽死去的生命奇观）",
+    "sentence": "Desert wildflowers enjoy an ephemeral existence, blooming quickly after seasonal spring showers."
   },
   {
     "id": 1225,
-    "word": "Design",
-    "phonetic": "/dɪˈzaɪn/",
-    "翻译": "vt./n. 设计，构思",
-    "sentence": "The architect spent weeks drawing the design for the library."
+    "word": "Epic",
+    "phonetic": "/ˈepɪk/",
+    "翻译": "adj. 史诗般的 n. 史诗（在历史文学中指像《荷马史诗》那样篇幅宏大、记录了神话英雄战争血泪的古老长篇诗歌；引申指极其宏大艰苦的迁徙过程）",
+    "sentence": "The annual migration of the monarch butterfly is an epic journey spanning thousands of miles."
   },
   {
     "id": 1226,
-    "word": "Despite",
-    "phonetic": "/dɪˈspaɪt/",
-    "翻译": "prep. 不管，尽管",
-    "sentence": "Despite the heavy rain, they thoroughly enjoyed their football game."
+    "word": "Episode",
+    "phonetic": "/ˈepɪsəʊd/",
+    "翻译": "n. 片段，插曲（在地球漫长几十亿年演化史上，特指发生在全球气候持续稳定的大背景下，突然短暂爆发的、持续了几万年的一段火山集中狂喷剧烈插曲）",
+    "sentence": "The brief ice age was merely a cold episode in a long era of planetary warmth."
   },
   {
     "id": 1227,
-    "word": "Detect",
-    "phonetic": "/dɪˈtekt/",
-    "翻译": "vt. 察觉，发觉，检测",
-    "sentence": "The kitchen security alarm is designed to detect smoke leaks."
+    "word": "Epitomize",
+    "phonetic": "/ɪˈpɪtəmaɪz/",
+    "翻译": "v. 成为…的缩影，典型代表（在建筑史中指雅典帕特农神庙那完美和谐的黄金分割比例多立克柱廊设计，完美典型地代表了古希腊古典主义建筑美学的巅峰水准）",
+    "sentence": "The structural design of the skyscraper was chosen to epitomize modern urban style."
   },
   {
     "id": 1228,
-    "word": "Deviate",
-    "phonetic": "/ˈdiːvieɪt/",
-    "翻译": "vi. 脱离，越轨，偏离",
-    "sentence": "The airplane was forced to deviate from its original route."
+    "word": "Equilibrium",
+    "phonetic": "/ˌiːkwɪˈlɪbriəm/",
+    "翻译": "n. 平衡，均衡（在物理化学和种群生态学中，特指当捕食者狼群和被捕食者驼鹿的数量在曲线上处于相互制约、上下微弱波动的长久动态稳定平衡状态）",
+    "sentence": "When a predator is removed, the entire biological equilibrium of the forest breaks down."
   },
   {
     "id": 1229,
-    "word": "Device",
-    "phonetic": "/dɪˈvaɪs/",
-    "翻译": "n. 设备，装置，策略",
-    "sentence": "This small electronic device is used to measure heart rates."
+    "word": "Equivalency",
+    "phonetic": "/ɪˈkwɪvələnsi/",
+    "翻译": "n. 等价，等量（在地球化学定量分析中，指经过精准的实验室折算，一吨特定的优质泥炭在燃烧时所能释放出的有效焦耳热量，完全等同于半吨标准工业烟煤）",
+    "sentence": "The researcher demonstrated a strict functional equivalency between the two organic enzymes."
   },
   {
     "id": 1230,
-    "word": "Devote",
-    "phonetic": "/dɪˈvoʊt/",
-    "翻译": "vt. 奉献，致力于",
-    "sentence": "She decided to devote her entire weekend to studying biology."
+    "word": "Eradicate",
+    "phonetic": "/ɪˈrædɪkeɪt/",
+    "翻译": "v. 根除，消灭（在医学和公共卫生史中，指世界卫生组织通过在全球范围内强制性普及疫苗接种，最终成功将肆虐人类数千年的天花病毒彻底灭绝根除）",
+    "sentence": "The health agency launched a global campaign to fully eradicate the malaria mosquito vector."
   },
   {
     "id": 1231,
-    "word": "Differentiate",
-    "phonetic": "/ˌdɪfəˈrenʃieɪt/",
-    "翻译": "v. 区分，区别",
-    "sentence": "It is difficult to differentiate between the two identical twins."
+    "word": "Erosion",
+    "phonetic": "/ɪˈrəʊʒn/",
+    "翻译": "n. 侵蚀，磨损（由于风力、流水、冰川流动等自然外力地质作用，导致岩石表面、土壤地表逐渐被风化流失的物理过程）",
+    "sentence": "The heavy rain accelerated the erosion of the hillside, causing a minor landslide."
   },
   {
     "id": 1232,
-    "word": "Dimension",
-    "phonetic": "/daɪˈmenʃn/",
-    "翻译": "n. 尺寸，尺度，维",
-    "sentence": "The designer needs to check the precise dimension of the room."
+    "word": "Erratic",
+    "phonetic": "/ɪˈrætɪk/",
+    "翻译": "adj. 不稳定的，古怪的（在气象学或冰川地质学中特指气流移动方向完全不遵循规律、忽左忽右极其诡异；也指由冰川千里漂运过来、丢弃在平原上质地不符的巨石）",
+    "sentence": "The regional wind patterns became erratic, making historic weather modeling useless."
   },
   {
     "id": 1233,
-    "word": "Diminish",
-    "phonetic": "/dɪˈmɪnɪʃ/",
-    "翻译": "v. 减少，缩小，贬低",
-    "sentence": "The local supplies of fresh water began to diminish during summer."
+    "word": "Erroneous",
+    "phonetic": "/ɪˈrəʊniəs/",
+    "翻译": "adj. 错误的，不正确的（指由于早期实验室测量仪器精度严重落后、或者计算公式漏掉了一个核心物理变量，导致最终推导出的天体年龄数据严重失实错误）",
+    "sentence": "The early assumption that the sun revolved around the earth was based on erroneous logic."
+  },
+  {
+    "id": 1234,
+    "word": "Erupt",
+    "phonetic": "/ɪˈrʌpt/",
+    "翻译": "v. 火山喷发，爆发（指地底深处集聚了极高压力的炙热红色岩浆，瞬间撕裂、冲破地壳火山通道，将漫天炽热的岩浆、火山灰裹挟着毒气疯狂喷射上万米高空的物理奇观）",
+    "sentence": "Mount Vesuvius was known to erupt with extreme violence, burying towns in ash."
+  },
+  {
+    "id": 1235,
+    "word": "Escalate",
+    "phonetic": "/ˈeskəleɪt/",
+    "翻译": "v. 升级，逐步加剧（指两个原本只是发生小口角的古老游牧部落，因水源彻底干涸、为了争夺最后一眼生命泉水而迅速将冲突升级为全族血腥大仇杀）",
+    "sentence": "Local resource fights can quickly escalate into widespread warfare across the valley."
+  },
+  {
+    "id": 1236,
+    "word": "Essence",
+    "phonetic": "/ˈesns/",
+    "翻译": "n. 本质，精髓（在深奥的哲学思辨或某门核心自然科学的底层逻辑中，指剥离掉所有花哨浮夸的表面伪装现象之后，最内核、最无法被篡改的本质规律）",
+    "sentence": "The essence of Darwinian evolution lies in natural selection favoring helpful traits."
+  },
+  {
+    "id": 1237,
+    "word": "Essential",
+    "phonetic": "/ɪˈsenʃl/",
+    "翻译": "adj. 完全不可或缺的，基础的（在生命化学中，特指某几种人体和动物自身绝对无法合成、必须从日常新鲜食物中强行摄入的必不可少的氨基酸或微量元素）",
+    "sentence": "Access to clean freshwater is an essential prerequisite for any stable permanent town."
+  },
+  {
+    "id": 1238,
+    "word": "Establish",
+    "phonetic": "/ɪˈstæblɪʃ/",
+    "翻译": "v. 建立，确立（指外来的开荒先锋植物风信子种子被风吹到新形成的火山岛上，成功扎根落地、在坚硬的岩表缝隙间建立起第一个稳固的绿色植物生存基地）",
+    "sentence": "Pioneer species like lichens move in first to establish a colony on barren lava."
+  },
+  {
+    "id": 1239,
+    "word": "Estimate",
+    "phonetic": "/ˈestɪmeɪt/",
+    "翻译": "v. / n. 估计，估算（指古生物学家在面对一具残缺不全的长毛象大腿骨化石时，通过严谨的骨骼比例函数公式，对该动物生前的真实体重进行科学的粗略推算）",
+    "sentence": "Archaeologists estimate that the burial mound was built roughly four thousand years ago."
+  },
+  {
+    "id": 1240,
+    "word": "Etch",
+    "phonetic": "/etʃ/",
+    "翻译": "v. 蚀刻，刻划（在工业半导体加工或者古老手工艺中，特指利用稀释后的强酸性液体对涂了蜡的铜版表面进行局部精准腐蚀，从而在硬面上镂刻出精美细腻的花纹）",
+    "sentence": "Wind-blown sand grains act like tiny chisels that etch fine grooves into desert rocks."
+  },
+  {
+    "id": 1241,
+    "word": "Eternal",
+    "phonetic": "/ɪˈtɜːrnl/",
+    "翻译": "adj. 永恒的，不朽的（在神话诗歌或文学语境中，用来形容北极核心地带长年不化、经历了数十万年沧海桑田依然死死冰封在地底的那些永冻土层）",
+    "sentence": "The high peaks were wrapped in what looked like eternal snow, never melting in summer."
+  },
+  {
+    "id": 1242,
+    "word": "Ethical",
+    "phonetic": "/ˈeθɪkl/",
+    "翻译": "adj. 伦理的，道德的（在现代前沿生命医学或基因克隆实验中，指科学家在开展人体胚胎基因剪切时，所必须严厉面对的全人类公认的道德伦理法律红线）",
+    "sentence": "Medical researchers face strict ethical limits when carrying out clinical genetic testing."
+  },
+  {
+    "id": 1243,
+    "word": "Evaluate",
+    "phonetic": "/ɪˈvæljueɪt/",
+    "翻译": "v. 评估，评价（指通过严谨的同行评议审查制度、双盲对比对照实验，对一种最新研发出的抗癌新药其临床疗效和毒副作用给出全面、客观的科学研判）",
+    "sentence": "Climatologists must gather decades of data to evaluate the impact of global warming."
+  },
+  {
+    "id": 1244,
+    "word": "Evaporate",
+    "phonetic": "/ɪˈvæpəreɪt/",
+    "翻译": "v. 蒸发，消失（在物理水循环中，特指地表湖泊里的液态水分子在骄阳的毒晒下吸收了充足的热量，转化为肉眼看不见的气态水蒸气混入大气的相变过程）",
+    "sentence": "In the hot desert sun, shallow puddles of water evaporate into the air within minutes."
+  },
+  {
+    "id": 1245,
+    "word": "Eventual",
+    "phonetic": "/ɪˈventʃuəl/",
+    "翻译": "adj. 最终的（在长周期进化或历史进程中，指一种极为微弱的生理适应性变异在经过了上百万年大自然的筛选进化后，最终必然导致的崭新物种的诞生）",
+    "sentence": "Continuous pressure over geological eras led to the eventual creation of oil reserves."
+  },
+  {
+    "id": 1246,
+    "word": "Evidence",
+    "phonetic": "/ˈevɪdəns/",
+    "翻译": "n. 证据，迹象（在法医学或科学考古中，指化石脚印、土壤中残留的特定碳同位素比例等能够铁证如山地支撑起某一学术学说的核心客观物质事实）",
+    "sentence": "The discovery of charred seeds provided clear evidence that the early tribe used fire."
+  },
+  {
+    "id": 1247,
+    "word": "Evolution",
+    "phonetic": "/ˌiːvəˈluːʃn/",
+    "翻译": "n. 进化，演化（在生物学中特指地球上的生命群体，在漫长无比的地质世代中，由于基因不断发生突变、并接受严酷的大自然优胜劣汰，从而发生物种形态渐变的伟大历史过程）",
+    "sentence": "The evolution of the bird wing can be traced through unique transitional lizard fossils."
+  },
+  {
+    "id": 1248,
+    "word": "Exaggerate",
+    "phonetic": "/ɪɡˈzædʒəreɪt/",
+    "翻译": "v. 夸大，夸张（在历史文献批判阅读中，指某位封建宫廷史官为了讨好不可一世的皇帝，在编年史中故意将一场微不足道的小胜仗疯狂吹嘘成消灭敌军十万的荒唐举动）",
+    "sentence": "Ancient poets would often choose to exaggerate the size of the invading Persian navy."
+  },
+  {
+    "id": 1249,
+    "word": "Excavation",
+    "phonetic": "/ˌekskəˈveɪʃn/",
+    "翻译": "n. 挖掘，开挖（在考古学中特指大批专家和工人安营扎寨，用特制的刷子、小铲子极其小心翼翼地把深埋在地下数米处的特洛伊古城遗址或恐龙化石层一点点剔土剔出来的大型科学工程）",
+    "sentence": "The systematic archaeological excavation of the Egyptian tomb revealed golden treasures."
+  },
+  {
+    "id": 1250,
+    "word": "Exceed",
+    "phonetic": "/ɪkˈsiːd/",
+    "翻译": "v. 超过，超出（指某一年的罕见特大洪峰其最高水位，竟然足足超出了过去两百年有气象历史记录以来的最高防洪警戒线水位大堤）",
+    "sentence": "The growth rate of the city population began to exceed the local water supply capability."
+  },
+  {
+    "id": 1251,
+    "word": "Exceptional",
+    "phonetic": "/ɪkˈsepʃənl/",
+    "翻译": "adj. 杰出的，异常的（在群居动物智力测试中，形容某只格外聪明的黑猩猩展现出了令在场所有心理学家惊掉下巴的、远超同类的极其罕见的复杂工具制造能力）",
+    "sentence": "The young musician demonstrated an exceptional talent for composing intricate symphonies."
+  },
+  {
+    "id": 1252,
+    "word": "Excessive",
+    "phonetic": "/ɪkˈsesɪv/",
+    "翻译": "adj. 过多的，过度的（在环境生态学中，特指化肥中大剂量的过剩磷元素随着雨水冲刷流入封闭内陆湖泊，必然引发的水华和藻类疯狂疯长灾难）",
+    "sentence": "Excessive logging along mountain hillsides triggers widespread downstream soil mudslides."
+  },
+  {
+    "id": 1253,
+    "word": "Exclude",
+    "phonetic": "/ɪkˈskluːd/",
+    "翻译": "v. 排除，把…排除在外（在科学分类学中，指科学家经过基因图谱比对，决定将某只长相酷似鸟类的怪异爬行动物彻底从传统鸟类科属中强行剔除剥离出去）",
+    "sentence": "The research team decided to exclude incomplete surveys from the final statistics database."
+  },
+  {
+    "id": 1254,
+    "word": "Exclusively",
+    "phonetic": "/ɪkˈskluːsɪvli/",
+    "翻译": "adv. 独占地，专门地（在生态位和食性研究中，形容绝无仅有的国宝大熊猫，其一生中百分之九十九的食物来源几乎完全、百分之百、死死依赖于高山箭竹这一种植物）",
+    "sentence": "This unique species of blind salamander lives exclusively inside dark limestone caves."
+  },
+  {
+    "id": 1255,
+    "word": "Excrete",
+    "phonetic": "/ɪkˈskriːt/",
+    "翻译": "v. 排泄，分泌（在动物生理排泄机制中，特指海鸟为了在严重缺水的公海上存活，其眼睛上方的特殊盐腺能够主动将体内过高的有毒盐分以高浓度液滴形式强行排出体外）",
+    "sentence": "Marine birds have evolved specialized glands that excrete excess salt from their bodies."
+  },
+  {
+    "id": 1256,
+    "word": "Excursion",
+    "phonetic": "/ɪkˈskɜːrʒn/",
+    "翻译": "n. 远足，短途旅行（在大学地质学或植物分类学野外教学中，指老教授亲自带队、背着地质锤和标本夹进入险峻荒山进行的为期一天的实地田野考察）",
+    "sentence": "The mineralogy class went on a field excursion to gather granite samples from the canyon."
+  },
+  {
+    "id": 1257,
+    "word": "Exemplify",
+    "phonetic": "/ɪɡˈzemplɪfaɪ/",
+    "翻译": "v. 举例说明，作为…的典型（在学术论文写作中，通过详尽拆解英国圈地运动这一个最广为人知的核心历史案例，来向全班学生生动形象地阐明资本原始积累的残酷本质）",
+    "sentence": "The industrial cities of the north exemplify the rapid urban growth of the nineteenth century."
+  },
+  {
+    "id": 1258,
+    "word": "Exert",
+    "phonetic": "/ɪɡˈzɜːrt/",
+    "翻译": "v. 施加，运用（在地质学和天文学中，特指由于月球对地球表面广阔的汪洋大海施加了极其庞大而连续的引力，从而催生了地球上每天周而复始的潮汐起落奇观）",
+    "sentence": "Tectonic plates exert massive lateral pressure against each other along fault lines."
+  },
+  {
+    "id": 1259,
+    "word": "Exhaust",
+    "phonetic": "/ɪɡˈzɔːst/",
+    "翻译": "v. 使筋疲力尽，耗尽 n. 废气（形容远古迁徙长途跋涉的野生驯鹿群，在顶着狂风雪连续奔波上千公里、跨越冰河后，全身肌肉卡路里彻底耗尽、瘫倒在地的极度疲惫状态）",
+    "sentence": "Over-pumping underground aquifers will completely exhaust the regional agricultural wells."
+  },
+  {
+    "id": 1260,
+    "word": "Exhibit",
+    "phonetic": "/ɪɡˈzɪbɪt/",
+    "翻译": "v. 展现，陈列 n. 展览（在植物毒理学或动物行为学中，指某受试小鼠在摄入了特定重金属毒素后，在神经反射和空间迷宫识别上开始展现出明显的痴呆和迟钝症状）",
+    "sentence": "Many island plant species exhibit no natural chemical defenses against grazing animals."
+  },
+  {
+    "id": 1261,
+    "word": "Exile",
+    "phonetic": "/ˈeksaɪl/",
+    "翻译": "v. / n. 放逐，流放（在古代奴隶制或者封建历史中，特指某位政争失败的开国元勋或伟大诗人，被暴怒的皇帝下令抄家、终身强行驱逐到鸟不拉屎的蛮荒边疆绝域）",
+    "sentence": "The fallen Athenian general was forced into permanent exile on a remote Aegean island."
+  },
+  {
+    "id": 1262,
+    "word": "Exotic",
+    "phonetic": "/ɪɡˈzɒtɪk/",
+    "翻译": "adj. 外来的，异国情调的（在生态学入侵物种语境中，特指由于人类跨国商贸意外携带，导致某种长相极其怪异的海外异域毒蜘蛛被带入本地，对本土物种构成潜在绞杀威胁）",
+    "sentence": "The botanical garden contains thousands of exotic orchids imported from the Amazon."
+  },
+  {
+    "id": 1263,
+    "word": "Expand",
+    "phonetic": "/ɪkˈspænd/",
+    "翻译": "v. 扩张，膨胀（在热力学或宇宙学中指物理气体在加热后体积疯狂向外撑大；或者指宇宙自大爆炸以来，所有的星系与空间至今都在以超越光速的惊人速度向外延展变大）",
+    "sentence": "Water is unique because it will expand when changing from a liquid to a solid state."
+  },
+  {
+    "id": 1264,
+    "word": "Expedition",
+    "phonetic": "/ˌekspəˈdɪʃn/",
+    "翻译": "n. 远征，探险队（在地理探索和古生物史上，特指由国家地理学会全额资助、配备了雪地全地形车和全套破冰装备，深入北极点无人区开展的为期半年的大型国家级科学探险）",
+    "sentence": "The scientific expedition to the Antarctic ice shelf gathered unique core rock samples."
+  },
+  {
+    "id": 1265,
+    "word": "Expertise",
+    "phonetic": "/ˌekspɜːˈtiːz/",
+    "翻译": "n. 专门知识，专长（特指某位顶级考古学家在面对一具残破的木乃伊时，凭借其在古埃及象形文字读解、骨骼防腐化学领域长达四十年的深厚学识功底，能瞬间判定墓主身份的超强专业本领）",
+    "sentence": "Dating early pottery style requires a high degree of technical archaeological expertise."
+  },
+  {
+    "id": 1266,
+    "word": "Expire",
+    "phonetic": "/ɪkˈspaɪər/",
+    "翻译": "v. 到期，失效（在法律、条约或者古老租约文本中，特指某两方古代交战国签署的为期二十年的互不侵犯边境和平协议，在第二十年最后一天钟声敲响时其法律约束力正式终结失效）",
+    "sentence": "When the special trade patent was about to expire, other labs rushed to copy the drug."
+  },
+  {
+    "id": 1267,
+    "word": "Explicit",
+    "phonetic": "/ɪkˈsplɪsɪt/",
+    "翻译": "adj. 明确的，直截了当的（指某份出土的古巴比伦泥板法律条文中，毫无任何含糊说辞、字迹清晰地、死死明文规定了偷盗他人一头牛必须十倍赔偿的严厉刑罚条款）",
+    "sentence": "The manual provided explicit instructions on how to calibrating the carbon testing equipment."
+  },
+  {
+    "id": 1268,
+    "word": "Exploit",
+    "phonetic": "/ɪkˈsplɔɪt/",
+    "翻译": "v. 开采，利用（指在利益驱使下，跨国采矿巨头动用超大型露天挖掘机，对原始山体内的珍稀铜矿进行掘地三尺的大规模掠夺性开采开采）",
+    "sentence": "Certain bird species learn to exploit human waste heaps as dependable winter food sources."
+  },
+  {
+    "id": 1269,
+    "word": "Explore",
+    "phonetic": "/ɪkˈsplɔːr/",
+    "翻译": "v. 探索，勘探（指派遣无人深潜器下潜到马里亚纳海沟万米深的漆黑海底，对从未有人类涉足过的海底火山热液喷口处的神秘生物盲区开展全面的科学测绘和物种搜寻）",
+    "sentence": "Robotic submersibles are used to explore the deep valleys of the middle ocean ridges."
+  },
+  {
+    "id": 1270,
+    "word": "Explosive",
+    "phonetic": "/ɪkˈspləʊsɪv/",
+    "翻译": "adj. 爆炸性的，激增的（在人口社会学或化学中，形容某大平原地区由于引进了高产土豆作物，导致其总人口在短短三十年内迎来了令人瞠目结舌的爆发式、火箭式的极速增长）",
+    "sentence": "The invention of printing caused an explosive increase in the circulation of science books."
+  },
+  {
+    "id": 1271,
+    "word": "Exponential",
+    "phonetic": "/ˌekspəˈnenʃl/",
+    "翻译": "adj. 指数级的，越来越快的（在数学模型中指一条在初期极为平缓、但在越过某个临界点后，其数值划出一条接近九十度垂直向天空疯狂飙升的极其恐怖的数量增殖曲线）",
+    "sentence": "Bacteria placed in a rich nutrient broth show an exponential growth rate for twelve hours."
+  },
+  {
+    "id": 1272,
+    "word": "Expressive",
+    "phonetic": "/ɪkˈspresɪv/",
+    "翻译": "adj. 富于表情的，表现力的（在艺术评论中，形容某些非洲土著木雕面具通过夸张变形的眼窝、獠牙嘴唇，将部落图腾中对恶魔的原始恐惧表现得淋漓尽致、张力十足）",
+    "sentence": "Early folk cave arts used simple yet highly expressive line designs to show tribal hunts."
+  },
+  {
+    "id": 1273,
+    "word": "Extensive",
+    "phonetic": "/ɪkˈstensɪv/",
+    "翻译": "adj. 广泛的，大范围的（特指为了彻底查明某一大型恐龙灭绝地层断面的真实成分，地质考察组在方圆数千公里范围内连续挖了几百个深坑开展的大规模、拉网式的大范围全面勘测）",
+    "sentence": "The ancient agricultural society built an extensive network of stone irrigation ditches."
+  },
+  {
+    "id": 1274,
+    "word": "Exterior",
+    "phonetic": "/ɪkˈstɪəriər/",
+    "翻译": "adj. 外部的，外表的 n. 外观（在解剖学或建筑学中指某些沙漠甲虫为了死死锁住体内的最后一丝水分，其坚硬如钢铁的坚硬外壳外表涂覆了一层厚厚的防水生物蜡层）",
+    "sentence": "The durable exterior waxy layer protects the forest evergreen leaf from dry winter winds."
+  },
+  {
+    "id": 1275,
+    "word": "Extinct",
+    "phonetic": "/ɪkˈstɪŋkt/",
+    "翻译": "adj. 灭绝的，绝迹的（在古生物学中，特指由于遭遇了无法承受的气候剧变或天体撞击，导致像猛犸象、三叶虫这种曾经统治地球一时的伟大物种，其最后一个活体在地球上彻底死亡、永远消失）",
+    "sentence": "Passenger pigeons were once abundant in America, but they became extinct in the early 1900s."
+  },
+  {
+    "id": 1276,
+    "word": "Extraction",
+    "phonetic": "/ɪkˈstrækʃn/",
+    "翻译": "n. 提取，开采（在生物化学实验室中，特指利用特定的高纯度酒精有机溶剂和离心机，将深埋在古生物化石骨骼碎屑内部的微量古老 DNA 片段强行提炼分离出来的精细过程）",
+    "sentence": "The complete extraction of mineral silver from raw ores required huge amounts of charcoal wood."
+  },
+  {
+    "id": 1277,
+    "word": "Extraordinary",
+    "phonetic": "/ɪkˈstrɔːrdəneri/",
+    "翻译": "adj. 非凡的，极其罕见的（在天文学史上，形容科学家利用空间射电望远镜，在深空宇宙中极其偶然捕捉到的一场跨越了一百亿光年、能量超乎想象的超新星超强世纪大爆发）",
+    "sentence": "The desert plant has an extraordinary ability to survive without water for over three years."
+  },
+  {
+    "id": 1278,
+    "word": "Fabricate",
+    "phonetic": "/ˈfæbrɪkeɪt/",
+    "翻译": "v. 编造（谎言），制造（在学术诚信调查中，特指某些无耻的科研流氓为了骗取巨额国家财政科研补贴，在日记本里故意凭空捏造、伪造伪造出一整套完美的实验数据的恶劣行径）",
+    "sentence": "The dishonest historian was found to fabricate key diary records to back his royal narrative."
+  },
+  {
+    "id": 1279,
+    "word": "Facet",
+    "phonetic": "/ˈfæsɪt/",
+    "翻译": "n. （问题等的）一个方面，（宝石的）小平面（在跨学科多角度分析中，指要全面解剖玛雅文明为何在公元八世纪突然彻底崩盘，必须死死盯住其农业系统、地质干旱、阶级对立等每一个相互纠缠的独立核心小侧面）",
+    "sentence": "Biologists must examine every separate facet of cell behavior to unlock the cancer mystery."
+  },
+  {
+    "id": 1280,
+    "word": "Facilitate",
+    "phonetic": "/fəˈsɪlɪteɪt/",
+    "翻译": "v. 促进，使便利（指在工业或经济史中，由于一条横跨美洲大陆的钢铁大铁路胜利合拢通车，这在客观上极大地便利、加速了东西部大宗货物的低成本长途商贸流通）",
+    "sentence": "Warm coastal ocean currents facilitate the long-distance migratory travel of green sea turtles."
+  },
+  {
+    "id": 1281,
+    "word": "Faction",
+    "phonetic": "/ˈfækʃn/",
+    "翻译": "n. 派别，内讧（在古代城邦政治史中，特指元老院内部因利益分配严重不均，分裂成两个天天明争暗斗、互相拆台、最终引发全城毁灭性血腥内战的势不两立的政治小帮派）",
+    "sentence": "The ancient city-state collapsed because of bitter warfare between rival ruling family faction groups."
+  },
+  {
+    "id": 1282,
+    "word": "Factor",
+    "phonetic": "/ˈfæktər/",
+    "翻译": "n. 因素，因子（在多元气候变迁统计方程中，指洋流死死减速、太阳耀斑阶段性变弱、森林覆盖率下跌等多个共同左右全球气温走向的其中某一个独立关键变量）",
+    "sentence": "The availability of clean water was the main factor in choosing locations for prehistoric camps."
+  },
+  {
+    "id": 1283,
+    "word": "Faculty",
+    "phonetic": "/ˈfæklti/",
+    "翻译": "n. 全体教员，官能（在大学管理学中特指由某高校全体正副教授、讲师构成的庞大学术师资天团；在生理学中特指某种生物天生具备的视觉感知等身体机能官能）",
+    "sentence": "The university's science faculty voted to add a new department dedicated to astrobiology."
+  },
+  {
+    "id": 1284,
+    "word": "Faded",
+    "phonetic": "/ˈfeɪdɪd/",
+    "翻译": "adj. 褪色的，衰退的（在历史文物发掘中，形容那些深埋在干燥埃及地下古墓中长达数千年的壁画彩绘，在骤然接触到现代潮湿空气和强光照射后，其绚丽的红蓝矿物色彩在短短几天内发生明显严重发白褪色）",
+    "sentence": "Archaeologists found faded remnants of woolen fabrics inside the dry desert cave ruins."
+  },
+  {
+    "id": 1285,
+    "word": "Faint",
+    "phonetic": "/feɪnt/",
+    "翻译": "adj. 微弱的，模糊的（在深空天文学中，特指那些距离银河系核心几百亿光年开外、其发出的一丝极其微弱渺茫的可见光在穿透层层宇宙星际尘埃后，落入电磁接收盘上的极其暗淡模糊的光点信号）",
+    "sentence": "Astronomers detected a faint radio bleep emanating from the edge of the known universe."
+  },
+  {
+    "id": 1286,
+    "word": "Fairly",
+    "phonetic": "/ˈfeəli/",
+    "翻译": "adv. 相当地，公正地（在学术数据定量描述中，指某种新材料的抗压物理强度虽然算不上震古烁今的顶级，但也已经达到了相当不错、完全符合民用工业基础大范围要求的及格水平）",
+    "sentence": "The fossilized skull structure remained fairly intact despite millions of years of pressure."
+  },
+  {
+    "id": 1287,
+    "word": "Famine",
+    "phonetic": "/ˈfæmɪn/",
+    "翻译": "n. 饥荒（指因连续三年颗粒无收的世纪特大旱灾袭来，导致整个封建落后农耕帝国境内爆发了全线粮食彻底断供、饿殍遍野、数百万流民背井离乡的特大惨剧）",
+    "sentence": "A massive potato blight triggered a horrific national famine across mid-nineteenth-century Ireland."
+  },
+  {
+    "id": 1288,
+    "word": "Fascinate",
+    "phonetic": "/ˈfæsɪneɪt/",
+    "翻译": "v. 使着迷，吸引（形容深海中那些在近万米彻底漆黑无光的极高压海底，靠吞噬火山口剧毒硫磺毒气却活得极其滋润的神秘盲眼大螃蟹，彻底勾起了全球生物学家一辈子的强烈研究狂热）",
+    "sentence": "The unique hunting behavior of tool-using crows continues to fascinate cognitive scientists."
+  },
+  {
+    "id": 1289,
+    "word": "Fashion",
+    "phonetic": "/ˈfæʃn/",
+    "翻译": "v. 塑造，制作 n. 方式（在旧石器人类工具演化史中，特指原始北京猿人蹲坐在小溪边，手拿坚硬的燧石不停地奋力敲击一块石英石，试图将其亲手精心打磨敲制成一把锋利的刮削器工具）",
+    "sentence": "Early native fishermen learned to fashion effective fishhooks from pieces of broken deer bone."
+  },
+  {
+    "id": 1290,
+    "word": "Fatal",
+    "phonetic": "/ˈfeɪtl/",
+    "翻译": "adj. 致命的，灾难性的（在演化博弈论或医药学中，特指某种野生毒蛙其体表黏液中蕴含的神经毒素纯度极高，只需极其微小的一毫克混入血液，便能在几秒钟内引发大型哺乳类天敌心脏骤停彻底死亡）",
+    "sentence": "A single mistaken gene deletion during cell copying can prove fatal to the animal embryo."
+  },
+  {
+    "id": 1291,
+    "word": "Fatigue",
+    "phonetic": "/fəˈtiːɡ/",
+    "翻译": "n. / v. 疲劳，（金属）疲劳（在结构材料学中，特指承受高频交变载荷的飞机铝合金机翼，在连续高强度服役数千小时后，其内部原子结构发生断裂导致毫无征兆瞬间脆断的物理疲劳崩坏现象）",
+    "sentence": "Continuous stress along the metal wing joints can lead to structural structural fatigue and cracks."
+  },
+  {
+    "id": 1292,
+    "word": "Fault",
+    "phonetic": "/fɔːlt/",
+    "翻译": "n. 断层，错误（在地质构造学中，特指由于地壳板块巨大的坚硬应力发生猛烈撕裂断开，导致岩层沿着断裂面发生上下或者左右几米、几十米物理位移的巨大地质断层构造）",
+    "sentence": "The San Andreas Fault is a famous transform plate boundary prone to massive earthquakes."
+  },
+  {
+    "id": 1293,
+    "word": "Feasible",
+    "phonetic": "/ˈfiːzəbl/",
+    "翻译": "adj. 可行的，行得通的（在大型科研工程立项评估中，指某项通过在太空中架设超大型太阳能反光板来彻底解决地表城市电荒的科幻设计，在当前的工程建造技术和预算限制下，是否具备真正落地的可操作性）",
+    "sentence": "With current budgets, building a permanent habitat under the sea is simply not economically feasible."
+  },
+  {
+    "id": 1294,
+    "word": "Feature",
+    "phonetic": "/ˈfiːtʃər/",
+    "翻译": "n. 特征，面貌 v. 以…为特色（在古生物分类特征鉴定中，指该种绝灭古鸟类的化石上长着类似于现代猛禽一般带有倒钩的锋利鸟喙，这一最扎眼、最具标志性的生理物理外观特征）",
+    "sentence": "A highly prominent feature of this desert lizard is its large, triangular waxy head scales."
+  },
+  {
+    "id": 1295,
+    "word": "Fecundity",
+    "phonetic": "/fɪˈkʌndəti/",
+    "翻译": "n. 多产，繁殖力（在种群生态学和昆虫繁衍策略研究中，特指某些生活在温带平原的有害蚜虫，其雌性个体在短短一个繁殖季节内竟然能疯狂产下数万枚卵的惊人的、极度充沛的繁育繁殖能力）",
+    "sentence": "The massive seasonal fecundity of ocean insects ensures that enough offspring survive ocean fish predators."
+  },
+  {
+    "id": 1296,
+    "word": "Feed",
+    "phonetic": "/fiːd/",
+    "翻译": "v. 喂养，觅食（在生态食物网底层机制中，指成千上万条未成年的鲱鱼幼崽成群结队地浮上海面，张开大嘴疯狂吞噬、觅食海水中漂浮着的数量多如牛毛的单细胞微小浮游生物）",
+    "sentence": "Baleen whales cruise slowly through icy waters to feed exclusively on large swarms of tiny krill."
+  },
+  {
+    "id": 1297,
+    "word": "Ferocious",
+    "phonetic": "/fəˈrəʊʃəs/",
+    "翻译": "adj. 凶猛的，残暴的（在白垩纪晚期古生态还原中，形容体长十几米、满嘴长着两排形同锋利断头台钢刀一般巨大牙齿的霸王龙，在捕食鸭嘴龙时所展现出的令人闻风丧胆的、极度血腥凶猛的掠食本性）",
+    "sentence": "The fierce climate change unleashed ferocious winter blizzards across the prehistoric grasslands."
+  },
+  {
+    "id": 1298,
+    "word": "Fertile",
+    "phonetic": "/ˈfɜːtaɪl/",
+    "翻译": "adj. 肥沃的，能生育的（在农业地理学中，特指由尼罗河每年定期大泛滥，从上游源源不断冲刷、平铺在下游两岸的、含有海量腐殖质和丰富黑泥矿物质的、极其适合庄稼大丰收的黑色肥沃土地）",
+    "sentence": "The floodplains of the Mississippi River contain some of the most fertile agricultural soil on earth."
+  },
+  {
+    "id": 1299,
+    "word": "Fervent",
+    "phonetic": "/ˈfɜːvənt/",
+    "翻译": "adj. 热烈的，强烈的（形容中生代文艺复兴晚期，那些打破宗教黑暗禁锢的先驱科学家，抱着宁可被烧死在火刑柱上的决绝信念，对哥白尼日心说所奉献出的、一生不渝的、极度炙热坚定的科学拥护狂热）",
+    "sentence": "The progressive scholar remained a fervent supporter of the controversial continental drift hypothesis."
+  },
+  {
+    "id": 1300,
+    "word": "Fiber",
+    "phonetic": "/ˈfaɪbər/",
+    "翻译": "n. 纤维，光纤（在植物解剖学中指构成大树树干木质部主要抗拉物理强度的、坚韧细长的木纤维细胞壁结构；在纺织考古中指构成古代亚麻布的最基础植物纤维线条）",
+    "sentence": "The unique structural strength of hemp plant fiber made it perfect for weaving industrial ship ropes."
   }
 ]
