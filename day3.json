@@ -1,0 +1,7002 @@
+[
+  {
+    "id": 2001,
+    "word": "Robust",
+    "phonetic": "/roʊˈbʌst/",
+    "解释": "adj. 强健的（指结构坚固、经受住压力而有效运转的）",
+    "sentence": "The evidence is robust and consistent."
+  },
+  {
+    "id": 2002,
+    "word": "Satellite",
+    "phonetic": "/ˈsætəlaɪt/",
+    "解释": "n. 卫星（指绕行星运行的天体，或人造航天器）",
+    "sentence": "Satellites track changes in land and ice cover."
+  },
+  {
+    "id": 2003,
+    "word": "Scale",
+    "phonetic": "/skeɪl/",
+    "解释": "n./v. 规模（指事物的相对大小，或增加部署规模）",
+    "sentence": "We need to scale up clean energy globally."
+  },
+  {
+    "id": 2004,
+    "word": "Scarcity",
+    "phonetic": "/ˈskersɪti/",
+    "解释": "n. 短缺（指供给远不足以满足需求的状态）",
+    "sentence": "Water scarcity is increasing in dry regions."
+  },
+  {
+    "id": 2005,
+    "word": "Scenario",
+    "phonetic": "/səˈnærioʊ/",
+    "解释": "n. 情景（指一种可能的未来情况，尤用于规划和政策讨论）",
+    "sentence": "The worst-case scenario must be avoided."
+  },
+  {
+    "id": 2006,
+    "word": "Sector",
+    "phonetic": "/ˈsektər/",
+    "解释": "n. 部门（指经济或社会活动中的特定区域）",
+    "sentence": "All sectors must reduce their emissions."
+  },
+  {
+    "id": 2007,
+    "word": "Secure",
+    "phonetic": "/sɪˈkjʊr/",
+    "解释": "adj./v. 安全的（指得到保护不受威胁的，或使之安全）",
+    "sentence": "A secure energy supply is vital."
+  },
+  {
+    "id": 2008,
+    "word": "Sequence",
+    "phonetic": "/ˈsiːkwəns/",
+    "解释": "n. 序列（指按特定顺序排列的一组事物）",
+    "sentence": "The sequence of events led to the crisis."
+  },
+  {
+    "id": 2009,
+    "word": "Shift",
+    "phonetic": "/ʃɪft/",
+    "解释": "n./v. 转变（指位置、方向或观念的改变）",
+    "sentence": "A major shift in energy use is underway."
+  },
+  {
+    "id": 2010,
+    "word": "Significant",
+    "phonetic": "/sɪɡˈnɪfɪkənt/",
+    "解释": "adj. 重要的（指大到足以产生影响或值得注意的）",
+    "sentence": "There has been significant progress in solar energy."
+  },
+  {
+    "id": 2011,
+    "word": "Simulate",
+    "phonetic": "/ˈsɪmjuleɪt/",
+    "解释": "v. 模拟（指用模型复制真实系统或过程以进行研究）",
+    "sentence": "Computers simulate future climate conditions."
+  },
+  {
+    "id": 2012,
+    "word": "Solar",
+    "phonetic": "/ˈsoʊlər/",
+    "解释": "adj. 太阳的（指与太阳有关的，或由太阳产生的）",
+    "sentence": "Solar energy is now the cheapest form of electricity."
+  },
+  {
+    "id": 2013,
+    "word": "Solution",
+    "phonetic": "/səˈluːʃn/",
+    "解释": "n. 解决方案（指解决难题或改善困难境地的方法）",
+    "sentence": "There is no single solution to climate change."
+  },
+  {
+    "id": 2014,
+    "word": "Stabilize",
+    "phonetic": "/ˈsteɪbɪlaɪz/",
+    "解释": "v. 稳定（指使某事物不再波动变化）",
+    "sentence": "We must stabilize greenhouse gas concentrations."
+  },
+  {
+    "id": 2015,
+    "word": "Standard",
+    "phonetic": "/ˈstændərd/",
+    "解释": "n./adj. 标准（指判断质量或程度的基准）",
+    "sentence": "New fuel efficiency standards were adopted."
+  },
+  {
+    "id": 2016,
+    "word": "Statistic",
+    "phonetic": "/stəˈtɪstɪk/",
+    "解释": "n. 统计数据（指以数字表达的有关某群体的事实信息）",
+    "sentence": "Statistics show that warming is accelerating."
+  },
+  {
+    "id": 2017,
+    "word": "Strategy",
+    "phonetic": "/ˈstrætədʒi/",
+    "解释": "n. 战略（指为达成长远或总体目标而制定的计划）",
+    "sentence": "Every nation needs a climate strategy."
+  },
+  {
+    "id": 2018,
+    "word": "Stress",
+    "phonetic": "/stres/",
+    "解释": "n./v. 压力（指引起焦虑的精神或物理压力）",
+    "sentence": "Climate stress threatens ecosystems globally."
+  },
+  {
+    "id": 2019,
+    "word": "Substantial",
+    "phonetic": "/səbˈstænʃl/",
+    "解释": "adj. 大量的（指相当多或重要的）",
+    "sentence": "Substantial investment is needed."
+  },
+  {
+    "id": 2020,
+    "word": "Sustainable",
+    "phonetic": "/səˈsteɪnəbl/",
+    "解释": "adj. 可持续的（指能长期维持而不损耗资源的）",
+    "sentence": "Sustainable development must replace growth at all costs."
+  },
+  {
+    "id": 2021,
+    "word": "System",
+    "phonetic": "/ˈsɪstəm/",
+    "解释": "n. 系统（指为共同目的协同工作的一组部件或步骤）",
+    "sentence": "The Earth system is being pushed beyond its limits."
+  },
+  {
+    "id": 2022,
+    "word": "Target",
+    "phonetic": "/ˈtɑːrɡɪt/",
+    "解释": "n./v. 目标（指努力想达到的特定结果或水平）",
+    "sentence": "Countries must set binding emission targets."
+  },
+  {
+    "id": 2023,
+    "word": "Temperature",
+    "phonetic": "/ˈtemprətʃər/",
+    "解释": "n. 温度（指某物冷热程度的度量，以摄氏度或华氏度表示）",
+    "sentence": "Global average temperatures are rising rapidly."
+  },
+  {
+    "id": 2024,
+    "word": "Threat",
+    "phonetic": "/θret/",
+    "解释": "n. 威胁（指可能造成伤害或危险的人或情况）",
+    "sentence": "Climate change is an existential threat."
+  },
+  {
+    "id": 2025,
+    "word": "Threshold",
+    "phonetic": "/ˈθreʃhoʊld/",
+    "解释": "n. 阈值（指某变化开始发生的临界点）",
+    "sentence": "We must not cross critical climate thresholds."
+  },
+  {
+    "id": 2026,
+    "word": "Transition",
+    "phonetic": "/trænˈzɪʃn/",
+    "解释": "n. 过渡（指从一种状态到另一种状态的过程，尤指能源结构的转变）",
+    "sentence": "The energy transition must be accelerated."
+  },
+  {
+    "id": 2027,
+    "word": "Transport",
+    "phonetic": "/ˈtrænspɔːrt/",
+    "解释": "n./v. 运输（指将人或货物从一地送至另一地）",
+    "sentence": "Transport is one of the hardest sectors to decarbonize."
+  },
+  {
+    "id": 2028,
+    "word": "Trend",
+    "phonetic": "/trend/",
+    "解释": "n. 趋势（指正在发展变化的普遍方向）",
+    "sentence": "The warming trend is clear and unmistakable."
+  },
+  {
+    "id": 2029,
+    "word": "Tropical",
+    "phonetic": "/ˈtrɒpɪkl/",
+    "解释": "adj. 热带的（指赤道附近地区的，气候炎热潮湿）",
+    "sentence": "Tropical forests are critical carbon sinks."
+  },
+  {
+    "id": 2030,
+    "word": "Uncertainty",
+    "phonetic": "/ʌnˈsɜːrtnti/",
+    "解释": "n. 不确定性（指对某事物的确切状态无法做出准确判断的状态）",
+    "sentence": "Scientific uncertainty should not delay action."
+  },
+  {
+    "id": 2031,
+    "word": "Undermine",
+    "phonetic": "/ˌʌndərˈmaɪn/",
+    "解释": "v. 削弱（指逐渐降低某人或某事的力量或有效性）",
+    "sentence": "Weak policies undermine global climate efforts."
+  },
+  {
+    "id": 2032,
+    "word": "Unprecedented",
+    "phonetic": "/ʌnˈpresɪdentɪd/",
+    "解释": "adj. 史无前例的（指从未发生过的）",
+    "sentence": "The warming rate is unprecedented in human history."
+  },
+  {
+    "id": 2033,
+    "word": "Urgent",
+    "phonetic": "/ˈɜːrdʒənt/",
+    "解释": "adj. 紧迫的（指需要立即处理或关注的）",
+    "sentence": "Urgent action on climate is needed now."
+  },
+  {
+    "id": 2034,
+    "word": "Variability",
+    "phonetic": "/ˌveriəˈbɪlɪti/",
+    "解释": "n. 变异性（指某事物频繁地、有规律地改变的特点）",
+    "sentence": "Climate variability is increasing."
+  },
+  {
+    "id": 2035,
+    "word": "Vegetation",
+    "phonetic": "/ˌvedʒɪˈteɪʃn/",
+    "解释": "n. 植被（指某地区或某类环境中生长的植物总称）",
+    "sentence": "Vegetation patterns are shifting northward."
+  },
+  {
+    "id": 2036,
+    "word": "Verify",
+    "phonetic": "/ˈverɪfaɪ/",
+    "解释": "v. 证实（指证明某事物的真实性或准确性）",
+    "sentence": "Models must be verified against real-world data."
+  },
+  {
+    "id": 2037,
+    "word": "Viable",
+    "phonetic": "/ˈvaɪəbl/",
+    "解释": "adj. 可行的（指实际上可以实现的）",
+    "sentence": "Solar is now a viable alternative to coal."
+  },
+  {
+    "id": 2038,
+    "word": "Volatile",
+    "phonetic": "/ˈvɒlətaɪl/",
+    "解释": "adj. 不稳定的（指容易迅速改变，尤指情况或价格）",
+    "sentence": "Oil prices are volatile."
+  },
+  {
+    "id": 2039,
+    "word": "Vulnerable",
+    "phonetic": "/ˈvʌlnərəbl/",
+    "解释": "adj. 脆弱的（指容易受到攻击、伤害或批评的）",
+    "sentence": "Island nations are the most vulnerable to sea-level rise."
+  },
+  {
+    "id": 2040,
+    "word": "Warning",
+    "phonetic": "/ˈwɔːrnɪŋ/",
+    "解释": "n. 警告（指关于可能危险或问题的通知）",
+    "sentence": "Scientists have issued repeated warnings."
+  },
+  {
+    "id": 2041,
+    "word": "Waste",
+    "phonetic": "/weɪst/",
+    "解释": "n./v. 浪费（指不加利用地消耗资源，或未能充分利用某物）",
+    "sentence": "Reducing waste is key to a circular economy."
+  },
+  {
+    "id": 2042,
+    "word": "Weather",
+    "phonetic": "/ˈweðər/",
+    "解释": "n. 天气（指某地区在短期内的大气状况）",
+    "sentence": "Extreme weather events are linked to climate change."
+  },
+  {
+    "id": 2043,
+    "word": "Wildfire",
+    "phonetic": "/ˈwaɪldfaɪər/",
+    "解释": "n. 野火（指在自然环境中失控蔓延的火灾）",
+    "sentence": "Wildfires are becoming larger and more destructive."
+  },
+  {
+    "id": 2044,
+    "word": "Wind",
+    "phonetic": "/wɪnd/",
+    "解释": "n. 风（指空气在地球表面的大规模水平流动）",
+    "sentence": "Wind power is a major clean energy source."
+  },
+  {
+    "id": 2045,
+    "word": "Withdraw",
+    "phonetic": "/wɪðˈdrɔː/",
+    "解释": "v. 撤回（指正式退出某协议、组织或行动）",
+    "sentence": "The country withdrew from the climate agreement."
+  },
+  {
+    "id": 2046,
+    "word": "Zero",
+    "phonetic": "/ˈzɪroʊ/",
+    "解释": "n./adj. 零（指数字0，或完全没有某物）",
+    "sentence": "We must reach net-zero emissions."
+  },
+  {
+    "id": 2047,
+    "word": "Absorb",
+    "phonetic": "/əbˈsɔːrb/",
+    "解释": "v. 吸收（指将液体、气体或光等吸入自身）",
+    "sentence": "Oceans absorb about 30 percent of CO2 emissions."
+  },
+  {
+    "id": 2048,
+    "word": "Accelerate",
+    "phonetic": "/əkˈseləreɪt/",
+    "解释": "v. 加速（指使某事物速度更快地发生或发展）",
+    "sentence": "We must accelerate the shift to clean energy."
+  },
+  {
+    "id": 2049,
+    "word": "Accommodate",
+    "phonetic": "/əˈkɒmədeɪt/",
+    "解释": "v. 容纳；适应（指为某人提供空间或满足其需求）",
+    "sentence": "Coastal cities must accommodate rising seas."
+  },
+  {
+    "id": 2050,
+    "word": "Accumulate",
+    "phonetic": "/əˈkjuːmjəleɪt/",
+    "解释": "v. 积累（指逐渐增多或聚集）",
+    "sentence": "CO2 accumulates in the atmosphere over decades."
+  },
+  {
+    "id": 2051,
+    "word": "Accurate",
+    "phonetic": "/ˈækjərət/",
+    "解释": "adj. 精确的（指正确无误、符合事实的）",
+    "sentence": "Accurate data is essential for climate modelling."
+  },
+  {
+    "id": 2052,
+    "word": "Adapt",
+    "phonetic": "/əˈdæpt/",
+    "解释": "v. 适应（指改变自身以应对新的环境或条件）",
+    "sentence": "Communities must adapt to a changing climate."
+  },
+  {
+    "id": 2053,
+    "word": "Address",
+    "phonetic": "/əˈdres/",
+    "解释": "v. 处理（指应对某问题或情况）",
+    "sentence": "We must address the root causes of emissions."
+  },
+  {
+    "id": 2054,
+    "word": "Adequate",
+    "phonetic": "/ˈædɪkwət/",
+    "解释": "adj. 足够的（指达到所需要求的）",
+    "sentence": "Current pledges are not adequate to limit warming."
+  },
+  {
+    "id": 2055,
+    "word": "Agriculture",
+    "phonetic": "/ˈæɡrɪkʌltʃər/",
+    "解释": "n. 农业（指耕种土地和饲养牲畜的活动）",
+    "sentence": "Agriculture must adapt to higher temperatures."
+  },
+  {
+    "id": 2056,
+    "word": "Allocation",
+    "phonetic": "/ˌæləˈkeɪʃn/",
+    "解释": "n. 分配（指将资源分给特定用途或对象）",
+    "sentence": "The allocation of emission permits is contested."
+  },
+  {
+    "id": 2057,
+    "word": "Ambition",
+    "phonetic": "/æmˈbɪʃn/",
+    "解释": "n. 雄心（指实现某宏大目标的强烈愿望）",
+    "sentence": "Countries must raise their climate ambition."
+  },
+  {
+    "id": 2058,
+    "word": "Analyze",
+    "phonetic": "/ˈænəlaɪz/",
+    "解释": "v. 分析（指仔细研究某事物以了解其性质或结构）",
+    "sentence": "Scientists analyze temperature records."
+  },
+  {
+    "id": 2059,
+    "word": "Anthropogenic",
+    "phonetic": "/ˌænθrəpəˈdʒenɪk/",
+    "解释": "adj. 人为的（指由人类活动引起的）",
+    "sentence": "Anthropogenic emissions are the main driver of warming."
+  },
+  {
+    "id": 2060,
+    "word": "Arctic",
+    "phonetic": "/ˈɑːrktɪk/",
+    "解释": "adj./n. 北极的（指北极圈附近地区）",
+    "sentence": "The Arctic is warming four times faster than average."
+  },
+  {
+    "id": 2061,
+    "word": "Assessment",
+    "phonetic": "/əˈsesmənt/",
+    "解释": "n. 评估（指对某事物的质量或重要性做出的判断）",
+    "sentence": "The IPCC assessment guides climate policy."
+  },
+  {
+    "id": 2062,
+    "word": "Atmosphere",
+    "phonetic": "/ˈætməsfɪr/",
+    "解释": "n. 大气层（指包围地球的气体层）",
+    "sentence": "The atmosphere traps heat from the sun."
+  },
+  {
+    "id": 2063,
+    "word": "Biodiversity",
+    "phonetic": "/ˌbaɪoʊdaɪˈvɜːrsɪti/",
+    "解释": "n. 生物多样性（指某地区植物、动物及其他生物的多样程度）",
+    "sentence": "Climate change is a major threat to biodiversity."
+  },
+  {
+    "id": 2064,
+    "word": "Carbon",
+    "phonetic": "/ˈkɑːrbən/",
+    "解释": "n. 碳（指化学元素C，化石燃料中含量丰富，也是CO2的主要成分）",
+    "sentence": "Carbon capture can remove CO2 from the air."
+  },
+  {
+    "id": 2065,
+    "word": "Catastrophe",
+    "phonetic": "/kəˈtæstrəfi/",
+    "解释": "n. 灾难（指突然发生的、造成极大破坏的事件）",
+    "sentence": "A 4-degree world would be a catastrophe."
+  },
+  {
+    "id": 2066,
+    "word": "Civilization",
+    "phonetic": "/ˌsɪvɪlaɪˈzeɪʃn/",
+    "解释": "n. 文明（指具有复杂文化、科学和政治制度的人类社会）",
+    "sentence": "Climate change threatens human civilization."
+  },
+  {
+    "id": 2067,
+    "word": "Coalition",
+    "phonetic": "/ˌkoʊəˈlɪʃn/",
+    "解释": "n. 联盟（指为共同目标临时联合的群体或国家）",
+    "sentence": "A broad coalition is needed for climate action."
+  },
+  {
+    "id": 2068,
+    "word": "Commit",
+    "phonetic": "/kəˈmɪt/",
+    "解释": "v. 承诺（指保证会做某事并为此负责）",
+    "sentence": "All nations must commit to deeper cuts."
+  },
+  {
+    "id": 2069,
+    "word": "Consequence",
+    "phonetic": "/ˈkɒnsɪkwens/",
+    "解释": "n. 后果（指某行动或决定产生的结果，尤指负面的）",
+    "sentence": "The consequences of inaction are severe."
+  },
+  {
+    "id": 2070,
+    "word": "Conservation",
+    "phonetic": "/ˌkɒnsərˈveɪʃn/",
+    "解释": "n. 保护（指防止自然环境或资源受到破坏的活动）",
+    "sentence": "Conservation of forests is a climate solution."
+  },
+  {
+    "id": 2071,
+    "word": "Cooperation",
+    "phonetic": "/koʊˌɒpəˈreɪʃn/",
+    "解释": "n. 合作（指为达成共同目标共同工作的行为）",
+    "sentence": "International cooperation on climate is essential."
+  },
+  {
+    "id": 2072,
+    "word": "Coral",
+    "phonetic": "/ˈkɒrəl/",
+    "解释": "n. 珊瑚（指生活在热带海洋中的微小动物及其建造的礁石）",
+    "sentence": "Coral reefs are dying due to warming oceans."
+  },
+  {
+    "id": 2073,
+    "word": "Crisis",
+    "phonetic": "/ˈkraɪsɪs/",
+    "解释": "n. 危机（指极度困难或危险的时刻）",
+    "sentence": "Climate change is a global crisis."
+  },
+  {
+    "id": 2074,
+    "word": "Critical",
+    "phonetic": "/ˈkrɪtɪkl/",
+    "解释": "adj. 关键的（指极其重要、决定成败的）",
+    "sentence": "The next decade is critical for climate action."
+  },
+  {
+    "id": 2075,
+    "word": "Cycle",
+    "phonetic": "/ˈsaɪkl/",
+    "解释": "n. 循环（指一系列事件重复发生的规律）",
+    "sentence": "The carbon cycle is being disrupted."
+  },
+  {
+    "id": 2076,
+    "word": "Damage",
+    "phonetic": "/ˈdæmɪdʒ/",
+    "解释": "n./v. 损害（指对某物或人造成的破坏，或遭受破坏）",
+    "sentence": "Climate damage to crops is increasing."
+  },
+  {
+    "id": 2077,
+    "word": "Data",
+    "phonetic": "/ˈdeɪtə/",
+    "解释": "n. 数据（指用于参考或分析的事实和信息，尤指数字形式的）",
+    "sentence": "We need better data to track emissions."
+  },
+  {
+    "id": 2078,
+    "word": "Degrade",
+    "phonetic": "/dɪˈɡreɪd/",
+    "解释": "v. 退化（指使某事物质量或状况变差）",
+    "sentence": "Climate change degrades soil quality."
+  },
+  {
+    "id": 2079,
+    "word": "Desertification",
+    "phonetic": "/dɪˌzɜːrtɪfɪˈkeɪʃn/",
+    "解释": "n. 荒漠化（指土地因气候变化或人类活动变成沙漠的过程）",
+    "sentence": "Desertification threatens food production."
+  },
+  {
+    "id": 2080,
+    "word": "Destabilize",
+    "phonetic": "/diːˈsteɪbɪlaɪz/",
+    "解释": "v. 使不稳定（指破坏某系统或地区的稳定性）",
+    "sentence": "Climate change could destabilize entire regions."
+  },
+  {
+    "id": 2081,
+    "word": "Diplomacy",
+    "phonetic": "/dɪˈpləʊməsi/",
+    "解释": "n. 外交（指国家间通过谈判和协议管理关系的艺术）",
+    "sentence": "Climate diplomacy is becoming more urgent."
+  },
+  {
+    "id": 2082,
+    "word": "Disrupt",
+    "phonetic": "/dɪsˈrʌpt/",
+    "解释": "v. 打乱（指阻止某事物按常规进行）",
+    "sentence": "Climate change disrupts agricultural systems."
+  },
+  {
+    "id": 2083,
+    "word": "Ecosystem",
+    "phonetic": "/ˈiːkəʊsɪstəm/",
+    "解释": "n. 生态系统（指生物群落及其无机环境相互作用的系统）",
+    "sentence": "Healthy ecosystems provide essential services."
+  },
+  {
+    "id": 2084,
+    "word": "Electric",
+    "phonetic": "/ɪˈlektrɪk/",
+    "解释": "adj. 电动的（指由电力驱动或产生的）",
+    "sentence": "Electric vehicles reduce urban air pollution."
+  },
+  {
+    "id": 2085,
+    "word": "Emission",
+    "phonetic": "/ɪˈmɪʃn/",
+    "解释": "n. 排放量（指某段时间内向大气中排放的污染物总量）",
+    "sentence": "National emission inventories must be transparent."
+  },
+  {
+    "id": 2086,
+    "word": "Endangered",
+    "phonetic": "/ɪnˈdeɪndʒərd/",
+    "解释": "adj. 濒危的（指某物种因数量极少而面临灭绝风险）",
+    "sentence": "Polar bears are among endangered species."
+  },
+  {
+    "id": 2087,
+    "word": "Erosion",
+    "phonetic": "/ɪˈroʊʒn/",
+    "解释": "n. 侵蚀（指土地或海岸线被水、风等自然力缓慢破坏）",
+    "sentence": "Coastal erosion is accelerating due to sea-level rise."
+  },
+  {
+    "id": 2088,
+    "word": "Ethanol",
+    "phonetic": "/ˈeθənɒl/",
+    "解释": "n. 乙醇（指由发酵植物材料制成的酒精，可用作燃料）",
+    "sentence": "Ethanol can partially replace gasoline."
+  },
+  {
+    "id": 2089,
+    "word": "Extreme",
+    "phonetic": "/ɪkˈstriːm/",
+    "解释": "adj./n. 极端的（指程度最高或最严重的）",
+    "sentence": "Extreme rainfall events are more frequent."
+  },
+  {
+    "id": 2090,
+    "word": "Extinction",
+    "phonetic": "/ɪkˈstɪŋkʃn/",
+    "解释": "n. 灭绝（指某物种完全消亡）",
+    "sentence": "Climate change is accelerating species extinction."
+  },
+  {
+    "id": 2091,
+    "word": "Finance",
+    "phonetic": "/ˈfaɪnæns/",
+    "解释": "n./v. 金融（指货币管理，或为项目提供资金）",
+    "sentence": "Climate finance must reach developing nations."
+  },
+  {
+    "id": 2092,
+    "word": "Fossil fuel",
+    "phonetic": "/ˈfɒsl fjuːəl/",
+    "解释": "n. 化石燃料（指经地质过程形成的煤、石油或天然气）",
+    "sentence": "Fossil fuel use must end by 2050."
+  },
+  {
+    "id": 2093,
+    "word": "Frequency",
+    "phonetic": "/ˈfriːkwənsi/",
+    "解释": "n. 频率（指某事物在一段时间内发生的次数）",
+    "sentence": "The frequency of floods is increasing."
+  },
+  {
+    "id": 2094,
+    "word": "Geothermal",
+    "phonetic": "/ˌdʒiːoʊˈθɜːrml/",
+    "解释": "adj./n. 地热的（指来自地球内部热量的）",
+    "sentence": "Geothermal energy is a reliable clean source."
+  },
+  {
+    "id": 2095,
+    "word": "Glacier",
+    "phonetic": "/ˈɡleɪsiər/",
+    "解释": "n. 冰川（指在陆地上缓慢移动的大型冰体）",
+    "sentence": "Glaciers are retreating worldwide."
+  },
+  {
+    "id": 2096,
+    "word": "Governance",
+    "phonetic": "/ˈɡʌvərnəns/",
+    "解释": "n. 治理（指统治国家或组织的行为和方式）",
+    "sentence": "Good governance is crucial for climate action."
+  },
+  {
+    "id": 2097,
+    "word": "Hazard",
+    "phonetic": "/ˈhæzərd/",
+    "解释": "n. 危害（指对生命、健康或财产构成威胁的事物）",
+    "sentence": "Climate hazards include floods and heat waves."
+  },
+  {
+    "id": 2098,
+    "word": "Hydropower",
+    "phonetic": "/ˈhaɪdrəpaʊər/",
+    "解释": "n. 水力发电（指利用流水驱动涡轮机发电）",
+    "sentence": "Hydropower is a major renewable energy source."
+  },
+  {
+    "id": 2099,
+    "word": "Indicator",
+    "phonetic": "/ˈɪndɪkeɪtər/",
+    "解释": "n. 指标（指用于衡量或评估某事物的数据或信号）",
+    "sentence": "Temperature is a key climate indicator."
+  },
+  {
+    "id": 2100,
+    "word": "Industrial",
+    "phonetic": "/ɪnˈdʌstriəl/",
+    "解释": "adj. 工业的（指与工厂生产或制造有关的）",
+    "sentence": "Industrial emissions must be cut dramatically."
+  },
+  {
+    "id": 2101,
+    "word": "Innovative",
+    "phonetic": "/ˈɪnəveɪtɪv/",
+    "解释": "adj. 创新的（指引入新想法或方法的）",
+    "sentence": "Innovative technologies are driving the clean energy transition."
+  },
+  {
+    "id": 2102,
+    "word": "Intergovernmental",
+    "phonetic": "/ˌɪntəˌɡʌvənˈmentl/",
+    "解释": "adj. 政府间的（指由两个或多个国家政府共同参与的）",
+    "sentence": "The IPCC is an intergovernmental scientific body."
+  },
+  {
+    "id": 2103,
+    "word": "Investment",
+    "phonetic": "/ɪnˈvestmənt/",
+    "解释": "n. 投资（指为获得利润或未来利益而投入资金）",
+    "sentence": "Massive investment in clean energy is needed."
+  },
+  {
+    "id": 2104,
+    "word": "Irrigation",
+    "phonetic": "/ˌɪrɪˈɡeɪʃn/",
+    "解释": "n. 灌溉（指向农地供水以促进作物生长）",
+    "sentence": "Climate change threatens irrigation systems."
+  },
+  {
+    "id": 2105,
+    "word": "Landslide",
+    "phonetic": "/ˈlændslaɪd/",
+    "解释": "n. 山体滑坡（指山坡或悬崖上的岩石土方突然下滑）",
+    "sentence": "Landslides are becoming more frequent."
+  },
+  {
+    "id": 2106,
+    "word": "Legislation",
+    "phonetic": "/ˌledʒɪsˈleɪʃn/",
+    "解释": "n. 法律（指由立法机构制定和颁布的法律法规）",
+    "sentence": "Climate legislation is urgently needed."
+  },
+  {
+    "id": 2107,
+    "word": "Livelihood",
+    "phonetic": "/ˈlaɪvlihʊd/",
+    "解释": "n. 生计（指维持生活的方式或收入来源）",
+    "sentence": "Many livelihoods depend on stable weather."
+  },
+  {
+    "id": 2108,
+    "word": "Methane",
+    "phonetic": "/ˈmeθeɪn/",
+    "解释": "n. 甲烷（指天然气和农业排放物的主要成分）",
+    "sentence": "Methane is a potent greenhouse gas."
+  },
+  {
+    "id": 2109,
+    "word": "Mitigation",
+    "phonetic": "/ˌmɪtɪˈɡeɪʃn/",
+    "解释": "n. 减缓（指减少气候变化原因或影响的行动）",
+    "sentence": "Mitigation and adaptation are both necessary."
+  },
+  {
+    "id": 2110,
+    "word": "Momentum",
+    "phonetic": "/moʊˈmentəm/",
+    "解释": "n. 势头（指运动或活动持续推进的力量）",
+    "sentence": "We must maintain momentum for climate action."
+  },
+  {
+    "id": 2111,
+    "word": "Multilateral",
+    "phonetic": "/ˌmʌltiˈlætərəl/",
+    "解释": "adj. 多边的（指涉及三个或更多国家或方的）",
+    "sentence": "Climate change requires multilateral solutions."
+  },
+  {
+    "id": 2112,
+    "word": "Natural disaster",
+    "phonetic": "/ˌnætʃrəl dɪˈzɑːstər/",
+    "解释": "n. 自然灾害（指洪水、地震等由自然引起的灾难性事件）",
+    "sentence": "Natural disasters are increasing in frequency."
+  },
+  {
+    "id": 2113,
+    "word": "Negotiate",
+    "phonetic": "/nɪˈɡoʊʃieɪt/",
+    "解释": "v. 谈判（指为达成协议而进行正式讨论）",
+    "sentence": "Countries negotiate climate targets every year."
+  },
+  {
+    "id": 2114,
+    "word": "Norms",
+    "phonetic": "/nɔːrmz/",
+    "解释": "n. 规范（指社会中人们普遍接受的行为标准）",
+    "sentence": "Social norms around consumption must change."
+  },
+  {
+    "id": 2115,
+    "word": "Nuclear",
+    "phonetic": "/ˈnjuːkliər/",
+    "解释": "adj. 核的（指原子核，或核能、核武器有关的）",
+    "sentence": "Nuclear energy is low-carbon."
+  },
+  {
+    "id": 2116,
+    "word": "Objective",
+    "phonetic": "/əbˈdʒektɪv/",
+    "解释": "n./adj. 目标（指努力想要实现的事物，或不受个人感情影响的）",
+    "sentence": "The objective is to limit warming to 1.5 degrees."
+  },
+  {
+    "id": 2117,
+    "word": "Obligation",
+    "phonetic": "/ˌɒblɪˈɡeɪʃn/",
+    "解释": "n. 义务（指因法律、道德或社会习俗而必须做的事）",
+    "sentence": "All countries have obligations under the Paris Agreement."
+  },
+  {
+    "id": 2118,
+    "word": "Observation",
+    "phonetic": "/ˌɒbzəˈveɪʃn/",
+    "解释": "n. 观测（指通过仔细监测收集数据的行为）",
+    "sentence": "Satellite observations confirm warming."
+  },
+  {
+    "id": 2119,
+    "word": "Obstacle",
+    "phonetic": "/ˈɒbstəkl/",
+    "解释": "n. 障碍（指阻止前进或实现目标的事物）",
+    "sentence": "Fossil fuel lobbying is an obstacle to progress."
+  },
+  {
+    "id": 2120,
+    "word": "Outcome",
+    "phonetic": "/ˈaʊtkʌm/",
+    "解释": "n. 结果（指某行动或过程产生的最终效果）",
+    "sentence": "The outcome of the summit was mixed."
+  },
+  {
+    "id": 2121,
+    "word": "Overheating",
+    "phonetic": "/ˌoʊvərˈhiːtɪŋ/",
+    "解释": "n. 过热（指超出安全温度范围的升温）",
+    "sentence": "The planet is overheating at an alarming rate."
+  },
+  {
+    "id": 2122,
+    "word": "Overwhelming",
+    "phonetic": "/ˌoʊvərˈwelmɪŋ/",
+    "解释": "adj. 压倒性的（指程度非常大，难以抗拒的）",
+    "sentence": "The evidence for climate change is overwhelming."
+  },
+  {
+    "id": 2123,
+    "word": "Pact",
+    "phonetic": "/pækt/",
+    "解释": "n. 协议（指两方或多方之间的正式协定）",
+    "sentence": "A global climate pact was signed."
+  },
+  {
+    "id": 2124,
+    "word": "Pandemic",
+    "phonetic": "/pænˈdemɪk/",
+    "解释": "n. 全球大流行病（指在世界范围内广泛传播的传染病）",
+    "sentence": "The pandemic showed how fast the world can change."
+  },
+  {
+    "id": 2125,
+    "word": "Pathway",
+    "phonetic": "/ˈpɑːθweɪ/",
+    "解释": "n. 途径（指达成某目标的方法或路线）",
+    "sentence": "There are multiple pathways to net-zero."
+  },
+  {
+    "id": 2126,
+    "word": "Peak",
+    "phonetic": "/piːk/",
+    "解释": "n./v. 峰值（指最高点，或达到最高点）",
+    "sentence": "Global emissions must peak before 2025."
+  },
+  {
+    "id": 2127,
+    "word": "Permafrost",
+    "phonetic": "/ˈpɜːrməfrɒst/",
+    "解释": "n. 永久冻土（指北极地区长年冰冻的土层）",
+    "sentence": "Permafrost thaw could release vast amounts of methane."
+  },
+  {
+    "id": 2128,
+    "word": "Pledge",
+    "phonetic": "/pledʒ/",
+    "解释": "n./v. 承诺（指正式做出的保证或誓言）",
+    "sentence": "Countries must honor their climate pledges."
+  },
+  {
+    "id": 2129,
+    "word": "Policy",
+    "phonetic": "/ˈpɒlɪsi/",
+    "解释": "n. 政策（指政府或机构采取的行动方针）",
+    "sentence": "Strong climate policy is needed at all levels."
+  },
+  {
+    "id": 2130,
+    "word": "Precipitation",
+    "phonetic": "/prɪˌsɪpɪˈteɪʃn/",
+    "解释": "n. 降水（指以雨、雪、冰雹等形式从云中落下的水）",
+    "sentence": "Precipitation patterns are changing worldwide."
+  },
+  {
+    "id": 2131,
+    "word": "Pressure",
+    "phonetic": "/ˈpreʃər/",
+    "解释": "n. 压力（指施加于物体表面的力，或要求某人做某事的影响力）",
+    "sentence": "Public pressure is forcing companies to act on climate."
+  },
+  {
+    "id": 2132,
+    "word": "Proactive",
+    "phonetic": "/ˌproʊˈæktɪv/",
+    "解释": "adj. 主动的（指提前采取行动以防止问题发生的）",
+    "sentence": "A proactive approach to climate risk is needed."
+  },
+  {
+    "id": 2133,
+    "word": "Protocol",
+    "phonetic": "/ˈproʊtəkɒl/",
+    "解释": "n. 议定书（指国际条约或正式程序）",
+    "sentence": "The Kyoto Protocol set binding emission targets."
+  },
+  {
+    "id": 2134,
+    "word": "Radiation",
+    "phonetic": "/ˌreɪdiˈeɪʃn/",
+    "解释": "n. 辐射（指以射线或粒子形式传播的能量）",
+    "sentence": "Solar radiation reaches the Earth from the sun."
+  },
+  {
+    "id": 2135,
+    "word": "Ratify",
+    "phonetic": "/ˈrætɪfaɪ/",
+    "解释": "v. 批准（指正式签署或认可一项协议或条约）",
+    "sentence": "All signatories must ratify the agreement."
+  },
+  {
+    "id": 2136,
+    "word": "Reforestation",
+    "phonetic": "/ˌriːˌfɒrɪˈsteɪʃn/",
+    "解释": "n. 重新造林（指在已砍伐的土地上重新种植树木）",
+    "sentence": "Reforestation can help offset emissions."
+  },
+  {
+    "id": 2137,
+    "word": "Regulate",
+    "phonetic": "/ˈreɡjuleɪt/",
+    "解释": "v. 管制（指通过规则和法规控制某活动或行为）",
+    "sentence": "Governments must regulate carbon emissions."
+  },
+  {
+    "id": 2138,
+    "word": "Relevant",
+    "phonetic": "/ˈreləvənt/",
+    "解释": "adj. 相关的（指与某事物密切相关的）",
+    "sentence": "All relevant stakeholders must be included."
+  },
+  {
+    "id": 2139,
+    "word": "Renewable",
+    "phonetic": "/rɪˈnjuːəbl/",
+    "解释": "adj./n. 可再生的（指自然可持续补充的）",
+    "sentence": "Renewables are the future of energy."
+  },
+  {
+    "id": 2140,
+    "word": "Report",
+    "phonetic": "/rɪˈpɔːrt/",
+    "解释": "n./v. 报告（指就某议题提供的系统性陈述）",
+    "sentence": "The annual climate report showed record temperatures."
+  },
+  {
+    "id": 2141,
+    "word": "Resilient",
+    "phonetic": "/rɪˈzɪliənt/",
+    "解释": "adj. 有韧性的（指能在困难后迅速恢复的）",
+    "sentence": "We need resilient infrastructure."
+  },
+  {
+    "id": 2142,
+    "word": "Revenue",
+    "phonetic": "/ˈrevənjuː/",
+    "解释": "n. 收入（指企业或政府的总收益）",
+    "sentence": "Carbon tax revenue should fund green projects."
+  },
+  {
+    "id": 2143,
+    "word": "Review",
+    "phonetic": "/rɪˈvjuː/",
+    "解释": "n./v. 审查（指对某事物做出批判性评价）",
+    "sentence": "Countries must review and strengthen their targets."
+  },
+  {
+    "id": 2144,
+    "word": "Risk",
+    "phonetic": "/rɪsk/",
+    "解释": "n./v. 风险（指可能导致损害或损失的可能性）",
+    "sentence": "Climate risk must be priced into financial decisions."
+  },
+  {
+    "id": 2145,
+    "word": "Runoff",
+    "phonetic": "/ˈrʌnɒf/",
+    "解释": "n. 径流（指地表多余的水流向河流或海洋）",
+    "sentence": "Glacier runoff feeds many major rivers."
+  },
+  {
+    "id": 2146,
+    "word": "Sanitation",
+    "phonetic": "/ˌsænɪˈteɪʃn/",
+    "解释": "n. 卫生设施（指提供清洁水和废弃物处理的系统）",
+    "sentence": "Sanitation is threatened by flooding."
+  },
+  {
+    "id": 2147,
+    "word": "Sea level",
+    "phonetic": "/ˈsiː ˌlevl/",
+    "解释": "n. 海平面（指海洋表面与陆地的交界线）",
+    "sentence": "Sea level rise threatens coastal cities."
+  },
+  {
+    "id": 2148,
+    "word": "Sequester",
+    "phonetic": "/sɪˈkwestər/",
+    "解释": "v. 封存（指将二氧化碳等气体从大气中捕获并储存）",
+    "sentence": "Forests sequester carbon from the atmosphere."
+  },
+  {
+    "id": 2149,
+    "word": "Severity",
+    "phonetic": "/sɪˈverɪti/",
+    "解释": "n. 严重程度（指某问题或情况的极端程度）",
+    "sentence": "The severity of droughts is increasing."
+  },
+  {
+    "id": 2150,
+    "word": "Shoreline",
+    "phonetic": "/ˈʃɔːrlaɪn/",
+    "解释": "n. 海岸线（指陆地与海洋相接的线）",
+    "sentence": "Shorelines are retreating due to erosion."
+  },
+  {
+    "id": 2151,
+    "word": "Sink",
+    "phonetic": "/sɪŋk/",
+    "解释": "n. 汇（指吸收二氧化碳等温室气体的自然系统）",
+    "sentence": "Oceans and forests are major carbon sinks."
+  },
+  {
+    "id": 2152,
+    "word": "Socioeconomic",
+    "phonetic": "/ˌsoʊsioʊˌiːkəˈnɒmɪk/",
+    "解释": "adj. 社会经济的（指与社会和经济因素相关的）",
+    "sentence": "Climate change has major socioeconomic impacts."
+  },
+  {
+    "id": 2153,
+    "word": "Sovereignty",
+    "phonetic": "/ˈsɒvrənti/",
+    "解释": "n. 主权（指国家对其领土和事务的最高权力）",
+    "sentence": "Nations insist on sovereignty in energy policy."
+  },
+  {
+    "id": 2154,
+    "word": "Stewardship",
+    "phonetic": "/ˈstjuːərdʃɪp/",
+    "解释": "n. 管理责任（指保护和维护某事物的职责）",
+    "sentence": "Environmental stewardship is a global duty."
+  },
+  {
+    "id": 2155,
+    "word": "Subsidize",
+    "phonetic": "/ˈsʌbsɪdaɪz/",
+    "解释": "v. 补贴（指政府给予财政支持以降低某商品价格）",
+    "sentence": "Governments should stop subsidizing fossil fuels."
+  },
+  {
+    "id": 2156,
+    "word": "Summit",
+    "phonetic": "/ˈsʌmɪt/",
+    "解释": "n. 峰会（指国家领导人之间的最高级别会议）",
+    "sentence": "The climate summit reached a new agreement."
+  },
+  {
+    "id": 2157,
+    "word": "Tipping point",
+    "phonetic": "/ˈtɪpɪŋ pɔɪnt/",
+    "解释": "n. 临界点（指一旦超过即引发不可逆变化的阈值）",
+    "sentence": "We are approaching climate tipping points."
+  },
+  {
+    "id": 2158,
+    "word": "Toxic",
+    "phonetic": "/ˈtɒksɪk/",
+    "解释": "adj. 有毒的（指对生物体有害的）",
+    "sentence": "Toxic pollutants contaminate air and water."
+  },
+  {
+    "id": 2159,
+    "word": "Transparency",
+    "phonetic": "/trænsˈpærənsi/",
+    "解释": "n. 透明度（指某行动或过程公开可见的程度）",
+    "sentence": "Climate transparency is key to accountability."
+  },
+  {
+    "id": 2160,
+    "word": "Treaty",
+    "phonetic": "/ˈtriːti/",
+    "解释": "n. 条约（指国家之间正式签订的书面协议）",
+    "sentence": "A new climate treaty is being negotiated."
+  },
+  {
+    "id": 2161,
+    "word": "Turbine",
+    "phonetic": "/ˈtɜːrbaɪn/",
+    "解释": "n. 涡轮机（指利用流体动力带动旋转的机器）",
+    "sentence": "Wind turbines generate electricity from wind."
+  },
+  {
+    "id": 2162,
+    "word": "Ultraviolet",
+    "phonetic": "/ˌʌltrəˈvaɪələt/",
+    "解释": "adj. 紫外线的（指波长短于可见光的电磁辐射）",
+    "sentence": "Ultraviolet radiation increases with ozone loss."
+  },
+  {
+    "id": 2163,
+    "word": "Unequal",
+    "phonetic": "/ʌnˈiːkwəl/",
+    "解释": "adj. 不平等的（指两者之间存在不公平差距的）",
+    "sentence": "Climate change has unequal impacts worldwide."
+  },
+  {
+    "id": 2164,
+    "word": "Urbanization",
+    "phonetic": "/ˌɜːrbənaɪˈzeɪʃn/",
+    "解释": "n. 城镇化（指人口从农村向城市迁移的过程）",
+    "sentence": "Rapid urbanization increases energy demand."
+  },
+  {
+    "id": 2165,
+    "word": "Validate",
+    "phonetic": "/ˈvælɪdeɪt/",
+    "解释": "v. 验证（指证明某事物是正确或合法的）",
+    "sentence": "The data was validated by independent scientists."
+  },
+  {
+    "id": 2166,
+    "word": "Warming",
+    "phonetic": "/ˈwɔːrmɪŋ/",
+    "解释": "n. 变暖（指气温升高的现象，尤指全球气候变暖）",
+    "sentence": "Global warming is already causing harm."
+  },
+  {
+    "id": 2167,
+    "word": "Wetland",
+    "phonetic": "/ˈwetlənd/",
+    "解释": "n. 湿地（指被水覆盖或饱和的土地，如沼泽）",
+    "sentence": "Wetlands store carbon and support biodiversity."
+  },
+  {
+    "id": 2168,
+    "word": "Yield",
+    "phonetic": "/jiːld/",
+    "解释": "n./v. 产量（指农业或工业的产出量）",
+    "sentence": "Crop yields are declining due to heat stress."
+  },
+  {
+    "id": 2169,
+    "word": "Arable",
+    "phonetic": "/ˈærəbl/",
+    "解释": "adj. 可耕种的（指适合种植庄稼的）",
+    "sentence": "Arable land is shrinking due to desertification."
+  },
+  {
+    "id": 2170,
+    "word": "Aquifer",
+    "phonetic": "/ˈækwɪfər/",
+    "解释": "n. 含水层（指地下能储存和供水的多孔岩石层）",
+    "sentence": "Aquifers are being depleted faster than they refill."
+  },
+  {
+    "id": 2171,
+    "word": "Benchmark",
+    "phonetic": "/ˈbentʃmɑːrk/",
+    "解释": "n. 基准（指用于比较和评估的标准）",
+    "sentence": "Countries use 1990 emissions as a benchmark."
+  },
+  {
+    "id": 2172,
+    "word": "Biofuel",
+    "phonetic": "/ˈbaɪoʊfjuːəl/",
+    "解释": "n. 生物燃料（指由植物材料制成的燃料）",
+    "sentence": "Biofuels can reduce reliance on fossil fuels."
+  },
+  {
+    "id": 2173,
+    "word": "Carbon capture",
+    "phonetic": "/ˈkɑːrbən ˈkæptʃər/",
+    "解释": "n. 碳捕集（指将二氧化碳从排放源或大气中分离并储存的技术）",
+    "sentence": "Carbon capture is an emerging climate solution."
+  },
+  {
+    "id": 2174,
+    "word": "Carbon footprint",
+    "phonetic": "/ˈkɑːrbən ˈfʊtprɪnt/",
+    "解释": "n. 碳足迹（指某人或组织活动产生的温室气体总量）",
+    "sentence": "Reduce your carbon footprint by flying less."
+  },
+  {
+    "id": 2175,
+    "word": "Carbon tax",
+    "phonetic": "/ˈkɑːrbən tæks/",
+    "解释": "n. 碳税（指对排放碳的生产活动征收的税）",
+    "sentence": "A carbon tax makes polluting more expensive."
+  },
+  {
+    "id": 2176,
+    "word": "Decarbon",
+    "phonetic": "/diːˈkɑːrbən/",
+    "解释": "v. 脱碳（指减少经济活动中的碳排放）",
+    "sentence": "We must decarbonize all major industries."
+  },
+  {
+    "id": 2177,
+    "word": "Electrify",
+    "phonetic": "/ɪˈlektrɪfaɪ/",
+    "解释": "v. 电气化（指将某系统改为使用电力运行）",
+    "sentence": "Electrifying transport is a key climate strategy."
+  },
+  {
+    "id": 2178,
+    "word": "Emission trading",
+    "phonetic": "/ɪˈmɪʃn ˈtreɪdɪŋ/",
+    "解释": "n. 排放权交易（指允许企业买卖排放额度的市场机制）",
+    "sentence": "Emission trading schemes cap and reduce pollution."
+  },
+  {
+    "id": 2179,
+    "word": "Energy security",
+    "phonetic": "/ˈenədʒi sɪˈkjʊərɪti/",
+    "解释": "n. 能源安全（指稳定获得充足能源的能力）",
+    "sentence": "Energy security is a driver of renewables."
+  },
+  {
+    "id": 2180,
+    "word": "Food security",
+    "phonetic": "/fuːd sɪˈkjʊərɪti/",
+    "解释": "n. 粮食安全（指所有人都能稳定获得充足食物）",
+    "sentence": "Climate change threatens global food security."
+  },
+  {
+    "id": 2181,
+    "word": "Green bond",
+    "phonetic": "/ɡriːn bɒnd/",
+    "解释": "n. 绿色债券（指为环保项目融资而发行的债券）",
+    "sentence": "Green bonds are financing renewable projects."
+  },
+  {
+    "id": 2182,
+    "word": "Green economy",
+    "phonetic": "/ɡriːn ɪˈkɒnəmi/",
+    "解释": "n. 绿色经济（指以可持续发展为核心的经济体系）",
+    "sentence": "A green economy creates jobs while reducing emissions."
+  },
+  {
+    "id": 2183,
+    "word": "Heat island",
+    "phonetic": "/hiːt ˈaɪlənd/",
+    "解释": "n. 热岛（指城市地区因建筑物密集而形成的局部高温区域）",
+    "sentence": "Urban heat islands amplify extreme heat."
+  },
+  {
+    "id": 2184,
+    "word": "Hydrological",
+    "phonetic": "/ˌhaɪdrəˈlɒdʒɪkl/",
+    "解释": "adj. 水文的（指与地球水循环相关的）",
+    "sentence": "Climate change affects hydrological cycles."
+  },
+  {
+    "id": 2185,
+    "word": "Ice sheet",
+    "phonetic": "/aɪs ʃiːt/",
+    "解释": "n. 冰盖（指覆盖大片陆地的大型冰层，如格陵兰或南极冰盖）",
+    "sentence": "Ice sheets are melting faster than expected."
+  },
+  {
+    "id": 2186,
+    "word": "Inundation",
+    "phonetic": "/ˌɪnʌnˈdeɪʃn/",
+    "解释": "n. 洪涝（指大范围被水淹没的状态）",
+    "sentence": "Coastal inundation is a growing threat."
+  },
+  {
+    "id": 2187,
+    "word": "Just transition",
+    "phonetic": "/dʒʌst trænˈzɪʃn/",
+    "解释": "n. 公正转型（指确保在去碳化过程中工人和社区不被落下）",
+    "sentence": "A just transition protects vulnerable workers."
+  },
+  {
+    "id": 2188,
+    "word": "Kyoto Protocol",
+    "phonetic": "/kiːˈoʊtoʊ ˈproʊtəkɒl/",
+    "解释": "n. 京都议定书（指1997年签署的减少温室气体排放的国际协议）",
+    "sentence": "The Kyoto Protocol was the first binding climate agreement."
+  },
+  {
+    "id": 2189,
+    "word": "Low-carbon",
+    "phonetic": "/loʊ ˈkɑːrbən/",
+    "解释": "adj. 低碳的（指产生很少二氧化碳或其他温室气体的）",
+    "sentence": "Low-carbon technologies are becoming cheaper."
+  },
+  {
+    "id": 2190,
+    "word": "Marine",
+    "phonetic": "/məˈriːn/",
+    "解释": "adj. 海洋的（指与海洋有关的）",
+    "sentence": "Marine ecosystems are under stress from warming."
+  },
+  {
+    "id": 2191,
+    "word": "Nature-based",
+    "phonetic": "/ˈneɪtʃər beɪst/",
+    "解释": "adj. 基于自然的（指利用自然过程解决环境问题的）",
+    "sentence": "Nature-based solutions sequester carbon effectively."
+  },
+  {
+    "id": 2192,
+    "word": "Overshoot",
+    "phonetic": "/ˌoʊvərˈʃuːt/",
+    "解释": "v. 超出（指超过某目标或限制）",
+    "sentence": "We risk overshooting the 1.5-degree limit."
+  },
+  {
+    "id": 2193,
+    "word": "Paris Agreement",
+    "phonetic": "/ˈpærɪs əˈɡriːmənt/",
+    "解释": "n. 巴黎协定（指2015年签署的旨在控制全球变暖的国际气候协议）",
+    "sentence": "The Paris Agreement set a target of 1.5 degrees."
+  },
+  {
+    "id": 2194,
+    "word": "Photosynthesis",
+    "phonetic": "/ˌfoʊtoʊˈsɪnθəsɪs/",
+    "解释": "n. 光合作用（指植物利用光能将二氧化碳和水转化为糖的过程）",
+    "sentence": "Photosynthesis removes CO2 from the air."
+  },
+  {
+    "id": 2195,
+    "word": "Polar ice",
+    "phonetic": "/ˈpoʊlər aɪs/",
+    "解释": "n. 极地冰（指北极和南极地区的冰雪）",
+    "sentence": "Polar ice is melting at an alarming rate."
+  },
+  {
+    "id": 2196,
+    "word": "Prolong",
+    "phonetic": "/prəˈlɒŋ/",
+    "解释": "v. 延长（指使某事物持续更长时间）",
+    "sentence": "Action now will prolong civilization."
+  },
+  {
+    "id": 2197,
+    "word": "Radioactive",
+    "phonetic": "/ˌreɪdioʊˈæktɪv/",
+    "解释": "adj. 放射性的（指自发发射辐射粒子的）",
+    "sentence": "Nuclear waste is radioactive."
+  },
+  {
+    "id": 2198,
+    "word": "Reef",
+    "phonetic": "/riːf/",
+    "解释": "n. 礁石（指接近海面的岩石或珊瑚的隆起结构）",
+    "sentence": "The Great Barrier Reef is under threat."
+  },
+  {
+    "id": 2199,
+    "word": "Remediate",
+    "phonetic": "/rɪˈmiːdieɪt/",
+    "解释": "v. 修复（指清除污染或改善受损环境）",
+    "sentence": "We must remediate contaminated land."
+  },
+  {
+    "id": 2200,
+    "word": "Replenish",
+    "phonetic": "/rɪˈplenɪʃ/",
+    "解释": "v. 补充（指恢复某物的供给或存量）",
+    "sentence": "Groundwater must be replenished naturally."
+  },
+  {
+    "id": 2201,
+    "word": "Replicate",
+    "phonetic": "/ˈreplɪkeɪt/",
+    "解释": "v. 复制；再现（指精确地重复某过程或实验以验证结果）",
+    "sentence": "Scientists must replicate findings before acceptance."
+  },
+  {
+    "id": 2202,
+    "word": "Reservoir",
+    "phonetic": "/ˈrezəvwɑːr/",
+    "解释": "n. 水库；蓄水池（指人工建造的储水设施）",
+    "sentence": "The reservoir supplies water to the city."
+  },
+  {
+    "id": 2203,
+    "word": "Resilient",
+    "phonetic": "/rɪˈzɪliənt/",
+    "解释": "adj. 有弹性的；能恢复的（指从困难或变化中快速恢复的能力）",
+    "sentence": "Coral reefs are surprisingly resilient ecosystems."
+  },
+  {
+    "id": 2204,
+    "word": "Residue",
+    "phonetic": "/ˈrezɪdjuː/",
+    "解释": "n. 残余物；残留（指化学反应或过程后剩余的物质）",
+    "sentence": "Pesticide residues can contaminate food chains."
+  },
+  {
+    "id": 2205,
+    "word": "Resourceful",
+    "phonetic": "/rɪˈsɔːrsfl/",
+    "解释": "adj. 机智的；善于利用资源的（指在有限条件下找到创造性解决方案）",
+    "sentence": "Indigenous communities are resourceful in survival."
+  },
+  {
+    "id": 2206,
+    "word": "Restore",
+    "phonetic": "/rɪˈstɔːr/",
+    "解释": "v. 恢复；修复（指将受损系统或环境恢复到原有状态）",
+    "sentence": "Wetland restoration improves biodiversity."
+  },
+  {
+    "id": 2207,
+    "word": "Retain",
+    "phonetic": "/rɪˈteɪn/",
+    "解释": "v. 保持；保留（指维持某种状态、性质或拥有权）",
+    "sentence": "Forests retain water and prevent erosion."
+  },
+  {
+    "id": 2208,
+    "word": "Retreat",
+    "phonetic": "/rɪˈtriːt/",
+    "解释": "v. 撤退；退缩（指冰川后退或物种栖息地收缩）",
+    "sentence": "Glaciers retreat as temperatures rise."
+  },
+  {
+    "id": 2209,
+    "word": "Retrieve",
+    "phonetic": "/rɪˈtriːv/",
+    "解释": "v. 取回；检索（指找回丢失物品或从数据库中获取信息）",
+    "sentence": "Satellites retrieve data on ocean temperatures."
+  },
+  {
+    "id": 2210,
+    "word": "Reveal",
+    "phonetic": "/rɪˈviːl/",
+    "解释": "v. 揭示；显露（指使隐藏的信息或事实变得可见）",
+    "sentence": "Ice cores reveal ancient climate patterns."
+  },
+  {
+    "id": 2211,
+    "word": "Reverberate",
+    "phonetic": "/rɪˈvɜːrbəreɪt/",
+    "解释": "v. 回响；产生广泛影响（指声音反射或在更大范围内引起连锁反应）",
+    "sentence": "Climate impacts reverberate through economies."
+  },
+  {
+    "id": 2212,
+    "word": "Revive",
+    "phonetic": "/rɪˈvaɪv/",
+    "解释": "v. 复苏；复兴（指恢复活力或重新引起关注）",
+    "sentence": "Endangered species revive with protection."
+  },
+  {
+    "id": 2213,
+    "word": "Revolutionize",
+    "phonetic": "/ˌrevəˈluːʃənaɪz/",
+    "解释": "v. 彻底改变；革命化（指带来根本性的变革）",
+    "sentence": "Renewable energy has revolutionized power generation."
+  },
+  {
+    "id": 2214,
+    "word": "Rigid",
+    "phonetic": "/ˈrɪdʒɪd/",
+    "解释": "adj. 僵硬的；严格的（指不可弯曲或不灵活的）",
+    "sentence": "Rigid regulations hinder adaptive management."
+  },
+  {
+    "id": 2215,
+    "word": "Robust",
+    "phonetic": "/roʊˈbʌst/",
+    "解释": "adj. 强健的；稳健的（指系统或数据经得起检验和压力）",
+    "sentence": "Robust evidence supports climate action."
+  },
+  {
+    "id": 2216,
+    "word": "Route",
+    "phonetic": "/ruːt/",
+    "解释": "n. 路线；路径（指从一个地点到另一地点的固定通道）",
+    "sentence": "Migration routes shift due to habitat loss."
+  },
+  {
+    "id": 2217,
+    "word": "Rudimentary",
+    "phonetic": "/ˌruːdɪˈmentri/",
+    "解释": "adj. 基本的；初步的（指处于早期发展阶段的）",
+    "sentence": "Early warning systems were rudimentary."
+  },
+  {
+    "id": 2218,
+    "word": "Rupture",
+    "phonetic": "/ˈrʌptʃər/",
+    "解释": "v. 破裂；断裂（指结构突然损坏或关系彻底破裂）",
+    "sentence": "Earthquakes rupture fault lines."
+  },
+  {
+    "id": 2219,
+    "word": "Sacrifice",
+    "phonetic": "/ˈsækrɪfaɪs/",
+    "解释": "n./v. 牺牲（指为更高目标放弃重要的事物）",
+    "sentence": "Farmers sacrifice land for conservation."
+  },
+  {
+    "id": 2220,
+    "word": "Saline",
+    "phonetic": "/ˈseɪliːn/",
+    "解释": "adj. 含盐的（指具有盐分特征的，常用于描述土壤或水体）",
+    "sentence": "Saline intrusion affects coastal aquifers."
+  },
+  {
+    "id": 2221,
+    "word": "Sanction",
+    "phonetic": "/ˈsæŋkʃn/",
+    "解释": "n./v. 制裁；批准（指官方施加惩罚或正式许可）",
+    "sentence": "Sanctions target polluting industries."
+  },
+  {
+    "id": 2222,
+    "word": "Saturated",
+    "phonetic": "/ˈsætʃəreɪtɪd/",
+    "解释": "adj. 饱和的（指达到最大吸收量或承载极限的）",
+    "sentence": "The atmosphere is saturated with CO2."
+  },
+  {
+    "id": 2223,
+    "word": "Scale",
+    "phonetic": "/skeɪl/",
+    "解释": "n. 规模；比例（指事物的大小程度或测量体系）",
+    "sentence": "Problems occur at a global scale."
+  },
+  {
+    "id": 2224,
+    "word": "Scarce",
+    "phonetic": "/skers/",
+    "解释": "adj. 稀缺的；不足的（指供应量无法满足需求的）",
+    "sentence": "Freshwater is scarce in arid regions."
+  },
+  {
+    "id": 2225,
+    "word": "Scatter",
+    "phonetic": "/ˈskætər/",
+    "解释": "v. 分散；散布（指将物体向不同方向散开）",
+    "sentence": "Seeds scatter across the landscape."
+  },
+  {
+    "id": 2226,
+    "word": "Scenario",
+    "phonetic": "/sɪˈnɑːrioʊ/",
+    "解释": "n. 场景；设想（指对可能情况的描述或预测模型）",
+    "sentence": "Worst-case scenarios inform planning."
+  },
+  {
+    "id": 2227,
+    "word": "Scope",
+    "phonetic": "/skoʊp/",
+    "解释": "n. 范围；视野（指研究或活动所覆盖的领域）",
+    "sentence": "The scope of damage is unprecedented."
+  },
+  {
+    "id": 2228,
+    "word": "Scrap",
+    "phonetic": "/skræp/",
+    "解释": "v. 废弃；取消（指放弃计划或报废设备）",
+    "sentence": "Nations scrap coal power plants."
+  },
+  {
+    "id": 2229,
+    "word": "Scrutiny",
+    "phonetic": "/ˈskruːtəni/",
+    "解释": "n. 仔细检查；审查（指详细而严格地审视）",
+    "sentence": "Policies face public scrutiny."
+  },
+  {
+    "id": 2230,
+    "word": "Seal",
+    "phonetic": "/siːl/",
+    "解释": "v. 封闭；密封（指紧密关闭以防泄漏）",
+    "sentence": "Containers seal radioactive waste."
+  },
+  {
+    "id": 2231,
+    "word": "Sector",
+    "phonetic": "/ˈsektər/",
+    "解释": "n. 部门；行业（指经济或社会的特定领域）",
+    "sentence": "The transport sector emits heavily."
+  },
+  {
+    "id": 2232,
+    "word": "Secure",
+    "phonetic": "/sɪˈkjʊr/",
+    "解释": "v. 确保；保护（指获得并维持安全状态）",
+    "sentence": "Secure water sources for future generations."
+  },
+  {
+    "id": 2233,
+    "word": "Sediment",
+    "phonetic": "/ˈsedɪmənt/",
+    "解释": "n. 沉积物（指在水底堆积的颗粒物质）",
+    "sentence": "Sediment clogs rivers and harbors."
+  },
+  {
+    "id": 2234,
+    "word": "Segment",
+    "phonetic": "/ˈsegmənt/",
+    "解释": "n. 部分；片段（指整体的某一可划分区域）",
+    "sentence": "Each segment of the population faces unique risks."
+  },
+  {
+    "id": 2235,
+    "word": "Seize",
+    "phonetic": "/siːz/",
+    "解释": "v. 抓住；把握（指迅速采取行动利用机会）",
+    "sentence": "We must seize opportunities for reform."
+  },
+  {
+    "id": 2236,
+    "word": "Selectivity",
+    "phonetic": "/ˌsɪlekˈtɪvəti/",
+    "解释": "n. 选择性（指对不同对象做出区别对待的特性）",
+    "sentence": "Chemical selectivity reduces side effects."
+  },
+  {
+    "id": 2237,
+    "word": "Semitropical",
+    "phonetic": "/ˌsemiˈtrɒpɪkl/",
+    "解释": "adj. 亚热带的（指位于热带与温带之间的气候区域）",
+    "sentence": "Semitropical forests host diverse species."
+  },
+  {
+    "id": 2238,
+    "word": "Sensitive",
+    "phonetic": "/ˈsensətɪv/",
+    "解释": "adj. 敏感的（指易受影响的或需要小心处理的）",
+    "sentence": "Coral is sensitive to temperature changes."
+  },
+  {
+    "id": 2239,
+    "word": "Sentiment",
+    "phonetic": "/ˈsentɪmənt/",
+    "解释": "n. 观点；情绪（指公众的态度或情感倾向）",
+    "sentence": "Public sentiment shifts toward sustainability."
+  },
+  {
+    "id": 2240,
+    "word": "Sequence",
+    "phonetic": "/ˈsiːkwens/",
+    "解释": "n. 序列；顺序（指按逻辑排列的一系列事件）",
+    "sentence": "Events follow a predictable sequence."
+  },
+  {
+    "id": 2241,
+    "word": "Severe",
+    "phonetic": "/sɪˈvɪr/",
+    "解释": "adj. 严重的；严峻的（指达到令人担忧程度的）",
+    "sentence": "Severe weather events increase in frequency."
+  },
+  {
+    "id": 2242,
+    "word": "Shatter",
+    "phonetic": "/ˈʃætər/",
+    "解释": "v. 粉碎；破坏（指彻底打破或摧毁完整性）",
+    "sentence": "Storms shatter coastal infrastructure."
+  },
+  {
+    "id": 2243,
+    "word": "Shift",
+    "phonetic": "/ʃɪft/",
+    "解释": "v. 转移；转变（指方向、位置或状态的改变）",
+    "sentence": "Rainfall patterns shift dramatically."
+  },
+  {
+    "id": 2244,
+    "word": "Shortage",
+    "phonetic": "/ˈʃɔːrtɪdʒ/",
+    "解释": "n. 短缺；不足（指需求超过供应的状态）",
+    "sentence": "Water shortages affect millions."
+  },
+  {
+    "id": 2245,
+    "word": "Shrink",
+    "phonetic": "/ʃrɪŋk/",
+    "解释": "v. 缩小；减少（指体积或数量变小）",
+    "sentence": "Glaciers shrink each year."
+  },
+  {
+    "id": 2246,
+    "word": "Significant",
+    "phonetic": "/sɪɡˈnɪfɪkənt/",
+    "解释": "adj. 显著的；重要的（指值得注意或有重大意义的）",
+    "sentence": "Significant progress has been made."
+  },
+  {
+    "id": 2247,
+    "word": "Simulate",
+    "phonetic": "/ˈsimjuleɪt/",
+    "解释": "v. 模拟（指用计算机模型复制真实系统的行为）",
+    "sentence": "Models simulate future climate scenarios."
+  },
+  {
+    "id": 2248,
+    "word": "Simultaneous",
+    "phonetic": "/ˌsaɪmlˈteɪniəs/",
+    "解释": "adj. 同时的（指在同一时间发生的）",
+    "sentence": "Multiple crises occur simultaneously."
+  },
+  {
+    "id": 2249,
+    "word": "Site",
+    "phonetic": "/saɪt/",
+    "解释": "n. 地点；场所（指特定事件发生的位置）",
+    "sentence": "The site was chosen for its biodiversity."
+  },
+  {
+    "id": 2250,
+    "word": "Skeleton",
+    "phonetic": "/ˈskelɪtn/",
+    "解释": "n. 骨架；框架（指支撑整体的基本结构）",
+    "sentence": "The reef skeleton provides habitat structure."
+  },
+  {
+    "id": 2251,
+    "word": "Skeptical",
+    "phonetic": "/ˈskeptɪkl/",
+    "解释": "adj. 怀疑的（指对声明持保留态度的）",
+    "sentence": "Scientists remain skeptical of unverified claims."
+  },
+  {
+    "id": 2252,
+    "word": "Skip",
+    "phonetic": "/skɪp/",
+    "解释": "v. 跳过；略过（指有意忽略某步骤或部分）",
+    "sentence": "Do not skip environmental assessments."
+  },
+  {
+    "id": 2253,
+    "word": "Slash",
+    "phonetic": "/slæʃ/",
+    "解释": "v. 大幅削减（指急剧减少数量或规模）",
+    "sentence": "Governments slash carbon emissions targets."
+  },
+  {
+    "id": 2254,
+    "word": "Slender",
+    "phonetic": "/ˈslendər/",
+    "解释": "adj. 细长的；微薄的（指形状窄小或数量有限的）",
+    "sentence": "Slender resources require careful allocation."
+  },
+  {
+    "id": 2255,
+    "word": "Slice",
+    "phonetic": "/slaɪs/",
+    "解释": "n. 部分；份额（指整体中被切割下来的一块）",
+    "sentence": "A slice of the budget goes to research."
+  },
+  {
+    "id": 2256,
+    "word": "Slot",
+    "phonetic": "/slɒt/",
+    "解释": "n. 位置；时段（指预定的空位或时间窗口）",
+    "sentence": "Solar fits into the energy mix slot."
+  },
+  {
+    "id": 2257,
+    "word": "Soar",
+    "phonetic": "/sɔːr/",
+    "解释": "v. 猛增；飙升（指数值迅速上升至很高水平）",
+    "sentence": "Temperatures soar during heatwaves."
+  },
+  {
+    "id": 2258,
+    "word": "Solidify",
+    "phonetic": "/səˈlɪdɪfaɪ/",
+    "解释": "v. 巩固；固化（指使变得坚实或确定不变）",
+    "sentence": "Treaties solidify international cooperation."
+  },
+  {
+    "id": 2259,
+    "word": "Solitary",
+    "phonetic": "/ˈsɒlɪteri/",
+    "解释": "adj. 孤独的；单独的（指独自存在不与他人关联的）",
+    "sentence": "Some species live solitary lives."
+  },
+  {
+    "id": 2260,
+    "word": "Solution",
+    "phonetic": "/səˈluːʃn/",
+    "解释": "n. 解决方案（指解决问题的方法或答案）",
+    "sentence": "Innovative solutions emerge from crisis."
+  },
+  {
+    "id": 2261,
+    "word": "Sophisticated",
+    "phonetic": "/səˈfɪstɪkeɪtɪd/",
+    "解释": "adj. 复杂精密的；先进的（指技术或方法高度发达的）",
+    "sentence": "Sophisticated models improve predictions."
+  },
+  {
+    "id": 2262,
+    "word": "Source",
+    "phonetic": "/sɔːrs/",
+    "解释": "n. 来源；源头（指事物的起源或出处）",
+    "sentence": "Identify pollution sources accurately."
+  },
+  {
+    "id": 2263,
+    "word": "Span",
+    "phonetic": "/spæn/",
+    "解释": "v. 跨越；涵盖（指延伸覆盖一定范围或时间）",
+    "sentence": "Impacts span multiple generations."
+  },
+  {
+    "id": 2264,
+    "word": "Sparse",
+    "phonetic": "/spɑːrs/",
+    "解释": "adj. 稀疏的；贫乏的（指分布稀少或内容不足的）",
+    "sentence": "Vegetation becomes sparse in drought."
+  },
+  {
+    "id": 2265,
+    "word": "Spawn",
+    "phonetic": "/spɔːn/",
+    "解释": "v. 产卵；引发（指鱼类繁殖或大量产生新事物）",
+    "sentence": "Coral spawn during full moons."
+  },
+  {
+    "id": 2266,
+    "word": "Specialize",
+    "phonetic": "/ˈspeʃəlaɪz/",
+    "解释": "v. 专门研究；专注于（指集中精力于特定领域）",
+    "sentence": "Researchers specialize in marine ecology."
+  },
+  {
+    "id": 2267,
+    "word": "Species",
+    "phonetic": "/ˈspiːʃiːz/",
+    "解释": "n. 物种（指生物学上可相互繁殖的生物群体）",
+    "sentence": "Thousands of species face extinction."
+  },
+  {
+    "id": 2268,
+    "word": "Specific",
+    "phonetic": "/spəˈsɪfɪk/",
+    "解释": "adj. 具体的；特定的（指明确而非泛泛的）",
+    "sentence": "Provide specific examples to support claims."
+  },
+  {
+    "id": 2269,
+    "word": "Specify",
+    "phonetic": "/ˈspesɪfaɪ/",
+    "解释": "v. 明确说明；具体指定（指详细列出要求或条件）",
+    "sentence": "Regulations specify emission limits."
+  },
+  {
+    "id": 2270,
+    "word": "Spectacular",
+    "phonetic": "/spekˈtækjələr/",
+    "解释": "adj. 壮观的；引人注目的（指视觉上令人印象深刻的）",
+    "sentence": "The aurora is a spectacular phenomenon."
+  },
+  {
+    "id": 2271,
+    "word": "Speculate",
+    "phonetic": "/ˈpekjuleɪt/",
+    "解释": "v. 推测；投机（指基于不完全证据做出判断）",
+    "sentence": "Experts speculate about future trends."
+  },
+  {
+    "id": 2272,
+    "word": "Sphere",
+    "phonetic": "/sfɪr/",
+    "解释": "n. 球体；领域（指圆形物体或活动范围）",
+    "sentence": "Atmosphere is Earth's gaseous sphere."
+  },
+  {
+    "id": 2273,
+    "word": "Spill",
+    "phonetic": "/spɪl/",
+    "解释": "v. 溢出；泄漏（指液体意外流出容器）",
+    "sentence": "Oil spills devastate marine life."
+  },
+  {
+    "id": 2274,
+    "word": "Spin-off",
+    "phonetic": "/ˈspɪnɒf/",
+    "解释": "n. 衍生产品；副产品（指从主项目中派生出的新成果）",
+    "sentence": "Technology creates spin-off benefits."
+  },
+  {
+    "id": 2275,
+    "word": "Split",
+    "phonetic": "/splɪt/",
+    "解释": "v. 分裂；分开（指分成两个或多个部分）",
+    "sentence": "Opinions split on policy approaches."
+  },
+  {
+    "id": 2276,
+    "word": "Spoil",
+    "phonetic": "/spɔɪl/",
+    "解释": "v. 破坏；毁坏（指损害某物的质量或价值）",
+    "sentence": "Tourism spoils pristine environments."
+  },
+  {
+    "id": 2277,
+    "word": "Sponsor",
+    "phonetic": "/ˈspɒnsər/",
+    "解释": "v. 赞助；发起（指提供资金支持或推动某项活动）",
+    "sentence": "Companies sponsor reforestation projects."
+  },
+  {
+    "id": 2278,
+    "word": "Sprawl",
+    "phonetic": "/sprɔːl/",
+    "解释": "n./v. 无序扩张（指城市向外蔓延侵占周边土地）",
+    "sentence": "Urban sprawl consumes farmland."
+  },
+  {
+    "id": 2279,
+    "word": "Spread",
+    "phonetic": "/spred/",
+    "解释": "v. 传播；扩散（指在一定区域内扩展分布）",
+    "sentence": "Diseases spread rapidly in crowded areas."
+  },
+  {
+    "id": 2280,
+    "word": "Stability",
+    "phonetic": "/stəˈbɪləti/",
+    "解释": "n. 稳定性；稳固（指保持平衡不易被改变的状态）",
+    "sentence": "Climate stability supports agriculture."
+  },
+  {
+    "id": 2281,
+    "word": "Stabilize",
+    "phonetic": "/ˈsteɪbəlaɪz/",
+    "解释": "v. 使稳定（指使波动减小趋于平稳）",
+    "sentence": "Policies stabilize fluctuating markets."
+  },
+  {
+    "id": 2282,
+    "word": "Stack",
+    "phonetic": "/stæk/",
+    "解释": "n. 堆；层叠（指整齐堆放的物体集合）",
+    "sentence": "Greenhouse gases accumulate in atmospheric stacks."
+  },
+  {
+    "id": 2283,
+    "word": "Stage",
+    "phonetic": "/steɪdʒ/",
+    "解释": "n. 阶段；舞台（指过程中的某个时期或展示平台）",
+    "sentence": "Each stage of development has challenges."
+  },
+  {
+    "id": 2284,
+    "word": "Staggering",
+    "phonetic": "/ˈstæɡərɪŋ/",
+    "解释": "adj. 令人震惊的（指数值大到难以置信的）",
+    "sentence": "The cost of inaction is staggering."
+  },
+  {
+    "id": 2285,
+    "word": "Standpoint",
+    "phonetic": "/ˈstændpɔɪnt/",
+    "解释": "n. 立场；观点（指看待问题的角度或位置）",
+    "sentence": "From an ecological standpoint, this matters."
+  },
+  {
+    "id": 2286,
+    "word": "Static",
+    "phonetic": "/ˈstætɪk/",
+    "解释": "adj. 静止的；静态的（指不变的或无运动的）",
+    "sentence": "Nothing in nature is truly static."
+  },
+  {
+    "id": 2287,
+    "word": "Stationary",
+    "phonetic": "/ˈsteɪʃəneri/",
+    "解释": "adj. 固定不动的（指位置保持不变的）",
+    "sentence": "Weather fronts are rarely stationary."
+  },
+  {
+    "id": 2288,
+    "word": "Statistics",
+    "phonetic": "/stəˈtɪstɪks/",
+    "解释": "n. 统计数据（指收集和分析的数字资料）",
+    "sentence": "Statistics reveal alarming trends."
+  },
+  {
+    "id": 2289,
+    "word": "Status",
+    "phonetic": "/ˈsteɪtəs/",
+    "解释": "n. 状况；地位（指当前的态势或社会位置）",
+    "sentence": "Check the status of protected areas."
+  },
+  {
+    "id": 2290,
+    "word": "Steady",
+    "phonetic": "/ˈstedi/",
+    "解释": "adj. 稳定的；持续的（指保持恒定速率或水平的）",
+    "sentence": "Progress requires steady effort."
+  },
+  {
+    "id": 2291,
+    "word": "Steep",
+    "phonetic": "/stiːp/",
+    "解释": "adj. 陡峭的；急剧的（指斜度大或变化快的）",
+    "sentence": "Steep declines worry ecologists."
+  },
+  {
+    "id": 2292,
+    "word": "Sterile",
+    "phonetic": "/ˈsterail/",
+    "解释": "adj. 贫瘠的；无菌的（指无法支持生命或不含微生物的）",
+    "sentence": "Polluted soil becomes sterile."
+  },
+  {
+    "id": 2293,
+    "word": "Stewardship",
+    "phonetic": "/ˈstuːərdʃɪp/",
+    "解释": "n. 管理责任；看护（指对资源负责任的照管义务）",
+    "sentence": "Environmental stewardship is essential."
+  },
+  {
+    "id": 2294,
+    "word": "Stimulate",
+    "phonetic": "/ˈstɪmjuleɪt/",
+    "解释": "v. 刺激；促进（指激发活性或加速发展）",
+    "sentence": "Investment stimulates green innovation."
+  },
+  {
+    "id": 2295,
+    "word": "Strategy",
+    "phonetic": "/ˈstrætədʒi/",
+    "解释": "n. 战略；策略（指为实现目标制定的长期规划）",
+    "sentence": "National strategies guide climate action."
+  },
+  {
+    "id": 2296,
+    "word": "Strengthen",
+    "phonetic": "/ˈstreŋθn/",
+    "解释": "v. 加强；巩固（指使更强壮或更有效）",
+    "sentence": "Laws strengthen environmental protection."
+  },
+  {
+    "id": 2297,
+    "word": "Stringent",
+    "phonetic": "/ˈstrɪndʒənt/",
+    "解释": "adj. 严格的；苛刻的（指标准极高且执行坚决的）",
+    "sentence": "Stringent regulations reduce pollution."
+  },
+  {
+    "id": 2298,
+    "word": "Strip",
+    "phonetic": "/strɪp/",
+    "解释": "v. 剥夺；剥离（指去除表面层或夺走权利）",
+    "sentence": "Mining strips away topsoil."
+  },
+  {
+    "id": 2299,
+    "word": "Strive",
+    "phonetic": "/straɪv/",
+    "解释": "v. 努力；奋斗（指竭尽全力追求目标）",
+    "sentence": "Nations strive for net-zero emissions."
+  },
+  {
+    "id": 2300,
+    "word": "Structure",
+    "phonetic": "/ˈstrʌktʃər/",
+    "解释": "n. 结构；构造（指各部分的组成方式和排列）",
+    "sentence": "Ecosystem structure determines function."
+  },
+  {
+    "id": 2301,
+    "word": "Submerge",
+    "phonetic": "/səbˈmɜːrdʒ/",
+    "解释": "v. 淹没；潜入水中（指完全没入水面以下）",
+    "sentence": "Islands may submerge due to sea level rise."
+  },
+  {
+    "id": 2302,
+    "word": "Submit",
+    "phonetic": "/səbˈmɪt/",
+    "解释": "v. 提交；呈递（指正式递交文件或建议供审议）",
+    "sentence": "Nations submit climate pledges."
+  },
+  {
+    "id": 2303,
+    "word": "Subordinate",
+    "phonetic": "/səˈbɔːrdɪnət/",
+    "解释": "adj. 次要的；从属的（指地位较低或重要性较小的）",
+    "sentence": "Environmental concerns should not be subordinate to profit."
+  },
+  {
+    "id": 2304,
+    "word": "Subsequent",
+    "phonetic": "/ˈsʌbsɪkwənt/",
+    "解释": "adj. 随后的；后来的（指时间上紧接在后的）",
+    "sentence": "Subsequent studies confirmed the findings."
+  },
+  {
+    "id": 2305,
+    "word": "Subsidize",
+    "phonetic": "/ˈsʌbsɪdaɪz/",
+    "解释": "v. 补贴；资助（指政府提供资金支持降低成本）",
+    "sentence": "Governments subsidize renewable energy."
+  },
+  {
+    "id": 2306,
+    "word": "Substantial",
+    "phonetic": "/səbˈstænʃl/",
+    "解释": "adj. 大量的；实质性的（指规模可观或意义重大的）",
+    "sentence": "Substantial investments are needed."
+  },
+  {
+    "id": 2307,
+    "word": "Substitute",
+    "phonetic": "/ˈsʌbstɪtuːt/",
+    "解释": "n./v. 替代品；代替（指用其他事物取代原有事物）",
+    "sentence": "Plastic substitutes reduce waste."
+  },
+  {
+    "id": 2308,
+    "word": "Subtle",
+    "phonetic": "/ˈsʌtl/",
+    "解释": "adj. 微妙的；不易察觉的（指细微或精巧的）",
+    "sentence": "Climate changes can be subtle at first."
+  },
+  {
+    "id": 2309,
+    "word": "Succession",
+    "phonetic": "/səkˈseʃn/",
+    "解释": "n. 演替；连续（指生态群落随时间的自然更替过程）",
+    "sentence": "Ecological succession restores degraded land."
+  },
+  {
+    "id": 2310,
+    "word": "Succumb",
+    "phonetic": "/səˈkʌm/",
+    "解释": "v. 屈服；死于（指无法抵抗压力而放弃或死亡）",
+    "sentence": "Forests succumb to disease under stress."
+  },
+  {
+    "id": 2311,
+    "word": "Sufficient",
+    "phonetic": "/səˈfɪʃnt/",
+    "解释": "adj. 足够的；充分的（指满足需求所需的量）",
+    "sentence": "Sufficient data supports the hypothesis."
+  },
+  {
+    "id": 2312,
+    "word": "Summit",
+    "phonetic": "/ˈsʌmɪt/",
+    "解释": "n. 峰会；顶峰（指最高级别会议或山的最高点）",
+    "sentence": "World leaders meet at climate summits."
+  },
+  {
+    "id": 2313,
+    "word": "Superior",
+    "phonetic": "/suːˈpɪriər/",
+    "解释": "adj. 优越的；较好的（指在质量或能力上超过他人的）",
+    "sentence": "No species is superior in an ecosystem."
+  },
+  {
+    "id": 2314,
+    "word": "Supersede",
+    "phonetic": "/ˌsuːpərˈsiːd/",
+    "解释": "v. 取代；替代（指用更新的事物淘汰旧的）",
+    "sentence": "New technologies supersede old ones."
+  },
+  {
+    "id": 2315,
+    "word": "Supplement",
+    "phonetic": "/ˈsʌplɪment/",
+    "解释": "n./v. 补充；增补（指添加额外内容以完善整体）",
+    "sentence": "Vitamin supplements support health."
+  },
+  {
+    "id": 2316,
+    "word": "Supportive",
+    "phonetic": "/səˈpɔːrtɪv/",
+    "解释": "adj. 支持的；给予帮助的（指提供鼓励或资源的）",
+    "sentence": "Supportive policies enable innovation."
+  },
+  {
+    "id": 2317,
+    "word": "Suppress",
+    "phonetic": "/səˈpres/",
+    "解释": "v. 压制；抑制（指阻止某事物的表达或发展）",
+    "sentence": "Fires suppress forest regeneration."
+  },
+  {
+    "id": 2318,
+    "word": "Surface",
+    "phonetic": "/ˈsɜːrfɪs/",
+    "解释": "n. 表面；外观（指物体的最外层）",
+    "sentence": "Ocean surface temperatures rise steadily."
+  },
+  {
+    "id": 2319,
+    "word": "Surplus",
+    "phonetic": "/ˈsɜːrpləs/",
+    "解释": "n. 过剩；盈余（指超出需求的剩余部分）",
+    "sentence": "Energy surplus can be stored or traded."
+  },
+  {
+    "id": 2320,
+    "word": "Surrounding",
+    "phonetic": "/səˈraʊndɪŋ/",
+    "解释": "adj. 周围的；附近的（指位于周边区域的）",
+    "sentence": "Surrounding communities are affected."
+  },
+  {
+    "id": 2321,
+    "word": "Survey",
+    "phonetic": "/sərˈveɪ/",
+    "解释": "n./v. 调查；勘测（指系统收集数据或评估状况）",
+    "sentence": "Wildlife surveys track population trends."
+  },
+  {
+    "id": 2322,
+    "word": "Survival",
+    "phonetic": "/sərˈvaɪvl/",
+    "解释": "n. 生存；幸存（指在困难条件下继续存在的能力）",
+    "sentence": "Survival of species depends on habitat quality."
+  },
+  {
+    "id": 2323,
+    "word": "Susceptible",
+    "phonetic": "/səˈseptəbl/",
+    "解释": "adj. 易受影响的；敏感的（指容易被伤害或感染的）",
+    "sentence": "Coral is susceptible to bleaching."
+  },
+  {
+    "id": 2324,
+    "word": "Sustain",
+    "phonetic": "/səˈsteɪn/",
+    "解释": "v. 维持；支撑（指使持续存在或保持运转）",
+    "sentence": "We must sustain natural resources."
+  },
+  {
+    "id": 2325,
+    "word": "Sustainable",
+    "phonetic": "/səˈsteɪnəbl/",
+    "解释": "adj. 可持续的（指不耗尽资源且不损害未来的发展模式）",
+    "sentence": "Sustainable development balances needs."
+  },
+  {
+    "id": 2326,
+    "word": "Swap",
+    "phonetic": "/swɒp/",
+    "解释": "v. 交换；替换（指用一个物品换取另一个）",
+    "sentence": "Countries swap carbon credits."
+  },
+  {
+    "id": 2327,
+    "word": "Swarm",
+    "phonetic": "/swɔːrm/",
+    "解释": "n./v. 大群；聚集（指大量生物聚集在一起移动）",
+    "sentence": "Bees swarm around flowering plants."
+  },
+  {
+    "id": 2328,
+    "word": "Switch",
+    "phonetic": "/swɪtʃ/",
+    "解释": "v. 转变；切换（指从一种状态改变到另一种）",
+    "sentence": "Consumers switch to green products."
+  },
+  {
+    "id": 2329,
+    "word": "Symbolize",
+    "phonetic": "/ˈsɪmbəlaɪz/",
+    "解释": "v. 象征；代表（指作为某概念的标志或符号）",
+    "sentence": "The polar bear symbolizes climate change."
+  },
+  {
+    "id": 2330,
+    "word": "Symptom",
+    "phonetic": "/ˈsɪmptəm/",
+    "解释": "n. 症状；征兆（指表明问题存在的迹象）",
+    "sentence": "Extreme weather is a symptom of warming."
+  },
+  {
+    "id": 2331,
+    "word": "Synthesis",
+    "phonetic": "/ˈsinθəsɪs/",
+    "解释": "n. 综合；合成（指将不同元素整合成统一整体）",
+    "sentence": "Research synthesis reveals patterns."
+  },
+  {
+    "id": 2332,
+    "word": "Systematic",
+    "phonetic": "/ˌsɪstəˈmætɪk/",
+    "解释": "adj. 系统性的；有条理的（指按照既定方法有序进行的）",
+    "sentence": "Systematic monitoring detects changes early."
+  },
+  {
+    "id": 2333,
+    "word": "Tackle",
+    "phonetic": "/ˈtækl/",
+    "解释": "v. 处理；对付（指着手解决困难问题）",
+    "sentence": "We must tackle pollution urgently."
+  },
+  {
+    "id": 2334,
+    "word": "Tactic",
+    "phonetic": "/ˈtæktɪk/",
+    "解释": "n. 策略；战术（指为实现目标采取的具体方法）",
+    "sentence": "Different tactics suit different contexts."
+  },
+  {
+    "id": 2335,
+    "word": "Tailor",
+    "phonetic": "/ˈteɪlər/",
+    "解释": "v. 量身定制（指根据特定需要调整或设计）",
+    "sentence": "Solutions should tailor to local conditions."
+  },
+  {
+    "id": 2336,
+    "word": "Tailored",
+    "phonetic": "/ˈteɪlərd/",
+    "解释": "adj. 定制的；特制的（指为特定目的专门设计的）",
+    "sentence": "Tailored approaches work best."
+  },
+  {
+    "id": 2337,
+    "word": "Tangible",
+    "phonetic": "/ˈtændʒəbl/",
+    "解释": "adj. 有形的；切实的（指可触摸或可实际感知的）",
+    "sentence": "Tangible benefits motivate action."
+  },
+  {
+    "id": 2338,
+    "word": "Tap",
+    "phonetic": "/tæp/",
+    "解释": "v. 开发；利用（指获取资源或潜能）",
+    "sentence": "Nations tap into geothermal energy."
+  },
+  {
+    "id": 2339,
+    "word": "Target",
+    "phonetic": "/ˈtɑːrɡɪt/",
+    "解释": "n./v. 目标；瞄准（指期望达到的标准或将注意力集中于某物）",
+    "sentence": "Emissions targets guide policy."
+  },
+  {
+    "id": 2340,
+    "word": "Technique",
+    "phonetic": "/tekˈniːk/",
+    "解释": "n. 技术；技巧（指完成任务的特定方法或手法）",
+    "sentence": "New techniques improve efficiency."
+  },
+  {
+    "id": 2341,
+    "word": "Technology",
+    "phonetic": "/tekˈnɒlədʒi/",
+    "解释": "n. 技术（指科学知识在实际中的应用）",
+    "sentence": "Technology drives environmental solutions."
+  },
+  {
+    "id": 2342,
+    "word": "Temporary",
+    "phonetic": "/ˈtemprəri/",
+    "解释": "adj. 暂时的；临时的（指持续时间短的）",
+    "sentence": "Temporary fixes do not solve root causes."
+  },
+  {
+    "id": 2343,
+    "word": "Tenant",
+    "phonetic": "/ˈtenənt/",
+    "解释": "n. 租户；佃户（指租赁土地或房产的人）",
+    "sentence": "Tenants benefit from green buildings."
+  },
+  {
+    "id": 2344,
+    "word": "Tendency",
+    "phonetic": "/ˈtendənsi/",
+    "解释": "n. 倾向；趋势（指朝某个方向发展的自然倾向）",
+    "sentence": "There is a tendency toward warmer winters."
+  },
+  {
+    "id": 2345,
+    "word": "Tentative",
+    "phonetic": "/ˈtentətɪv/",
+    "解释": "adj. 试验性的；暂定的（指不确定或初步尝试的）",
+    "sentence": "Tentative agreements pave the way for treaties."
+  },
+  {
+    "id": 2346,
+    "word": "Terminal",
+    "phonetic": "/ˈtɜːrmɪnl/",
+    "解释": "adj. 末端的；终点的（指处于最后阶段或位置的）",
+    "sentence": "Terminal stages of damage are irreversible."
+  },
+  {
+    "id": 2347,
+    "word": "Terminate",
+    "phonetic": "/ˈtɜːrmɪneɪt/",
+    "解释": "v. 终止；结束（指使某过程或关系停止）",
+    "sentence": "Contracts terminate if conditions are breached."
+  },
+  {
+    "id": 2348,
+    "word": "Terrain",
+    "phonetic": "/təˈreɪn/",
+    "解释": "n. 地形；地势（指陆地表面的自然特征）",
+    "sentence": "Mountain terrain affects weather patterns."
+  },
+  {
+    "id": 2349,
+    "word": "Territorial",
+    "phonetic": "/ˌterɪˈtɔːriəl/",
+    "解释": "adj. 领土的；有领地意识的（指与土地所有权或动物领域相关的）",
+    "sentence": "Animals defend territorial boundaries."
+  },
+  {
+    "id": 2350,
+    "word": "Territory",
+    "phonetic": "/ˈterətɔːri/",
+    "解释": "n. 领土；领地（指由个人、群体或国家控制的区域）",
+    "sentence": "Species lose territory to development."
+  },
+  {
+    "id": 2351,
+    "word": "Testify",
+    "phonetic": "/ˈtestɪfaɪ/",
+    "解释": "v. 作证；证明（指基于亲身经历提供证据）",
+    "sentence": "Scientists testify before congress."
+  },
+  {
+    "id": 2352,
+    "word": "Texture",
+    "phonetic": "/ˈtekstʃər/",
+    "解释": "n. 质地；纹理（指物体表面或结构的触感特征）",
+    "sentence": "Soil texture affects water retention."
+  },
+  {
+    "id": 2353,
+    "word": "Theme",
+    "phonetic": "/θiːm/",
+    "解释": "n. 主题；议题（指作品或讨论的核心话题）",
+    "sentence": "Sustainability is a recurring theme."
+  },
+  {
+    "id": 2354,
+    "word": "Threshold",
+    "phonetic": "/ˈθreʃhoʊld/",
+    "解释": "n. 阈值；门槛（指触发某种变化的关键临界点）",
+    "sentence": "Crossing temperature thresholds triggers tipping points."
+  },
+  {
+    "id": 2355,
+    "word": "Thrive",
+    "phonetic": "/θraɪv/",
+    "解释": "v. 繁荣；茁壮成长（指生长旺盛或发展良好）",
+    "sentence": "Native plants thrive in local conditions."
+  },
+  {
+    "id": 2356,
+    "word": "Timeline",
+    "phonetic": "/ˈtaɪmlaɪn/",
+    "解释": "n. 时间线；进度表（指事件按时间顺序排列的图表）",
+    "sentence": "Project timelines set clear deadlines."
+  },
+  {
+    "id": 2357,
+    "word": "Tiny",
+    "phonetic": "/ˈtaɪni/",
+    "解释": "adj. 微小的（指体积非常小的）",
+    "sentence": "Tiny organisms play huge ecological roles."
+  },
+  {
+    "id": 2358,
+    "word": "Tip",
+    "phonetic": "/tɪp/",
+    "解释": "n. 末端；尖端（指物体最前端的部分）",
+    "sentence": "The tip of the iceberg shows only part of the problem."
+  },
+  {
+    "id": 2359,
+    "word": "Tissue",
+    "phonetic": "/ˈtɪʃuː/",
+    "解释": "n. 组织（指生物体内具有特定功能的细胞群体）",
+    "sentence": "Plant tissue absorbs CO2 during photosynthesis."
+  },
+  {
+    "id": 2360,
+    "word": "Tolerance",
+    "phonetic": "/ˈtɒlərəns/",
+    "解释": "n. 容忍度；耐受力（指承受不利条件而不受损害的能力）",
+    "sentence": "Species have different heat tolerances."
+  },
+  {
+    "id": 2361,
+    "word": "Topography",
+    "phonetic": "/təˈpɒɡrəfi/",
+    "解释": "n. 地形学；地貌（指地表起伏和特征的详细描述）",
+    "sentence": "Topography influences rainfall distribution."
+  },
+  {
+    "id": 2362,
+    "word": "Torrent",
+    "phonetic": "/ˈtɒrənt/",
+    "解释": "n. 洪流；湍急的水流（指突然爆发的巨大水量）",
+    "sentence": "Torrential rains cause flash floods."
+  },
+  {
+    "id": 2363,
+    "word": "Tough",
+    "phonetic": "/tʌf/",
+    "解释": "adj. 艰难的；坚韧的（指条件苛刻或能承受困难的）",
+    "sentence": "Tough decisions lie ahead."
+  },
+  {
+    "id": 2364,
+    "word": "Trace",
+    "phonetic": "/treɪs/",
+    "解释": "n./v. 痕迹；追踪（指留下的微量证据或寻找来源的过程）",
+    "sentence": "Trace elements are essential nutrients."
+  },
+  {
+    "id": 2365,
+    "word": "Track",
+    "phonetic": "/træk/",
+    "解释": "v. 追踪；监测（指记录变化或跟随进展）",
+    "sentence": "Satellites track deforestation rates."
+  },
+  {
+    "id": 2366,
+    "word": "Trade-off",
+    "phonetic": "/ˈtreɪdɒf/",
+    "解释": "n. 权衡；取舍（指获得一物必须牺牲另一物的妥协）",
+    "sentence": "Every policy involves trade-offs."
+  },
+  {
+    "id": 2367,
+    "word": "Tradition",
+    "phonetic": "/trəˈdɪʃn/",
+    "解释": "n. 传统；惯例（指代代相传的风俗或做法）",
+    "sentence": "Indigenous tradition guides land management."
+  },
+  {
+    "id": 2368,
+    "word": "Trail",
+    "phonetic": "/treɪl/",
+    "解释": "n. 痕迹；小径（指留下的一串标记或步行路径）",
+    "sentence": "Pollution trails contaminate waterways."
+  },
+  {
+    "id": 2369,
+    "word": "Trait",
+    "phonetic": "/treɪt/",
+    "解释": "n. 特征；特性（指区别于他者的独特品质）",
+    "sentence": "Genetic traits determine adaptability."
+  },
+  {
+    "id": 2370,
+    "word": "Transaction",
+    "phonetic": "/trænˈzækʃn/",
+    "解释": "n. 交易；业务（指商业或金融活动中的交换行为）",
+    "sentence": "Carbon transactions create markets."
+  },
+  {
+    "id": 2371,
+    "word": "Transfer",
+    "phonetic": "/trænsˈfɜːr/",
+    "解释": "v. 转移；转让（指将权利、资源或信息从一方交给另一方）",
+    "sentence": "Technology transfer aids developing nations."
+  },
+  {
+    "id": 2372,
+    "word": "Transform",
+    "phonetic": "/trænsˈfɔːrm/",
+    "解释": "v. 改变；转化（指从根本上改变形态或性质）",
+    "sentence": "Cities transform into sustainable hubs."
+  },
+  {
+    "id": 2373,
+    "word": "Transit",
+    "phonetic": "/ˈtrænzɪt/",
+    "解释": "n. 运输；中转（指人或货物的交通流动）",
+    "sentence": "Public transit reduces emissions."
+  },
+  {
+    "id": 2374,
+    "word": "Translate",
+    "phonetic": "/trænsˈleɪt/",
+    "解释": "v. 转化；翻译（指将一种形式变为另一种）",
+    "sentence": "Research translates into policy."
+  },
+  {
+    "id": 2375,
+    "word": "Transmission",
+    "phonetic": "/trænsˈmɪʃn/",
+    "解释": "n. 传播；传输（指能量、疾病或信息的传递过程）",
+    "sentence": "Disease transmission increases with warming."
+  },
+  {
+    "id": 2376,
+    "word": "Transparent",
+    "phonetic": "/trænsˈperənt/",
+    "解释": "adj. 透明的；公开的（指信息公开可见无隐藏的）",
+    "sentence": "Transparent reporting builds trust."
+  },
+  {
+    "id": 2377,
+    "word": "Transport",
+    "phonetic": "/trænˈspɔːrt/",
+    "解释": "n./v. 交通；运输（指人或货物从一处移动到另一处的方式或行为）",
+    "sentence": "Electric transport cuts emissions."
+  },
+  {
+    "id": 2378,
+    "word": "Trap",
+    "phonetic": "/træp/",
+    "解释": "v. 困住；截留（指使无法逃脱或保留在某处）",
+    "sentence": "Greenhouse gases trap heat."
+  },
+  {
+    "id": 2379,
+    "word": "Trauma",
+    "phonetic": "/ˈtraʊmə/",
+    "解释": "n. 创伤；外伤（指身体或心理上的严重伤害）",
+    "sentence": "Natural disasters cause collective trauma."
+  },
+  {
+    "id": 2380,
+    "word": "Traverse",
+    "phonetic": "/trəˈvɜːrs/",
+    "解释": "v. 横穿；穿越（指从一端走到另一端）",
+    "sentence": "Migrants traverse dangerous routes."
+  },
+  {
+    "id": 2381,
+    "word": "Treasure",
+    "phonetic": "/ˈtreʒər/",
+    "解释": "n./v. 宝藏；珍视（指极有价值的事物或高度重视的行为）",
+    "sentence": "Biodiversity is a natural treasure."
+  },
+  {
+    "id": 2382,
+    "word": "Treaty",
+    "phonetic": "/ˈtriːti/",
+    "解释": "n. 条约（指国家间签署的正式协议）",
+    "sentence": "The Paris Treaty sets global goals."
+  },
+  {
+    "id": 2383,
+    "word": "Tremendous",
+    "phonetic": "/trəˈmendəs/",
+    "解释": "adj. 极大的；惊人的（指规模或程度超乎寻常的）",
+    "sentence": "Tremendous efforts are required."
+  },
+  {
+    "id": 2384,
+    "word": "Trend",
+    "phonetic": "/trend/",
+    "解释": "n. 趋势；动向（指数据或现象的发展方向）",
+    "sentence": "Long-term trends show consistent warming."
+  },
+  {
+    "id": 2385,
+    "word": "Trial",
+    "phonetic": "/ˈtraɪəl/",
+    "解释": "n. 试验；审判（指测试效果或法律程序）",
+    "sentence": "Field trials test new crop varieties."
+  },
+  {
+    "id": 2386,
+    "word": "Tribe",
+    "phonetic": "/traɪb/",
+    "解释": "n. 部落（指具有共同文化和血统的社会群体）",
+    "sentence": "Indigenous tribes protect forests."
+  },
+  {
+    "id": 2387,
+    "word": "Trigger",
+    "phonetic": "/ˈtrɪɡər/",
+    "解释": "v. 触发；引起（指启动某个过程或反应）",
+    "sentence": "Warming triggers feedback loops."
+  },
+  {
+    "id": 2388,
+    "word": "Triple",
+    "phonetic": "/ˈtrɪpl/",
+    "解释": "v. 增至三倍（指数值变成原来的三倍）",
+    "sentence": "Emissions could triple by 2050."
+  },
+  {
+    "id": 2389,
+    "word": "Tropical",
+    "phonetic": "/ˈtrɒpɪkl/",
+    "解释": "adj. 热带的（指赤道附近炎热多雨气候区域的）",
+    "sentence": "Tropical forests absorb vast amounts of CO2."
+  },
+  {
+    "id": 2390,
+    "word": "Truly",
+    "phonetic": "/ˈtruːli/",
+    "解释": "adv. 真正地；确实（指毫无疑问或名副其实地）",
+    "sentence": "Truly sustainable solutions require systemic change."
+  },
+  {
+    "id": 2391,
+    "word": "Trust",
+    "phonetic": "/trʌst/",
+    "解释": "n. 信任（指相信某人或某事可靠的心理状态）",
+    "sentence": "Public trust in science matters."
+  },
+  {
+    "id": 2392,
+    "word": "Ultimate",
+    "phonetic": "/ˈʌltɪmət/",
+    "解释": "adj. 最终的；根本的（指达到最后阶段或最重要的）",
+    "sentence": "The ultimate goal is survival."
+  },
+  {
+    "id": 2393,
+    "word": "Unacceptable",
+    "phonetic": "/ˌʌnəkˈseptəbl/",
+    "解释": "adj. 无法接受的（指不能容忍或同意的）",
+    "sentence": "Current emission levels are unacceptable."
+  },
+  {
+    "id": 2394,
+    "word": "Unavoidable",
+    "phonetic": "/ˌʌnəˈvɔɪdəbl/",
+    "解释": "adj. 不可避免的（指必然发生无法阻止的）",
+    "sentence": "Some impacts are now unavoidable."
+  },
+  {
+    "id": 2395,
+    "word": "Uncertainty",
+    "phonetic": "/ʌnˈsɜːrtnti/",
+    "解释": "n. 不确定性（指结果不可预测的状态）",
+    "sentence": "Uncertainty complicates planning."
+  },
+  {
+    "id": 2396,
+    "word": "Uncover",
+    "phonetic": "/ʌnˈkʌvər/",
+    "解释": "v. 揭露；发现（指揭示之前隐藏的信息）",
+    "sentence": "Research uncovers hidden connections."
+  },
+  {
+    "id": 2397,
+    "word": "Undergo",
+    "phonetic": "/ˌʌndərˈɡoʊ/",
+    "解释": "v. 经历；经受（指经历某种变化或过程）",
+    "sentence": "Ecosystems undergo rapid transformation."
+  },
+  {
+    "id": 2398,
+    "word": "Underlie",
+    "phonetic": "/ˌʌndərˈlaɪ/",
+    "解释": "v. 构成基础；位于之下（指作为潜在原因或底层支撑）",
+    "sentence": "Multiple factors underlie this trend."
+  },
+  {
+    "id": 2399,
+    "word": "Undermine",
+    "phonetic": "/ˌʌndərˈmaɪn/",
+    "解释": "v. 破坏；削弱（指暗中损害力量或信心）",
+    "sentence": "Corruption undermines conservation efforts."
+  },
+  {
+    "id": 2400,
+    "word": "Undertake",
+    "phonetic": "/ˌʌndərˈteɪk/",
+    "解释": "v. 承担；从事（指开始负责某项任务或活动）",
+    "sentence": "Nations undertake ambitious commitments."
+  },
+  {
+    "id": 2401,
+    "word": "Undoubtedly",
+    "phonetic": "/ʌnˈdaʊtɪdli/",
+    "解释": "adv. 毫无疑问地（指不容置疑的）",
+    "sentence": "Undoubtedly, action is urgent."
+  },
+  {
+    "id": 2402,
+    "word": "Uneven",
+    "phonetic": "/ʌnˈiːvn/",
+    "解释": "adj. 不均匀的；不平衡的（指分布不均或质量不一的）",
+    "sentence": "Climate impacts are uneven across regions."
+  },
+  {
+    "id": 2403,
+    "word": "Unexpected",
+    "phonetic": "/ˌʌnɪkˈspektɪd/",
+    "解释": "adj. 意料之外的（指没有预料到的）",
+    "sentence": "Unexpected consequences emerged later."
+  },
+  {
+    "id": 2404,
+    "word": "Unfold",
+    "phonetic": "/ʌnˈfoʊld/",
+    "解释": "v. 展开；显露（指逐渐展现细节或过程）",
+    "sentence": "Events unfold rapidly during crises."
+  },
+  {
+    "id": 2405,
+    "word": "Uniform",
+    "phonetic": "/ˈjuːnɪfɔːrm/",
+    "解释": "adj. 一致的；均匀的（指各部分相同或分布平均的）",
+    "sentence": "Changes are not uniform globally."
+  },
+  {
+    "id": 2406,
+    "word": "Unify",
+    "phonetic": "/ˈjuːnɪfaɪ/",
+    "解释": "v. 统一；联合（指使分散的部分结合成整体）",
+    "sentence": "Global efforts unify around common goals."
+  },
+  {
+    "id": 2407,
+    "word": "Unique",
+    "phonetic": "/juːˈniːk/",
+    "解释": "adj. 独一无二的（指没有相同事物的）",
+    "sentence": "Each ecosystem is unique."
+  },
+  {
+    "id": 2408,
+    "word": "Universal",
+    "phonetic": "/ˌjuːnɪˈvɜːrsl/",
+    "解释": "adj. 普遍的；全体的（指适用于所有情况或人群的）",
+    "sentence": "Climate change is a universal challenge."
+  },
+  {
+    "id": 2409,
+    "word": "Unprecedented",
+    "phonetic": "/ʌnˈpresɪdentɪd/",
+    "解释": "adj. 史无前例的（指以前从未发生过的）",
+    "sentence": "We face unprecedented challenges."
+  },
+  {
+    "id": 2410,
+    "word": "Unpredictable",
+    "phonetic": "/ʌnprɪˈdɪktəbl/",
+    "解释": "adj. 不可预测的（指无法提前预知的）",
+    "sentence": "Weather becomes more unpredictable."
+  },
+  {
+    "id": 2411,
+    "word": "Unquestionable",
+    "phonetic": "/ʌnˈkwestʃənəbl/",
+    "解释": "adj. 毫无疑问的（指不容怀疑或争议的）",
+    "sentence": "The evidence is unquestionable."
+  },
+  {
+    "id": 2412,
+    "word": "Unstable",
+    "phonetic": "/ʌnˈsteɪbl/",
+    "解释": "adj. 不稳定的；易变的（指难以保持平衡状态的）",
+    "sentence": "Unstable weather patterns disrupt agriculture."
+  },
+  {
+    "id": 2413,
+    "word": "Urgent",
+    "phonetic": "/ˈɜːrdʒənt/",
+    "解释": "adj. 紧急的；迫切的（指需要立即行动的）",
+    "sentence": "Urgent measures are necessary now."
+  },
+  {
+    "id": 2414,
+    "word": "Utilize",
+    "phonetic": "/ˈjuːtəlaɪz/",
+    "解释": "v. 利用；使用（指有效使用资源达到目的）",
+    "sentence": "We must utilize renewable resources."
+  },
+  {
+    "id": 2415,
+    "word": "Utterly",
+    "phonetic": "/ˈʌtərli/",
+    "解释": "adv. 完全地；彻底地（指达到最大程度）",
+    "sentence": "Some ecosystems are utterly transformed."
+  },
+  {
+    "id": 2416,
+    "word": "Vague",
+    "phonetic": "/veɪɡ/",
+    "解释": "adj. 模糊的；不明确的（指缺乏清晰细节的）",
+    "sentence": "Vague promises lead to inaction."
+  },
+  {
+    "id": 2417,
+    "word": "Valid",
+    "phonetic": "/ˈvælɪd/",
+    "解释": "adj. 有效的；有根据的（指符合逻辑或法律要求的）",
+    "sentence": "The study uses valid methodology."
+  },
+  {
+    "id": 2418,
+    "word": "Validity",
+    "phonetic": "/vəˈlɪdəti/",
+    "解释": "n. 有效性；合法性（指某事物正确或有约束力的性质）",
+    "sentence": "Question the validity of assumptions."
+  },
+  {
+    "id": 2419,
+    "word": "Valuable",
+    "phonetic": "/ˈvæljuəbl/",
+    "解释": "adj. 有价值的；珍贵的（指具有重大意义或用途的）",
+    "sentence": "Biodiversity provides valuable services."
+  },
+  {
+    "id": 2420,
+    "word": "Value",
+    "phonetic": "/ˈvæljuː/",
+    "解释": "n. 价值；重要性（指某物值得的程度）",
+    "sentence": "Ecosystems have intrinsic value."
+  },
+  {
+    "id": 2421,
+    "word": "Variability",
+    "phonetic": "/ˌveriəˈbɪləti/",
+    "解释": "n. 变异性；变化性（指在正常范围内波动的特性）",
+    "sentence": "Climate variability increases with warming."
+  },
+  {
+    "id": 2422,
+    "word": "Variable",
+    "phonetic": "/ˈveriəbl/",
+    "解释": "adj. 可变的；易变的（指可能改变的）",
+    "sentence": "Wind patterns are highly variable."
+  },
+  {
+    "id": 2423,
+    "word": "Variance",
+    "phonetic": "/ˈveriəns/",
+    "解释": "n. 差异；变异（指偏离平均值或标准的程度）",
+    "sentence": "Regional variance requires tailored solutions."
+  },
+  {
+    "id": 2424,
+    "word": "Variation",
+    "phonetic": "/ˌveriˈeɪʃn/",
+    "解释": "n. 变化；变异（指形式、数量或性质的差异）",
+    "sentence": "Seasonal variation affects migration."
+  },
+  {
+    "id": 2425,
+    "word": "Varied",
+    "phonetic": "/ˈverid/",
+    "解释": "adj. 多种多样的；不同的（指包含多种类型的）",
+    "sentence": "Responses vary across species."
+  },
+  {
+    "id": 2426,
+    "word": "Vary",
+    "phonetic": "/ˈveri/",
+    "解释": "v. 变化；不同（指因条件而改变或在个体间存在差异）",
+    "sentence": "Impacts vary by region."
+  },
+  {
+    "id": 2427,
+    "word": "Vast",
+    "phonetic": "/væst/",
+    "解释": "adj. 广大的；巨大的（指面积广阔或数量庞大的）",
+    "sentence": "Vast areas of forest are lost annually."
+  },
+  {
+    "id": 2428,
+    "word": "Vehicle",
+    "phonetic": "/ˈviːəkl/",
+    "解释": "n. 车辆；交通工具（指用于运输人或货物的机器）",
+    "sentence": "Electric vehicles reduce emissions."
+  },
+  {
+    "id": 2429,
+    "word": "Venture",
+    "phonetic": "/ˈventʃər/",
+    "解释": "n./v. 风险项目；冒险（指带有不确定性的商业活动或行为）",
+    "sentence": "Green ventures attract investment."
+  },
+  {
+    "id": 2430,
+    "word": "Verifiable",
+    "phonetic": "/ˈverɪfaɪəbl/",
+    "解释": "adj. 可证实的（指能够被证明属实的）",
+    "sentence": "Claims must be verifiable by data."
+  },
+  {
+    "id": 2431,
+    "word": "Verify",
+    "phonetic": "/ˈverɪfaɪ/",
+    "解释": "v. 核实；证实（指检查确认准确性）",
+    "sentence": "Independent studies verify results."
+  },
+  {
+    "id": 2432,
+    "word": "Versatile",
+    "phonetic": "/ˈvɜːrsətl/",
+    "解释": "adj. 多功能的；多才多艺的（指适用于多种用途或场景的）",
+    "sentence": "Solar panels are versatile energy sources."
+  },
+  {
+    "id": 2433,
+    "word": "Via",
+    "phonetic": "/ˈvaɪə/",
+    "解释": "prep. 通过；经由（指使用某种手段或途径）",
+    "sentence": "Data is collected via satellite imagery."
+  },
+  {
+    "id": 2434,
+    "word": "Viable",
+    "phonetic": "/ˈvaɪəbl/",
+    "解释": "adj. 可行的；能存活的（指可实际实施或有生命力的）",
+    "sentence": "Renewable energy is economically viable."
+  },
+  {
+    "id": 2435,
+    "word": "Viewpoint",
+    "phonetic": "/ˈvjuːpɔɪnt/",
+    "解释": "n. 观点；视角（指看待问题的特定角度）",
+    "sentence": "From an economic viewpoint, costs matter."
+  },
+  {
+    "id": 2436,
+    "word": "Vigorous",
+    "phonetic": "/ˈvɪɡərəs/",
+    "解释": "adj. 有力的；充满活力的（指强健而积极的）",
+    "sentence": "Vigorous debate drives better policy."
+  },
+  {
+    "id": 2437,
+    "word": "Violate",
+    "phonetic": "/ˈvaɪəleɪt/",
+    "解释": "v. 违反；侵犯（指破坏规则或权利的行为）",
+    "sentence": "Polluters violate environmental laws."
+  },
+  {
+    "id": 2438,
+    "word": "Violence",
+    "phonetic": "/ˈvaɪələns/",
+    "解释": "n. 暴力（指使用武力伤害他人或财物）",
+    "sentence": "Resource scarcity can spark violence."
+  },
+  {
+    "id": 2439,
+    "word": "Virtual",
+    "phonetic": "/ˈvɜːrtʃuəl/",
+    "解释": "adj. 虚拟的；几乎的（指通过计算机模拟的或实质上等同于）",
+    "sentence": "Virtual meetings reduce travel emissions."
+  },
+  {
+    "id": 2440,
+    "word": "Visible",
+    "phonetic": "/ˈvɪzəbl/",
+    "解释": "adj. 可见的；明显的（指能用眼睛看到的或容易被注意到的）",
+    "sentence": "Climate impacts are now visible everywhere."
+  },
+  {
+    "id": 2441,
+    "word": "Vision",
+    "phonetic": "/ˈvɪʒn/",
+    "解释": "n. 远见；愿景（指对未来的规划或想象力）",
+    "sentence": "A clear vision guides long-term strategy."
+  },
+  {
+    "id": 2442,
+    "word": "Visualize",
+    "phonetic": "/ˈvɪʒuəlaɪz/",
+    "解释": "v. 想象；可视化（指在脑海中形成图像或将数据呈现为图形）",
+    "sentence": "Models visualize future scenarios."
+  },
+  {
+    "id": 2443,
+    "word": " Vital",
+    "phonetic": "/ˈvaɪtl/",
+    "解释": "adj. 至关重要的；充满活力的（指对生存必不可少的）",
+    "sentence": "Biodiversity is vital for resilience."
+  },
+  {
+    "id": 2444,
+    "word": "Vivid",
+    "phonetic": "/ˈvɪvɪd/",
+    "解释": "adj. 生动的；清晰的（指形象鲜明令人印象深刻的）",
+    "sentence": "Vivid images raise public awareness."
+  },
+  {
+    "id": 2445,
+    "word": "Void",
+    "phonetic": "/vɔɪd/",
+    "解释": "adj. 无效的；空的（指没有法律效力或内容缺失的）",
+    "sentence": "A policy void leaves gaps in protection."
+  },
+  {
+    "id": 2446,
+    "word": "Volatile",
+    "phonetic": "/ˈvɒlətaɪl/",
+    "解释": "adj. 易变的；不稳定的（指可能突然剧烈变化的）",
+    "sentence": "Markets become volatile during crises."
+  },
+  {
+    "id": 2447,
+    "word": "Volume",
+    "phonetic": "/ˈvɑːljuːm/",
+    "解释": "n. 体积；量（指空间大小或物质数量）",
+    "sentence": "Ice volume decreases each decade."
+  },
+  {
+    "id": 2448,
+    "word": "Voluntary",
+    "phonetic": "/ˈvɒlənteri/",
+    "解释": "adj. 自愿的；主动的（指出于自由选择而非强迫的）",
+    "sentence": "Voluntary commitments build momentum."
+  },
+  {
+    "id": 2449,
+    "word": "Vulnerable",
+    "phonetic": "/ˈvʌlnərəbl/",
+    "解释": "adj. 脆弱的；易受伤害的（指容易受到攻击或损害的）",
+    "sentence": "Island nations are vulnerable to sea level rise."
+  },
+  {
+    "id": 2450,
+    "word": "Warrant",
+    "phonetic": "/ˈwɔːrənt/",
+    "解释": "v. 值得；需要（指证明某事正当或必要）",
+    "sentence": "The situation warrants immediate attention."
+  },
+  {
+    "id": 2451,
+    "word": "Waste",
+    "phonetic": "/weɪst/",
+    "解释": "n./v. 浪费；废弃物（指未充分利用的资源或丢弃的材料）",
+    "sentence": "Reduce waste through recycling."
+  },
+  {
+    "id": 2452,
+    "word": "Waterproof",
+    "phonetic": "/ˈwɔːterpruːf/",
+    "解释": "adj. 防水的（指不被水渗透的）",
+    "sentence": "Waterproof coatings protect structures."
+  },
+  {
+    "id": 2453,
+    "word": "Weaken",
+    "phonetic": "/ˈwiːkn/",
+    "解释": "v. 削弱；减弱（指使力量、效果或结构变弱）",
+    "sentence": "Drought weakens crop yields."
+  },
+  {
+    "id": 2454,
+    "word": "Wealth",
+    "phonetic": "/welθ/",
+    "解释": "n. 财富；丰富（指大量金钱或自然资源）",
+    "sentence": "Natural wealth supports economies."
+  },
+  {
+    "id": 2455,
+    "word": "Weapon",
+    "phonetic": "/ˈwepən/",
+    "解释": "n. 武器（指用于攻击或防御的工具）",
+    "sentence": "Climate change is used as a political weapon."
+  },
+  {
+    "id": 2456,
+    "word": "Well-being",
+    "phonetic": "/welˈbiːɪŋ/",
+    "解释": "n. 幸福；健康（指身体和心理的良好状态）",
+    "sentence": "Environmental health affects human well-being."
+  },
+  {
+    "id": 2457,
+    "word": "Widespread",
+    "phonetic": "/ˈwaɪdspred/",
+    "解释": "adj. 广泛的；普遍的（指分布在广大区域的）",
+    "sentence": "Widespread flooding displaces communities."
+  },
+  {
+    "id": 2458,
+    "word": "Withdraw",
+    "phonetic": "/wɪðˈdrɔː/",
+    "解释": "v. 撤回；退出（指收回声明或离开某个组织）",
+    "sentence": "Nations cannot withdraw from treaties easily."
+  },
+  {
+    "id": 2459,
+    "word": "Withstand",
+    "phonetic": "/wɪðˈstænd/",
+    "解释": "v. 经受住；抵挡（指承受压力而不被损坏）",
+    "sentence": "Structures must withstand extreme weather."
+  },
+  {
+    "id": 2460,
+    "word": "Witness",
+    "phonetic": "/ˈwɪtnəs/",
+    "解释": "v./n. 目睹；见证（指亲自看到事件的发生或作证）",
+    "sentence": "We witness historic changes."
+  },
+  {
+    "id": 2461,
+    "word": "Workforce",
+    "phonetic": "/ˈwɜːrkfɔːrs/",
+    "解释": "n. 劳动力；员工总数（指在某行业工作的人群）",
+    "sentence": "The green workforce creates new jobs."
+  },
+  {
+    "id": 2462,
+    "word": "Workshop",
+    "phonetic": "/ˈwɜːrkʃɒp/",
+    "解释": "n. 研讨会；车间（指集体讨论或动手实践的场所）",
+    "sentence": "Workshops educate communities."
+  },
+  {
+    "id": 2463,
+    "word": "Worthwhile",
+    "phonetic": "/wɜːrθθwaɪl/",
+    "解释": "adj. 值得的（指值得投入时间或资源的）",
+    "sentence": "Conservation efforts are worthwhile."
+  },
+  {
+    "id": 2464,
+    "word": "Wreck",
+    "phonetic": "/rek/",
+    "解释": "v. 破坏；毁坏（指造成严重损坏）",
+    "sentence": "Storms wreck coastal infrastructure."
+  },
+  {
+    "id": 2465,
+    "word": "Yield",
+    "phonetic": "/jiːld/",
+    "解释": "n./v. 产量；产出（指农作物收获量或产生结果）",
+    "sentence": "Crop yields decline under heat stress."
+  },
+  {
+    "id": 2466,
+    "word": "Zone",
+    "phonetic": "/zoʊn/",
+    "解释": "n. 区域；地带（指具有某种特征的区域范围）",
+    "sentence": "Coastal zones face highest risks."
+  },
+  {
+    "id": 2467,
+    "word": "Abnormal",
+    "phonetic": "/æbˈnɔːrml/",
+    "解释": "adj. 反常的；不正常的（指偏离常规模式的）",
+    "sentence": "Abnormal weather patterns increase."
+  },
+  {
+    "id": 2468,
+    "word": "Absorb",
+    "phonetic": "/əbˈzɔːrb/",
+    "解释": "v. 吸收（指液体、气体或能量进入物体内部）",
+    "sentence": "Oceans absorb excess heat."
+  },
+  {
+    "id": 2469,
+    "word": "Abstract",
+    "phonetic": "/ˈæbstrækt/",
+    "解释": "adj. 抽象的；理论上的（指非具体存在的概念性事物）",
+    "sentence": "Climate models use abstract mathematics."
+  },
+  {
+    "id": 2470,
+    "word": "Academic",
+    "phonetic": "/ˌækəˈdemɪk/",
+    "解释": "adj. 学术的（指与教育研究相关的）",
+    "sentence": "Academic research informs policy."
+  },
+  {
+    "id": 2471,
+    "word": "Accelerate",
+    "phonetic": "/əkˈseləreɪt/",
+    "解释": "v. 加速；促进（指增加速度或加快进程）",
+    "sentence": "Warming accelerates ice melt."
+  },
+  {
+    "id": 2472,
+    "word": "Acceptable",
+    "phonetic": "/əkˈseptəbl/",
+    "解释": "adj. 可接受的（指达到认可标准或容忍限度的）",
+    "sentence": "Find acceptable compromise solutions."
+  },
+  {
+    "id": 2473,
+    "word": "Access",
+    "phonetic": "/ˈækses/",
+    "解释": "n./v. 进入权；获取（指获得使用某物的机会或途径）",
+    "sentence": "Ensure access to clean water for all."
+  },
+  {
+    "id": 2474,
+    "word": "Accommodate",
+    "phonetic": "/əˈkɒmədeɪt/",
+    "解释": "v. 容纳；适应（指调整以适应新情况或满足需求）",
+    "sentence": "Cities must accommodate climate migrants."
+  },
+  {
+    "id": 2475,
+    "word": "Accompany",
+    "phonetic": "/əˈkʌmpəni/",
+    "解释": "v. 伴随；陪伴（指同时发生或作为补充存在）",
+    "sentence": "Rising seas accompany warming temperatures."
+  },
+  {
+    "id": 2476,
+    "word": "Accomplish",
+    "phonetic": "/əˈkɒmplɪʃ/",
+    "解释": "v. 完成；实现（指成功达成目标）",
+    "sentence": "We can accomplish great things together."
+  },
+  {
+    "id": 2477,
+    "word": "Account",
+    "phonetic": "/əˈkaʊnt/",
+    "解释": "n. 账户；描述（指记录或解释说明）",
+    "sentence": "Take into account all factors."
+  },
+  {
+    "id": 2478,
+    "word": "Accumulate",
+    "phonetic": "/əˈkjuːmjuleɪt/",
+    "解释": "v. 积累；积聚（指随时间逐渐增加数量）",
+    "sentence": "Plastic accumulates in oceans."
+  },
+  {
+    "id": 2479,
+    "word": "Accurate",
+    "phonetic": "/ˈækjərət/",
+    "解释": "adj. 准确的；精确的（指与真实值高度一致的）",
+    "sentence": "Accurate data enables good decisions."
+  },
+  {
+    "id": 2480,
+    "word": "Accuse",
+    "phonetic": "/əˈkjuːz/",
+    "解释": "v. 指控；谴责（指责某人犯有错误或罪行）",
+    "sentence": "Activists accuse firms of greenwashing."
+  },
+  {
+    "id": 2481,
+    "word": "Achieve",
+    "phonetic": "/əˈtʃiːv/",
+    "解释": "v. 达到；实现（指通过努力获得期望的结果）",
+    "sentence": "Nations strive to achieve carbon neutrality."
+  },
+  {
+    "id": 2482,
+    "word": "Acknowledge",
+    "phonetic": "/əkˈnɒlɪdʒ/",
+    "解释": "v. 承认；确认（指接受事实的存在或真实性）",
+    "sentence": "Leaders acknowledge the crisis publicly."
+  },
+  {
+    "id": 2483,
+    "word": "Acquire",
+    "phonetic": "/əˈkwaiər/",
+    "解释": "v. 获得；取得（指通过努力得到所需之物）",
+    "sentence": "Firms acquire clean technology patents."
+  },
+  {
+    "id": 2484,
+    "word": "Adapt",
+    "phonetic": "/əˈdæpt/",
+    "解释": "v. 适应（指改变自身以应对环境变化）",
+    "sentence": "Species must adapt or perish."
+  },
+  {
+    "id": 2485,
+    "word": "Addition",
+    "phonetic": "/əˈdɪʃn/",
+    "解释": "n. 增加；添加（指加入新的元素或部分）",
+    "sentence": "In addition to mitigation, adaptation matters."
+  },
+  {
+    "id": 2486,
+    "word": "Adequate",
+    "phonetic": "/ˈædikwət/",
+    "解释": "adj. 充足的；适当的（指足够满足需求的）",
+    "sentence": "Adequate funding is essential."
+  },
+  {
+    "id": 2487,
+    "word": "Adjust",
+    "phonetic": "/əˈdʒʌst/",
+    "解释": "v. 调整；调节（指做小幅修改以改善状况）",
+    "sentence": "Adjust practices based on new findings."
+  },
+  {
+    "id": 2488,
+    "word": "Administer",
+    "phonetic": "/ədˈmɪnɪstər/",
+    "解释": "v. 管理；执行（指负责运营或实施规则）",
+    "sentence": "Agencies administer environmental programs."
+  },
+  {
+    "id": 2489,
+    "word": "Adopt",
+    "phonetic": "/əˈdɒpt/",
+    "解释": "v. 采用；采纳（指开始使用新方法或政策）",
+    "sentence": "Cities adopt green building codes."
+  },
+  {
+    "id": 2490,
+    "word": "Advance",
+    "phonetic": "/ədˈvæns/",
+    "解释": "v./n. 推进；进步（指向前发展或促进事业）",
+    "sentence": "Science advances our understanding."
+  },
+  {
+    "id": 2491,
+    "word": "Advantage",
+    "phonetic": "/ədˈvæntɪdʒ/",
+    "解释": "n. 优势；有利条件（指有助于成功的因素）",
+    "sentence": "Renewables offer cost advantages."
+  },
+  {
+    "id": 2492,
+    "word": "Adverse",
+    "phonetic": "/ædvɜːrs/",
+    "解释": "adj. 不利的；有害的（指产生负面影响的）",
+    "sentence": "Adverse effects on health are documented."
+  },
+  {
+    "id": 2493,
+    "word": "Advocate",
+    "phonetic": "/ˈædvəkeɪt/",
+    "解释": "v./n. 提倡；倡导者（指公开支持某种观点或事业的人及行为）",
+    "sentence": "Scientists advocate for policy change."
+  },
+  {
+    "id": 2494,
+    "word": "Affect",
+    "phonetic": "/əˈfekt/",
+    "解释": "v. 影响（指对某物产生作用或改变）",
+    "sentence": "Climate affects every aspect of life."
+  },
+  {
+    "id": 2495,
+    "word": "Affirm",
+    "phonetic": "/əˈfɜːrm/",
+    "解释": "v. 确认；断言（指正式声明某事为真）",
+    "sentence": "Studies affirm the link between emissions and warming."
+  },
+  {
+    "id": 2496,
+    "word": "Afford",
+    "phonetic": "/əˈfɔːrd/",
+    "解释": "v. 承担得起；提供（指有足够的财力或给予机会）",
+    "sentence": "We cannot afford inaction."
+  },
+  {
+    "id": 2497,
+    "word": "Agent",
+    "phonetic": "/ˈeɪdʒənt/",
+    "解释": "n. 因素；代理人（指促成变化的力量或代表他人行事者）",
+    "sentence": "Humans are agents of change."
+  },
+  {
+    "id": 2498,
+    "word": "Aggregate",
+    "phonetic": "/ˈæɡrɪɡeɪt/",
+    "解释": "n./adj. 总量；合计的（指将各部分合并计算的整体或总计）",
+    "sentence": "Aggregate emissions continue rising."
+  },
+  {
+    "id": 2499,
+    "word": "Aggressive",
+    "phonetic": "/əˈɡresɪv/",
+    "解释": "adj. 积极有力的；激进的（指采取强力行动方式的）",
+    "sentence": "Aggressive targets drive faster progress."
+  },
+  {
+    "id": 2500,
+    "word": "Agriculture",
+    "phonetic": "/ˈæɡrɪkʌltʃər/",
+    "解释": "n. 农业（指耕种作物和饲养牲畜的生产活动）",
+    "sentence": "Agriculture both causes and suffers from climate change."
+  },
+  {
+    "id": 2501,
+    "word": "Ahead",
+    "phonetic": "/əˈhed/",
+    "解释": "adv./adj. 提前；在前方（指时间上早于预期或空间位置靠前）",
+    "sentence": "Plan ahead for future risks."
+  },
+  {
+    "id": 2502,
+    "word": "Aid",
+    "phonetic": "/eɪd/",
+    "解释": "n./v. 援助；帮助（指提供资金、物资或行动支持）",
+    "sentence": "International aids flow to vulnerable nations."
+  },
+  {
+    "id": 2503,
+    "word": "Aim",
+    "phonetic": "/eɪm/",
+    "解释": "n./v. 目标；瞄准（指期望达成的目的或对准方向）",
+    "sentence": "Aim for carbon neutrality by 2050."
+  },
+  {
+    "id": 2504,
+    "word": "Airborne",
+    "phonetic": "/ˈerbɔːrn/",
+    "解释": "adj. 空气传播的；空中的（指通过空气扩散或在空中飞行的）",
+    "sentence": "Airborne particles affect air quality."
+  },
+  {
+    "id": 2505,
+    "word": "Alarmingly",
+    "phonetic": "/əˈlɑːrmɪŋli/",
+    "解释": "adv. 令人担忧地（指达到引起警觉程度的）",
+    "sentence": "Temperatures are rising alarmingly fast."
+  },
+  {
+    "id": 2506,
+    "word": "Alert",
+    "phonetic": "/əˈlɜːrt/",
+    "解释": "adj./n. 警觉的；警报（指保持戒备状态或发出警告信号）",
+    "sentence": "Early alert systems save lives."
+  },
+  {
+    "id": 2507,
+    "word": "Allocate",
+    "phonetic": "/ˈæləkeɪt/",
+    "解释": "v. 分配；拨给（指将资源按计划分配到不同用途）",
+    "sentence": "Governments allocate budgets for green projects."
+  },
+  {
+    "id": 2508,
+    "word": "Alter",
+    "phonetic": "/ˈɔːltər/",
+    "解释": "v. 改变；修改（指使某事物变得不同）",
+    "sentence": "Humans alter landscapes dramatically."
+  },
+  {
+    "id": 2509,
+    "word": "Alternative",
+    "phonetic": "/ɔːlˈtɜːrnətɪv/",
+    "解释": "n./adj. 替代方案；可供选择的（指不同于传统方式的其他选项）",
+    "sentence": "Renewables offer viable alternatives to coal."
+  },
+  {
+    "id": 2510,
+    "word": "Amend",
+    "phonetic": "/əˈmend/",
+    "解释": "v. 修订；修正（指对法律或文件做小幅修改）",
+    "sentence": "Laws are amended to strengthen protection."
+  },
+  {
+    "id": 2511,
+    "word": "Amid",
+    "phonetic": "/əˈmɪd/",
+    "解释": "prep. 在...之中（指在某种环境或情况下）",
+    "sentence": "Progress continues amid challenges."
+  },
+  {
+    "id": 2512,
+    "word": "Amount",
+    "phonetic": "/əˈmaʊnt/",
+    "解释": "n. 数量；总额（指事物的可计量总数）",
+    "sentence": "The amount of ice lost is staggering."
+  },
+  {
+    "id": 2513,
+    "word": "Analysis",
+    "phonetic": "/əˈnæləsɪs/",
+    "解释": "n. 分析（指对数据或问题进行系统研究的过程）",
+    "sentence": "Data analysis reveals clear trends."
+  },
+  {
+    "id": 2514,
+    "word": "Analyze",
+    "phonetic": "/ˈænəlaɪz/",
+    "解释": "v. 分析（指仔细检查各部分以理解整体）",
+    "sentence": "Researchers analyze climate data daily."
+  },
+  {
+    "id": 2515,
+    "word": "Ancient",
+    "phonetic": "/ˈeɪnʃənt/",
+    "解释": "adj. 古代的；古老的（指存在时间很长的）",
+    "sentence": "Ancient forests hold irreplaceable biodiversity."
+  },
+  {
+    "id": 2516,
+    "word": "Announce",
+    "phonetic": "/əˈnaʊns/",
+    "解释": "v. 宣布；宣告（指正式公开信息）",
+    "sentence": "Governments announce new targets."
+  },
+  {
+    "id": 2517,
+    "word": "Annual",
+    "phonetic": "/ˈænjuəl/",
+    "解释": "adj. 每年的；年度的（指一年一次或以年计算的）",
+    "sentence": "Annual emissions reports track progress."
+  },
+  {
+    "id": 2518,
+    "word": "Anticipate",
+    "phonetic": "/ænˈtɪsɪpeɪt/",
+    "解释": "v. 预期；预见（指提前预料并准备应对）",
+    "sentence": "We must anticipate future impacts."
+  },
+  {
+    "id": 2519,
+    "word": "Apparent",
+    "phonetic": "/əˈpærənt/",
+    "解释": "adj. 明显的；显而易见的（指容易被察觉或理解的）",
+    "sentence": "The cause is now apparent."
+  },
+  {
+    "id": 2520,
+    "word": "Appeal",
+    "phonetic": "/əˈpiːl/",
+    "解释": "v./n. 呼吁；吸引力（指请求支持或具有吸引人的特质）",
+    "sentence": "Leaders appeal for global cooperation."
+  },
+  {
+    "id": 2521,
+    "word": "Appear",
+    "phonetic": "/əˈpɪr/",
+    "解释": "v. 出现；似乎（指变得可见或给人某种印象）",
+    "sentence": "New diseases appear more frequently."
+  },
+  {
+    "id": 2522,
+    "word": "Applicable",
+    "phonetic": "/ˈæplɪkəbl/",
+    "解释": "adj. 可适用的（指与特定情况相关的）",
+    "sentence": "Find applicable solutions locally."
+  },
+  {
+    "id": 2523,
+    "word": "Application",
+    "phonetic": "/ˌæplɪˈkeɪʃn/",
+    "解释": "n. 应用；申请（指理论的实际使用或正式请求）",
+    "sentence": "Technology has many applications."
+  },
+  {
+    "id": 2524,
+    "word": "Apply",
+    "phonetic": "/əˈplaɪ/",
+    "解释": "v. 应用；申请（指将知识付诸实践或提出请求）",
+    "sentence": "Apply research findings in policy."
+  },
+  {
+    "id": 2525,
+    "word": "Approach",
+    "phonetic": "/əˈproʊtʃ/",
+    "解释": "n./v. 方法；接近（指处理问题的策略或靠近某物）",
+    "sentence": "A balanced approach works best."
+  },
+  {
+    "id": 2526,
+    "word": "Appropriate",
+    "phonetic": "/əˈproʊpriət/",
+    "解释": "adj. 适当的；合适的（指正确或适合某情境的）",
+    "sentence": "Use appropriate technology for each context."
+  },
+  {
+    "id": 2527,
+    "word": "Approximate",
+    "phonetic": "/əˈprɒksɪmeɪt/",
+    "解释": "adj. 大约的；近似的（指接近准确但不完全精确的）",
+    "sentence": "Approximate estimates guide planning."
+  },
+  {
+    "id": 2528,
+    "word": "Arbitrary",
+    "phonetic": "/ɑːrbɪtreri/",
+    "解释": "adj. 任意的；武断的（指基于个人意愿而非客观理由的）",
+    "sentence": "Avoid arbitrary decisions on land use."
+  },
+  {
+    "id": 2529,
+    "word": "Area",
+    "phonetic": "/ˈeriə/",
+    "解释": "n. 区域；面积（指地理范围或大小测量）",
+    "sentence": "Protected areas expand each year."
+  },
+  {
+    "id": 2530,
+    "word": "Argue",
+    "phonetic": "/ɑːrɡjuː/",
+    "解释": "v. 争论；主张（指用理由支持某个观点）",
+    "sentence": "Scientists argue for immediate action."
+  },
+  {
+    "id": 2531,
+    "word": "Arise",
+    "phonetic": "/əˈraɪz/",
+    "解释": "v. 出现；产生（指开始存在或发生）",
+    "sentence": "New challenges arise constantly."
+  },
+  {
+    "id": 2532,
+    "word": "Arrange",
+    "phonetic": "/əˈreɪndʒ/",
+    "解释": "v. 安排；整理（指按顺序组织或筹备）",
+    "sentence": "Arrange meetings with stakeholders."
+  },
+  {
+    "id": 2533,
+    "word": "Array",
+    "phonetic": "/əˈreɪ/",
+    "解释": "n. 一系列；大群（指排列整齐的一批事物）",
+    "sentence": "An array of technologies is available."
+  },
+  {
+    "id": 2534,
+    "word": "Artificial",
+    "phonetic": "/ˌɑːrtɪˈfɪʃl/",
+    "解释": "adj. 人造的；人工的（指由人类制造而非自然形成的）",
+    "sentence": "Artificial intelligence aids climate modeling."
+  },
+  {
+    "id": 2535,
+    "word": "Ascend",
+    "phonetic": "/əˈsend/",
+    "解释": "v. 上升；攀登（指向更高处移动）",
+    "sentence": "Temperatures ascend year after year."
+  },
+  {
+    "id": 2536,
+    "word": "Aspect",
+    "phonetic": "/ˈæspekt/",
+    "解释": "n. 方面；层面（指事物的某一特征或角度）",
+    "sentence": "Every aspect of society is affected."
+  },
+  {
+    "id": 2537,
+    "word": "Assemble",
+    "phonetic": "/əˈsembl/",
+    "解释": "v. 集合；组装（指聚集在一起组成整体）",
+    "sentence": "Nations assemble at summits annually."
+  },
+  {
+    "id": 2538,
+    "word": "Assert",
+    "phonetic": "/əˈsɜːrt/",
+    "解释": "v. 断言；坚持主张（指自信地陈述观点为事实）",
+    "sentence": "Experts assert that change is urgent."
+  },
+  {
+    "id": 2539,
+    "word": "Assess",
+    "phonetic": "/əˈses/",
+    "解释": "v. 评估；评价（指仔细分析以判断价值或状况）",
+    "sentence": "Assess environmental impact before building."
+  },
+  {
+    "id": 2540,
+    "word": "Asset",
+    "phonetic": "/ˈæset/",
+    "解释": "n. 资产；宝贵资源（指有价值的财产或能力）",
+    "sentence": "Forests are natural assets."
+  },
+  {
+    "id": 2541,
+    "word": "Assign",
+    "phonetic": "/əˈsaɪn/",
+    "解释": "v. 分配；指定（指将任务或责任交给某人）",
+    "sentence": "Assign responsibilities clearly."
+  },
+  {
+    "id": 2542,
+    "word": "Assist",
+    "phonetic": "/əˈsɪst/",
+    "解释": "v. 协助；帮助（指提供支持使工作更容易完成）",
+    "sentence": "Technology assists monitoring efforts."
+  },
+  {
+    "id": 2543,
+    "word": "Associate",
+    "phonetic": "/əˈsoʊsieɪt/",
+    "解释": "v. 联系；关联（指将两事物在概念上连接起来）",
+    "sentence": "Drought is associated with crop failure."
+  },
+  {
+    "id": 2544,
+    "word": "Assume",
+    "phonetic": "/əˈsuːm/",
+    "解释": "v. 假设；承担（指认为某事成立而不加证明或接受责任）",
+    "sentence": "Do not assume the worst outcome."
+  },
+  {
+    "id": 2545,
+    "word": "Assure",
+    "phonetic": "/əˈʃʊr/",
+    "解释": "v. 保证；使确信（指向某人承诺某事确定无疑）",
+    "sentence": "Leaders assure public of commitment."
+  },
+  {
+    "id": 2546,
+    "word": "Attach",
+    "phonetic": "/əˈtætʃ/",
+    "解释": "v. 附上；连接（指固定或关联到某物上）",
+    "sentence": "Attach evidence to all claims."
+  },
+  {
+    "id": 2547,
+    "word": "Attain",
+    "phonetic": "/əˈteɪn/",
+    "解释": "v. 达到；获得（指通过努力实现目标）",
+    "sentence": "We can attain sustainability goals."
+  },
+  {
+    "id": 2548,
+    "word": "Attempt",
+    "phonetic": "/əˈtempt/",
+    "解释": "n./v. 尝试；试图（指努力去做但不确定能否成功）",
+    "sentence": "Every attempt at reduction counts."
+  },
+  {
+    "id": 2549,
+    "word": "Attend",
+    "phonetic": "/əˈtend/",
+    "解释": "v. 参加；出席（指到场参与活动）",
+    "sentence": "Delegates attend international conferences."
+  },
+  {
+    "id": 2550,
+    "word": "Attribute",
+    "phonetic": "/əˈtrɪbjuːt/",
+    "解释": "v. 归因于；认为是...的结果（指将结果与原因联系起来）",
+    "sentence": "Scientists attribute warming to human activity."
+  },
+  {
+    "id": 2551,
+    "word": "Authority",
+    "phonetic": "/ɔːˈθɔːrəti/",
+    "解释": "n. 权威；官方机构（指具有命令权或专业知识的组织）",
+    "sentence": "Environmental authorities enforce regulations."
+  },
+  {
+    "id": 2552,
+    "word": "Automatic",
+    "phonetic": "/ˌɔːtəˈmætɪk/",
+    "解释": "adj. 自动的（指无需人工干预即可运行的）",
+    "sentence": "Automatic sensors collect real-time data."
+  },
+  {
+    "id": 2553,
+    "word": "Available",
+    "phonetic": "/əˈveɪləbl/",
+    "解释": "adj. 可获得的；可利用的（指可以获取或使用的）",
+    "sentence": "Clean energy is increasingly available."
+  },
+  {
+    "id": 2554,
+    "word": "Average",
+    "phonetic": "/ˈævərɪdʒ/",
+    "解释": "n./adj. 平均；普通的（指典型值或中等水平的）",
+    "sentence": "Global temperatures exceed historical averages."
+  },
+  {
+    "id": 2555,
+    "word": "Awareness",
+    "phonetic": "/əˈwernəs/",
+    "解释": "n. 意识；认知（指对某事存在和重要性的了解程度）",
+    "sentence": "Public awareness drives behavior change."
+  },
+  {
+    "id": 2556,
+    "word": "Balance",
+    "phonetic": "/ˈbæləns/",
+    "解释": "n./v. 平衡；使均衡（指各部分比例适当的状态或调整至均匀）",
+    "sentence": "Balance economic growth with conservation."
+  },
+  {
+    "id": 2557,
+    "word": "Barrier",
+    "phonetic": "/ˈbæriər/",
+    "解释": "n. 障碍；壁垒（指阻止进步或进入的事物）",
+    "sentence": "Financial barriers slow green transition."
+  },
+  {
+    "id": 2558,
+    "word": "Base",
+    "phonetic": "/beɪs/",
+    "解释": "n./v. 基础；以...为基础（指支撑整体的底层或作为出发点）",
+    "sentence": "Policy should be based on science."
+  },
+  {
+    "id": 2559,
+    "word": "Basic",
+    "phonetic": "/ˈbeɪsɪk/",
+    "解释": "adj. 基础的；基本的（指最简单且必不可少的）",
+    "sentence": "Basic services depend on stable climate."
+  },
+  {
+    "id": 2560,
+    "word": "Basis",
+    "phonetic": "/ˈbeɪsɪs/",
+    "解释": "n. 基础；根据（指支撑论点或决策的根本依据）",
+    "sentence": "Evidence forms the basis for action."
+  },
+  {
+    "id": 2561,
+    "word": "Behavior",
+    "phonetic": "/bɪˈheɪvjər/",
+    "解释": "n. 行为；表现（指人或动物对外界刺激的反应方式）",
+    "sentence": "Human behavior drives emissions."
+  },
+  {
+    "id": 2562,
+    "word": "Belong",
+    "phonetic": "/bɪˈlɒŋ/",
+    "解释": "v. 属于；应在（指是某群体的一部分或位于合适的位置）",
+    "sentence": "Every species belongs in its habitat."
+  },
+  {
+    "id": 2563,
+    "word": "Benefit",
+    "phonetic": "/ˈbenɪfɪt/",
+    "解释": "n./v. 利益；有益于（指从某事中获得的好处或产生积极作用）",
+    "sentence": "Green policies benefit everyone."
+  },
+  {
+    "id": 2564,
+    "word": "Bias",
+    "phonetic": "/ˈbaɪəs/",
+    "解释": "n. 偏见；偏差（指不公平倾向或系统性误差）",
+    "sentence": "Avoid bias in research methodology."
+  },
+  {
+    "id": 2565,
+    "word": "Bind",
+    "phonetic": "/baɪnd/",
+    "解释": "v. 约束；捆绑（指通过协议或法律限制行为）",
+    "sentence": "Treaties bind nations to commitments."
+  },
+  {
+    "id": 2566,
+    "word": "Biological",
+    "phonetic": "/ˌbaɪəˈlɒdʒɪkl/",
+    "解释": "adj. 生物学的；与生命过程有关的（指涉及生物体及其活动的）",
+    "sentence": "Biological diversity underpins ecosystems."
+  },
+  {
+    "id": 2567,
+    "word": "Blanket",
+    "phonetic": "/ˈblæŋkɪt/",
+    "解释": "n./adj. 毯子；全覆盖的（指覆盖整个区域或适用于所有情况的）",
+    "sentence": "Blanket policies may not fit local needs."
+  },
+  {
+    "id": 2568,
+    "word": "Block",
+    "phonetic": "/blɒk/",
+    "解释": "v. 阻碍；阻挡（指妨碍进程或前进）",
+    "sentence": "Don't block progress with delays."
+  },
+  {
+    "id": 2569,
+    "word": "Boundary",
+    "phonetic": "/ˈbaʊndri/",
+    "解释": "n. 边界；界限（指分隔两个区域的分界线）",
+    "sentence": "Respect ecological boundaries."
+  },
+  {
+    "id": 2570,
+    "word": "Brand",
+    "phonetic": "/brænd/",
+    "解释": "n. 品牌；商标（指公司或产品的标识形象）",
+    "sentence": "Sustainable brands attract consumers."
+  },
+  {
+    "id": 2571,
+    "word": "Breakthrough",
+    "phonetic": "/ˈbreikθruː/",
+    "解释": "n. 突破（指取得重大进展或发现）",
+    "sentence": "Scientific breakthroughs enable new solutions."
+  },
+  {
+    "id": 2572,
+    "word": "Brief",
+    "phonetic": "/briːf/",
+    "解释": "adj. 简短的；短暂的（指持续时间短或内容简洁的）",
+    "sentence": "Brief summaries help communication."
+  },
+  {
+    "id": 2573,
+    "word": "Broad",
+    "phonetic": "/brɔːd/",
+    "解释": "adj. 广泛的；宽阔的（指涵盖面大的或宽度大的）",
+    "sentence": "Broad consensus exists among scientists."
+  },
+  {
+    "id": 2574,
+    "word": "Budget",
+    "phonetic": "/ˈbʌdʒɪt/",
+    "解释": "n./v. 预算；编制预算（指财务收支计划或分配资金）",
+    "sentence": "Green budget allocations increase."
+  },
+  {
+    "id": 2575,
+    "word": "Bureau",
+    "phonetic": "/ˈbjʊroʊ/",
+    "解释": "n. 局；办事处（指政府部门的分支机构）",
+    "sentence": "Weather bureaus issue forecasts."
+  },
+  {
+    "id": 2576,
+    "word": "Burst",
+    "phonetic": "/bɜːrst/",
+    "解释": "v./n. 爆发；突然破裂（指猛烈释放或急剧增加）",
+    "sentence": "Population growth bursts strain resources."
+  },
+  {
+    "id": 2577,
+    "word": "Calculate",
+    "phonetic": "/ˈkælkjuleɪt/",
+    "解释": "v. 计算；估算（指通过数学方法得出数值）",
+    "sentence": "Models calculate future scenarios."
+  },
+  {
+    "id": 2578,
+    "word": "Capacity",
+    "phonetic": "/kəˈpæsəti/",
+    "解释": "n. 能力；容量（指能够承受或生产的最大量）",
+    "sentence": "Build adaptive capacity in communities."
+  },
+  {
+    "id": 2579,
+    "word": "Caption",
+    "phonetic": "/ˈkæpʃn/",
+    "解释": "n. 说明文字（指图片或表格下方的解释文字）",
+    "sentence": "Captions clarify data visualizations."
+  },
+  {
+    "id": 2580,
+    "word": "Carbon",
+    "phonetic": "/kɑːrbən/",
+    "解释": "n. 碳（指一种化学元素，此处常指温室气体排放的核心成分）",
+    "sentence": "Carbon emissions drive global warming."
+  },
+  {
+    "id": 2581,
+    "word": "Career",
+    "phonetic": "/kəˈrɪr/",
+    "解释": "n. 职业；生涯（指一个人长期从事的工作领域）",
+    "sentence": "Green careers offer growing opportunities."
+  },
+  {
+    "id": 2582,
+    "word": "Careful",
+    "phonetic": "/kerfl/",
+    "解释": "adj. 小心的；谨慎的（指避免错误或危险的）",
+    "sentence": "Careful planning prevents unintended harm."
+  },
+  {
+    "id": 2583,
+    "word": "Category",
+    "phonetic": "/ˈkætəɡɔːri/",
+    "解释": "n. 类别；种类（指根据共同特征划分的组别）",
+    "sentence": "Emissions fall into different categories."
+  },
+  {
+    "id": 2584,
+    "word": "Cause",
+    "phonetic": "/kɔːz/",
+    "解释": "n./v. 原因；导致（指产生结果的根源或引发某事的动作）",
+    "sentence": "Identify root causes of problems."
+  },
+  {
+    "id": 2585,
+    "word": "Caution",
+    "phonetic": "/kɔːʃn/",
+    "解释": "n. 小心；警告（指为避免危险而采取的审慎态度）",
+    "sentence": "Proceed with caution in unknown areas."
+  },
+  {
+    "id": 2586,
+    "word": "Cease",
+    "phonetic": "/siːs/",
+    "解释": "v. 停止；终止（指完全结束某个动作或过程）",
+    "sentence": "We cannot cease our efforts."
+  },
+  {
+    "id": 2587,
+    "word": "Central",
+    "phonetic": "/ˈsentrl/",
+    "解释": "adj. 核心的；中心的（指最重要或处于中间位置的）",
+    "sentence": "Climate is central to development."
+  },
+  {
+    "id": 2588,
+    "word": "Centre",
+    "phonetic": "/ˈsentər/",
+    "解释": "n. 中心（指活动或关注的主要焦点所在）",
+    "sentence": "Research centres advance knowledge."
+  },
+  {
+    "id": 2589,
+    "word": "Century",
+    "phonetic": "/ˈsentʃuri/",
+    "解释": "n. 世纪（指一百年时间段）",
+    "sentence": "This century will determine our fate."
+  },
+  {
+    "id": 2590,
+    "word": "Ceremony",
+    "phonetic": "/ˈserəmoʊni/",
+    "解释": "n. 典礼；仪式（指正式的庆祝或纪念活动）",
+    "sentence": "Signing ceremonies mark agreements."
+  },
+  {
+    "id": 2591,
+    "word": "Certain",
+    "phonetic": "/sɜːrtn/",
+    "解释": "adj. 确定的；必然的（指毫无疑问或必定发生的）",
+    "sentence": "Certain impacts are already locked in."
+  },
+  {
+    "id": 2592,
+    "word": "Challenge",
+    "phonetic": "/ˈtʃælɪndʒ/",
+    "解释": "n./v. 挑战；质疑（指需要克服的困难或对声明表示怀疑）",
+    "sentence": "Climate change presents unprecedented challenges."
+  },
+  {
+    "id": 2593,
+    "word": "Chamber",
+    "phonetic": "/ˈtʃeɪmbər/",
+    "解释": "n. 室；议院（指封闭空间或立法机构的会议厅）",
+    "sentence": "Gas chambers test air quality."
+  },
+  {
+    "id": 2594,
+    "word": "Champion",
+    "phonetic": "/ˈtʃæmpiən/",
+    "解释": "v./n. 支持；捍卫者（指积极倡导某事业的人及行为）",
+    "sentence": "Champions lead local initiatives."
+  },
+  {
+    "id": 2595,
+    "word": "Chaos",
+    "phonetic": "/ˈkeɪɒs/",
+    "解释": "n. 混乱；无序（指缺乏组织和规律的状态）",
+    "sentence": "Extreme events create chaos."
+  },
+  {
+    "id": 2596,
+    "word": "Chapter",
+    "phonetic": "/ˈtʃæptər/",
+    "解释": "n. 章；篇章（指书或历史中的主要部分）",
+    "sentence": "A new chapter in climate action begins."
+  },
+  {
+    "id": 2597,
+    "word": "Characteristic",
+    "phonetic": "/ˌkærəktəˈrɪstɪk/",
+    "解释": "n./adj. 特征；特有的（指区分他物的独特属性）",
+    "sentence": "Each region has unique characteristics."
+  },
+  {
+    "id": 2598,
+    "word": "Charge",
+    "phonetic": "/tʃɑːrdʒ/",
+    "解释": "n./v. 费用；负责（指收取金额或承担责任）",
+    "sentence": "Carbon charges incentivize reduction."
+  },
+  {
+    "id": 2599,
+    "word": "Chart",
+    "phonetic": "/tʃɑːrt/",
+    "解释": "n./v. 图表；绘制（指数据可视化图形或记录进展）",
+    "sentence": "Chart progress toward goals."
+  },
+  {
+    "id": 2600,
+    "word": "Chemical",
+    "phonetic": "/ˈkemɪkl/",
+    "解释": "adj./n. 化学的；化学物质（指与物质组成和反应相关的）",
+    "sentence": "Chemical pollutants accumulate in food chains."
+  },
+  {
+    "id": 2601,
+    "word": "Circulate",
+    "phonetic": "/ˈsɜːrkjuleɪt/",
+    "解释": "v. 循环；传播（指在闭合路径中流动或广泛散布）",
+    "sentence": "Air circulates globally through wind patterns."
+  },
+  {
+    "id": 2602,
+    "word": "Cite",
+    "phonetic": "/saɪt/",
+    "解释": "v. 引用；援引（指作为证据或权威来源提及）",
+    "sentence": "Studies cite multiple data sources."
+  },
+  {
+    "id": 2603,
+    "word": "Civic",
+    "phonetic": "/ˈsɪvɪk/",
+    "解释": "adj. 公民的；市政的（指与城市或市民责任相关的）",
+    "sentence": "Civic engagement drives local change."
+  },
+  {
+    "id": 2604,
+    "word": "Civilization",
+    "phonetic": "/ˌsɪvəlaɪˈzeɪʃn/",
+    "解释": "n. 文明（指人类社会高度发展的阶段）",
+    "sentence": "Civilizations depend on stable climate."
+  },
+  {
+    "id": 2605,
+    "word": "Claim",
+    "phonetic": "/kleɪm/",
+    "解释": "n./v. 声称；主张（指断言某事为真或提出权利要求）",
+    "sentence": "Verify all claims with evidence."
+  },
+  {
+    "id": 2606,
+    "word": "Clarify",
+    "phonetic": "/ˈklærɪfaɪ/",
+    "解释": "v. 澄清；阐明（指使含义更清楚明白）",
+    "sentence": "Scientists clarify complex concepts."
+  },
+  {
+    "id": 2607,
+    "word": "Classic",
+    "phonetic": "/ˈklæsɪk/",
+    "解释": "adj. 经典的；典型的（指被广泛认可为最佳范例的）",
+    "sentence": "A classic example is the ozone layer recovery."
+  },
+  {
+    "id": 2608,
+    "word": "Classification",
+    "phonetic": "/ˌklæsɪfɪˈkeɪʃn/",
+    "解释": "n. 分类（指将事物按共同特征归入不同组别）",
+    "sentence": "Species classification aids conservation."
+  },
+  {
+    "id": 2609,
+    "word": "Clean",
+    "phonetic": "/kliːn/",
+    "解释": "adj. 干净的；清洁的（指无污染的）",
+    "sentence": "Clean energy replaces fossil fuels."
+  },
+  {
+    "id": 2610,
+    "word": "Clear",
+    "phonetic": "/klɪr/",
+    "解释": "adj./v. 清楚的；清除（指易于理解的或移除障碍物）",
+    "sentence": "The message must be clear."
+  },
+  {
+    "id": 2611,
+    "word": "Client",
+    "phonetic": "/ˈklaiənt/",
+    "解释": "n. 客户；委托人（指购买服务的一方）",
+    "sentence": "Clients demand sustainable products."
+  },
+  {
+    "id": 2612,
+    "word": "Climate",
+    "phonetic": "/ˈklaɪmət/",
+    "解释": "n. 气候（指某一地区长期的天气模式特征）",
+    "sentence": "Climate shapes ecosystems and societies."
+  },
+  {
+    "id": 2613,
+    "word": "Coastal",
+    "phonetic": "/ˈkoʊstl/",
+    "解释": "adj. 沿海的；海岸的（指靠近海洋的区域）",
+    "sentence": "Coastal cities face flooding risks."
+  },
+  {
+    "id": 2614,
+    "word": "Code",
+    "phonetic": "/koʊd/",
+    "解释": "n. 法规；代码（指行为准则或计算机程序指令）",
+    "sentence": "Building codes mandate efficiency."
+  },
+  {
+    "id": 2615,
+    "word": "Collapse",
+    "phonetic": "/kəˈlæps/",
+    "解释": "v./n. 倒塌；崩溃（指结构失效或系统突然失败）",
+    "sentence": "Fisheries collapse from overfishing."
+  },
+  {
+    "id": 2616,
+    "word": "Colleague",
+    "phonetic": "/ˈkɒliːɡ/",
+    "解释": "n. 同事（指一起工作的伙伴）",
+    "sentence": "Collaborate with colleagues worldwide."
+  },
+  {
+    "id": 2617,
+    "word": "Collective",
+    "phonetic": "/kəˈlektɪv/",
+    "解释": "adj. 集体的；共同的（指属于群体全体而非个人的）",
+    "sentence": "Collective action creates impact."
+  },
+  {
+    "id": 2618,
+    "word": "Collide",
+    "phonetic": "/kəˈlaɪd/",
+    "解释": "v. 碰撞；冲突（指两物猛烈相撞或意见对立）",
+    "sentence": "Interests collide over resource use."
+  },
+  {
+    "id": 2619,
+    "word": "Combat",
+    "phonetic": "/kɒmˈbæt/",
+    "解释": "v. 战斗；对付（指努力消除或减少有害事物）",
+    "sentence": "Nations combat deforestation."
+  },
+  {
+    "id": 2620,
+    "word": "Combination",
+    "phonetic": "/ˌkɒmbɪˈneɪʃn/",
+    "解释": "n. 结合；组合（指将不同元素混合在一起）",
+    "sentence": "A combination of approaches works best."
+  },
+  {
+    "id": 2621,
+    "word": "Combine",
+    "phonetic": "/kəmˈbaɪn/",
+    "解释": "v. 联合；结合（指合并为一个整体）",
+    "sentence": "Combine policy with technology."
+  },
+  {
+    "id": 2622,
+    "word": "Comfortable",
+    "phonetic": "/ˈkʌmftəbl/",
+    "解释": "adj. 舒适的（指令人感到愉快和放松的）",
+    "sentence": "Comfortable temperatures shift poleward."
+  },
+  {
+    "id": 2623,
+    "word": "Command",
+    "phonetic": "/kəˈmænd/",
+    "解释": "n./v. 命令；掌握（指有权指挥或精通某种技能）",
+    "sentence": "Leaders command attention on this issue."
+  },
+  {
+    "id": 2624,
+    "word": "Commission",
+    "phonetic": "/kəˈmɪʃn/",
+    "解释": "n. 委员会；委托（指被授权执行特定任务的官方团体）",
+    "sentence": "Commissions investigate environmental crimes."
+  },
+  {
+    "id": 2625,
+    "word": "Commit",
+    "phonetic": "/kəˈmɪt/",
+    "解释": "v. 承诺；致力于（指保证做某事或投入资源）",
+    "sentence": "Nations commit to emission cuts."
+  },
+  {
+    "id": 2626,
+    "word": "Commitment",
+    "phonetic": "/kəˈmɪtmənt/",
+    "解释": "n. 承诺；保证（指正式同意承担的责任）",
+    "sentence": "Honor your commitments to future generations."
+  },
+  {
+    "id": 2627,
+    "word": "Common",
+    "phonetic": "/ˈkɒmən/",
+    "解释": "adj. 共同的；普通的（指多人共享或经常出现的）",
+    "sentence": "Common resources need shared management."
+  },
+  {
+    "id": 2628,
+    "word": "Communicate",
+    "phonetic": "/kəˈmjuːnɪkeɪt/",
+    "解释": "v. 传达；交流（指有效地传递信息或思想）",
+    "sentence": "Communicate science clearly to the public."
+  },
+  {
+    "id": 2629,
+    "word": "Community",
+    "phonetic": "/kəˈmjuːnəti/",
+    "解释": "n. 社区；群落（指居住在同一地区的群体或生态集群）",
+    "sentence": "Local communities adapt first."
+  },
+  {
+    "id": 2630,
+    "word": "Comparable",
+    "phonetic": "/ˈkɒmpərəbl/",
+    "解释": "adj. 可比较的（指能够相互对照评估的）",
+    "sentence": "Data sets are now comparable across regions."
+  },
+  {
+    "id": 2631,
+    "word": "Comparative",
+    "phonetic": "/kəmˈpærətɪv/",
+    "解释": "adj. 比较的（指基于对比分析的）",
+    "sentence": "Comparative studies reveal best practices."
+  },
+  {
+    "id": 2632,
+    "word": "Compare",
+    "phonetic": "/kəmˈper/",
+    "解释": "v. 比较（指找出两个事物的异同点）",
+    "sentence": "Compare current data with historical records."
+  },
+  {
+    "id": 2633,
+    "word": "Comparison",
+    "phonetic": "/kəmˈpærɪsn/",
+    "解释": "n. 比较；对比（指将两物并列以展示差异）",
+    "sentence": "Direct comparison shows accelerating change."
+  },
+  {
+    "id": 2634,
+    "word": "Compel",
+    "phonetic": "/kəmˈpel/",
+    "解释": "v. 强迫；迫使（指通过力量或压力使某人做某事）",
+    "sentence": "Evidence compels us to act."
+  },
+  {
+    "id": 2635,
+    "word": "Compensate",
+    "phonetic": "/ˈkɒmpenseɪt/",
+    "解释": "v. 补偿；弥补（指抵消损失或不利条件）",
+    "sentence": "Carbon offsets compensate for emissions."
+  },
+  {
+    "id": 2636,
+    "word": "Compete",
+    "phonetic": "/kəmˈpiːt/",
+    "解释": "v. 竞争（指为获得优势而争夺资源）",
+    "sentence": "Firms compete on sustainability."
+  },
+  {
+    "id": 2637,
+    "word": "Competitive",
+    "phonetic": "/kəmˈpetətɪv/",
+    "解释": "adj. 有竞争力的（指能够成功对抗对手的）",
+    "sentence": "Green tech becomes increasingly competitive."
+  },
+  {
+    "id": 2638,
+    "word": "Compile",
+    "phonetic": "/kəmˈpaɪl/",
+    "解释": "v. 编纂；汇集（指收集整理资料形成完整集合）",
+    "sentence": "Researchers compile global datasets."
+  },
+  {
+    "id": 2639,
+    "word": "Complain",
+    "phonetic": "/kəmˈpleɪn/",
+    "解释": "v. 抱怨；投诉（指表达不满意见）",
+    "sentence": "Citizens complain about pollution."
+  },
+  {
+    "id": 2640,
+    "word": "Complete",
+    "phonetic": "/kəmˈpliːt/",
+    "解释": "adj./v. 完整的；完成（指包含所有部分或结束全部工作）",
+    "sentence": "A complete picture emerges from data."
+  },
+  {
+    "id": 2641,
+    "word": "Complex",
+    "phonetic": "/kɒmˈpleks/",
+    "解释": "adj. 复杂的（指由多个相互关联部分组成的）",
+    "sentence": "Climate systems are inherently complex."
+  },
+  {
+    "id": 2642,
+    "word": "Component",
+    "phonetic": "/kəmˈpoʊnənt/",
+    "解释": "n. 成分；组成部分（指构成整体的某个要素）",
+    "sentence": "Each component of the system matters."
+  },
+  {
+    "id": 2643,
+    "word": "Compose",
+    "phonetic": "/kəmˈpoʊz/",
+    "解释": "v. 组成；构成（指由各元素组合而成）",
+    "sentence": "Ecosystems are composed of diverse species."
+  },
+  {
+    "id": 2644,
+    "word": "Compound",
+    "phonetic": "/kɒmˈpaʊnd/",
+    "解释": "v./n. 复合；加剧（指多种因素叠加产生更大效果或化合物）",
+    "sentence": "Risks compound over time."
+  },
+  {
+    "id": 2645,
+    "word": "Comprehensive",
+    "phonetic": "/ˌkɒmprɪˈhensɪv/",
+    "解释": "adj. 全面的；综合的（指涵盖所有相关方面的）",
+    "sentence": "Comprehensive assessments guide decisions."
+  },
+  {
+    "id": 2646,
+    "word": "Comprise",
+    "phonetic": "/kəmˈpraɪz/",
+    "解释": "v. 包含；由...组成（指由若干部分构成整体）",
+    "sentence": "The report comprises ten sections."
+  },
+  {
+    "id": 2647,
+    "word": "Compromise",
+    "phonetic": "/ˈkɒmprəmaɪz/",
+    "解释": "n./v. 妥协；损害（指双方让步达成一致或削弱质量）",
+    "sentence": "Do not compromise on safety standards."
+  },
+  {
+    "id": 2648,
+    "word": "Compulsory",
+    "phonetic": "/kəmˈpʌlsəri/",
+    "解释": "adj. 强制性的；义务的（指必须遵守的规定）",
+    "sentence": "Reporting may become compulsory."
+  },
+  {
+    "id": 2649,
+    "word": "Concede",
+    "phonetic": "/kənˈsiːd/",
+    "解释": "v. 承认；让步（指被迫接受事实或在争论中退让）",
+    "sentence": "Critics concede that action helps."
+  },
+  {
+    "id": 2650,
+    "word": "Conceive",
+    "phonetic": "/kənˈsiːv/",
+    "解释": "v. 构想；设想（指在头脑中形成概念或计划）",
+    "sentence": "We must conceive bold new solutions."
+  },
+  {
+    "id": 2651,
+    "word": "Concentrate",
+    "phonetic": "/ˈkɒnsntreɪt/",
+    "解释": "v. 集中；浓缩（指聚集到一处或增加强度）",
+    "sentence": "Pollutants concentrate in food chains."
+  },
+  {
+    "id": 2652,
+    "word": "Concept",
+    "phonetic": "/ˈkɒnsept/",
+    "解释": "n. 概念；观念（指抽象的思想或理论框架）",
+    "sentence": "Core concepts include carbon neutrality."
+  },
+  {
+    "id": 2653,
+    "word": "Concern",
+    "phonetic": "/kənˈsɜːrn/",
+    "解释": "n./v. 关注；担心（指对重要事项的兴趣或忧虑）",
+    "sentence": "Public concern drives political action."
+  },
+  {
+    "id": 2654,
+    "word": "Conclude",
+    "phonetic": "/kənˈkluːd/",
+    "解释": "v. 得出结论；结束（指根据证据做出判断或终止过程）",
+    "sentence": "Studies conclude that warming is human-caused."
+  },
+  {
+    "id": 2655,
+    "word": "Concrete",
+    "phonetic": "/kɒŋkriːt/",
+    "解释": "adj. 具体的；混凝土制的（指明确实在而非抽象的）",
+    "sentence": "Provide concrete examples in reports."
+  },
+  {
+    "id": 2656,
+    "word": "Concur",
+    "phonetic": "/kənˈkɜːr/",
+    "解释": "v. 同意；一致（指持有相同观点或同时发生）",
+    "sentence": "Most experts concur on the urgency."
+  },
+  {
+    "id": 2657,
+    "word": "Conduct",
+    "phonetic": "/kənˈdʌkt/",
+    "解释": "v. 进行；实施（指组织并执行某项活动）",
+    "sentence": "Researchers conduct field experiments."
+  },
+  {
+    "id": 2658,
+    "word": "Conference",
+    "phonetic": "/ˈkɒnfərəns/",
+    "解释": "n. 会议（指正式讨论议题的大型集会）",
+    "sentence": "Annual conferences set agendas."
+  },
+  {
+    "id": 2659,
+    "word": "Confidence",
+    "phonetic": "/ˈkɒnfɪdəns/",
+    "解释": "n. 信心（指对判断正确性的确定程度）",
+    "sentence": "Scientific confidence is very high."
+  },
+  {
+    "id": 2660,
+    "word": "Confirm",
+    "phonetic": "/kənˈfɜːrm/",
+    "解释": "v. 确认；证实（指验证某事的真实性）",
+    "sentence": "Multiple studies confirm the trend."
+  },
+  {
+    "id": 2661,
+    "word": "Conflict",
+    "phonetic": "/ˈkɒnflɪkt/",
+    "解释": "n./v. 冲突；矛盾（指利益或观点的对立）",
+    "sentence": "Resource use often leads to conflict."
+  },
+  {
+    "id": 2662,
+    "word": "Conform",
+    "phonetic": "/kənˈfɔːrm/",
+    "解释": "v. 遵守；符合（指按照规则或标准行事）",
+    "sentence": "Industries must conform to regulations."
+  },
+  {
+    "id": 2663,
+    "word": "Confront",
+    "phonetic": "/kənˈfrʌnt/",
+    "解释": "v. 面对；正视（指勇敢地应对困难或挑战）",
+    "sentence": "We must confront uncomfortable truths."
+  },
+  {
+    "id": 2664,
+    "word": "Confuse",
+    "phonetic": "/kənˈfjuːz/",
+    "解释": "v. 使困惑；混淆（指使人难以分辨或理解错误）",
+    "sentence": "Misinformation confuses public debate."
+  },
+  {
+    "id": 2665,
+    "word": "Connect",
+    "phonetic": "/kəˈnekt/",
+    "解释": "v. 连接；联系（指建立关系或关联）",
+    "sentence": "Connect local actions to global goals."
+  },
+  {
+    "id": 2666,
+    "word": "Connection",
+    "phonetic": "/kəˈnekʃn/",
+    "解释": "n. 联系；连接（指事物之间的关联性）",
+    "sentence": "The connection between emissions and harm is clear."
+  },
+  {
+    "id": 2667,
+    "word": "Consensus",
+    "phonetic": "/kənˈsensəs/",
+    "解释": "n. 共识（指多数人达成的一致意见）",
+    "sentence": "Scientific consensus exceeds 99%."
+  },
+  {
+    "id": 2668,
+    "word": "Consequence",
+    "phonetic": "/ˈkɒnsɪkwens/",
+    "解释": "n. 后果；结果（指因某行动而产生的效应）",
+    "sentence": "Every action has a consequence."
+  },
+  {
+    "id": 2669,
+    "word": "Consider",
+    "phonetic": "/kənˈsɪdər/",
+    "解释": "v. 考虑；认为（指仔细思考或持某种看法）",
+    "sentence": "Consider all stakeholders' needs."
+  },
+  {
+    "id": 2670,
+    "word": "Considerable",
+    "phonetic": "/kənˈsɪdərəbl/",
+    "解释": "adj. 相当大的；重要的（指值得注意的数量或程度）",
+    "sentence": "Considerable progress has been made."
+  },
+  {
+    "id": 2671,
+    "word": "Consist",
+    "phonetic": "/kənˈsɪst/",
+    "解释": "v. 由...组成（指由特定成分构成）",
+    "sentence": "The atmosphere consists mainly of nitrogen."
+  },
+  {
+    "id": 2672,
+    "word": "Consistent",
+    "phonetic": "/kənˈsɪstənt/",
+    "解释": "adj. 一致的；始终如一的（指保持相同模式不改变的）",
+    "sentence": "Data shows consistent warming trends."
+  },
+  {
+    "id": 2673,
+    "word": "Constant",
+    "phonetic": "/ˈkɒnstənt/",
+    "解释": "adj. 持续不变的（指一直保持同一状态）",
+    "sentence": "Constant monitoring is essential."
+  },
+  {
+    "id": 2674,
+    "word": "Constitute",
+    "phonetic": "/ˈkɒnstɪtuːt/",
+    "解释": "v. 构成；被视为（指组成整体或被认定为）",
+    "sentence": "Forests constitute vital carbon sinks."
+  },
+  {
+    "id": 2675,
+    "word": "Construct",
+    "phonetic": "/kənˈstrʌkt/",
+    "解释": "v. 建造；构建（指建造建筑物或创建理论体系）",
+    "sentence": "Construct green infrastructure now."
+  },
+  {
+    "id": 2676,
+    "word": "Consult",
+    "phonetic": "/kənˈsʌlt/",
+    "解释": "v. 咨询；商议（指向专家征求意见或查阅资料）",
+    "sentence": "Consult experts before deciding."
+  },
+  {
+    "id": 2677,
+    "word": "Consume",
+    "phonetic": "/kənˈsuːm/",
+    "解释": "v. 消耗；消费（指使用掉资源或购买商品）",
+    "sentence": "Societies consume resources unsustainably."
+  },
+  {
+    "id": 2678,
+    "word": "Consumer",
+    "phonetic": "/kənˈsuːmər/",
+    "解释": "n. 消费者（指购买和使用商品的人）",
+    "sentence": "Consumers drive market change."
+  },
+  {
+    "id": 2679,
+    "word": "Consumption",
+    "phonetic": "/kənˈsʌmpʃn/",
+    "解释": "n. 消耗量；消费（指资源使用总量或购买行为）",
+    "sentence": "Reduce energy consumption at home."
+  },
+  {
+    "id": 2680,
+    "word": "Contact",
+    "phonetic": "/ˈkɒntækt/",
+    "解释": "n./v. 联系；接触（指沟通或物理上的接触）",
+    "sentence": "Maintain contact with partners."
+  },
+  {
+    "id": 2681,
+    "word": "Contain",
+    "phonetic": "/kənˈteɪn/",
+    "解释": "v. 包含；控制（指内部拥有或限制在某范围内）",
+    "sentence": "Soil contains essential nutrients."
+  },
+  {
+    "id": 2682,
+    "word": "Contaminate",
+    "phonetic": "/kənˈtæmɪneɪt/",
+    "解释": "v. 污染（指引入有害物质使变得不纯）",
+    "sentence": "Chemicals contaminate groundwater."
+  },
+  {
+    "id": 2683,
+    "word": "Contemporary",
+    "phonetic": "/kənˈtempəreri/",
+    "解释": "adj. 当代的；现代的（指属于当前时代的）",
+    "sentence": "Contemporary society faces unique challenges."
+  },
+  {
+    "id": 2684,
+    "word": "Content",
+    "phonetic": "/ˈkɒntent/",
+    "解释": "n. 内容；含量（指文章中的信息或物质的比例）",
+    "sentence": "CO2 content in air keeps rising."
+  },
+  {
+    "id": 2685,
+    "word": "Context",
+    "phonetic": "/ˈkɒntekst/",
+    "解释": "n. 背景；语境（指理解事件所需的环境信息）",
+    "sentence": "Place data in proper context."
+  },
+  {
+    "id": 2686,
+    "word": "Continent",
+    "phonetic": "/ˈkɒntɪnənt/",
+    "解释": "n. 大洲（指地球上最大的陆地划分单位）",
+    "sentence": "Each continent faces distinct risks."
+  },
+  {
+    "id": 2687,
+    "word": "Continual",
+    "phonetic": "/kənˈtɪnjuəl/",
+    "解释": "adj. 持续不断的（指频繁重复且不间断的）",
+    "sentence": "Continual improvement is necessary."
+  },
+  {
+    "id": 2688,
+    "word": "Continue",
+    "phonetic": "/kənˈtɪnjuː/",
+    "解释": "v. 继续（指不停止地做下去）",
+    "sentence": "We must continue our efforts."
+  },
+  {
+    "id": 2689,
+    "word": "Continuous",
+    "phonetic": "/kənˈtɪnuəs/",
+    "解释": "adj. 连续的（指没有中断的）",
+    "sentence": "Continuous monitoring detects changes."
+  },
+  {
+    "id": 2690,
+    "word": "Contract",
+    "phonetic": "/kənˈtrækt/",
+    "解释": "n./v. 合同；收缩（指具有法律约束力的协议或体积变小）",
+    "sentence": "Glaciers contract each year."
+  },
+  {
+    "id": 2691,
+    "word": "Contradict",
+    "phonetic": "/ˌkɒntrəˈdɪkt/",
+    "解释": "v. 矛盾；反驳（指与已知事实不符或否认他人说法）",
+    "sentence": "Do not contradict scientific evidence."
+  },
+  {
+    "id": 2692,
+    "word": "Contrary",
+    "phonetic": "/ˈkɒntreri/",
+    "解释": "adj. 相反的（指方向或立场对立的）",
+    "sentence": "Contrary to popular belief, change is possible."
+  },
+  {
+    "id": 2693,
+    "word": "Contrast",
+    "phonetic": "/kənˈtræst/",
+    "解释": "n./v. 对比；对照（指比较差异以突出特点）",
+    "sentence": "Contrast past and present conditions."
+  },
+  {
+    "id": 2694,
+    "word": "Contribute",
+    "phonetic": "/kənˈtrɪbjuːt/",
+    "解释": "v. 贡献；导致（指提供帮助或成为原因之一）",
+    "sentence": "Everyone can contribute to solutions."
+  },
+  {
+    "id": 2695,
+    "word": "Contribution",
+    "phonetic": "/ˌkɒntrɪˈbjuːʃn/",
+    "解释": "n. 贡献；捐赠（指提供的帮助或资金）",
+    "sentence": "Every contribution counts."
+  },
+  {
+    "id": 2696,
+    "word": "Controversial",
+    "phonetic": "/ˌkɒntrəˈvɜːrʃl/",
+    "解释": "adj. 有争议的（指引起公众分歧讨论的）",
+    "sentence": "Some policies remain controversial."
+  },
+  {
+    "id": 2697,
+    "word": "Convenient",
+    "phonetic": "/kənˈviːniənt/",
+    "解释": "adj. 方便的；便利的（指省时省力易于使用的）",
+    "sentence": "Green options are becoming more convenient."
+  },
+  {
+    "id": 2698,
+    "word": "Convention",
+    "phonetic": "/kənˈvenʃn/",
+    "解释": "n. 公约；惯例（指国际协议或普遍遵循的做法）",
+    "sentence": "Global conventions set binding rules."
+  },
+  {
+    "id": 2699,
+    "word": "Conventional",
+    "phonetic": "/kənˈvenʃənl/",
+    "解释": "adj. 传统的；常规的（指按习惯做法的）",
+    "sentence": "Conventional agriculture harms soil health."
+  },
+  {
+    "id": 2700,
+    "word": "Conversion",
+    "phonetic": "/kənˈvɜːrʒn/",
+    "解释": "n. 转变；转换（指从一种形式变为另一种的过程）",
+    "sentence": "Land conversion destroys habitats."
+  },
+  {
+    "id": 2701,
+    "word": "Convert",
+    "phonetic": "/kənˈvɜːrt/",
+    "解释": "v. 转变；转换（指从一种形式或用途变为另一种）",
+    "sentence": "Convert waste into energy."
+  },
+  {
+    "id": 2702,
+    "word": "Convince",
+    "phonetic": "/kənˈvɪns/",
+    "解释": "v. 说服；使确信（指通过理由使人接受某观点）",
+    "sentence": "Data convinces skeptics of the crisis."
+  },
+  {
+    "id": 2703,
+    "word": "Cooperate",
+    "phonetic": "/koʊˈɒpəreɪt/",
+    "解释": "v. 合作；配合（指为共同目标一起工作）",
+    "sentence": "Nations must cooperate on solutions."
+  },
+  {
+    "id": 2704,
+    "word": "Coordinate",
+    "phonetic": "/koʊˈɔːrdɪneɪt/",
+    "解释": "v. 协调（指使各部分活动配合一致）",
+    "sentence": "Coordinate efforts across agencies."
+  },
+  {
+    "id": 2705,
+    "word": "Core",
+    "phonetic": "/kɔːr/",
+    "解释": "n./adj. 核心；最重要的（指中心部分或本质要素）",
+    "sentence": "Core values include sustainability."
+  },
+  {
+    "id": 2706,
+    "word": "Corporate",
+    "phonetic": "/ˈkɔːrpərət/",
+    "解释": "adj. 公司的；企业的（指与商业组织相关的）",
+    "sentence": "Corporate responsibility matters."
+  },
+  {
+    "id": 2707,
+    "word": "Corporation",
+    "phonetic": "/ˌkɔːrpəˈreɪʃn/",
+    "解释": "n. 公司；法人（指大型商业企业）",
+    "sentence": "Corporations adopt green practices."
+  },
+  {
+    "id": 2708,
+    "word": "Correct",
+    "phonetic": "/kəˈrekt/",
+    "解释": "adj./v. 正确的；纠正（指准确无误的或改正错误）",
+    "sentence": "Correct misconceptions about climate science."
+  },
+  {
+    "id": 2709,
+    "word": "Correlate",
+    "phonetic": "/ˈkɒrəleɪt/",
+    "解释": "v. 关联；相关（指两事物之间存在统计关系）",
+    "sentence": "Temperature correlates with CO2 levels."
+  },
+  {
+    "id": 2710,
+    "word": "Correspond",
+    "phonetic": "/ˌkɒrɪˈspɒnd/",
+    "解释": "v. 相符；对应（指与某事物一致或相匹配）",
+    "sentence": "Actions must correspond to stated goals."
+  },
+  {
+    "id": 2711,
+    "word": "Crisis",
+    "phonetic": "/ˈkraɪsɪs/",
+    "解释": "n. 危机（指极度危险或困难的局面）",
+    "sentence": "The climate crisis demands urgent response."
+  },
+  {
+    "id": 2712,
+    "word": "Criteria",
+    "phonetic": "/kraɪˈtɪriə/",
+    "解释": "n. 标准；准则（指判断或决策的依据）",
+    "sentence": "Set clear criteria for success."
+  },
+  {
+    "id": 2713,
+    "word": "Critical",
+    "phonetic": "/ˈkrɪtɪkl/",
+    "解释": "adj. 至关重要的；批评的（指决定成败的或表达不满意见的）",
+    "sentence": "Critical thresholds are approaching."
+  },
+  {
+    "id": 2714,
+    "word": "Criticism",
+    "phonetic": "/ˈkrɪtɪsɪzəm/",
+    "解释": "n. 批评；评论（指指出缺点的言论）",
+    "sentence": "Constructive criticism improves policy."
+  },
+  {
+    "id": 2715,
+    "word": "Crop",
+    "phonetic": "/krɒp/",
+    "解释": "n. 作物；收成（指农田种植的植物或收获量）",
+    "sentence": "Crop yields decline under drought."
+  },
+  {
+    "id": 2716,
+    "word": "Crucial",
+    "phonetic": "/ˈkruːʃl/",
+    "解释": "adj. 至关重要的（指对成功起决定性作用的）",
+    "sentence": "This decade is crucial for action."
+  },
+  {
+    "id": 2717,
+    "word": "Cultivate",
+    "phonetic": "/ˈkʌltɪveɪt/",
+    "解释": "v. 培养；耕作（指促进生长或发展某种品质）",
+    "sentence": "Cultivate sustainable habits."
+  },
+  {
+    "id": 2718,
+    "word": "Culture",
+    "phonetic": "/ˈkʌltʃər/",
+    "解释": "n. 文化（指社会共享的价值观、信仰和习俗）",
+    "sentence": "Culture shapes environmental attitudes."
+  },
+  {
+    "id": 2719,
+    "word": "Cumulative",
+    "phonetic": "/ˈkjuːmjələtɪv/",
+    "解释": "adj. 累积的（指随时间不断叠加增加的）",
+    "sentence": "Cumulative effects are irreversible."
+  },
+  {
+    "id": 2720,
+    "word": "Curriculum",
+    "phonetic": "/kəˈrɪkjələm/",
+    "解释": "n. 课程（指学校教学的全部内容安排）",
+    "sentence": "Include climate in school curricula."
+  },
+  {
+    "id": 2721,
+    "word": "Current",
+    "phonetic": "/ˈkɜːrənt/",
+    "解释": "adj. 当前的；现行的（指此时此刻存在的）",
+    "sentence": "Current trends are alarming."
+  },
+  {
+    "id": 2722,
+    "word": "Customary",
+    "phonetic": "/ˈkʌstəmeri/",
+    "解释": "adj. 习惯性的；惯例的（指按照传统习俗做的）",
+    "sentence": "Customary practices may need updating."
+  },
+  {
+    "id": 2723,
+    "word": "Damage",
+    "phonetic": "/ˈdæmɪdʒ/",
+    "解释": "n./v. 损害；破坏（指对物体造成的伤害）",
+    "sentence": "Storms cause massive damage."
+  },
+  {
+    "id": 2724,
+    "word": "Danger",
+    "phonetic": "/ˈdeɪndʒər/",
+    "解释": "n. 危险（指可能造成伤害的情况）",
+    "sentence": "Inaction increases danger."
+  },
+  {
+    "id": 2725,
+    "word": "Dangerous",
+    "phonetic": "/ˈdeɪndʒərəs/",
+    "解释": "adj. 危险的（指有可能造成伤害或损失的）",
+    "sentence": "Delay makes change more dangerous."
+  },
+  {
+    "id": 2726,
+    "word": "Data",
+    "phonetic": "/ˈdeɪtə/",
+    "解释": "n. 数据（指用于分析和参考的事实和数字信息）",
+    "sentence": "Quality data guides decisions."
+  },
+  {
+    "id": 2727,
+    "word": "Database",
+    "phonetic": "/ˈdeɪtəbeɪs/",
+    "解释": "n. 数据库（指系统化存储的信息集合）",
+    "sentence": "Global databases track emissions."
+  },
+  {
+    "id": 2728,
+    "word": "Debate",
+    "phonetic": "/dɪˈbeɪt/",
+    "解释": "n./v. 辩论；争论（指围绕议题交换对立观点）",
+    "sentence": "Public debate raises awareness."
+  },
+  {
+    "id": 2729,
+    "word": "Decade",
+    "phonetic": "/ˈdekeɪd/",
+    "解释": "n. 十年（指连续十年的时间段）",
+    "sentence": "Each decade is warmer than the last."
+  },
+  {
+    "id": 2730,
+    "word": "Decay",
+    "phonetic": "/dɪˈkeɪ/",
+    "解释": "v./n. 腐烂；衰败（指有机物分解或逐渐恶化）",
+    "sentence": "Organic matter decay releases methane."
+  },
+  {
+    "id": 2731,
+    "word": "Deceive",
+    "phonetic": "/dɪˈsiːv/",
+    "解释": "v. 欺骗（指故意使人相信虚假信息）",
+    "sentence": "Don't let deniers deceive the public."
+  },
+  {
+    "id": 2732,
+    "word": "Decent",
+    "phonetic": "/ˈdiːsnt/",
+    "解释": "adj. 体面的；相当不错的（指达到可接受标准的）",
+    "sentence": "Everyone deserves a decent environment."
+  },
+  {
+    "id": 2733,
+    "word": "Decision",
+    "phonetic": "/dɪˈsɪʒn/",
+    "解释": "n. 决定；决议（指经过思考后做出的选择）",
+    "sentence": "Sound decisions require good data."
+  },
+  {
+    "id": 2734,
+    "word": "Declare",
+    "phonetic": "/dɪˈkleər/",
+    "解释": "v. 宣布；声明（指正式公开地陈述）",
+    "sentence": "Nations declare climate emergencies."
+  },
+  {
+    "id": 2735,
+    "word": "Decline",
+    "phonetic": "/dɪˈklaɪn/",
+    "解释": "v./n. 下降；衰退（指数量、质量或力量减少）",
+    "sentence": "Biodiversity continues to decline."
+  },
+  {
+    "id": 2736,
+    "word": "Decrease",
+    "phonetic": "/diːˈkriːs/",
+    "解释": "v./n. 减少；降低（指在数量或强度上的缩小）",
+    "sentence": "Emissions must decrease rapidly."
+  },
+  {
+    "id": 2737,
+    "word": "Dedicate",
+    "phonetic": "/ˈdedɪkeɪt/",
+    "解释": "v. 奉献；致力于（指将时间或资源投入特定目的）",
+    "sentence": "Dedicate resources to research."
+  },
+  {
+    "id": 2738,
+    "word": "Deduce",
+    "phonetic": "/dɪˈduːs/",
+    "解释": "v. 推断；演绎（指根据已知事实得出结论）",
+    "sentence": "We can deduce causes from patterns."
+  },
+  {
+    "id": 2739,
+    "word": "Deem",
+    "phonetic": "/diːm/",
+    "解释": "v. 认为；视为（指作出判断或评价）",
+    "sentence": "Experts deem the situation critical."
+  },
+  {
+    "id": 2740,
+    "word": "Defect",
+    "phonetic": "/ˈdiːfekt/",
+    "解释": "n. 缺陷；瑕疵（指影响功能的不完美之处）",
+    "sentence": "Identify defects in current policies."
+  },
+  {
+    "id": 2741,
+    "word": "Defend",
+    "phonetic": "/dɪˈfend/",
+    "解释": "v. 防卫；辩护（指保护免受攻击或为自己的立场辩解）",
+    "sentence": "Defend ecosystems from destruction."
+  },
+  {
+    "id": 2742,
+    "word": "Deficiency",
+    "phonetic": "/dɪˈfɪʃnsi/",
+    "解释": "n. 缺乏；不足（指缺少必要的数量或质量）",
+    "sentence": "Nutrient deficiency weakens plants."
+  },
+  {
+    "id": 2743,
+    "word": "Define",
+    "phonetic": "/dɪˈfaɪn/",
+    "解释": "v. 定义；明确（指解释词义或划定界限）",
+    "sentence": "Define clear goals and metrics."
+  },
+  {
+    "id": 2744,
+    "word": "Definite",
+    "phonetic": "/ˈdefɪnət/",
+    "解释": "adj. 明确的；确定的（指不含糊且无疑问的）",
+    "sentence": "Science provides definite answers."
+  },
+  {
+    "id": 2745,
+    "word": "Degree",
+    "phonetic": "/dɪˈɡriː/",
+    "解释": "n. 程度；学位（指某性质的高低级别或学术资格）",
+    "sentence": "Warming varies by degree regionally."
+  },
+  {
+    "id": 2746,
+    "word": "Delay",
+    "phonetic": "/dɪˈleɪ/",
+    "解释": "n./v. 延迟；推迟（指推迟到更晚的时间）",
+    "sentence": "Delay increases future costs."
+  },
+  {
+    "id": 2747,
+    "word": "Delegate",
+    "phonetic": "/ˈdelɪɡeɪt/",
+    "解释": "n./v. 代表；委派（指被授权代表他人行事或将任务分配给他人）",
+    "sentence": "Delegates negotiate at summits."
+  },
+  {
+    "id": 2748,
+    "word": "Deliberate",
+    "phonetic": "/dɪˈlɪbərət/",
+    "解释": "adj./v. 故意的；深思熟虑的（指有计划的或仔细考虑的）",
+    "sentence": "Deliberate action is needed now."
+  },
+  {
+    "id": 2749,
+    "word": "Delicate",
+    "phonetic": "/ˈdelɪkət/",
+    "解释": "adj. 微妙的；脆弱的（指易受损坏或需要小心处理的）",
+    "sentence": "Delicate ecosystems need protection."
+  },
+  {
+    "id": 2750,
+    "word": "Delivery",
+    "phonetic": "/dɪˈlivəri/",
+    "解释": "n. 交付；传递（指将货物或服务送达指定地点）",
+    "sentence": "Clean energy delivery improves."
+  },
+  {
+    "id": 2751,
+    "word": "Demand",
+    "phonetic": "/dɪˈmænd/",
+    "解释": "n./v. 需求；要求（指购买愿望或强烈请求）",
+    "sentence": "Public demand drives green markets."
+  },
+  {
+    "id": 2752,
+    "word": "Democracy",
+    "phonetic": "/dɪˈmɒkrəsi/",
+    "解释": "n. 民主（指由人民通过投票参与治理的制度）",
+    "sentence": "Democracy enables environmental reform."
+  },
+  {
+    "id": 2753,
+    "word": "Demonstrate",
+    "phonetic": "/ˈdemənstreɪt/",
+    "解释": "v. 证明；展示（指通过证据显示某事属实或示范操作）",
+    "sentence": "Pilot projects demonstrate feasibility."
+  },
+  {
+    "id": 2754,
+    "word": "Deny",
+    "phonetic": "/dɪˈnaɪ/",
+    "解释": "v. 否认（指拒绝承认事实的真实性）",
+    "sentence": "Evidence refutes those who deny warming."
+  },
+  {
+    "id": 2755,
+    "word": "Depend",
+    "phonetic": "/dɪˈpend/",
+    "解释": "v. 依赖；取决于（指依靠某人某事生存或结果由其决定）",
+    "sentence": "Outcomes depend on today's actions."
+  },
+  {
+    "id": 2756,
+    "word": "Depict",
+    "phonetic": "/dɪˈpɪkt/",
+    "解释": "v. 描述；描绘（指用文字或图像表现）",
+    "sentence": "Charts depict rising trends clearly."
+  },
+  {
+    "id": 2757,
+    "word": "Deploy",
+    "phonetic": "/dɪˈplɔɪ/",
+    "解释": "v. 部署；使用（指将资源或技术投入实际应用）",
+    "sentence": "Deploy renewables at scale."
+  },
+  {
+    "id": 2758,
+    "word": "Deposit",
+    "phonetic": "/dɪˈpɒzɪt/",
+    "解释": "n./v. 沉积物；存放（指堆积的物质或放置于某处）",
+    "sentence": "Carbon deposits form over millennia."
+  },
+  {
+    "id": 2759,
+    "word": "Depress",
+    "phonetic": "/dɪˈpres/",
+    "解释": "v. 使沮丧；压抑（指使人情绪低落或抑制活动）",
+    "sentence": "Loss depresses community morale."
+  },
+  {
+    "id": 2760,
+    "word": "Deprive",
+    "phonetic": "/dɪˈpraɪv/",
+    "解释": "v. 剥夺（指夺走某人所需之物）",
+    "sentence": "Pollution deprives communities of clean air."
+  },
+  {
+    "id": 2761,
+    "word": "Derive",
+    "phonetic": "/dɪˈraɪv/",
+    "解释": "v. 获得；源于（指从来源处取得或起源于）",
+    "sentence": "Energy derived from sun powers Earth."
+  },
+  {
+    "id": 2762,
+    "word": "Descend",
+    "phonetic": "/dɪˈsend/",
+    "解释": "v. 下降；降临（指从高处向下移动）",
+    "sentence": "Temperatures descend at night."
+  },
+  {
+    "id": 2763,
+    "word": "Describe",
+    "phonetic": "/dɪˈskraɪb/",
+    "解释": "v. 描述；形容（指用语言详细说明特征）",
+    "sentence": "Reports describe impacts in detail."
+  },
+  {
+    "id": 2764,
+    "word": "Deserve",
+    "phonetic": "/dɪˈzɜːrv/",
+    "解释": "v. 值得；应得（指因行为或品质而应获得某物）",
+    "sentence": "Future generations deserve a livable planet."
+  },
+  {
+    "id": 2765,
+    "word": "Design",
+    "phonetic": "/dɪˈzaɪn/",
+    "解释": "n./v. 设计（指规划创造物的结构和外观的过程）",
+    "sentence": "Design cities for resilience."
+  },
+  {
+    "id": 2766,
+    "word": "Desirable",
+    "phonetic": "/dɪˈzaɪərəbl/",
+    "解释": "adj. 理想的；值得拥有的（指令人向往的）",
+    "sentence": "Sustainable outcomes are highly desirable."
+  },
+  {
+    "id": 2767,
+    "word": "Destroy",
+    "phonetic": "/dɪˈstrɔɪ/",
+    "解释": "v. 破坏；摧毁（指彻底损害以致无法修复）",
+    "sentence": "Fires destroy forests annually."
+  },
+  {
+    "id": 2768,
+    "word": "Detail",
+    "phonetic": "/ˈdiːteɪl/",
+    "解释": "n./v. 细节；详述（指微小但重要的部分或详细描述）",
+    "sentence": "Provide details on implementation."
+  },
+  {
+    "id": 2769,
+    "word": "Detect",
+    "phonetic": "/dɪˈtekt/",
+    "解释": "v. 检测；发现（指察觉到隐藏或不明显的事物）",
+    "sentence": "Sensors detect leaks early."
+  },
+  {
+    "id": 2770,
+    "word": "Deteriorate",
+    "phonetic": "/dɪˈtɪriəreɪt/",
+    "解释": "v. 恶化（指条件逐渐变得更差）",
+    "sentence": "Conditions deteriorate without action."
+  },
+  {
+    "id": 2771,
+    "word": "Determine",
+    "phonetic": "/dɪˈtɜːrmɪn/",
+    "解释": "v. 决定；查明（指成为原因或确切找出事实）",
+    "sentence": "Policy choices determine outcomes."
+  },
+  {
+    "id": 2772,
+    "word": "Devastating",
+    "phonetic": "/ˈdevəsteɪtɪŋ/",
+    "解释": "adj. 毁灭性的（指造成严重破坏的）",
+    "sentence": "Storms have devastating consequences."
+  },
+  {
+    "id": 2773,
+    "word": "Develop",
+    "phonetic": "/dɪˈveləp/",
+    "解释": "v. 发展；开发（指逐步成长或创建新产品）",
+    "sentence": "Develop green technologies faster."
+  },
+  {
+    "id": 2774,
+    "word": "Device",
+    "phonetic": "/dɪˈvaɪs/",
+    "解释": "n. 装置；设备（指为实现特定功能而制造的仪器）",
+    "sentence": "Monitoring devices collect data continuously."
+  },
+  {
+    "id": 2775,
+    "word": "Devise",
+    "phonetic": "/dɪˈvaɪz/",
+    "解释": "v. 设计；想出（指精心计划或发明新方法）",
+    "sentence": "Devise innovative financing models."
+  },
+  {
+    "id": 2776,
+    "word": "Diagnose",
+    "phonetic": "/ˈdaɪəɡnoʊz/",
+    "解释": "v. 诊断（指通过分析找出问题的原因）",
+    "sentence": "Diagnose root causes of degradation."
+  },
+  {
+    "id": 2777,
+    "word": "Diagram",
+    "phonetic": "/ˈdaɪəɡræm/",
+    "解释": "n. 图表；示意图（指用图形展示关系的图解）",
+    "sentence": "Diagrams help explain complex systems."
+  },
+  {
+    "id": 2778,
+    "word": "Diameter",
+    "phonetic": "/daɪˈæmɪtər/",
+    "解释": "n. 直径（指圆形物体通过中心的线段长度）",
+    "sentence": "Measure tree diameter to estimate carbon storage."
+  },
+  {
+    "id": 2779,
+    "word": "Dictate",
+    "phonetic": "/dɪkteɪt/",
+    "解释": "v. 支配；规定（指强行控制或设定必须遵守的条件）",
+    "sentence": "Science should dictate policy."
+  },
+  {
+    "id": 2780,
+    "word": "Difference",
+    "phonetic": "/ˈdɪfrəns/",
+    "解释": "n. 差异；区别（指两个事物之间的不同点）",
+    "sentence": "Small differences accumulate over time."
+  },
+  {
+    "id": 2781,
+    "word": "Differentiate",
+    "phonetic": "/ˌdɪfəˈrenʃieɪt/",
+    "解释": "v. 区分；鉴别（指分辨出差异之处）",
+    "sentence": "Differentiate between natural and human-caused changes."
+  },
+  {
+    "id": 2782,
+    "word": "Difficulty",
+    "phonetic": "/ˈdɪfɪkəlti/",
+    "解释": "n. 困难（指需要付出努力才能克服的障碍）",
+    "sentence": "Implementation faces many difficulties."
+  },
+  {
+    "id": 2783,
+    "word": "Diminish",
+    "phonetic": "/dɪˈmɪnɪʃ/",
+    "解释": "v. 减少；减弱（指变小或重要性下降）",
+    "sentence": "Resources diminish with overuse."
+  },
+  {
+    "id": 2784,
+    "word": "Direct",
+    "phonetic": "/dəˈrekt/, /daɪˈrekt/",
+    "解释": "adj./v. 直接的；指导（指不经过中间环节的或指引方向）",
+    "sentence": "Direct action produces results."
+  },
+  {
+    "id": 2785,
+    "word": "Direction",
+    "phonetic": "/dəˈrekʃn/, /daɪˈrekʃn/",
+    "解释": "n. 方向；趋势（指移动路线或发展的走向）",
+    "sentence": "Change direction toward sustainability."
+  },
+  {
+    "id": 2786,
+    "word": "Director",
+    "phonetic": "/dəˈrektər/, /daɪˈrektər/",
+    "解释": "n. 主管；董事（指负责管理组织的领导者）",
+    "sentence": "Directors set sustainability agendas."
+  },
+  {
+    "id": 2787,
+    "word": "Disable",
+    "phonetic": "/dɪsˈeɪbl/",
+    "解释": "v. 使失效；使无能力（指使设备不能正常工作）",
+    "sentence": "Do not disable safety systems."
+  },
+  {
+    "id": 2788,
+    "word": "Disaster",
+    "phonetic": "/dɪˈzɑːstər/",
+    "解释": "n. 灾难（指造成巨大损失和伤亡的事件）",
+    "sentence": "Climate disasters increase in frequency."
+  },
+  {
+    "id": 2789,
+    "word": "Discard",
+    "phonetic": "/dɪˈskɑːrd/",
+    "解释": "v. 丢弃；抛弃（指不再需要而扔掉）",
+    "sentence": "Discard single-use plastics responsibly."
+  },
+  {
+    "id": 2790,
+    "word": "Discern",
+    "phonetic": "/dɪˈsɜːrn/",
+    "解释": "v. 辨别；识别（指通过仔细观察区分差异）",
+    "sentence": "Discern patterns in noisy data."
+  },
+  {
+    "id": 2791,
+    "word": "Discharge",
+    "phonetic": "/dɪsˈtʃɑːrdʒ/",
+    "解释": "v. 排放；释放（指将物质排入环境）",
+    "sentence": "Factories discharge pollutants into rivers."
+  },
+  {
+    "id": 2792,
+    "word": "Discipline",
+    "phonetic": "/ˈdɪsəplɪn/",
+    "解释": "n. 学科；纪律（指知识领域或自我约束规则）",
+    "sentence": "Climate science is an interdisciplinary discipline."
+  },
+  {
+    "id": 2793,
+    "word": "Discount",
+    "phonetic": "/dɪsˈkaʊnt/",
+    "解释": "v. 打折；忽视（指降低价值或不重视）",
+    "sentence": "Do not discount long-term risks."
+  },
+  {
+    "id": 2794,
+    "word": "Discover",
+    "phonetic": "/dɪˈskʌvər/",
+    "解释": "v. 发现（指首次找到或认识到某事物的存在）",
+    "sentence": "Researchers discover new species yearly."
+  },
+  {
+    "id": 2795,
+    "word": "Discrete",
+    "phonetic": "/dɪˈskriːt/",
+    "解释": "adj. 分离的；离散的（指各自独立不相连的）",
+    "sentence": "Events are not discrete but interconnected."
+  },
+  {
+    "id": 2796,
+    "word": "Discuss",
+    "phonetic": "/dɪˈskʌs/",
+    "解释": "v. 讨论（指就某个话题交换意见）",
+    "sentence": "Stakeholders discuss options openly."
+  },
+  {
+    "id": 2797,
+    "word": "Disease",
+    "phonetic": "/dɪˈziːz/",
+    "解释": "n. 疾病（指影响生物体健康的异常状况）",
+    "sentence": "Vector-borne diseases spread with warming."
+  },
+  {
+    "id": 2798,
+    "word": "Disguise",
+    "phonetic": "/dɪsˈɡaɪz/",
+    "解释": "v. 掩饰；伪装（指掩盖真实面貌或意图）",
+    "sentence": "Greenwashing disguises harmful practices."
+  },
+  {
+    "id": 2799,
+    "word": "Dismiss",
+    "phonetic": "/dɪsˈmɪs/",
+    "解释": "v. 不予理会；驳回（指拒绝考虑或认为不重要）",
+    "sentence": "Do not dismiss expert warnings."
+  },
+  {
+    "id": 2800,
+    "word": "Disorder",
+    "phonetic": "/dɪsˈɔːrdər/",
+    "解释": "n. 混乱；失调（指缺乏正常秩序的状态）",
+    "sentence": "Ecological disorder follows disruption."
+  },
+  {
+    "id": 2801,
+    "word": "Dispatch",
+    "phonetic": "/dɪˈspætʃ/",
+    "解释": "v. 派遣；发送（指派人或物资到指定地点）",
+    "sentence": "Emergency teams dispatch quickly."
+  },
+  {
+    "id": 2802,
+    "word": "Disperse",
+    "phonetic": "/dɪˈspɜːrs/",
+    "解释": "v. 分散；散开（指向不同方向广泛分布）",
+    "sentence": "Seeds disperse via wind and animals."
+  },
+  {
+    "id": 2803,
+    "word": "Displace",
+    "phonetic": "/dɪsˈpleɪs/",
+    "解释": "v. 迫使迁移；取代（指使人离开家园或替换原有事物）",
+    "sentence": "Sea level rise displaces coastal communities."
+  },
+  {
+    "id": 2804,
+    "word": "Display",
+    "phonetic": "/dɪˈspleɪ/",
+    "解释": "v./n. 展示；显示（指公开呈现某物供人观看）",
+    "sentence": "Data displays reveal trends clearly."
+  },
+  {
+    "id": 2805,
+    "word": "Dispose",
+    "phonetic": "/dɪˈspoʊz/",
+    "解释": "v. 处置；安排（指丢弃废物或妥善处理）",
+    "sentence": "Dispose of waste properly."
+  },
+  {
+    "id": 2806,
+    "word": "Dispute",
+    "phonetic": "/dɪˈspjuːt/",
+    "解释": "n./v. 争论；争议（指对事实或意见的分歧）",
+    "sentence": "Scientific disputes are settled by evidence."
+  },
+  {
+    "id": 2807,
+    "word": "Dissolve",
+    "phonetic": "/dɪˈzɒlv/",
+    "解释": "v. 溶解；解除（指固体在液体中消失或终止协议）",
+    "sentence": "Ice dissolves in warming oceans."
+  },
+  {
+    "id": 2808,
+    "word": "Distance",
+    "phonetic": "/ˈdɪstəns/",
+    "解释": "n. 距离（指两个地点之间的空间长度）",
+    "sentence": "Long distances complicate cooperation."
+  },
+  {
+    "id": 2809,
+    "word": "Distinct",
+    "phonetic": "/dɪˈstɪŋkt/",
+    "解释": "adj. 独特的；明显的（指清晰可辨且与众不同的）",
+    "sentence": "Each region has distinct challenges."
+  },
+  {
+    "id": 2810,
+    "word": "Distinguish",
+    "phonetic": "/dɪˈstɪŋɡwɪʃ/",
+    "解释": "v. 区分；辨别（指识别出差异之处）",
+    "sentence": "Distinguish between natural cycles and trends."
+  },
+  {
+    "id": 2811,
+    "word": "Distort",
+    "phonetic": "/dɪˈstɔːrt/",
+    "解释": "v. 扭曲；歪曲（指改变真实形态使失真）",
+    "sentence": "Misinformation distorts public understanding."
+  },
+  {
+    "id": 2812,
+    "word": "Distribute",
+    "phonetic": "/dɪˈstrɪbjuːt/",
+    "解释": "v. 分配；分布（指将资源分散给多方或在区域内展开）",
+    "sentence": "Rainfall distributes unevenly globally."
+  },
+  {
+    "id": 2813,
+    "word": "Distribution",
+    "phonetic": "/ˌdɪstrɪˈbjuːʃn/",
+    "解释": "n. 分布；分配（指事物在各区域的布局方式或资源分发过程）",
+    "sentence": "Species distribution shifts with temperature."
+  },
+  {
+    "id": 2814,
+    "word": "District",
+    "phonetic": "/ˈdɪstrɪkt/",
+    "解释": "n. 区域；行政区（指为管理目的划分的地理区域）",
+    "sentence": "Each district implements local plans."
+  },
+  {
+    "id": 2815,
+    "word": "Disturb",
+    "phonetic": "/dɪˈstɜːrb/",
+    "解释": "v. 打扰；破坏（指干扰正常状态或损坏环境）",
+    "sentence": "Human activity disturbs natural habitats."
+  },
+  {
+    "id": 2816,
+    "word": "Diverse",
+    "phonetic": "/daɪˈvɜːrs/",
+    "解释": "adj. 多样化的；不同的（指包含多种类型的）",
+    "sentence": "Diverse ecosystems are more resilient."
+  },
+  {
+    "id": 2817,
+    "word": "Division",
+    "phonetic": "/dɪˈvɪʒn/",
+    "解释": "n. 分割；部门（指分开的部分或组织的分支单位）",
+    "sentence": "Cross-division coordination is essential."
+  },
+  {
+    "id": 2818,
+    "word": "Document",
+    "phonetic": "/ˈdɒkjument/",
+    "解释": "v./n. 记录；文件（指用书面形式保存信息或正式文书）",
+    "sentence": "Document all changes for future reference."
+  },
+  {
+    "id": 2819,
+    "word": "Domain",
+    "phonetic": "/doʊˈmeɪn/",
+    "解释": "n. 领域；范围（指知识或活动的特定范畴）",
+    "sentence": "Climate science spans multiple domains."
+  },
+  {
+    "id": 2820,
+    "word": "Domestic",
+    "phonetic": "/dəˈmestɪk/",
+    "解释": "adj. 国内的；家庭的（指属于本国领土的或与家庭相关的）",
+    "sentence": "Domestic policies affect global outcomes."
+  },
+  {
+    "id": 2821,
+    "word": "Dominant",
+    "phonetic": "/ˈdɒmɪnənt/",
+    "解释": "adj. 占主导地位的（指最具影响力或数量最大的）",
+    "sentence": "Fossil fuels remain dominant in energy mix."
+  },
+  {
+    "id": 2822,
+    "word": "Dose",
+    "phonetic": "/doʊs/",
+    "解释": "n. 剂量（指药物或辐射的一次给予量）",
+    "sentence": "Radiation dose affects health risks."
+  },
+  {
+    "id": 2823,
+    "word": "Draft",
+    "phonetic": "/dræft/",
+    "解释": "n./v. 草稿；起草（指初步版本或撰写初稿）",
+    "sentence": "Draft policy proposals for review."
+  },
+  {
+    "id": 2824,
+    "word": "Drain",
+    "phonetic": "/dreɪn/",
+    "解释": "v./n. 排水；消耗（指移除液体或逐渐耗尽资源）",
+    "sentence": "Wetlands drain when water is extracted."
+  },
+  {
+    "id": 2825,
+    "word": "Dramatic",
+    "phonetic": "/drəˈmætɪk/",
+    "解释": "adj. 显著的；戏剧性的（指引人注目或变化剧烈的）",
+    "sentence": "Dramatic changes occur in polar regions."
+  },
+  {
+    "id": 2826,
+    "word": "Draw",
+    "phonetic": "/drɔː/",
+    "解释": "v. 得出；吸引（指从数据中推导结论或引起兴趣）",
+    "sentence": "Draw conclusions from evidence."
+  },
+  {
+    "id": 2827,
+    "word": "Drift",
+    "phonetic": "/drɪft/",
+    "解释": "v./n. 漂流；趋势（指随水流缓慢移动或逐渐偏离方向）",
+    "sentence": "Ice drift patterns change with currents."
+  },
+  {
+    "id": 2828,
+    "word": "Drop",
+    "phonetic": "/drɒp/",
+    "解释": "v./n. 下降；减少（指数值变小或放弃计划）",
+    "sentence": "Temperatures rarely drop below averages now."
+  },
+  {
+    "id": 2829,
+    "word": "Drought",
+    "phonetic": "/draʊt/",
+    "解释": "n. 干旱（指长期降水不足导致的缺水状况）",
+    "sentence": "Drought intensifies in arid regions."
+  },
+  {
+    "id": 2830,
+    "word": "Duration",
+    "phonetic": "/djʊˈreɪʃn/",
+    "解释": "n. 持续时间（指某过程从开始到结束所经历的时间长度）",
+    "sentence": "Heatwave duration increases each year."
+  },
+  {
+    "id": 2831,
+    "word": "Dynamic",
+    "phonetic": "/daɪˈnæmɪk/",
+    "解释": "adj. 动态的；不断变化的（指处于持续运动或发展中的）",
+    "sentence": "Climate systems are highly dynamic."
+  },
+  {
+    "id": 2832,
+    "word": "Eager",
+    "phonetic": "/ˈiːɡər/",
+    "解释": "adj. 渴望的；热切的（指急切希望做某事的）",
+    "sentence": "Communities are eager for solutions."
+  },
+  {
+    "id": 2833,
+    "word": "Earn",
+    "phonetic": "/ɜːrn/",
+    "解释": "v. 赢得；获得（指通过努力得到回报或声誉）",
+    "sentence": "Nations earn trust through action."
+  },
+  {
+    "id": 2834,
+    "word": "Ease",
+    "phonetic": "/iːz/",
+    "解释": "n./v. 容易；减轻（指不费力的状态或降低困难程度）",
+    "sentence": "Policy eases transition costs."
+  },
+  {
+    "id": 2835,
+    "word": "Ecological",
+    "phonetic": "/ˌiːkəˈlɒdʒɪkl/",
+    "解释": "adj. 生态学的（指与生物和环境之间关系相关的）",
+    "sentence": "Ecological balance is fragile."
+  },
+  {
+    "id": 2836,
+    "word": "Economic",
+    "phonetic": "/ˌiːkəˈnɒmɪk/",
+    "解释": "adj. 经济的（指与生产、消费和财富分配相关的）",
+    "sentence": "Economic incentives drive change."
+  },
+  {
+    "id": 2837,
+    "word": "Economy",
+    "phonetic": "/ɪˈkɒnəmi/",
+    "解释": "n. 经济（指资源生产和分配的系统）",
+    "sentence": "Green economy creates jobs."
+  },
+  {
+    "id": 2838,
+    "word": "Ecosystem",
+    "phonetic": "/ˈiːkoʊsɪstəm/",
+    "解释": "n. 生态系统（指生物群落与其环境相互作用的整体）",
+    "sentence": "Ecosystem services support human life."
+  },
+  {
+    "id": 2839,
+    "word": "Edit",
+    "phonetic": "/ˈedɪt/",
+    "解释": "v. 编辑；修改（指对文本或数据进行修订）",
+    "sentence": "Edit reports for clarity."
+  },
+  {
+    "id": 2840,
+    "word": "Effect",
+    "phonetic": "/ɪˈfekt/",
+    "解释": "n. 效果；影响（指行动产生的结果）",
+    "sentence": "The effect of policies is measurable."
+  },
+  {
+    "id": 2841,
+    "word": "Effective",
+    "phonetic": "/ɪˈfektɪv/",
+    "解释": "adj. 有效的（指能产生预期结果的）",
+    "sentence": "Effective solutions exist today."
+  },
+  {
+    "id": 2842,
+    "word": "Efficiency",
+    "phonetic": "/ɪˈfɪʃnsi/",
+    "解释": "n. 效率（指以最少投入获得最大产出的能力）",
+    "sentence": "Energy efficiency reduces demand."
+  },
+  {
+    "id": 2843,
+    "word": "Effort",
+    "phonetic": "/ˈefərt/",
+    "解释": "n. 努力（指为实现目标付出的体力和脑力劳动）",
+    "sentence": "Collective effort is essential."
+  },
+  {
+    "id": 2844,
+    "word": "Elaborate",
+    "phonetic": "/ɪˈlæbəreɪt/",
+    "解释": "adj./v. 详尽的；详细阐述（指包含大量细节的或进一步说明）",
+    "sentence": "Elaborate plans guide implementation."
+  },
+  {
+    "id": 2845,
+    "word": "Elasticity",
+    "phonetic": "/ˌelæˈstɪsəti/",
+    "解释": "n. 弹性（指物体受力变形后恢复原状的能力或经济对变化的适应力）",
+    "sentence": "Market elasticity affects carbon pricing."
+  },
+  {
+    "id": 2846,
+    "word": "Elect",
+    "phonetic": "/ɪˈlekt/",
+    "解释": "v. 选举；选择（指投票选出代表或做出选择）",
+    "sentence": "Voters elect climate-conscious leaders."
+  },
+  {
+    "id": 2847,
+    "word": "Electric",
+    "phonetic": "/ɪˈlektrɪk/",
+    "解释": "adj. 电的（指使用电力作为动力的）",
+    "sentence": "Electric vehicles reduce transport emissions."
+  },
+  {
+    "id": 2848,
+    "word": "Emit",
+    "phonetic": "/ɪˈmɪt/",
+    "解释": "v. 排放（指释放气体、光或热等进入环境）",
+    "sentence": "Power plants emit greenhouse gases."
+  },
+  {
+    "id": 2849,
+    "word": "Emission",
+    "phonetic": "/ɪˈmɪʃn/",
+    "解释": "n. 排放物（指被释放到空气中的物质，尤指污染物）",
+    "sentence": "Global emissions must peak soon."
+  },
+  {
+    "id": 2850,
+    "word": "Emphasis",
+    "phonetic": "/ˈemfəsɪs/",
+    "解释": "n. 强调；重点（指特别关注或赋予的重要性）",
+    "sentence": "Place emphasis on prevention."
+  },
+  {
+    "id": 2851,
+    "word": "Emphasize",
+    "phonetic": "/ˈemfəsaɪz/",
+    "解释": "v. 强调（指特别重视或突出表达）",
+    "sentence": "Reports emphasize urgency."
+  },
+  {
+    "id": 2852,
+    "word": "Employ",
+    "phonetic": "/ɪmˈplɔɪ/",
+    "解释": "v. 雇佣；采用（指聘请员工或使用某种方法）",
+    "sentence": "Employ nature-based solutions."
+  },
+  {
+    "id": 2853,
+    "word": "Enable",
+    "phonetic": "/ɪˈneɪbl/",
+    "解释": "v. 使能够；促成（指提供实现目标所需的条件）",
+    "sentence": "Technology enables new possibilities."
+  },
+  {
+    "id": 2854,
+    "word": "Encounter",
+    "phonetic": "/ɪnˈkaʊntər/",
+    "解释": "v. 遭遇；遇到（指意外碰到某人或面对困难）",
+    "sentence": "Species encounter new threats."
+  },
+  {
+    "id": 2855,
+    "word": "Encourage",
+    "phonetic": "/ɪnˈkʌrɪdʒ/",
+    "解释": "v. 鼓励；促进（指激发积极性或支持某事发展）",
+    "sentence": "Encourage sustainable choices."
+  },
+  {
+    "id": 2856,
+    "word": "Endeavor",
+    "phonetic": "/ɪnˈdevər/",
+    "解释": "n./v. 努力；尝试（指为实现困难目标而付出的努力）",
+    "sentence": "International endeavors show promise."
+  },
+  {
+    "id": 2857,
+    "word": "Endorse",
+    "phonetic": "/ɪnˈdɔːrs/",
+    "解释": "v. 背书；认可（指正式表示同意或支持）",
+    "sentence": "Endorsed by leading scientists."
+  },
+  {
+    "id": 2858,
+    "word": "Endure",
+    "phonetic": "/ɪnˈdjʊr/",
+    "解释": "v. 持续；忍受（指长时间存在或承受痛苦而不屈服）",
+    "sentence": "Some impacts will endure for centuries."
+  },
+  {
+    "id": 2859,
+    "word": "Energy",
+    "phonetic": "/ˈenərdʒi/",
+    "解释": "n. 能量；能源（指做功的能力或动力来源）",
+    "sentence": "Clean energy transforms society."
+  },
+  {
+    "id": 2860,
+    "word": "Enforce",
+    "phonetic": "/ɪnˈfɔːrs/",
+    "解释": "v. 执行；强制实施（指确保规则被遵守）",
+    "sentence": "Enforce environmental regulations strictly."
+  },
+  {
+    "id": 2861,
+    "word": "Engage",
+    "phonetic": "/ɪnˈɡeɪdʒ/",
+    "解释": "v. 参与；从事（指加入活动或吸引注意力）",
+    "sentence": "Engage communities in planning."
+  },
+  {
+    "id": 2862,
+    "word": "Enhance",
+    "phonetic": "/ɪnˈhæns/",
+    "解释": "v. 增强；提高（指使质量、价值或能力更好）",
+    "sentence": "Technology enhances monitoring capability."
+  },
+  {
+    "id": 2863,
+    "word": "Enormous",
+    "phonetic": "/ɪˈnɔːrməs/",
+    "解释": "adj. 巨大的（指规模或程度超乎寻常的大）",
+    "sentence": "Enormous investments are required."
+  },
+  {
+    "id": 2864,
+    "word": "Ensure",
+    "phonetic": "/ɪnˈʃʊr/",
+    "解释": "v. 确保；保证（指使某事确定发生）",
+    "sentence": "Ensure no one is left behind."
+  },
+  {
+    "id": 2865,
+    "word": "Enter",
+    "phonetic": "/ˈentər/",
+    "解释": "v. 进入；开始（指到达某处或参与某过程）",
+    "sentence": "Enter a new era of sustainability."
+  },
+  {
+    "id": 2866,
+    "word": "Enterprise",
+    "phonetic": "/ˈentərpraɪz/",
+    "解释": "n. 企业；事业（指商业组织或有雄心的项目）",
+    "sentence": "Green enterprises lead innovation."
+  },
+  {
+    "id": 2867,
+    "word": "Entire",
+    "phonetic": "/ɪnˈtaɪər/",
+    "解释": "adj. 全部的；整个的（指包含所有部分的）",
+    "sentence": "The entire planet is affected."
+  },
+  {
+    "id": 2868,
+    "word": "Entity",
+    "phonetic": "/ˈentəti/",
+    "解释": "n. 实体（指独立存在的组织或事物）",
+    "sentence": "Every entity must contribute."
+  },
+  {
+    "id": 2869,
+    "word": "Environment",
+    "phonetic": "/ɪnˈvaɪrənmənt/",
+    "解释": "n. 环境（指周围的自然条件及影响因素的总称）",
+    "sentence": "Protect our shared environment."
+  },
+  {
+    "id": 2870,
+    "word": "Environmental",
+    "phonetic": "/ɪnˌvaɪrənˈmentl/",
+    "解释": "adj. 环境的（指与自然界及其保护相关的）",
+    "sentence": "Environmental protection benefits all."
+  },
+  {
+    "id": 2871,
+    "word": "Envision",
+    "phonetic": "/ɪnˈvɪʒn/",
+    "解释": "v. 设想；展望（指想象未来的可能性）",
+    "sentence": "Envision a sustainable future."
+  },
+  {
+    "id": 2872,
+    "word": "Equal",
+    "phonetic": "/ˈiːkwəl/",
+    "解释": "adj. 相等的；平等的（指在数量、价值或权利上相同的）",
+    "sentence": "All nations have equal responsibility."
+  },
+  {
+    "id": 2873,
+    "word": "Equip",
+    "phonetic": "/ɪˈkwɪp/",
+    "解释": "v. 装备；配备（指提供所需工具或能力）",
+    "sentence": "Equip communities to adapt."
+  },
+  {
+    "id": 2874,
+    "word": "Equivalent",
+    "phonetic": "/ɪˈkwɪvələnt/",
+    "解释": "adj./n. 等价的；等同物（指价值或功能相等的）",
+    "sentence": "One ton of CO2 equals specific warming impact."
+  },
+  {
+    "id": 2875,
+    "word": "Era",
+    "phonetic": "/ˈɪərə/, /erə/",
+    "解释": "n. 时代（指以特定特征标记的历史时期）",
+    "sentence": "A new era of climate action begins."
+  },
+  {
+    "id": 2876,
+    "word": "Erode",
+    "phonetic": "/ɪˈroʊd/",
+    "解释": "v. 侵蚀；削弱（指逐渐磨损或损害力量）",
+    "sentence": "Coastlines erode from rising seas."
+  },
+  {
+    "id": 2877,
+    "word": "Erroneous",
+    "phonetic": "/ɪˈroʊniəs/",
+    "解释": "adj. 错误的（指不正确的或有缺陷的）",
+    "sentence": "Erroneous assumptions lead to bad policy."
+  },
+  {
+    "id": 2878,
+    "word": "Error",
+    "phonetic": "/ˈerər/",
+    "解释": "n. 错误（指不正确的行为或判断）",
+    "sentence": "Reduce measurement error through calibration."
+  },
+  {
+    "id": 2879,
+    "word": "Escalate",
+    "phonetic": "/ˈeskəleɪt/",
+    "解释": "v. 升级；恶化（指冲突或问题变得更加严重）",
+    "sentence": "Costs escalate with delay."
+  },
+  {
+    "id": 2880,
+    "word": "Essential",
+    "phonetic": "/ɪˈsenʃl/",
+    "解释": "adj. 必不可少的；本质的（指绝对需要的或最核心的）",
+    "sentence": "Water is essential for life."
+  },
+  {
+    "id": 2881,
+    "word": "Establish",
+    "phonetic": "/ɪˈstæblɪʃ/",
+    "解释": "v. 建立；确立（指创建组织或确定事实地位）",
+    "sentence": "Establish protected areas globally."
+  },
+  {
+    "id": 2882,
+    "word": "Estimate",
+    "phonetic": "/ˈestɪmeɪt/",
+    "解释": "v./n. 估计；估算（指基于有限数据推测数值）",
+    "sentence": "Estimates suggest billions at risk."
+  },
+  {
+    "id": 2883,
+    "word": "Eternal",
+    "phonetic": "/ɪˈtɜːrnl/",
+    "解释": "adj. 永恒的；永久的（指没有终结的）",
+    "sentence": "No resource is eternal without care."
+  },
+  {
+    "id": 2884,
+    "word": "Ethical",
+    "phonetic": "/ˈeθɪkl/",
+    "解释": "adj. 伦理的（指与道德原则相关的）",
+    "sentence": "We have ethical duties to future generations."
+  },
+  {
+    "id": 2885,
+    "word": "Evaluate",
+    "phonetic": "/ɪˈvæljueɪt/",
+    "解释": "v. 评估；评价（指仔细分析以判断价值或效果）",
+    "sentence": "Evaluate program effectiveness annually."
+  },
+  {
+    "id": 2886,
+    "word": "Event",
+    "phonetic": "/ɪˈvent/",
+    "解释": "n. 事件（指发生的重要事情，尤其指非常规事件）",
+    "sentence": "Extreme events become more frequent."
+  },
+  {
+    "id": 2887,
+    "word": "Evidence",
+    "phonetic": "/ˈevɪdəns/",
+    "解释": "n. 证据（指证明某事真实性的材料或事实）",
+    "sentence": "Overwhelming evidence confirms warming."
+  },
+  {
+    "id": 2888,
+    "word": "Evident",
+    "phonetic": "/ˈevɪdənt/",
+    "解释": "adj. 明显的（指清楚可见无需证明的）",
+    "sentence": "The trend is evident from data."
+  },
+  {
+    "id": 2889,
+    "word": "Evolve",
+    "phonetic": "/ɪˈvɒlv/",
+    "解释": "v. 进化；演变（指逐步发展形成更高级的状态）",
+    "sentence": "Solutions evolve as technology advances."
+  },
+  {
+    "id": 2890,
+    "word": "Exacerbate",
+    "phonetic": "/ɪɡˈzæsərbeɪt/",
+    "解释": "v. 加剧；恶化（指使已有的不良情况更加严重）",
+    "sentence": "Warming exacerbates existing inequalities."
+  },
+  {
+    "id": 2891,
+    "word": "Exceed",
+    "phonetic": "/ɪkˈsiːd/",
+    "解释": "v. 超过（指在数量或程度上越过限制）",
+    "sentence": "Temperatures exceed historical records."
+  },
+  {
+    "id": 2892,
+    "word": "Exception",
+    "phonetic": "/ɪkˈsepʃn/",
+    "解释": "n. 例外（指不属于一般规则的特殊情况）",
+    "sentence": "No region is an exception to change."
+  },
+  {
+    "id": 2893,
+    "word": "Excess",
+    "phonetic": "/ɪkˈses/",
+    "解释": "n./adj. 过量；过多的（指超出正常需要量的部分）",
+    "sentence": "Excess CO2 accumulates in atmosphere."
+  },
+  {
+    "id": 2894,
+    "word": "Exchange",
+    "phonetic": "/ɪksˈtʃeɪndʒ/",
+    "解释": "n./v. 交换；交流（指双方互换物品或信息）",
+    "sentence": "Nations exchange technology and knowledge."
+  },
+  {
+    "id": 2895,
+    "word": "Exclude",
+    "phonetic": "/ɪkˈskluːd/",
+    "解释": "v. 排除；不包括（指故意不让某人或某事参与）",
+    "sentence": "No community should be excluded."
+  },
+  {
+    "id": 2896,
+    "word": "Execute",
+    "phonetic": "/ˈeksɪkjuːt/",
+    "解释": "v. 执行；实施（指按计划完成具体任务）",
+    "sentence": "Execute strategies effectively."
+  },
+  {
+    "id": 2897,
+    "word": "Exert",
+    "phonetic": "/ɪɡˈzɜːrt/",
+    "解释": "v. 施加；运用（指用力产生影响或压力）",
+    "sentence": "Public opinion exerts pressure on leaders."
+  },
+  {
+    "id": 2898,
+    "word": "Exhibit",
+    "phonetic": "/ɪɡˈzɪbɪt/",
+    "解释": "v. 展现；展示（指清楚地表现出某种特征）",
+    "sentence": "Data exhibits clear warming signals."
+  },
+  {
+    "id": 2899,
+    "word": "Exist",
+    "phonetic": "/ɪɡˈzɪst/",
+    "解释": "v. 存在（指实际有而非想象的）",
+    "sentence": "Solutions already exist."
+  },
+  {
+    "id": 2900,
+    "word": "Expand",
+    "phonetic": "/ɪkˈspænd/",
+    "解释": "v. 扩大；扩展（指增加尺寸、范围或数量）",
+    "sentence": "Expand renewable capacity rapidly."
+  },
+  {
+    "id": 2901,
+    "word": "Expansion",
+    "phonetic": "/ɪkˈspænʃn/",
+    "解释": "n. 扩张；扩展（指范围或规模的增大）",
+    "sentence": "Urban expansion consumes farmland."
+  },
+  {
+    "id": 2902,
+    "word": "Expect",
+    "phonetic": "/ɪkˈspekt/",
+    "解释": "v. 预期；期望（指认为某事很可能发生）",
+    "sentence": "Expect more extreme weather events."
+  },
+  {
+    "id": 2903,
+    "word": "Expenditure",
+    "phonetic": "/ɪkˈspendɪtʃər/",
+    "解释": "n. 支出；花费（指为某目的使用的资金总额）",
+    "sentence": "Public expenditure on adaptation grows."
+  },
+  {
+    "id": 2904,
+    "word": "Expense",
+    "phonetic": "/ɪkˈspens/",
+    "解释": "n. 费用；代价（指金钱、时间或精力的消耗）",
+    "sentence": "The expense of inaction is greater."
+  },
+  {
+    "id": 2905,
+    "word": "Expert",
+    "phonetic": "/ˈekspɜːrt/",
+    "解释": "n./adj. 专家；内行的（指在特定领域具有深厚知识的人）",
+    "sentence": "Consult experts for guidance."
+  },
+  {
+    "id": 2906,
+    "word": "Explain",
+    "phonetic": "/ɪkˈspleɪn/",
+    "解释": "v. 解释；说明（指使某事变得清楚易懂）",
+    "sentence": "Scientists explain complex phenomena simply."
+  },
+  {
+    "id": 2907,
+    "word": "Explicit",
+    "phonetic": "/ɪkˈplɪsɪt/",
+    "解释": "adj. 明确的（指清晰表达无歧义的）",
+    "sentence": "Make commitments explicit and binding."
+  },
+  {
+    "id": 2908,
+    "word": "Exploit",
+    "phonetic": "/ɪkˈsplɔɪt/",
+    "解释": "v. 开发；利用（指充分利用资源或剥削他人）",
+    "sentence": "Do not exploit natural resources unsustainably."
+  },
+  {
+    "id": 2909,
+    "word": "Explore",
+    "phonetic": "/ɪkˈsplɔːr/",
+    "解释": "v. 探索；探究（指调查研究以发现新事物）",
+    "sentence": "Explore all available options."
+  },
+  {
+    "id": 2910,
+    "word": "Export",
+    "phonetic": "/ɪkˈspɔːrt/",
+    "解释": "v./n. 出口（指将货物销售到国外）",
+    "sentence": "Nations export green technology."
+  },
+  {
+    "id": 2911,
+    "word": "Expose",
+    "phonetic": "/ɪkˈspoʊz/",
+    "解释": "v. 暴露；使面临（指使隐藏事物显现或使人处于危险中）",
+    "sentence": "Communities are exposed to new risks."
+  },
+  {
+    "id": 2912,
+    "word": "Exposure",
+    "phonetic": "/ɪkˈspoʊʒər/",
+    "解释": "n. 暴露；接触（指处于某种影响之下的状态）",
+    "sentence": "Reduce exposure to climate hazards."
+  },
+  {
+    "id": 2913,
+    "word": "Extend",
+    "phonetic": "/ɪkˈstend/",
+    "解释": "v. 延伸；扩大（指在空间或时间上拉长）",
+    "sentence": "Extend protection to more species."
+  },
+  {
+    "id": 2914,
+    "word": "Extent",
+    "phonetic": "/ɪkˈstent/",
+    "解释": "n. 程度；范围（指某事达到的规模或限度）",
+    "sentence": "The extent of damage is hard to measure."
+  },
+  {
+    "id": 2915,
+    "word": "External",
+    "phonetic": "/ɪkˈstɜːrnl/",
+    "解释": "adj. 外部的（指来自外部的或表面上的）",
+    "sentence": "External factors influence outcomes."
+  },
+  {
+    "id": 2916,
+    "word": "Extinct",
+    "phonetic": "/ɪkˈstɪŋkt/",
+    "解释": "adj. 灭绝的（指物种已完全消失不再存在）",
+    "sentence": "Many species face extinction risk."
+  },
+  {
+    "id": 2917,
+    "word": "Extinction",
+    "phonetic": "/ɪkˈstɪŋkʃn/",
+    "解释": "n. 灭绝（指物种完全从地球上消失的过程）",
+    "sentence": "Mass extinction events accelerate."
+  },
+  {
+    "id": 2918,
+    "word": "Extraordinary",
+    "phonetic": "/ɪkˈstrɔːrdneri/",
+    "解释": "adj. 非凡的；异常的（指超出正常范围的）",
+    "sentence": "Extraordinary times require extraordinary measures."
+  },
+  {
+    "id": 2919,
+    "word": "Extreme",
+    "phonetic": "/ɪkˈstriːm/",
+    "解释": "adj./n. 极端的；极端情况（指达到最大程度的）",
+    "sentence": "Extreme weather becomes more common."
+  },
+  {
+    "id": 2920,
+    "word": "Fabricate",
+    "phonetic": "/ˈfæbrɪkeɪt/",
+    "解释": "v. 编造；制造（指虚假地创造信息或产品）",
+    "sentence": "Deniers fabricate misleading narratives."
+  },
+  {
+    "id": 2921,
+    "word": "Facilitate",
+    "phonetic": "/fəˈsɪlɪteɪt/",
+    "解释": "v. 促进；便利（指使过程更容易进行）",
+    "sentence": "Policy facilitates green investment."
+  },
+  {
+    "id": 2922,
+    "word": "Factor",
+    "phonetic": "/ˈfæktər/",
+    "解释": "n. 因素；要素（指影响结果的组成部分）",
+    "sentence": "Multiple factors drive change."
+  },
+  {
+    "id": 2923,
+    "word": "Faculty",
+    "phonetic": "/ˈfæklti/",
+    "解释": "n. 全体教员；能力（指学术机构的教师团队或某种才能）",
+    "sentence": "University faculty lead research efforts."
+  },
+  {
+    "id": 2924,
+    "word": "Fade",
+    "phonetic": "/feɪd/",
+    "解释": "v. 褪色；逐渐消失（指变弱或不再明显）",
+    "sentence": "Ice sheets fade with each warm season."
+  },
+  {
+    "id": 2925,
+    "word": "Failure",
+    "phonetic": "/ˈfeɪljər/",
+    "解释": "n. 失败（指未能达成目标的状态）",
+    "sentence": "Failure to act costs more than action."
+  },
+  {
+    "id": 2926,
+    "word": "Fair",
+    "phonetic": "/fer/",
+    "解释": "adj. 公平的；合理的（指公正对待各方的）",
+    "sentence": "A fair transition leaves no one behind."
+  },
+  {
+    "id": 2927,
+    "word": "Faithful",
+    "phonetic": "/ˈfeɪθfl/",
+    "解释": "adj. 忠实的；可靠的（指始终如一可信赖的）",
+    "sentence": "Remain faithful to our commitments."
+  },
+  {
+    "id": 2928,
+    "word": "Fall",
+    "phonetic": "/fɔːl/",
+    "解释": "v./n. 下降；秋天（指数值减少或一年中的秋季）",
+    "sentence": "Rainfall patterns shift across seasons."
+  },
+  {
+    "id": 2929,
+    "word": "Familiar",
+    "phonetic": "/fəˈmiliər/",
+    "解释": "adj. 熟悉的（指因经常接触而了解的）",
+    "sentence": "Climate concepts should be familiar to all."
+  },
+  {
+    "id": 2930,
+    "word": "Famine",
+    "phonetic": "/ˈfæmɪn/",
+    "解释": "n. 饥荒（指大面积食物短缺导致的大规模饥饿）",
+    "sentence": "Drought increases famine risk."
+  },
+  {
+    "id": 2931,
+    "word": "Far-reaching",
+    "phonetic": "/fɑːrˈriːtʃɪŋ/",
+    "解释": "adj. 深远的（指影响范围广泛的）",
+    "sentence": "Decisions have far-reaching consequences."
+  },
+  {
+    "id": 2932,
+    "word": "Feedback",
+    "phonetic": "/ˈfiːdbæk/",
+    "解释": "n. 反馈（指系统输出对输入的影响作用）",
+    "sentence": "Climate feedback loops amplify warming."
+  },
+  {
+    "id": 2933,
+    "word": "Fertile",
+    "phonetic": "/ˈfɜːrtl/, /ˈfɜːtaɪl/",
+    "解释": "adj. 肥沃的；多产的（指土地适宜种植或产出丰富的）",
+    "sentence": "Fertile soil supports agriculture."
+  },
+  {
+    "id": 2934,
+    "word": "Figure",
+    "phonetic": "/ˈfɪɡjər/",
+    "解释": "n. 数字；人物（指统计数值或重要角色）",
+    "sentence": "Key figures show alarming trends."
+  },
+  {
+    "id": 2935,
+    "word": "Filter",
+    "phonetic": "/ˈfɪltər/",
+    "解释": "n./v. 过滤器；过滤（指去除杂质的过程或装置）",
+    "sentence": "Forests filter air pollutants."
+  },
+  {
+    "id": 2936,
+    "word": "Final",
+    "phonetic": "/ˈfaɪnl/",
+    "解释": "adj. 最终的（指最后阶段或不可更改的）",
+    "sentence": "This is our final chance to act."
+  },
+  {
+    "id": 2937,
+    "word": "Finance",
+    "phonetic": "/faɪˈnæns/",
+    "解释": "n./v. 金融；资助（指资金管理或提供经费支持）",
+    "sentence": "Green finance accelerates transition."
+  },
+  {
+    "id": 2938,
+    "word": "Finite",
+    "phonetic": "/ˈfaɪnaɪt/",
+    "解释": "adj. 有限的（指数量有上限且可耗尽的）",
+    "sentence": "Resources are finite and precious."
+  },
+  {
+    "id": 2939,
+    "word": "Firm",
+    "phonetic": "/fɜːrm/",
+    "解释": "n./adj. 公司；坚定的（指商业机构或不动摇的态度）",
+    "sentence": "Firms adopt sustainability standards."
+  },
+  {
+    "id": 2940,
+    "word": "Flexible",
+    "phonetic": "/ˈfleksəbl/",
+    "解释": "adj. 灵活的（指能适应变化的）",
+    "sentence": "Flexible policies adapt to conditions."
+  },
+  {
+    "id": 2941,
+    "word": "Fluctuate",
+    "phonetic": "/ˈflʌktʃueɪt/",
+    "解释": "v. 波动（指在一定范围内不规则变化）",
+    "sentence": "Temperatures fluctuate around rising averages."
+  },
+  {
+    "id": 2942,
+    "word": "Focus",
+    "phonetic": "/ˈfoʊkəs/",
+    "解释": "n./v. 焦点；集中（指关注中心或将注意力集中于一点）",
+    "sentence": "Focus on emission reduction."
+  },
+  {
+    "id": 2943,
+    "word": "Forbid",
+    "phonetic": "/fərˈbɪd/",
+    "解释": "v. 禁止（指不允许做某事）",
+    "sentence": "New laws forbid harmful practices."
+  },
+  {
+    "id": 2944,
+    "word": "Forecast",
+    "phonetic": "/fɔːrkæst/",
+    "解释": "n./v. 预测；预报（指基于数据推断未来趋势）",
+    "sentence": "Weather forecasts improve with technology."
+  },
+  {
+    "id": 2945,
+    "word": "Former",
+    "phonetic": "/ˈfɔːrmər/",
+    "解释": "adj. 以前的；前任的（指过去存在的或先前担任某职位的）",
+    "sentence": "Former levels of stability may not return."
+  },
+  {
+    "id": 2946,
+    "word": "Formula",
+    "phonetic": "/fɔːrmjələ/",
+    "解释": "n. 公式；方案（指数学表达式或固定方法）",
+    "sentence": "No simple formula solves this problem."
+  },
+  {
+    "id": 2947,
+    "word": "Fortune",
+    "phonetic": "/fɔːrtʃuːn/",
+    "解释": "n. 运气；财富（指偶然的好机会或大量资产）",
+    "sentence": "Protect our natural fortune."
+  },
+  {
+    "id": 2948,
+    "word": "Foundation",
+    "phonetic": "/faʊnˈdeɪʃn/",
+    "解释": "n. 基础；基金会（指支撑整体的底层结构或慈善组织）",
+    "sentence": "Science forms the foundation for policy."
+  },
+  {
+    "id": 2949,
+    "word": "Framework",
+    "phonetic": "/ˈfreɪmwɜːrk/",
+    "解释": "n. 框架（指指导行动的基本结构体系）",
+    "sentence": "International frameworks guide cooperation."
+  },
+  {
+    "id": 2950,
+    "word": "Freeze",
+    "phonetic": "/friːz/",
+    "解释": "v. 结冰；冻结（指水变成固态或固定不变）",
+    "sentence": "Permafrost begins to thaw not freeze."
+  },
+  {
+    "id": 2951,
+    "word": "Frequency",
+    "phonetic": "/ˈfriːkwənsi/",
+    "解释": "n. 频率（指事件发生的频繁程度）",
+    "sentence": "The frequency of disasters rises."
+  },
+  {
+    "id": 2952,
+    "word": "Function",
+    "phonetic": "/ˈfʌŋkʃn/",
+    "解释": "n./v. 功能；运行（指事物的用途或正常工作状态）",
+    "sentence": "Ecosystem functions sustain life."
+  },
+  {
+    "id": 2953,
+    "word": "Fundamental",
+    "phonetic": "/ˌfʌndəˈmentl/",
+    "解释": "adj. 根本的；基础的（指最重要且不可或缺的）",
+    "sentence": "Fundamental changes in mindset are needed."
+  },
+  {
+    "id": 2954,
+    "word": "Funnel",
+    "phonetic": "/ˈfʌnl/",
+    "解释": "n./v. 漏斗；汇集（指使流经狭窄通道或集中资源）",
+    "sentence": "Investment funnels into green tech."
+  },
+  {
+    "id": 2955,
+    "word": "Gain",
+    "phonetic": "/ɡeɪn/",
+    "解释": "n./v. 获得；收益（指得到好处或增加量）",
+    "sentence": "Early action yields greater gains."
+  },
+  {
+    "id": 2956,
+    "word": "Galvanize",
+    "phonetic": "/ˈɡælvənaɪz/",
+    "解释": "v. 激励；促使行动（指刺激某人采取果断行动）",
+    "sentence": "Crisis can galvanize global response."
+  },
+  {
+    "id": 2957,
+    "word": "Generate",
+    "phonetic": "/ˈdʒenəreɪt/",
+    "解释": "v. 产生；生成（指创造新事物或引起结果）",
+    "sentence": "Solar panels generate clean electricity."
+  },
+  {
+    "id": 2958,
+    "word": "Generation",
+    "phonetic": "/ˌdʒenəˈreɪʃn/",
+    "解释": "n. 一代；产生（指大约同期出生的人群或创造过程）",
+    "sentence": "Current generation holds the key."
+  },
+  {
+    "id": 2959,
+    "word": "Generous",
+    "phonetic": "/ˈdʒenərəs/",
+    "解释": "adj. 慷慨的；大量的（指乐于给予或数量充足的）",
+    "sentence": "Generous funding enables research."
+  },
+  {
+    "id": 2960,
+    "word": "Genetic",
+    "phonetic": "/dʒəˈnetɪk/",
+    "解释": "adj. 基因的（指与遗传物质和生物性状相关的）",
+    "sentence": "Genetic diversity aids adaptation."
+  },
+  {
+    "id": 2961,
+    "word": "Geographic",
+    "phonetic": "/ˌdʒiːəˈɡræfɪk/",
+    "解释": "adj. 地理的（指与地球表面特征和位置相关的）",
+    "sentence": "Geographic variation affects vulnerability."
+  },
+  {
+    "id": 2962,
+    "word": "Geometry",
+    "phonetic": "/dʒiˈɒmətri/",
+    "解释": "n. 几何学（研究形状、大小及空间关系的学科）",
+    "sentence": "Coastal geometry influences flooding patterns."
+  },
+  {
+    "id": 2963,
+    "word": "Global",
+    "phonetic": "/ˈɡloʊbl/",
+    "解释": "adj. 全球的（指涵盖整个世界的）",
+    "sentence": "Global cooperation is essential."
+  },
+  {
+    "id": 2964,
+    "word": "Governance",
+    "phonetic": "/ˈɡʌvərnəns/",
+    "解释": "n. 治理（指管理公共事务的方式和制度）",
+    "sentence": "Environmental governance needs reform."
+  },
+  {
+    "id": 2965,
+    "word": "Government",
+    "phonetic": "/ˈɡʌvərnmənt/",
+    "解释": "n. 政府（指管理国家的权力机构）",
+    "sentence": "Government policy shapes outcomes."
+  },
+  {
+    "id": 2966,
+    "word": "Gradient",
+    "phonetic": "/ˈɡreɪdiənt/",
+    "解释": "n. 梯度；斜率（指变量随空间变化的速率）",
+    "sentence": "Temperature gradients shift poleward."
+  },
+  {
+    "id": 2967,
+    "word": "Gradual",
+    "phonetic": "/ˈɡrædʒuəl/",
+    "解释": "adj. 逐步的；渐进的（指缓慢而持续的变化）",
+    "sentence": "Gradual changes accumulate into crises."
+  },
+  {
+    "id": 2968,
+    "word": "Gradually",
+    "phonetic": "/ˈɡrædʒuəli/",
+    "解释": "adv. 逐渐地（指缓慢且持续地进行）",
+    "sentence": "Oceans warm gradually but steadily."
+  },
+  {
+    "id": 2969,
+    "word": "Gross",
+    "phonetic": "/ɡroʊs/",
+    "解释": "adj. 总的；严重的（指全部数量的或令人极度不快的）",
+    "sentence": "Gross emissions must decline."
+  },
+  {
+    "id": 2970,
+    "word": "Ground",
+    "phonetic": "/ɡraʊnd/",
+    "解释": "n. 地面；基础（指地球表面或作为出发点的根据）",
+    "sentence": "Ground-level data complements satellite observations."
+  },
+  {
+    "id": 2971,
+    "word": "Group",
+    "phonetic": "/ɡruːp/",
+    "解释": "n. 组；群体（指聚集在一起的人或物）",
+    "sentence": "Working groups coordinate actions."
+  },
+  {
+    "id": 2972,
+    "word": "Growing",
+    "phonetic": "/ˈɡroʊɪŋ/",
+    "解释": "adj. 日益增长的（指数量或程度不断增加的）",
+    "sentence": "Growing evidence demands response."
+  },
+  {
+    "id": 2973,
+    "word": "Guarantee",
+    "phonetic": "/ˌɡærənˈtiː/",
+    "解释": "v./n. 保证；担保（指承诺某事必定发生）",
+    "sentence": "No one can guarantee future outcomes."
+  },
+  {
+    "id": 2974,
+    "word": "Guidance",
+    "phonetic": "/ˈɡaɪdns/",
+    "解释": "n. 指导；指引（指提供方向性建议的行为）",
+    "sentence": "Follow scientific guidance on targets."
+  },
+  {
+    "id": 2975,
+    "word": "Guideline",
+    "phonetic": "/ˈɡaɪdlaɪn/",
+    "解释": "n. 准则；指导方针（指建议遵循的标准或原则）",
+    "sentence": "Guidelines help standardize reporting."
+  },
+  {
+    "id": 2976,
+    "word": "Habitat",
+    "phonetic": "/ˈhæbɪtæt/",
+    "解释": "n. 栖息地（指生物自然生存的环境区域）",
+    "sentence": "Habitat loss drives extinction."
+  },
+  {
+    "id": 2977,
+    "word": "Handle",
+    "phonetic": "/ˈhændl/",
+    "解释": "v. 处理；应付（指成功地对付困难局面）",
+    "sentence": "Systems must handle extreme loads."
+  },
+  {
+    "id": 2978,
+    "word": "Harbor",
+    "phonetic": "/ˈhɑːrbər/",
+    "解释": "n./v. 港口；庇护（指船只停泊处或隐匿保护）",
+    "sentence": "Harbor no doubt about the science."
+  },
+  {
+    "id": 2979,
+    "word": "Harm",
+    "phonetic": "/hɑːrm/",
+    "解释": "n./v. 伤害；损害（指对身体、财产或环境造成的损伤）",
+    "sentence": "Reduce harm through prevention."
+  },
+  {
+    "id": 2980,
+    "word": "Hazard",
+    "phonetic": "/ˈhæzərd/",
+    "解释": "n. 危害；危险源（指可能造成伤害的事物或条件）",
+    "sentence": "Climate hazards increase in severity."
+  },
+  {
+    "id": 2981,
+    "word": "Headline",
+    "phonetic": "/ˈhedlaɪn/",
+    "解释": "n. 大标题（指新闻中最引人注目的标题文字）",
+    "sentence": "Climate headlines dominate news cycles."
+  },
+  {
+    "id": 2982,
+    "word": "Hence",
+    "phonetic": "/hens/",
+    "解释": "adv. 因此（表示因果关系，引出结论）",
+    "sentence": "Hence, urgent action is justified."
+  },
+  {
+    "id": 2983,
+    "word": "Hierarchy",
+    "phonetic": "/ˈhaɪərɑːrki/",
+    "解释": "n. 等级制度（指按重要性排列的层级体系）",
+    "sentence": "Prioritize by hierarchy of needs."
+  },
+  {
+    "id": 2984,
+    "word": "Highlight",
+    "phonetic": "/ˈhaɪlaɪt/",
+    "解释": "v. 强调；突出（指特别引人注意地展示）",
+    "sentence": "Reports highlight key findings."
+  },
+  {
+    "id": 2985,
+    "word": "Horizontal",
+    "phonetic": "/ˌhɔːrɪˈzɒntl/",
+    "解释": "adj. 水平的（指与地面平行的方向）",
+    "sentence": "Horizontal coordination between agencies matters."
+  },
+  {
+    "id": 2986,
+    "word": "Host",
+    "phonetic": "/hoʊst/",
+    "解释": "n./v. 主办；东道主（指组织活动的一方或容纳他人）",
+    "sentence": "Cities host climate summits."
+  },
+  {
+    "id": 2987,
+    "word": "Household",
+    "phonetic": "/ˈhaʊshoʊld/",
+    "解释": "n. 家庭；住户（指居住在同一住所的人）",
+    "sentence": "Household choices aggregate to global impact."
+  },
+  {
+    "id": 2988,
+    "word": "Human",
+    "phonetic": "/ˈhjuːmən/",
+    "解释": "adj./n. 人类的；人（指属于人类的或个体的人）",
+    "sentence": "Human activity drives most change."
+  },
+  {
+    "id": 2989,
+    "word": "Identify",
+    "phonetic": "/aɪˈdentɪfaɪ/",
+    "解释": "v. 确定；识别（指辨认出某人或某事物的身份）",
+    "sentence": "Identify the root causes first."
+  },
+  {
+    "id": 2990,
+    "word": "Ignore",
+    "phonetic": "/ɪɡˈnɔːr/",
+    "解释": "v. 忽视（指故意不注意或不理会）",
+    "sentence": "We cannot ignore warnings any longer."
+  },
+  {
+    "id": 2991,
+    "word": "Illustrate",
+    "phonetic": "/ˈɪləstreɪt/",
+    "解释": "v. 说明；阐明（指用例子或图像帮助理解）",
+    "sentence": "Charts illustrate trends clearly."
+  },
+  {
+    "id": 2992,
+    "word": "Imagine",
+    "phonetic": "/ɪˈmædʒɪn/",
+    "解释": "v. 想象（指在脑海中形成画面或概念）",
+    "sentence": "Imagine a world powered by clean energy."
+  },
+  {
+    "id": 2993,
+    "word": "Imitate",
+    "phonetic": "/ˈɪmɪteɪt/",
+    "解释": "v. 模仿（指复制他人的行为或方式）",
+    "sentence": "Countries imitate successful models."
+  },
+  {
+    "id": 2994,
+    "word": "Immense",
+    "phonetic": "/ɪˈmens/",
+    "解释": "adj.巨大的（指规模大到难以想象的）",
+    "sentence": "The challenge is immense but not impossible."
+  },
+  {
+    "id": 2995,
+    "word": "Impact",
+    "phonetic": "/ˈɪmpækt/",
+    "解释": "n./v. 影响；冲击（指对某事物产生的强烈作用或效果）",
+    "sentence": "Climate impacts touch everyone."
+  },
+  {
+    "id": 2996,
+    "word": "Implement",
+    "phonetic": "/ˈɪmplɪment/",
+    "解释": "v. 实施；执行（指将计划或政策付诸实践）",
+    "sentence": "Implement agreements without delay."
+  },
+  {
+    "id": 2997,
+    "word": "Implication",
+    "phonetic": "/ˌɪmplɪˈkeɪʃn/",
+    "解释": "n. 含义；影响（指暗含的意义或可能产生的后果）",
+    "sentence": "Consider long-term implications."
+  },
+  {
+    "id": 2998,
+    "word": "Imply",
+    "phonetic": "/ɪmˈplaɪ/",
+    "解释": "v. 暗示（指不直接表明但让人推断出）",
+    "sentence": "Data implies accelerating change."
+  },
+  {
+    "id": 2999,
+    "word": "Import",
+    "phonetic": "/ɪmˈpɔːrt/",
+    "解释": "n./v. 进口（指从国外购买商品）",
+    "sentence": "Nations import carbon-intensive goods."
+  },
+  {
+    "id": 3000,
+    "word": "Impose",
+    "phonetic": "/ɪmˈpoʊz/",
+    "解释": "v. 强加；实施（指强制施加规则或税收于某人）",
+    "sentence": "Governments impose carbon taxes."
+  }
+]

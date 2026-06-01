@@ -1,0 +1,7002 @@
+[
+  {
+    "id": 1001,
+    "word": "Promise",
+    "phonetic": "/ˈprɒmɪs/",
+    "解释": "n./v. 承诺；有…的希望（指答应做某事，或使认为某事会发生）",
+    "sentence": "The agreement holds the promise of reducing emissions by 50 percent."
+  },
+  {
+    "id": 1002,
+    "word": "Promote",
+    "phonetic": "/prəˈmoʊt/",
+    "解释": "v. 促进；提升（指帮助某事发展或成功，或给予更高职位）",
+    "sentence": "Policies that promote clean energy are essential for climate action."
+  },
+  {
+    "id": 1003,
+    "word": "Prompt",
+    "phonetic": "/prɒmpt/",
+    "解释": "adj./v./n. 迅速的；提示（指行动及时快速的，或促使某人做某事）",
+    "sentence": "The report prompted immediate action from world leaders."
+  },
+  {
+    "id": 1004,
+    "word": "Pronounce",
+    "phonetic": "/prəˈnaʊns/",
+    "解释": "v. 发音；宣告（指发出语言的音，或正式宣布）",
+    "sentence": "Many students struggle to pronounce the 'th' sound correctly."
+  },
+  {
+    "id": 1005,
+    "word": "Proof",
+    "phonetic": "/pruːf/",
+    "解释": "n./adj. 证据；防…的（指能证明某事为真的材料，或不受某种事物影响）",
+    "sentence": "There is scientific proof that the climate is warming rapidly."
+  },
+  {
+    "id": 1006,
+    "word": "Proper",
+    "phonetic": "/ˈprɒpər/",
+    "解释": "adj. 适当的；正确的（指真实、严格符合定义的，或社会认可的）",
+    "sentence": "Proper planning is essential for disaster preparedness."
+  },
+  {
+    "id": 1007,
+    "word": "Property",
+    "phonetic": "/ˈprɒpərti/",
+    "解释": "n. 财产；性质（指拥有的土地或物品，或事物的特征）",
+    "sentence": "The properties of carbon dioxide make it a potent greenhouse gas."
+  },
+  {
+    "id": 1008,
+    "word": "Proportion",
+    "phonetic": "/prəˈpɔːrʃn/",
+    "解释": "n. 比例；部分（指整体中的一份，或两个量之间的关系）",
+    "sentence": "A large proportion of emissions come from the transportation sector."
+  },
+  {
+    "id": 1009,
+    "word": "Propose",
+    "phonetic": "/prəˈpoʊz/",
+    "解释": "v. 提议；打算（指提出方案供考虑，或计划做某事）",
+    "sentence": "The committee proposed a new carbon tax to reduce emissions."
+  },
+  {
+    "id": 1010,
+    "word": "Prosperity",
+    "phonetic": "/prɒˈsperəti/",
+    "解释": "n. 繁荣；成功（指个人或群体经济、社会状况良好）",
+    "sentence": "Climate action and economic prosperity can go hand in hand."
+  },
+  {
+    "id": 1011,
+    "word": "Protect",
+    "phonetic": "/prəˈtekt/",
+    "解释": "v. 保护（指防止某人或某物受到伤害或损失）",
+    "sentence": "We must protect vulnerable communities from climate impacts."
+  },
+  {
+    "id": 1012,
+    "word": "Protein",
+    "phonetic": "/ˈproʊtiːn/",
+    "解释": "n. 蛋白质（指由氨基酸构成的复杂有机化合物，对生物体至关重要）",
+    "sentence": "Protein is essential for building and repairing body tissues."
+  },
+  {
+    "id": 1013,
+    "word": "Protest",
+    "phonetic": "/ˈproʊtest/",
+    "解释": "n./v. 抗议（指公开声明反对某事，尤指集体行动）",
+    "sentence": "Thousands joined the protest to demand climate justice."
+  },
+  {
+    "id": 1014,
+    "word": "Proud",
+    "phonetic": "/praʊd/",
+    "解释": "adj. 自豪的（指对自己或所属群体感到满意、尊严）",
+    "sentence": "She is proud of the research her team has produced."
+  },
+  {
+    "id": 1015,
+    "word": "Provide",
+    "phonetic": "/prəˈvaɪd/",
+    "解释": "v. 提供；供给（指使某人有某物，或使某事成为可能）",
+    "sentence": "Renewable energy can provide clean power around the clock."
+  },
+  {
+    "id": 1016,
+    "word": "Public",
+    "phonetic": "/ˈpʌblɪk/",
+    "解释": "n./adj. 公众；公共的（指普通民众，或由政府提供、所有人可用的）",
+    "sentence": "Public support for climate action is at an all-time high."
+  },
+  {
+    "id": 1017,
+    "word": "Publish",
+    "phonetic": "/ˈpʌblɪʃ/",
+    "解释": "v. 出版；发表（指使作品可供公众阅读，或宣布正式结果）",
+    "sentence": "The study was published in a leading scientific journal."
+  },
+  {
+    "id": 1018,
+    "word": "Punish",
+    "phonetic": "/ˈpʌnɪʃ/",
+    "解释": "v. 惩罚（指因某人的过错而使其受苦，作为报应）",
+    "sentence": "Some argue that polluters should be punished with heavy fines."
+  },
+  {
+    "id": 1019,
+    "word": "Purchase",
+    "phonetic": "/ˈpɜːrtʃəs/",
+    "解释": "v./n. 购买（指以金钱换取商品或服务）",
+    "sentence": "Many consumers now purchase electric vehicles to reduce their carbon footprint."
+  },
+  {
+    "id": 1020,
+    "word": "Pure",
+    "phonetic": "/pjʊr/",
+    "解释": "adj. 纯的；纯粹的（指不含杂质或混合物的，或专一的）",
+    "sentence": "Pure hydrogen can be used as a clean fuel for transportation."
+  },
+  {
+    "id": 1021,
+    "word": "Pursue",
+    "phonetic": "/pərˈsuː/",
+    "解释": "v. 追求；追赶（指努力达成某目标，或在后紧追使不逃脱）",
+    "sentence": "Scientists pursue answers to some of the world's most complex questions."
+  },
+  {
+    "id": 1022,
+    "word": "Qualify",
+    "phonetic": "/ˈkwɒlɪfaɪ/",
+    "解释": "v. 使合格；取得资格（指达到某标准或条件，或限制说法的范围）",
+    "sentence": "To qualify for the fund, projects must meet strict criteria."
+  },
+  {
+    "id": 1023,
+    "word": "Quality",
+    "phonetic": "/ˈkwɒlɪti/",
+    "解释": "n./adj. 质量；优质的（指事物优秀的程度，或很好的）",
+    "sentence": "The quality of the data determines the reliability of the analysis."
+  },
+  {
+    "id": 1024,
+    "word": "Quantity",
+    "phonetic": "/ˈkwɒntɪti/",
+    "解释": "n. 数量（指可以度量的事物的多少）",
+    "sentence": "The quantity of greenhouse gases in the atmosphere continues to rise."
+  },
+  {
+    "id": 1025,
+    "word": "Quarrel",
+    "phonetic": "/ˈkwɒrəl/",
+    "解释": "n./v. 争吵（指为某事激烈争论，尤指朋友或家人之间）",
+    "sentence": "There was a quarrel over how to allocate the limited funds."
+  },
+  {
+    "id": 1026,
+    "word": "Quarter",
+    "phonetic": "/ˈkwɔːrtər/",
+    "解释": "n. 四分之一；季度（指分为四份中的一份，或三个月的周期）",
+    "sentence": "Emissions fell by a quarter compared with the previous year."
+  },
+  {
+    "id": 1027,
+    "word": "Question",
+    "phonetic": "/ˈkwestʃən/",
+    "解释": "n./v. 问题；质疑（指需回答的疑问句，或表示怀疑）",
+    "sentence": "The study raises serious questions about the reliability of the data."
+  },
+  {
+    "id": 1028,
+    "word": "Quick",
+    "phonetic": "/kwɪk/",
+    "解释": "adj./adv. 快的（指耗时很短的，或快速地）",
+    "sentence": "Quick action is needed to avoid the worst impacts of climate change."
+  },
+  {
+    "id": 1029,
+    "word": "Quiet",
+    "phonetic": "/ˈkwaɪət/",
+    "解释": "adj./n. 安静的（指没有或声音很小的，或安宁的状态）",
+    "sentence": "The quiet of the forest was broken by the sound of chainsaws."
+  },
+  {
+    "id": 1030,
+    "word": "Quit",
+    "phonetic": "/kwɪt/",
+    "解释": "v. 停止；辞职（指不再做某事，或离开工作岗位）",
+    "sentence": "The company quit using coal and switched to renewable energy."
+  },
+  {
+    "id": 1031,
+    "word": "Quote",
+    "phonetic": "/kwoʊt/",
+    "解释": "v./n. 引用；报价（指重复他人的话，或给出价格）",
+    "sentence": "The report quotes leading scientists on the urgency of action."
+  },
+  {
+    "id": 1032,
+    "word": "Race",
+    "phonetic": "/reɪs/",
+    "解释": "n./v. 比赛；种族（指为争第一而比速度，或按生理特征划分的人群）",
+    "sentence": "The human race must act together to solve the climate crisis."
+  },
+  {
+    "id": 1033,
+    "word": "Radical",
+    "phonetic": "/ˈrædɪkl/",
+    "解释": "adj./n. 激进的；根本的（指彻底改变现有制度的，或基本的）",
+    "sentence": "Radical changes in energy systems are needed to meet climate goals."
+  },
+  {
+    "id": 1034,
+    "word": "Rainfall",
+    "phonetic": "/ˈreɪnfɔːl/",
+    "解释": "n. 降雨量（指一定时间一定区域降水的深度）",
+    "sentence": "Rainfall patterns have changed in many parts of the world."
+  },
+  {
+    "id": 1035,
+    "word": "Raise",
+    "phonetic": "/reɪz/",
+    "解释": "v./n. 提高；筹集（指使某物升高或增加，或收集金钱）",
+    "sentence": "The government raised taxes on carbon emissions to discourage pollution."
+  },
+  {
+    "id": 1036,
+    "word": "Random",
+    "phonetic": "/ˈrændəm/",
+    "解释": "adj. 随机的（指在任何情况下都无计划、无目的、无模式的）",
+    "sentence": "The study used a random sample of 10,000 participants."
+  },
+  {
+    "id": 1037,
+    "word": "Range",
+    "phonetic": "/reɪndʒ/",
+    "解释": "n./v. 范围；山脉（指变化或活动所及的界限，或一排山峰）",
+    "sentence": "The temperature range has shifted as the climate has warmed."
+  },
+  {
+    "id": 1038,
+    "word": "Rank",
+    "phonetic": "/ræŋk/",
+    "解释": "n./v. 等级；排列（指在等级制度中的位置，或按等级排列）",
+    "sentence": "The country ranks among the top emitters globally."
+  },
+  {
+    "id": 1039,
+    "word": "Rapid",
+    "phonetic": "/ˈræpɪd/",
+    "解释": "adj. 快速的（指运动、发生或行动非常快的）",
+    "sentence": "Rapid decarbonization of the power sector is technically feasible."
+  },
+  {
+    "id": 1040,
+    "word": "Rare",
+    "phonetic": "/rer/",
+    "解释": "adj. 稀有的（指不常发生或很少见到的）",
+    "sentence": "Rare earth elements are critical for manufacturing wind turbines."
+  },
+  {
+    "id": 1041,
+    "word": "Rate",
+    "phonetic": "/reɪt/",
+    "解释": "n./v. 比率；评估（指两个量之间的关系，或判断某事物的价值或质量）",
+    "sentence": "The rate of warming has accelerated in recent decades."
+  },
+  {
+    "id": 1042,
+    "word": "Rather",
+    "phonetic": "/ˈræðər/",
+    "解释": "adv. 相当；宁愿（用于表达某事物比另一事物更可取）",
+    "sentence": "The evidence suggests that mitigation is rather more urgent than adaptation."
+  },
+  {
+    "id": 1043,
+    "word": "Ratio",
+    "phonetic": "/ˈreɪʃioʊ/",
+    "解释": "n. 比率（指两个量在数量上的比较关系）",
+    "sentence": "The ratio of renewable to fossil energy has shifted dramatically."
+  },
+  {
+    "id": 1044,
+    "word": "Raw",
+    "phonetic": "/rɔː/",
+    "解释": "adj. 生的；未加工的（指未煮过的，或未处理成成品的）",
+    "sentence": "Raw data must be cleaned and processed before analysis."
+  },
+  {
+    "id": 1045,
+    "word": "Reach",
+    "phonetic": "/riːtʃ/",
+    "解释": "v./n. 到达；范围（指到达某地或某种状态，或能够到达的距离）",
+    "sentence": "Global temperatures have reached 1.1 degrees above pre-industrial levels."
+  },
+  {
+    "id": 1046,
+    "word": "React",
+    "phonetic": "/riˈækt/",
+    "解释": "v. 反应；起反作用（指对刺激、情况等做出回应）",
+    "sentence": "Markets reacted strongly to the announcement of the new policy."
+  },
+  {
+    "id": 1047,
+    "word": "Read",
+    "phonetic": "/riːd/",
+    "解释": "v. 阅读（指理解书面文字的含义）",
+    "sentence": "The report is essential reading for anyone working on climate policy."
+  },
+  {
+    "id": 1048,
+    "word": "Ready",
+    "phonetic": "/ˈredi/",
+    "解释": "adj. 准备好的（指已安排妥当、可以使用或进行的）",
+    "sentence": "Countries must be ready to implement the new agreement."
+  },
+  {
+    "id": 1049,
+    "word": "Real",
+    "phonetic": "/ˈriːəl/",
+    "解释": "adj. 真实的（指实际存在而非想象的，或真诚的）",
+    "sentence": "Climate change is a real and present danger to humanity."
+  },
+  {
+    "id": 1050,
+    "word": "Reality",
+    "phonetic": "/riˈælɪti/",
+    "解释": "n. 现实；真实（指真实存在的事物、情况或状况）",
+    "sentence": "We must face the reality of a warming planet."
+  },
+  {
+    "id": 1051,
+    "word": "Reason",
+    "phonetic": "/ˈriːzn/",
+    "解释": "n./v. 原因；推理（指事情发生的事后解释，或用逻辑思考）",
+    "sentence": "The reason for the temperature rise is clear: human emissions."
+  },
+  {
+    "id": 1052,
+    "word": "Reasonable",
+    "phonetic": "/ˈriːznəbl/",
+    "解释": "adj. 合理的（指公平的、明智的，或在特定情况下合适的）",
+    "sentence": "It is reasonable to expect significant progress within this decade."
+  },
+  {
+    "id": 1053,
+    "word": "Recall",
+    "phonetic": "/rɪˈkɔːl/",
+    "解释": "v./n. 回忆；召回（指想起过去的事，或要求退回缺陷产品）",
+    "sentence": "I recall reading a similar study a few years ago."
+  },
+  {
+    "id": 1054,
+    "word": "Receipt",
+    "phonetic": "/rɪˈsiːt/",
+    "解释": "n. 收据；收到（指购物付款的凭证，或货物被收到的通知）",
+    "sentence": "Keep the receipt in case you need to return the item."
+  },
+  {
+    "id": 1055,
+    "word": "Receive",
+    "phonetic": "/rɪˈsiːv/",
+    "解释": "v. 收到；接待（指拿到、接受某物，或欢迎客人）",
+    "sentence": "The team received funding to develop a new climate model."
+  },
+  {
+    "id": 1056,
+    "word": "Recent",
+    "phonetic": "/ˈriːsnt/",
+    "解释": "adj. 近来的（指已经不久发生或开始的）",
+    "sentence": "Recent data confirms that 2023 was the hottest year on record."
+  },
+  {
+    "id": 1057,
+    "word": "Recession",
+    "phonetic": "/rɪˈseʃn/",
+    "解释": "n. 经济衰退（指经济活动持续显著下降的时期）",
+    "sentence": "The recession slowed investments in clean energy projects."
+  },
+  {
+    "id": 1058,
+    "word": "Recipe",
+    "phonetic": "/ˈresɪpi/",
+    "解释": "n. 食谱；秘诀（指烹饪某道菜的配料说明，或成功的要素组合）",
+    "sentence": "The policy is a recipe for disaster if not implemented carefully."
+  },
+  {
+    "id": 1059,
+    "word": "Recognize",
+    "phonetic": "/ˈrekəɡnaɪz/",
+    "解释": "v. 认识；承认（指认出或辨别某人某物，或接受某事物为有效或真实）",
+    "sentence": "We must recognize the disproportionate impact on vulnerable communities."
+  },
+  {
+    "id": 1060,
+    "word": "Recommend",
+    "phonetic": "/ˌrekəˈmend/",
+    "解释": "v. 推荐；建议（指向他人介绍某物或某人，或提出有利的行动方针）",
+    "sentence": "Experts recommend immediate and deep cuts in emissions."
+  },
+  {
+    "id": 1061,
+    "word": "Record",
+    "phonetic": "/ˈrekərd/",
+    "解释": "n./v./adj. 记录（指以持久形式存储信息，或有史以来最高或最低的）",
+    "sentence": "Global temperature records have been broken repeatedly in recent years."
+  },
+  {
+    "id": 1062,
+    "word": "Recover",
+    "phonetic": "/rɪˈkʌvər/",
+    "解释": "v. 恢复；找回（指重新获得或回到正常状态）",
+    "sentence": "The economy is beginning to recover from the pandemic."
+  },
+  {
+    "id": 1063,
+    "word": "Recycle",
+    "phonetic": "/riˈsaɪkl/",
+    "解释": "v. 回收利用（指将废弃物加工成新产品或原材料）",
+    "sentence": "Recycling reduces waste and conserves natural resources."
+  },
+  {
+    "id": 1064,
+    "word": "Reduce",
+    "phonetic": "/rɪˈduːs/",
+    "解释": "v. 减少（指使某物变小、变少或变得更不显著）",
+    "sentence": "We must reduce greenhouse gas emissions by half by 2030."
+  },
+  {
+    "id": 1065,
+    "word": "Refer",
+    "phonetic": "/rɪˈfɜːr/",
+    "解释": "v. 提到；参考（指涉及或提及某人某物，或查阅以获得信息）",
+    "sentence": "The report refers to the latest IPCC assessment."
+  },
+  {
+    "id": 1066,
+    "word": "Reflect",
+    "phonetic": "/rɪˈflekt/",
+    "解释": "v. 反映；反射（指显示或代表某事物的性质，或光波弹回）",
+    "sentence": "The data reflects the urgency of the climate crisis."
+  },
+  {
+    "id": 1067,
+    "word": "Reform",
+    "phonetic": "/rɪˈfɔːrm/",
+    "解释": "n./v. 改革（指改进或改变制度、做法以去除缺陷）",
+    "sentence": "Political reform is needed to address the climate crisis effectively."
+  },
+  {
+    "id": 1068,
+    "word": "Refugee",
+    "phonetic": "/ˌrefjuˈdʒiː/",
+    "解释": "n. 难民（指因战争、迫害等逃离本国的人）",
+    "sentence": "Climate refugees are already fleeing drought-stricken regions."
+  },
+  {
+    "id": 1069,
+    "word": "Regular",
+    "phonetic": "/ˈreɡjələr/",
+    "解释": "adj. 有规律的；定期的（指按固定时间或模式发生的）",
+    "sentence": "Regular monitoring of emissions is essential for tracking progress."
+  },
+  {
+    "id": 1070,
+    "word": "Regulate",
+    "phonetic": "/ˈreɡjuleɪt/",
+    "解释": "v. 管理；调节（指用规则或限制控制）",
+    "sentence": "Governments must regulate polluters to protect public health."
+  },
+  {
+    "id": 1071,
+    "word": "Reject",
+    "phonetic": "/rɪˈdʒekt/",
+    "解释": "v. 拒绝（指不予接受或同意，尤指审慎考虑后）",
+    "sentence": "The committee rejected the proposal as insufficiently ambitious."
+  },
+  {
+    "id": 1072,
+    "word": "Relate",
+    "phonetic": "/rɪˈleɪt/",
+    "解释": "v. 联系；叙述（指将两事物关联，或将故事讲给他人）",
+    "sentence": "How does this study relate to previous research on the same topic?"
+  },
+  {
+    "id": 1073,
+    "word": "Release",
+    "phonetic": "/rɪˈliːs/",
+    "解释": "v./n. 释放；发布（指让被禁锢者自由，或使事物可被获得或使用）",
+    "sentence": "The report was released to the public yesterday."
+  },
+  {
+    "id": 1074,
+    "word": "Relief",
+    "phonetic": "/rɪˈliːf/",
+    "解释": "n. 宽慰；救援（指痛苦或焦虑消除后的轻松感，或帮助危难者的行动）",
+    "sentence": "The aid package brought relief to millions affected by the flood."
+  },
+  {
+    "id": 1075,
+    "word": "Reluctant",
+    "phonetic": "/rɪˈlʌktənt/",
+    "解释": "adj. 不情愿的（指不愿做某事，需要被说服的）",
+    "sentence": "Some countries are reluctant to commit to deeper emission cuts."
+  },
+  {
+    "id": 1076,
+    "word": "Rely",
+    "phonetic": "/rɪˈlaɪ/",
+    "解释": "v. 依赖（指需要某人某物以生存、成功等）",
+    "sentence": "We cannot rely solely on technology to solve the climate crisis."
+  },
+  {
+    "id": 1077,
+    "word": "Remain",
+    "phonetic": "/rɪˈmeɪn/",
+    "解释": "v. 保持；遗留（指继续处于某状态，或在某处留下）",
+    "sentence": "Much work remains to be done to meet the Paris Agreement goals."
+  },
+  {
+    "id": 1078,
+    "word": "Remarkable",
+    "phonetic": "/rɪˈmɑːrkəbl/",
+    "解释": "adj. 显著的（指值得注意、不寻常或非凡的）",
+    "sentence": "The progress in renewable energy costs has been remarkable."
+  },
+  {
+    "id": 1079,
+    "word": "Remedy",
+    "phonetic": "/ˈremədi/",
+    "解释": "n./v. 补救；药物（指纠正或改进问题的措施，或治疗疾病或不适的药）",
+    "sentence": "Carbon capture is seen by some as a remedy for ongoing emissions."
+  },
+  {
+    "id": 1080,
+    "word": "Remote",
+    "phonetic": "/rɪˈmoʊt/",
+    "解释": "adj. 遥远的（指距离很远或偏僻的）",
+    "sentence": "Remote sensing satellites monitor changes in ice sheets and forests."
+  },
+  {
+    "id": 1081,
+    "word": "Remove",
+    "phonetic": "/rɪˈmuːv/",
+    "解释": "v. 移除（指将某人某物带离原来位置）",
+    "sentence": "We must remove barriers to renewable energy deployment."
+  },
+  {
+    "id": 1082,
+    "word": "Renewable",
+    "phonetic": "/rɪˈnuːəbl/",
+    "解释": "adj./n. 可再生的（指自然能持续得到补充的）",
+    "sentence": "Renewable energy sources include solar, wind, hydro, and geothermal."
+  },
+  {
+    "id": 1083,
+    "word": "Replace",
+    "phonetic": "/rɪˈpleɪs/",
+    "解释": "v. 替换（指将一人或一物撤下，换上另一人另一物）",
+    "sentence": "Coal plants must be replaced with clean energy sources."
+  },
+  {
+    "id": 1084,
+    "word": "Report",
+    "phonetic": "/rɪˈpɔːrt/",
+    "解释": "n./v. 报告（指就某事给出或写下的陈述，或正式告知）",
+    "sentence": "The report warns of severe consequences if emissions continue to rise."
+  },
+  {
+    "id": 1085,
+    "word": "Represent",
+    "phonetic": "/ˌreprɪˈzent/",
+    "解释": "v. 代表；表示（指作为某人的代理人，或描绘或象征某事物）",
+    "sentence": "The data represents the best available science on climate change."
+  },
+  {
+    "id": 1086,
+    "word": "Reproductive",
+    "phonetic": "/ˌriːprəˈdʌktɪv/",
+    "解释": "adj. 生殖的（指与产生后代有关的）",
+    "sentence": "The reproductive cycles of many species are being disrupted by climate change."
+  },
+  {
+    "id": 1087,
+    "word": "Republic",
+    "phonetic": "/rɪˈpʌblɪk/",
+    "解释": "n. 共和国（指由选举产生的代表治理的国家）",
+    "sentence": "The republic was founded on principles of democracy and equality."
+  },
+  {
+    "id": 1088,
+    "word": "Reputation",
+    "phonetic": "/ˌrepjuˈteɪʃn/",
+    "解释": "n. 声誉（指他人对自己或某事物的总体看法）",
+    "sentence": "The company's reputation suffered after the scandal."
+  },
+  {
+    "id": 1089,
+    "word": "Request",
+    "phonetic": "/rɪˈkwest/",
+    "解释": "n./v. 请求（指礼貌地请某人做某事或给予某物）",
+    "sentence": "The request for additional data was denied by the authors."
+  },
+  {
+    "id": 1090,
+    "word": "Require",
+    "phonetic": "/rɪˈkwaɪər/",
+    "解释": "v. 需要（指使某事物成为必要，或有赖于某事物）",
+    "sentence": "Climate action requires political will and public support."
+  },
+  {
+    "id": 1091,
+    "word": "Research",
+    "phonetic": "/rɪˈsɜːrtʃ/",
+    "解释": "n./v. 研究（指为获取新知识而进行的系统调查）",
+    "sentence": "Research shows that climate change is happening faster than predicted."
+  },
+  {
+    "id": 1092,
+    "word": "Resemble",
+    "phonetic": "/rɪˈzembl/",
+    "解释": "v. 类似（指像另一人或另一物）",
+    "sentence": "The current situation resembles the early stages of past mass extinctions."
+  },
+  {
+    "id": 1093,
+    "word": "Reserve",
+    "phonetic": "/rɪˈzɜːrv/",
+    "解释": "n./v. 储备；预留（指为将来使用而留出的物资，或保留某物的使用权）",
+    "sentence": "The country has large reserves of coal that it is reluctant to leave unused."
+  },
+  {
+    "id": 1094,
+    "word": "Resident",
+    "phonetic": "/ˈrezɪdənt/",
+    "解释": "n./adj. 居民（指长期居住在某地的人，或住在某处的）",
+    "sentence": "Residents of coastal cities are increasingly worried about sea-level rise."
+  },
+  {
+    "id": 1095,
+    "word": "Resist",
+    "phonetic": "/rɪˈzɪst/",
+    "解释": "v. 抵抗（指使用力阻止或对抗某事）",
+    "sentence": "Some industries resist regulation that would cut into their profits."
+  },
+  {
+    "id": 1096,
+    "word": "Resolve",
+    "phonetic": "/rɪˈzɒlv/",
+    "解释": "v./n. 解决；决心（指找到问题或困难的可接受答案，或决定做某事）",
+    "sentence": "The summit resolved to limit warming to 1.5 degrees."
+  },
+  {
+    "id": 1097,
+    "word": "Resource",
+    "phonetic": "/rɪˈsɔːrs/",
+    "解释": "n. 资源（指可用于达成目标的物资或属性）",
+    "sentence": "Natural resources must be managed sustainably for future generations."
+  },
+  {
+    "id": 1098,
+    "word": "Respond",
+    "phonetic": "/rɪˈspɒnd/",
+    "解释": "v. 回应（指以口头或书面方式作答复，或对刺激做出反应）",
+    "sentence": "Governments have been slow to respond to the crisis."
+  },
+  {
+    "id": 1099,
+    "word": "Responsibility",
+    "phonetic": "/rɪˌspɒnsəˈbɪlɪti/",
+    "解释": "n. 责任（指必须为自己的决定造成的后果负责的状态）",
+    "sentence": "All countries share the responsibility of protecting the planet."
+  },
+  {
+    "id": 1100,
+    "word": "Rest",
+    "phonetic": "/rest/",
+    "解释": "n./v. 休息；剩余部分（指停止活动使身心恢复精力，或其他一切事物）",
+    "sentence": "The rest of the world is watching to see what the major emitters will do."
+  },
+  {
+    "id": 1101,
+    "word": "Result",
+    "phonetic": "/rɪˈzʌlt/",
+    "解释": "n./v. 结果；导致（指某事发生后的情形，或致使某事发生）",
+    "sentence": "The result of the experiment confirmed the hypothesis."
+  },
+  {
+    "id": 1102,
+    "word": "Retain",
+    "phonetic": "/rɪˈteɪn/",
+    "解释": "v. 保留；保持（指继续拥有、使用或处理某物）",
+    "sentence": "It is important to retain a sense of urgency in climate action."
+  },
+  {
+    "id": 1103,
+    "word": "Retire",
+    "phonetic": "/rɪˈtaɪər/",
+    "解释": "v. 退休；退出（指因年老离开工作，或停止使用某物）",
+    "sentence": "The company plans to retire its fleet of coal plants by 2030."
+  },
+  {
+    "id": 1104,
+    "word": "Return",
+    "phonetic": "/rɪˈtɜːrn/",
+    "解释": "v./n. 返回；回报（指回到原处或原状态，或利润、效益）",
+    "sentence": "The birds return to the same breeding grounds each spring."
+  },
+  {
+    "id": 1105,
+    "word": "Reveal",
+    "phonetic": "/rɪˈviːl/",
+    "解释": "v. 揭露；显示（指使之前未知或隐藏的事物为人所见）",
+    "sentence": "The study reveals a worrying trend in Arctic ice melt."
+  },
+  {
+    "id": 1106,
+    "word": "Review",
+    "phonetic": "/rɪˈvjuː/",
+    "解释": "n./v. 审查；评论（指重新考虑以形成判断，或发表对书籍、电影的评价）",
+    "sentence": "A review of the policy found major gaps in implementation."
+  },
+  {
+    "id": 1107,
+    "word": "Revolution",
+    "phonetic": "/ˌrevəˈluːʃn/",
+    "解释": "n. 革命（指彻底改变政治、社会或技术状况的事件或过程）",
+    "sentence": "The clean energy revolution is transforming the global economy."
+  },
+  {
+    "id": 1108,
+    "word": "Reward",
+    "phonetic": "/rɪˈwɔːrd/",
+    "解释": "n./v. 奖励（指为努力或成就给予的好处或回报）",
+    "sentence": "There are substantial rewards for early action on climate."
+  },
+  {
+    "id": 1109,
+    "word": "Rigid",
+    "phonetic": "/ˈrɪdʒɪd/",
+    "解释": "adj. 僵直的；严格的（指不会弯曲或改变形状的，或不能更改或通融的）",
+    "sentence": "Rigid regulations can sometimes stifle innovation."
+  },
+  {
+    "id": 1110,
+    "word": "Rise",
+    "phonetic": "/raɪz/",
+    "解释": "v./n. 上升（指向上移动或增长）",
+    "sentence": "Sea levels are projected to rise by up to a meter by 2100."
+  },
+  {
+    "id": 1111,
+    "word": "Risk",
+    "phonetic": "/rɪsk/",
+    "解释": "n./v. 风险（指可能遭受损失、伤害等的不利情况的可能性）",
+    "sentence": "The risks of climate inaction far outweigh the costs of action."
+  },
+  {
+    "id": 1112,
+    "word": "Rival",
+    "phonetic": "/ˈraɪvl/",
+    "解释": "n./v. 对手（指竞争同一目标的人或团体）",
+    "sentence": "China and the US are rivals in the race to develop clean tech."
+  },
+  {
+    "id": 1113,
+    "word": "Robust",
+    "phonetic": "/roʊˈbʌst/",
+    "解释": "adj. 强健的；坚定的（指结实、强壮的，或坚固不易损坏的）",
+    "sentence": "The evidence for human-caused warming is robust and conclusive."
+  },
+  {
+    "id": 1114,
+    "word": "Role",
+    "phonetic": "/roʊl/",
+    "解释": "n. 角色；作用（指某人在特定场合的功能或任务，或某事物的用处）",
+    "sentence": "Forests play a critical role in regulating the climate."
+  },
+  {
+    "id": 1115,
+    "word": "Root",
+    "phonetic": "/ruːt/",
+    "解释": "n./v. 根；根源（指植物地下部分，或问题的根本原因）",
+    "sentence": "We must address the root causes of the climate crisis."
+  },
+  {
+    "id": 1116,
+    "word": "Route",
+    "phonetic": "/ruːt/",
+    "解释": "n. 路线（指为到达某地而走的路）",
+    "sentence": "There is no easy route to a zero-carbon economy."
+  },
+  {
+    "id": 1117,
+    "word": "Rule",
+    "phonetic": "/ruːl/",
+    "解释": "n./v. 规则（指规定行为方式的原则，或统治某地）",
+    "sentence": "The new rules require all new buildings to be zero-emission."
+  },
+  {
+    "id": 1118,
+    "word": "Run",
+    "phonetic": "/rʌn/",
+    "解释": "v./n. 跑；运行（指快速移动双腿使身体前进，或机器运转）",
+    "sentence": "The program runs on data from satellites and weather stations."
+  },
+  {
+    "id": 1119,
+    "word": "Rural",
+    "phonetic": "/ˈrʊrəl/",
+    "解释": "adj. 农村的（指与乡村而非城市有关的）",
+    "sentence": "Rural communities are often hit hardest by climate impacts."
+  },
+  {
+    "id": 1120,
+    "word": "Sacrifice",
+    "phonetic": "/ˈsækrɪfaɪs/",
+    "解释": "n./v. 牺牲（指为更重要的事放弃某物或某人）",
+    "sentence": "The current generation must not sacrifice the future for short-term gains."
+  },
+  {
+    "id": 1121,
+    "word": "Safe",
+    "phonetic": "/seɪf/",
+    "解释": "adj. 安全的（指不受伤害、危险或损失的）",
+    "sentence": "A safe climate is a human right for all."
+  },
+  {
+    "id": 1122,
+    "word": "Salary",
+    "phonetic": "/ˈsæləri/",
+    "解释": "n. 薪水（指按月支付的固定工资）",
+    "sentence": "Green jobs often come with competitive salaries and benefits."
+  },
+  {
+    "id": 1123,
+    "word": "Sample",
+    "phonetic": "/ˈsæmpl/",
+    "解释": "n./v. 样本（指作为整体代表的少量事例或物品）",
+    "sentence": "The study used a sample of 50 countries across different regions."
+  },
+  {
+    "id": 1124,
+    "word": "Satisfy",
+    "phonetic": "/ˈsætɪsfaɪ/",
+    "解释": "v. 满足（指使某人高兴或使需要实现）",
+    "sentence": "The plan does not satisfy the requirements of the Paris Agreement."
+  },
+  {
+    "id": 1125,
+    "word": "Scale",
+    "phonetic": "/skeɪl/",
+    "解释": "n./v. 规模；攀登（指事物的大小或范围，或沿某表面向上爬）",
+    "sentence": "We need to scale up renewable energy deployment globally."
+  },
+  {
+    "id": 1126,
+    "word": "Scenario",
+    "phonetic": "/səˈnærioʊ/",
+    "解释": "n. 情景（指对可能发生的情况的描述，尤用于规划）",
+    "sentence": "Under the worst-case scenario, warming exceeds 4 degrees by 2100."
+  },
+  {
+    "id": 1127,
+    "word": "Scheme",
+    "phonetic": "/skiːm/",
+    "解释": "n./v. 计划；谋划（指为达成某目的而制定的系统性计划）",
+    "sentence": "The government launched a scheme to subsidize home insulation."
+  },
+  {
+    "id": 1128,
+    "word": "Scholarship",
+    "phonetic": "/ˈskɒlərʃɪp/",
+    "解释": "n. 奖学金；学术成就（指向优秀学生提供的经济资助，或学科的精深研究）",
+    "sentence": "She won a scholarship to study climate science at university."
+  },
+  {
+    "id": 1129,
+    "word": "Science",
+    "phonetic": "/ˈsaɪəns/",
+    "解释": "n. 科学（指通过观察、实验以认识自然世界的有组织知识体系）",
+    "sentence": "Climate science is clear: human activity is driving global warming."
+  },
+  {
+    "id": 1130,
+    "word": "Scope",
+    "phonetic": "/skoʊp/",
+    "解释": "n. 范围（指所讨论或涉及题目的界限）",
+    "sentence": "The scope of the agreement covers all major emitting sectors."
+  },
+  {
+    "id": 1131,
+    "word": "Score",
+    "phonetic": "/skɔːr/",
+    "解释": "n./v. 得分；刻痕（指在游戏或比赛中得到分数，或在表面留下划痕）",
+    "sentence": "The country scored poorly on its climate transparency report."
+  },
+  {
+    "id": 1132,
+    "word": "Screen",
+    "phonetic": "/skriːn/",
+    "解释": "n./v. 屏幕；筛选（指显示图像的平面，或检查以决定是否合适）",
+    "sentence": "All funding proposals were screened for climate risk."
+  },
+  {
+    "id": 1133,
+    "word": "Search",
+    "phonetic": "/sɜːrtʃ/",
+    "解释": "v./n. 搜索（指仔细查阅以寻找某人某物）",
+    "sentence": "Scientists are searching for negative emission technologies."
+  },
+  {
+    "id": 1134,
+    "word": "Season",
+    "phonetic": "/ˈsiːzn/",
+    "解释": "n. 季节（指一年中气候相似的时期）",
+    "sentence": "Fire season in the western US is starting earlier and lasting longer."
+  },
+  {
+    "id": 1135,
+    "word": "Secondary",
+    "phonetic": "/ˈsekənderi/",
+    "解释": "adj. 第二的；中等的（指位列其次的，或介于小学与大学之间的）",
+    "sentence": "Renewable energy has become a major source of power, secondary only to coal in some regions."
+  },
+  {
+    "id": 1136,
+    "word": "Section",
+    "phonetic": "/ˈsekʃn/",
+    "解释": "n. 部分（指一个整体中被划分出的不同区域或类别）",
+    "sentence": "This section of the report focuses on adaptation strategies."
+  },
+  {
+    "id": 1137,
+    "word": "Secure",
+    "phonetic": "/sɪˈkjʊr/",
+    "解释": "adj./v. 安全的（指受保护而不受威胁的，或得到固定的）",
+    "sentence": "Energy security is a major concern for all countries."
+  },
+  {
+    "id": 1138,
+    "word": "Select",
+    "phonetic": "/sɪˈlekt/",
+    "解释": "v./adj. 选择（指从多个中选出一个或几个，或精选的）",
+    "sentence": "Countries selected for the pilot program will test new technologies."
+  },
+  {
+    "id": 1139,
+    "word": "Senario",
+    "phonetic": "/səˈnærioʊ/",
+    "解释": "n. 情景（见 scenario）",
+    "sentence": "The report outlines three senarios for future emission pathways."
+  },
+  {
+    "id": 1140,
+    "word": "Series",
+    "phonetic": "/ˈsɪriːz/",
+    "解释": "n. 系列（指相似或有关的多个事物排列一起）",
+    "sentence": "A series of hurricanes hit the region in quick succession."
+  },
+  {
+    "id": 1141,
+    "word": "Set",
+    "phonetic": "/set/",
+    "解释": "v./n./adj. 设置；一套（指将某物置于特定位置或状态，或一组配套物件）",
+    "sentence": "The agreement sets a target of net-zero emissions by 2050."
+  },
+  {
+    "id": 1142,
+    "word": "Severe",
+    "phonetic": "/sɪˈvɪr/",
+    "解释": "adj. 严重的（指非常糟糕、危险或痛苦的）",
+    "sentence": "Severe weather events are becoming more frequent and intense."
+  },
+  {
+    "id": 1143,
+    "word": "Shift",
+    "phonetic": "/ʃɪft/",
+    "解释": "v./n. 转移；轮班（指改变位置、方向或重点，或工作者的换班时段）",
+    "sentence": "The energy shift from fossil fuels to renewables is underway."
+  },
+  {
+    "id": 1144,
+    "word": "Shock",
+    "phonetic": "/ʃɒk/",
+    "解释": "n./v. 冲击（指令人惊愕的情绪，或剧烈的身体碰撞）",
+    "sentence": "The oil price shock of the 1970s spurred interest in alternaive energy."
+  },
+  {
+    "id": 1145,
+    "word": "Shortage",
+    "phonetic": "/ˈʃɔːrtɪdʒ/",
+    "解释": "n. 短缺（指供给不足以满足需求的情况）",
+    "sentence": "Water shortages are becoming more common in arid regions."
+  },
+  {
+    "id": 1146,
+    "word": "Should",
+    "phonetic": "/ʃʊd/",
+    "解释": "v. 应该（用于给出建议或表示预期）",
+    "sentence": "Countries should submit more ambitious climate plans."
+  },
+  {
+    "id": 1147,
+    "word": "Show",
+    "phonetic": "/ʃoʊ/",
+    "解释": "v./n. 展示；演出（指使某人能看见或得知，或公开表演文娱节目）",
+    "sentence": "The data shows a clear upward trend in global temperatures."
+  },
+  {
+    "id": 1148,
+    "word": "Shrink",
+    "phonetic": "/ʃrɪŋk/",
+    "解释": "v. 收缩（指变得较小、较短或较少）",
+    "sentence": "Arctic sea ice is shrinking at an alarming rate."
+  },
+  {
+    "id": 1149,
+    "word": "Sign",
+    "phonetic": "/saɪn/",
+    "解释": "n./v. 标志；签名（指用于传递信息的视觉符号，或写下姓名以表同意）",
+    "sentence": "The early signs of climate change are already visible worldwide."
+  },
+  {
+    "id": 1150,
+    "word": "Significant",
+    "phonetic": "/sɪɡˈnɪfɪkənt/",
+    "解释": "adj. 显著的（指足够大或重要到值得注意的）",
+    "sentence": "There has been a significant drop in the cost of solar panels."
+  },
+  {
+    "id": 1151,
+    "word": "Similar",
+    "phonetic": "/ˈsɪmɪlər/",
+    "解释": "adj. 相似的（指在某方面相同或相近的）",
+    "sentence": "The current warming is similar in magnitude to past natural events, but much faster."
+  },
+  {
+    "id": 1152,
+    "word": "Simplify",
+    "phonetic": "/ˈsɪmplɪfaɪ/",
+    "解释": "v. 简化（指使某事物更容易理解或完成）",
+    "sentence": "The new rules simplify the process for approving wind projects."
+  },
+  {
+    "id": 1153,
+    "word": "Simply",
+    "phonetic": "/ˈsɪmpli/",
+    "解释": "adv. 仅仅（用于强调某事物就是那么简单）",
+    "sentence": "We simply cannot afford to ignore the science any longer."
+  },
+  {
+    "id": 1154,
+    "word": "Simulate",
+    "phonetic": "/ˈsɪmjuleɪt/",
+    "解释": "v. 模拟（指用模型复制某系统或情况以便研究）",
+    "sentence": "Climate models simulate the Earth's atmosphere and oceans."
+  },
+  {
+    "id": 1155,
+    "word": "Since",
+    "phonetic": "/sɪns/",
+    "解释": "prep./conj. 自从（用于表示时间起点或原因）",
+    "sentence": "Since the industrial revolution, CO2 levels have risen steadily."
+  },
+  {
+    "id": 1156,
+    "word": "Systematic",
+    "phonetic": "/ˌsɪstəˈmætɪk/",
+    "解释": "adj. 系统的（指根据计划或系统有序安排的）",
+    "sentence": "A systematic review of the evidence was conducted by hundreds of scientists."
+  },
+  {
+    "id": 1157,
+    "word": "Skeptical",
+    "phonetic": "/ˈskeptɪkl/",
+    "解释": "adj. 怀疑的（指持怀疑态度、不轻易相信的）",
+    "sentence": "Some people remain skeptical about the severity of climate change."
+  },
+  {
+    "id": 1158,
+    "word": "Skill",
+    "phonetic": "/skɪl/",
+    "解释": "n. 技能（指做某事的熟练能力）",
+    "sentence": "New skills are needed for the green economy."
+  },
+  {
+    "id": 1159,
+    "word": "Slash",
+    "phonetic": "/slæʃ/",
+    "解释": "v. 大幅削减（指以猛烈挥砍的动作切割，或大幅度降低）",
+    "sentence": "The plan would slash emissions by 60 percent by 2035."
+  },
+  {
+    "id": 1160,
+    "word": "Smart",
+    "phonetic": "/smɑːrt/",
+    "解释": "adj. 聪明的（指智力强的，或时尚的）",
+    "sentence": "Smart grids can balance electricity supply and demand in real time."
+  },
+  {
+    "id": 1161,
+    "word": "Social",
+    "phonetic": "/ˈsoʊʃl/",
+    "解释": "adj. 社会的（指与人类一起生活或共同组成社区的）",
+    "sentence": "Social unrest can follow extreme weather events and crop failures."
+  },
+  {
+    "id": 1162,
+    "word": "Society",
+    "phonetic": "/səˈsaɪɪti/",
+    "解释": "n. 社会（指居于同一社区、共享文化的人构成的群体）",
+    "sentence": "Climate change affects every aspect of human society."
+  },
+  {
+    "id": 1163,
+    "word": "Solution",
+    "phonetic": "/səˈluːʃn/",
+    "解释": "n. 解决方案（指解决难题或改善困难境地的方法）",
+    "sentence": "There is no single solution to the climate crisis."
+  },
+  {
+    "id": 1164,
+    "word": "Sort",
+    "phonetic": "/sɔːrt/",
+    "解释": "n./v. 种类；分类（指事物所属的类别，或按顺序整理）",
+    "sentence": "They are working on a range of different solutions to suit all sorts of situation."
+  },
+  {
+    "id": 1165,
+    "word": "Source",
+    "phonetic": "/sɔːrs/",
+    "解释": "n. 来源（指某事发生、某物出现的起源或起点）",
+    "sentence": "The main source of greenhouse gases is the burning of fossil fuels."
+  },
+  {
+    "id": 1166,
+    "word": "Species",
+    "phonetic": "/ˈspiːʃiːz/",
+    "解释": "n. 物种（指生物分类中具有共同特征并能交配繁殖的一群生物）",
+    "sentence": "Many species are at risk of extinction due to climate change."
+  },
+  {
+    "id": 1167,
+    "word": "Specific",
+    "phonetic": "/spəˈsɪfɪk/",
+    "解释": "adj. 具体的（指明确的、准确的而非笼统的）",
+    "sentence": "The report makes specific recommendations for policymakers."
+  },
+  {
+    "id": 1168,
+    "word": "Specimen",
+    "phonetic": "/ˈspesɪmən/",
+    "解释": "n. 标本（指一件用于研究或展示的典型例子，尤指动植物的）",
+    "sentence": "The museum has specimens of plants collected over the past century."
+  },
+  {
+    "id": 1169,
+    "word": "Sponsor",
+    "phonetic": "/ˈspɒnsər/",
+    "解释": "n./v. 赞助者（指为活动或项目提供资助的个人或组织）",
+    "sentence": "The conference was sponsored by several clean energy companies."
+  },
+  {
+    "id": 1170,
+    "word": "Stable",
+    "phonetic": "/ˈsteɪbl/",
+    "解释": "adj. 稳定的（指不易改变、移动或倒塌的）",
+    "sentence": "A stable climate is essential for human civilization."
+  },
+  {
+    "id": 1171,
+    "word": "Staff",
+    "phonetic": "/stæf/",
+    "解释": "n. 工作人员（指受雇在某个组织中工作的一群人）",
+    "sentence": "The organization has a staff of 200 working on climate policy."
+  },
+  {
+    "id": 1172,
+    "word": "Stage",
+    "phonetic": "/steɪdʒ/",
+    "解释": "n./v. 阶段；上演（指进程中可区分的部分，或在剧场演出）",
+    "sentence": "We are at a critical stage in the fight against climate change."
+  },
+  {
+    "id": 1173,
+    "word": "Stakeholder",
+    "phonetic": "/ˈsteɪkhoʊldər/",
+    "解释": "n. 利益相关者（指可受某决策或行动影响的个人、团体）",
+    "sentence": "All stakeholders must be involved in the transition to a green economy."
+  },
+  {
+    "id": 1174,
+    "word": "Standard",
+    "phonetic": "/ˈstændərd/",
+    "解释": "n./adj. 标准（指衡量品质或成就的权威尺度，或普通的、合规格的）",
+    "sentence": "The new standards require cars to be more fuel-efficient."
+  },
+  {
+    "id": 1175,
+    "word": "Starve",
+    "phonetic": "/stɑːrv/",
+    "解释": "v. 挨饿（指因缺乏食物而受折磨或死亡）",
+    "sentence": "Millions could starve if crop yields continue to fall."
+  },
+  {
+    "id": 1176,
+    "word": "State",
+    "phonetic": "/steɪt/",
+    "解释": "n./v./adj. 州；状态（指一国内之政治分区，或某事物在特定时间的情形）",
+    "sentence": "The state of the climate is deteriorating faster than predicted."
+  },
+  {
+    "id": 1177,
+    "word": "Station",
+    "phonetic": "/ˈsteɪʃn/",
+    "解释": "n. 站（指为某种特定活动开设的场所或建筑）",
+    "sentence": "Weather stations around the world record temperature and rainfall."
+  },
+  {
+    "id": 1178,
+    "word": "Statistic",
+    "phonetic": "/stəˈtɪstɪk/",
+    "解释": "n. 统计数据（指以数字形式给出的有关某群体事实信息的单项）",
+    "sentence": "Statistics show that the last decade was the hottest on record."
+  },
+  {
+    "id": 1179,
+    "word": "Status",
+    "phonetic": "/ˈsteɪtəs/",
+    "解释": "n. 地位；状态（指某人或某事物相对于他人的社会或法律位置）",
+    "sentence": "The status of the climate agreement is uncertain after the election."
+  },
+  {
+    "id": 1180,
+    "word": "Steady",
+    "phonetic": "/ˈstedi/",
+    "解释": "adj. 稳定的（指平稳发展、不波动的）",
+    "sentence": "There has been a steady increase in renewable energy capacity."
+  },
+  {
+    "id": 1181,
+    "word": "Sterve",
+    "phonetic": "/stɜːrv/",
+    "解释": "v. 挨饿（见 starve）",
+    "sentence": "Many families in the region have been sterwing for months due to drought."
+  },
+  {
+    "id": 1182,
+    "word": "Stick",
+    "phonetic": "/stɪk/",
+    "解释": "n./v. 棍子；粘贴（指切下的细木杆，或以黏性物质使两物相粘）",
+    "sentence": "The government stuck to its climate targets despite industry pressure."
+  },
+  {
+    "id": 1183,
+    "word": "Stimulate",
+    "phonetic": "/ˈstɪmjuleɪt/",
+    "解释": "v. 刺激（指激使某事更活跃或更快速发生）",
+    "sentence": "Green subsidies can stimulate innovation in clean technologies."
+  },
+  {
+    "id": 1184,
+    "word": "Strategy",
+    "phonetic": "/ˈstrætədʒi/",
+    "解释": "n. 战略（指为达成长远或总体目标而制定的全面计划）",
+    "sentence": "Every country needs a clear climate strategy."
+  },
+  {
+    "id": 1185,
+    "word": "Stream",
+    "phonetic": "/striːm/",
+    "解释": "n./v. 溪流；流动（指小河流，或按某方向连续移动）",
+    "sentence": "Stream flows are changing as precipitation patterns shift."
+  },
+  {
+    "id": 1186,
+    "word": "Stress",
+    "phonetic": "/stres/",
+    "解释": "n./v. 压力；强调（指困恼紧张的状态，或在说话中以重音突出某词）",
+    "sentence": "Climate stress is affecting agriculture and food security."
+  },
+  {
+    "id": 1187,
+    "word": "Strict",
+    "phonetic": "/strɪkt/",
+    "解释": "adj. 严格的（指必须严格遵守规则、标准等的）",
+    "sentence": "Strict emission limits are needed to meet climate goals."
+  },
+  {
+    "id": 1188,
+    "word": "Strike",
+    "phonetic": "/straɪk/",
+    "解释": "v./n. 罢工；打击（指集体停止工作以施压，或突然攻击）",
+    "sentence": "Workers at the oil refinery went on strike for higher wages."
+  },
+  {
+    "id": 1189,
+    "word": "Structure",
+    "phonetic": "/ˈstrʌktʃər/",
+    "解释": "n. 结构（指事物的组织方式或可辨别的内在排列）",
+    "sentence": "The structure of the agreement allows for flexibility in implementation."
+  },
+  {
+    "id": 1190,
+    "word": "Struggle",
+    "phonetic": "/ˈstrʌɡl/",
+    "解释": "n./v. 奋斗（指为达成困难目标而尽力，或费力移动）",
+    "sentence": "Many countries are struggling to meet their climate commitments."
+  },
+  {
+    "id": 1191,
+    "word": "Student",
+    "phonetic": "/ˈstuːdnt/",
+    "解释": "n. 学生（指在学习某学科的人，尤指大学生）",
+    "sentence": "Students around the world are leading climate protests."
+  },
+  {
+    "id": 1192,
+    "word": "Study",
+    "phonetic": "/ˈstʌdi/",
+    "解释": "n./v. 学习；研究（指为获取知识而投入时间与精力，或详细调查）",
+    "sentence": "A new study finds that methane emissions are underreported."
+  },
+  {
+    "id": 1193,
+    "word": "Subject",
+    "phonetic": "/ˈsʌbdʒɪkt/",
+    "解释": "n./adj. 主题；受…支配的（指正在进行思考或讨论的事，或受他人统治的）",
+    "sentence": "Climate change is the subject of intense political debate."
+  },
+  {
+    "id": 1194,
+    "word": "Submit",
+    "phonetic": "/səbˈmɪt/",
+    "解释": "v. 提交（指正式呈上以供审议或决定）",
+    "sentence": "Countries must submit their climate plans to the UN by next year."
+  },
+  {
+    "id": 1195,
+    "word": "Subsidy",
+    "phonetic": "/ˈsʌbsɪdi/",
+    "解释": "n. 补贴（指政府给予某些行业或个人的财政支持）",
+    "sentence": "Fossil fuel subsidies make it harder to transition to clean energy."
+  },
+  {
+    "id": 1196,
+    "word": "Substance",
+    "phonetic": "/ˈsʌbstəns/",
+    "解释": "n. 物质（指某种特定类型的材料或 Matter）",
+    "sentence": "Greenhouse gases are substances that trap heat in the atmosphere."
+  },
+  {
+    "id": 1197,
+    "word": "Substitue",
+    "phonetic": "/ˈsʌbstɪtjuːt/",
+    "解释": "n./v. 替代品（指能代替另一个人或事物的人或物，或替换）",
+    "sentence": "Renewable energy is a substitute for fossil fuels."
+  },
+  {
+    "id": 1198,
+    "word": "Succeed",
+    "phonetic": "/səkˈsiːd/",
+    "解释": "v. 成功（指实现想要的结果，尤指经过努力后）",
+    "sentence": "We will not succeed in limiting warming without global cooperation."
+  },
+  {
+    "id": 1199,
+    "word": "Success",
+    "phonetic": "/səkˈses/",
+    "解释": "n. 成功（指实现目标或获得有利结果的状态）",
+    "sentence": "The success of the climate summit depends on all countries' commitments."
+  },
+  {
+    "id": 1200,
+    "word": "Suffer",
+    "phonetic": "/ˈsʌfər/",
+    "解释": "v. 遭受（指经历或承受痛苦、伤害等不好的事）",
+    "sentence": "The poorest countries suffer the most from climate change."
+  },
+  {
+    "id": 1201,
+    "word": "Suggest",
+    "phonetic": "/səˈdʒest/",
+    "解释": "v. 建议；表明（指提出想法供考虑，或作为…的迹象）",
+    "sentence": "The report suggests that warming will accelerate without action."
+  },
+  {
+    "id": 1202,
+    "word": "Summarize",
+    "phonetic": "/ˈsʌməraɪz/",
+    "解释": "v. 总结（指给出主要要点的简短陈述）",
+    "sentence": "The summary summarizes key findings from the assessment."
+  },
+  {
+    "id": 1203,
+    "word": "Supply",
+    "phonetic": "/səˈplaɪ/",
+    "解释": "n./v. 供给（指提供商品或服务的行为或数量）",
+    "sentence": "The supply of clean energy is growing rapidly."
+  },
+  {
+    "id": 1204,
+    "word": "Suport",
+    "phonetic": "/səˈpɔːrt/",
+    "解释": "v./n. 支持（指给予鼓励或帮助，或在物理上承担重量）",
+    "sentence": "Public support for climate action is strong."
+  },
+  {
+    "id": 1205,
+    "word": "Sure",
+    "phonetic": "/ʃʊr/",
+    "解释": "adj./adv. 确定的（指对某事物有信心、没有怀疑的）",
+    "sentence": "We are sure that the climate is changing."
+  },
+  {
+    "id": 1206,
+    "word": "Survey",
+    "phonetic": "/ˈsɜːrveɪ/",
+    "解释": "n./v. 调查（指为获取信息而系统询问一群人）",
+    "sentence": "A survey found that 70 percent of people are worried about climate change."
+  },
+  {
+    "id": 1207,
+    "word": "Survive",
+    "phonetic": "/sərˈvaɪv/",
+    "解释": "v. 生存（指继续活着，尤指危险或困难之后）",
+    "sentence": "Many species may not survive the rapid climate change."
+  },
+  {
+    "id": 1208,
+    "word": "Suspect",
+    "phonetic": "/səˈspekt/",
+    "解释": "v./n. 怀疑（指觉得某人可能有罪或有错，或猜想某事可能是真的）",
+    "sentence": "Scientists suspect that the warming is irreversible."
+  },
+  {
+    "id": 1209,
+    "word": "Sustain",
+    "phonetic": "/səˈsteɪn/",
+    "解释": "v. 维持；支撑（指使某事物持续下去，或在物理上支撑）",
+    "sentence": "We must sustain the momentum for climate action."
+  },
+  {
+    "id": 1210,
+    "word": "Swift",
+    "phonetic": "/swɪft/",
+    "解释": "adj. 迅速的（指快速发生或移动的）",
+    "sentence": "Swift action is needed to avoid the worst impacts."
+  },
+  {
+    "id": 1211,
+    "word": "Symptom",
+    "phonetic": "/ˈsɪmptəm/",
+    "解释": "n. 症状（指疾病或问题表现出的迹象）",
+    "sentence": "Rising temperatures are a symptom of a warming planet."
+  },
+  {
+    "id": 1212,
+    "word": "System",
+    "phonetic": "/ˈsɪstəm/",
+    "解释": "n. 系统（指为共同目的协同工作的一组部件或步骤）",
+    "sentence": "The Earth system includes the atmosphere, oceans, and land."
+  },
+  {
+    "id": 1213,
+    "word": "Target",
+    "phonetic": "/ˈtɑːrɡɪt/",
+    "解释": "n./v. 目标（指努力想达到或击中某事物的对象，或设定为目标）",
+    "sentence": "The target of net-zero emissions by 2050 is ambitious."
+  },
+  {
+    "id": 1214,
+    "word": "Tax",
+    "phonetic": "/tæks/",
+    "解释": "n./v. 税（指向政府缴纳的钱，或对某人某物施加压力）",
+    "sentence": "A carbon tax can help reduce emissions."
+  },
+  {
+    "id": 1215,
+    "word": "Team",
+    "phonetic": "/tiːm/",
+    "解释": "n. 团队（指一起工作以达成共同目标的一群人）",
+    "sentence": "Our team is working on climate solutions."
+  },
+  {
+    "id": 1216,
+    "word": "Technical",
+    "phonetic": "/ˈteknɪkl/",
+    "解释": "adj. 技术的（指与科学、工业或机械技能有关的）",
+    "sentence": "Technical solutions alone are not enough to solve climate change."
+  },
+  {
+    "id": 1217,
+    "word": "Technology",
+    "phonetic": "/tekˈnɒlədʒi/",
+    "解释": "n. 技术（指科学知识在实际任务中的运用）",
+    "sentence": "Technology can help us monitor and reduce emissions."
+  },
+  {
+    "id": 1218,
+    "word": "Temperature",
+    "phonetic": "/ˈtemprətʃər/",
+    "解释": "n. 温度（指某物冷热程度的度量）",
+    "sentence": "Global temperatures have risen by 1.1 degrees Celsius."
+  },
+  {
+    "id": 1219,
+    "word": "Temporary",
+    "phonetic": "/ˈtempəreri/",
+    "解释": "adj. 暂时的（指只持续较短时间的）",
+    "sentence": "The cooling effect of aerosols is only temporary."
+  },
+  {
+    "id": 1220,
+    "word": "Tend",
+    "phonetic": "/tend/",
+    "解释": "v. 倾向于（指经常做某事或很可能发生某事）",
+    "sentence": "Temperatures tend to be higher in cities than in rural areas."
+  },
+  {
+    "id": 1221,
+    "word": "Term",
+    "phonetic": "/tɜːrm/",
+    "解释": "n. 术语；任期（指某专业领域的词语，或在职位上的时间）",
+    "sentence": "The term 'global warming' was coined in the 1970s."
+  },
+  {
+    "id": 1222,
+    "word": "Terrible",
+    "phonetic": "/ˈterɪbl/",
+    "解释": "adj. 可怕的（指极糟糕的、严重的）",
+    "sentence": "The terrible impacts of climate change are already visible."
+  },
+  {
+    "id": 1223,
+    "word": "Test",
+    "phonetic": "/test/",
+    "解释": "n./v. 测试（指检查某人的知识或某物的质量）",
+    "sentence": "The new technology has been tested in several countries."
+  },
+  {
+    "id": 1224,
+    "word": "Text",
+    "phonetic": "/tekst/",
+    "解释": "n. 文本（指书面语而非口语，或书籍、文章的正文）",
+    "sentence": "The text of the agreement runs to over 100 pages."
+  },
+  {
+    "id": 1225,
+    "word": "Thesis",
+    "phonetic": "/ˈθiːsɪs/",
+    "解释": "n. 论文；论点（指为获取学位而写的长篇研究文章，或论证中的主要观点）",
+    "sentence": "Her thesis focuses on climate adaptation in coastal cities."
+  },
+  {
+    "id": 1226,
+    "word": "Threat",
+    "phonetic": "/θret/",
+    "解释": "n. 威胁（指可能造成危害的人或事物）",
+    "sentence": "Climate change is a threat to global food security."
+  },
+  {
+    "id": 1227,
+    "word": "Threshold",
+    "phonetic": "/ˈθreʃhoʊld/",
+    "解释": "n. 阈值（指某事物开始或改变的最低限度）",
+    "sentence": "We are approaching critical climate thresholds."
+  },
+  {
+    "id": 1228,
+    "word": "Tidy",
+    "phonetic": "/ˈtaɪdi/",
+    "解释": "adj./v. 整洁的（指整齐、有秩序的）",
+    "sentence": "The data has been tidied and is ready for analysis."
+  },
+  {
+    "id": 1229,
+    "word": "Timber",
+    "phonetic": "/ˈtɪmbər/",
+    "解释": "n. 木材（指可用于建筑或做家具的树木木材）",
+    "sentence": "Timber from old-growth forests stores carbon for centuries."
+  },
+  {
+    "id": 1230,
+    "word": "Topic",
+    "phonetic": "/ˈtɒpɪk/",
+    "解释": "n. 话题（指讨论、写作或学习的主旨）",
+    "sentence": "Climate change is a complex and urgent topic."
+  },
+  {
+    "id": 1231,
+    "word": "Total",
+    "phonetic": "/ˈtoʊtl/",
+    "解释": "adj./n. 总计的（指完整的数量或程度）",
+    "sentence": "Total global emissions reached a record high in 2023."
+  },
+  {
+    "id": 1232,
+    "word": "Tourism",
+    "phonetic": "/ˈtʊərɪzəm/",
+    "解释": "n. 旅游业（指向游客提供服务以换取收入的行业）",
+    "sentence": "Tourism is vulnerable to climate change impacts."
+  },
+  {
+    "id": 1233,
+    "word": "Trace",
+    "phonetic": "/treɪs/",
+    "解释": "v./n. 追溯；痕迹（指找到某事的发展过程或来源，或留下的少量某物）",
+    "sentence": "We can trace the rise in CO2 back to the Industrial Revolution."
+  },
+  {
+    "id": 1234,
+    "word": "Track",
+    "phonetic": "/træk/",
+    "解释": "n./v. 轨道；追踪（指车辆行驶的路径，或跟随并记录的移动）",
+    "sentence": "Scientists track changes in the climate system."
+  },
+  {
+    "id": 1235,
+    "word": "Trade",
+    "phonetic": "/treɪd/",
+    "解释": "n./v. 贸易（指向他国购买或销售商品与服务的行为）",
+    "sentence": "Trade in clean energy technologies is growing rapidly."
+  },
+  {
+    "id": 1236,
+    "word": "Traditional",
+    "phonetic": "/trəˈdɪʃənl/",
+    "解释": "adj. 传统的（指长期存在、被社会广泛接受的）",
+    "sentence": "Traditional energy sources are being replaced by renewables."
+  },
+  {
+    "id": 1237,
+    "word": "Trafic",
+    "phonetic": "/ˈtræfɪk/",
+    "解释": "n. 交通（指在道路、航线等上移动的车辆、飞机等）",
+    "sentence": "Traffic congestion contributes to urban air pollution."
+  },
+  {
+    "id": 1238,
+    "word": "Train",
+    "phonetic": "/treɪn/",
+    "解释": "n./v. 火车；训练（指由机车牵引在多节车厢在铁轨上行驶的交通工具，或教某人学习技能）",
+    "sentence": "The train runs on electricity from renewable sources."
+  },
+  {
+    "id": 1239,
+    "word": "Transform",
+    "phonetic": "/trænsˈfɔːrm/",
+    "解释": "v. 转变（指彻底改变某事物的外观、性质或特征）",
+    "sentence": "We need to transform our energy systems."
+  },
+  {
+    "id": 1240,
+    "word": "Transistor",
+    "phonetic": "/trænˈzɪstər/",
+    "解释": "n. 晶体管（指控制电流流动的电子元件）",
+    "sentence": "Transistors are the building blocks of modern electronics."
+  },
+  {
+    "id": 1241,
+    "word": "Transition",
+    "phonetic": "/trænˈzɪʃn/",
+    "解释": "n. 过渡（指从一种状态或情况变为另一种的状态或情况的过程）",
+    "sentence": "The transition to a low-carbon economy is underway."
+  },
+  {
+    "id": 1242,
+    "word": "Translate",
+    "phonetic": "/trænsˈleɪt/",
+    "解释": "v. 翻译（指将文字从一种语言转换为另一种语言）",
+    "sentence": "The report has been translated into 10 languages."
+  },
+  {
+    "id": 1243,
+    "word": "Transport",
+    "phonetic": "/ˈtrænspɔːrt/",
+    "解释": "n./v. 运输（指将人或物从一个地方运到另一个地方）",
+    "sentence": "Transport is a major source of greenhouse gas emissions."
+  },
+  {
+    "id": 1244,
+    "word": "Trend",
+    "phonetic": "/trend/",
+    "解释": "n. 趋势（指普遍的发展方向或模式）",
+    "sentence": "The trend is clear: the world is warming."
+  },
+  {
+    "id": 1245,
+    "word": "Trial",
+    "phonetic": "/ˈtraɪəl/",
+    "解释": "n. 试验；审判（指在法庭上审查案件的过程，或测试某物是否有效的过程）",
+    "sentence": "Clinical trials are testing new vaccines."
+  },
+  {
+    "id": 1246,
+    "word": "Trigger",
+    "phonetic": "/ˈtrɪɡər/",
+    "解释": "n./v. 触发（指引发某事发生的事件或情况，或使某事开始）",
+    "sentence": "Rising temperatures could trigger the release of methane from permafrost."
+  },
+  {
+    "id": 1247,
+    "word": "Triple",
+    "phonetic": "/ˈtrɪpl/",
+    "解释": "adj./n./v. 三倍的（指由三部分组成的，或变为原来三倍大）",
+    "sentence": "Emissions from aviation could triple by 2050."
+  },
+  {
+    "id": 1248,
+    "word": "Tropical",
+    "phonetic": "/ˈtrɒpɪkl/",
+    "解释": "adj. 热带的（指位于南北回归线之间的地区，或具有该地气候特征的）",
+    "sentence": "Tropical forests are biodiversity hotspots."
+  },
+  {
+    "id": 1249,
+    "word": "Trust",
+    "phonetic": "/trʌst/",
+    "解释": "n./v. 信任（指相信某人会可靠、诚实、有效）",
+    "sentence": "We need to build public trust in climate science."
+  },
+  {
+    "id": 1250,
+    "word": "Turn",
+    "phonetic": "/tɜːrn/",
+    "解释": "v./n. 转动；轮流（指绕轴旋转，或在游戏中每人依次做某事的机会）",
+    "sentence": "The tide is turning in favor of climate action."
+  },
+  {
+    "id": 1251,
+    "word": "Typical",
+    "phonetic": "/ˈtɪpɪkl/",
+    "解释": "adj. 典型的（指具有某类事物特征的）",
+    "sentence": "This is a typical example of a climate impact study."
+  },
+  {
+    "id": 1252,
+    "word": "Uncertain",
+    "phonetic": "/ʌnˈsɜːrtn/",
+    "解释": "adj. 不确定的（指不知道、无法预测或没有把握的）",
+    "sentence": "The exact impacts of climate change are still uncertain."
+  },
+  {
+    "id": 1253,
+    "word": "Unconscious",
+    "phonetic": "/ʌnˈkɒnʃəs/",
+    "解释": "adj. 无意识的（指未察觉或未注意的）",
+    "sentence": "We are often unconscious of our own carbon footprint."
+  },
+  {
+    "id": 1254,
+    "word": "Underline",
+    "phonetic": "/ˌʌndərˈlaɪn/",
+    "解释": "v. 强调（指使某事物更明显或更重要）",
+    "sentence": "The report underlines the urgency of climate action."
+  },
+  {
+    "id": 1255,
+    "word": "Undergo",
+    "phonetic": "/ˌʌndərˈɡoʊ/",
+    "解释": "v. 经历（指体验或遭受某事物，尤指困难或变化）",
+    "sentence": "The climate system is undergoing unprecedented changes."
+  },
+  {
+    "id": 1256,
+    "word": "Understand",
+    "phonetic": "/ˌʌndərˈstænd/",
+    "解释": "v. 理解（指知道某事物的意义、原因或本质）",
+    "sentence": "We need to understand the risks of climate change."
+  },
+  {
+    "id": 1257,
+    "word": "Undertake",
+    "phonetic": "/ˌʌndərˈteɪk/",
+    "解释": "v. 承担（指开始或同意做某事，尤指重要或困难的事）",
+    "sentence": "The government has undertaken a major review of climate policy."
+  },
+  {
+    "id": 1258,
+    "word": "Unemployment",
+    "phonetic": "/ˌʌnɪmˈplɔɪmənt/",
+    "解释": "n. 失业（指没有工作的状态）",
+    "sentence": "The transition to clean energy could cause short-term unemployment in some sectors."
+  },
+  {
+    "id": 1259,
+    "word": "Unfair",
+    "phonetic": "/ʌnˈfer/",
+    "解释": "adj. 不公平的（指不公正、偏袒或不诚实的）",
+    "sentence": "It is unfair that the poorest countries suffer most from climate change."
+  },
+  {
+    "id": 1260,
+    "word": "Unite",
+    "phonetic": "/juˈnaɪt/",
+    "解释": "v. 联合（指使两个或多个人或团体一起工作，或结合成一体）",
+    "sentence": "Countries must unite to fight climate change."
+  },
+  {
+    "id": 1261,
+    "word": "Unity",
+    "phonetic": "/ˈjuːnɪti/",
+    "解释": "n. 团结（指和谐地一起工作的状态）",
+    "sentence": "Global unity is essential to address the climate crisis."
+  },
+  {
+    "id": 1262,
+    "word": "Universal",
+    "phonetic": "/ˌjuːnɪˈvɜːrsl/",
+    "解释": "adj. 普遍的（指适用于所有人或一切事物的）",
+    "sentence": "Climate change is a universal challenge."
+  },
+  {
+    "id": 1263,
+    "word": "Universe",
+    "phonetic": "/ˈjuːnɪvɜːrs/",
+    "解释": "n. 宇宙（指存在的一切事物，包括空间、时间、物质和能量）",
+    "sentence": "The universe is vast and largely unexplored."
+  },
+  {
+    "id": 1264,
+    "word": "University",
+    "phonetic": "/ˌjuːnɪˈvɜːrsɪti/",
+    "解释": "n. 大学（指提供高等教育、授予学位的机构）",
+    "sentence": "Many universities have declared climate emergencies."
+  },
+  {
+    "id": 1265,
+    "word": "Unless",
+    "phonetic": "/ənˈles/",
+    "解释": "conj. 除非（用于引入某种情况的例外）",
+    "sentence": "We cannot avoid dangerous warming unless we cut emissions rapidly."
+  },
+  {
+    "id": 1266,
+    "word": "Unlike",
+    "phonetic": "/ʌnˈlaɪk/",
+    "解释": "prep./adj. 不像（指与另一事物不同）",
+    "sentence": "Unlike past warm periods, current warming is human-caused."
+  },
+  {
+    "id": 1267,
+    "word": "Unlikely",
+    "phonetic": "/ʌnˈlaɪkli/",
+    "解释": "adj. 不太可能的（指不大可能发生的）",
+    "sentence": "It is unlikely that we can avoid all climate impacts."
+  },
+  {
+    "id": 1268,
+    "word": "Unrest",
+    "phonetic": "/ʌnˈrest/",
+    "解释": "n. 动荡（指社会或政治上的不安定、骚乱状态）",
+    "sentence": "Climate change could lead to social unrest."
+  },
+  {
+    "id": 1269,
+    "word": "Unsafe",
+    "phonetic": "/ʌnˈseɪf/",
+    "解释": "adj. 不安全的（指可能造成伤害或危险的）",
+    "sentence": "Many areas will become unsafe to live in due to climate change."
+  },
+  {
+    "id": 1270,
+    "word": "Until",
+    "phonetic": "/ənˈtɪl/",
+    "解释": "prep./conj. 直到（用于表示动作或状态持续到某一点）",
+    "sentence": "We must act until we reach net-zero emissions."
+  },
+  {
+    "id": 1271,
+    "word": "Unusual",
+    "phonetic": "/ʌnˈjuːʒuəl/",
+    "解释": "adj. 不寻常的（指不常发生的、特别的）",
+    "sentence": "The heatwave was unusual in its intensity and duration."
+  },
+  {
+    "id": 1272,
+    "word": "Updae",
+    "phonetic": "/ʌpˈdeɪt/",
+    "解释": "v./n. 更新（指使某事物包含最新信息或反映最新情况）",
+    "sentence": "The data is updated annually."
+  },
+  {
+    "id": 1273,
+    "word": "Upgrade",
+    "phonetic": "/ʌpˈɡreɪd/",
+    "解释": "v./n. 升级（指用更好、更新或更强的事物替换）",
+    "sentence": "We need to upgrade our power grid."
+  },
+  {
+    "id": 1274,
+    "word": "Uphold",
+    "phonetic": "/ʌpˈhoʊld/",
+    "解释": "v. 支持；维护（指赞同并维护某决定、原则或法律）",
+    "sentence": "Countries must uphold the Paris Agreement."
+  },
+  {
+    "id": 1275,
+    "word": "Upload",
+    "phonetic": "/ʌpˈloʊd/",
+    "解释": "v. 上传（指将文件或数据从一台计算机发送到另一台）",
+    "sentence": "The data was uploaded to an open-access database."
+  },
+  {
+    "id": 1276,
+    "word": "Uppermost",
+    "phonetic": "/ˈʌpərmoʊst/",
+    "解释": "adj. 最高的（指处于最高位置或等级的）",
+    "sentence": "The uppermost layer of the ocean is warming fastest."
+  },
+  {
+    "id": 1277,
+    "word": "Urge",
+    "phonetic": "/ɜːrdʒ/",
+    "解释": "n./v. 敦促（指强烈建议某人做某事，或强烈的欲望）",
+    "sentence": "Scientists urge immediate action on climate."
+  },
+  {
+    "id": 1278,
+    "word": "Urgent",
+    "phonetic": "/ˈɜːrdʒənt/",
+    "解释": "adj. 紧急的（指需要立即注意或行动的）",
+    "sentence": "Climate action is urgent."
+  },
+  {
+    "id": 1279,
+    "word": "Usual",
+    "phonetic": "/ˈjuːʒuəl/",
+    "解释": "adj. 通常的（指习惯性的、预期的）",
+    "sentence": "The usual patterns of weather are changing."
+  },
+  {
+    "id": 1280,
+    "word": "Utility",
+    "phonetic": "/juːˈtɪlɪti/",
+    "解释": "n. 公用事业（指向公众提供水、电、气等基本服务的公司）",
+    "sentence": "Utilities are investing in renewable energy."
+  },
+  {
+    "id": 1281,
+    "word": "Utterly",
+    "phonetic": "/ˈʌtərli/",
+    "解释": "adv. 完全地（指彻底、全然地）",
+    "sentence": "The situation is utterly unprecedented."
+  },
+  {
+    "id": 1282,
+    "word": "Vacant",
+    "phonetic": "/ˈveɪkənt/",
+    "解释": "adj. 空的（指没有人在其中或占据的）",
+    "sentence": "Many offices remain vacant after the pandemic."
+  },
+  {
+    "id": 1283,
+    "word": "Valid",
+    "phonetic": "/ˈvælɪd/",
+    "解释": "adj. 有效的（指有事实或逻辑支持的，或在法律或规则上可接受的）",
+    "sentence": "The study's conclusions are valid."
+  },
+  {
+    "id": 1284,
+    "word": "Value",
+    "phonetic": "/ˈvæljuː/",
+    "解释": "n./v. 价值（指某事物的重要性、用途或代价）",
+    "sentence": "The value of ecosystem services is often underestimated."
+  },
+  {
+    "id": 1285,
+    "word": "Vanish",
+    "phonetic": "/ˈvænɪʃ/",
+    "解释": "v. 消失（指突然或神秘地不复存在）",
+    "sentence": "Some islands may vanish under rising seas."
+  },
+  {
+    "id": 1286,
+    "word": "Variable",
+    "phonetic": "/ˈverɪəbl/",
+    "解释": "n./adj. 变量（指在实验中可以改变或测量的因素，或多变的）",
+    "sentence": "Temperature is a key variable in the model."
+  },
+  {
+    "id": 1287,
+    "word": "Variation",
+    "phonetic": "/ˌveriˈeɪʃn/",
+    "解释": "n. 变化（指不同情况之间的差异）",
+    "sentence": "There is natural variation in the climate system."
+  },
+  {
+    "id": 1288,
+    "word": "Various",
+    "phonetic": "/ˈveriəs/",
+    "解释": "adj. 各种各样的（指多个不同的）",
+    "sentence": "Various sectors need to be decarbonized."
+  },
+  {
+    "id": 1289,
+    "word": "Vehicle",
+    "phonetic": "/ˈviːɪkl/",
+    "解释": "n. 车辆（指用于在陆地上运输人或物的机器）",
+    "sentence": "Electric vehicles are becoming more affordable."
+  },
+  {
+    "id": 1290,
+    "word": "Version",
+    "phonetic": "/ˈvɜːrʒn/",
+    "解释": "n. 版本（指某物的一变体形式）",
+    "sentence": "The latest version of the report is available online."
+  },
+  {
+    "id": 1291,
+    "word": "Vessel",
+    "phonetic": "/ˈvesl/",
+    "解释": "n. 船；容器（指用于水上航行的较大船只，或用于盛放液体的容器）",
+    "sentence": "Research vessels study the oceans."
+  },
+  {
+    "id": 1292,
+    "word": "Vibrant",
+    "phonetic": "/ˈvaɪbrənt/",
+    "解释": "adj. 充满活力的（指精力充沛、色彩鲜艳或生机勃勃的）",
+    "sentence": "A vibrant civil society is essential for climate action."
+  },
+  {
+    "id": 1293,
+    "word": "Victim",
+    "phonetic": "/ˈvɪktɪm/",
+    "解释": "n. 受害者（指被攻击、受伤或欺骗的人或动物）",
+    "sentence": "The victims of climate change are often the poorest."
+  },
+  {
+    "id": 1294,
+    "word": "View",
+    "phonetic": "/vjuː/",
+    "解释": "n./v. 观点；景色（指个人对某事物的想法，或从某处能看到的景象）",
+    "sentence": "In my view, climate action is a moral imperative."
+  },
+  {
+    "id": 1295,
+    "word": "Violate",
+    "phonetic": "/ˈvaɪəleɪt/",
+    "解释": "v. 违反（指不遵守法律、协议或原则）",
+    "sentence": "Countries that violate the agreement could face sanctions."
+  },
+  {
+    "id": 1296,
+    "word": "Violent",
+    "phonetic": "/ˈvaɪələnt/",
+    "解释": "adj. 暴力的（指使用猛烈武力或造成身体伤害的）",
+    "sentence": "Climate change could lead to more violent conflicts."
+  },
+  {
+    "id": 1297,
+    "word": "Virtual",
+    "phonetic": "/ˈvɜːrtʃuəl/",
+    "解释": "adj. 虚拟的（指由软件模拟的而非物理存在的）",
+    "sentence": "The conference was held as a virtual event."
+  },
+  {
+    "id": 1298,
+    "word": "Virtue",
+    "phonetic": "/ˈvɜːrtʃuː/",
+    "解释": "n. 美德（指道德上的优点或善行）",
+    "sentence": "Sustainability is a virtue we should all cultivate."
+  },
+  {
+    "id": 1299,
+    "word": "Visible",
+    "phonetic": "/ˈvɪzɪbl/",
+    "解释": "adj. 可见的（指能被眼睛看到的）",
+    "sentence": "The impacts of climate change are visible worldwide."
+  },
+  {
+    "id": 1300,
+    "word": "Vision",
+    "phonetic": "/ˈvɪʒn/",
+    "解释": "n. 愿景（指对未来的想象或希望）",
+    "sentence": "We need a clear vision for a zero-carbon future."
+  },
+  {
+    "id": 1301,
+    "word": "Visit",
+    "phonetic": "/ˈvɪzɪt/",
+    "解释": "n./v. 访问（指去某地看看或见某人，或去某地度假）",
+    "sentence": "I will visit the Great Wall next summer."
+  },
+  {
+    "id": 1302,
+    "word": "Visitor",
+    "phonetic": "/ˈvɪzɪtər/",
+    "解释": "n. 访客（指来访的人，尤指旅游者）",
+    "sentence": "The museum has many visitors every day."
+  },
+  {
+    "id": 1303,
+    "word": "Visual",
+    "phonetic": "/ˈvɪʒuəl/",
+    "解释": "adj. 视觉的（指与看或图像有关的）",
+    "sentence": "Visual aids help students understand better."
+  },
+  {
+    "id": 1304,
+    "word": "Vital",
+    "phonetic": "/ˈvaɪtl/",
+    "解释": "adj. 至关重要的（指极其重要、必不可少的）",
+    "sentence": "Water is vital for all living things."
+  },
+  {
+    "id": 1305,
+    "word": "Vocabulary",
+    "phonetic": "/voʊˈkæbjəleri/",
+    "解释": "n. 词汇（指某人掌握或使用的词语总量）",
+    "sentence": "Reading helps build vocabulary."
+  },
+  {
+    "id": 1306,
+    "word": "Voice",
+    "phonetic": "/vɔɪs/",
+    "解释": "n. 声音（指人说话或唱歌的嗓音）",
+    "sentence": "She has a beautiful voice."
+  },
+  {
+    "id": 1307,
+    "word": "Volume",
+    "phonetic": "/ˈvɒljuːm/",
+    "解释": "n. 音量；卷（指声音的响度，或书籍的一册）",
+    "sentence": "Please turn down the volume."
+  },
+  {
+    "id": 1308,
+    "word": "Volunteer",
+    "phonetic": "/ˌvɒlənˈtɪr/",
+    "解释": "n./v. 志愿者（指自愿无偿工作的人，或自愿做某事）",
+    "sentence": "He volunteers at the local hospital."
+  },
+  {
+    "id": 1309,
+    "word": "Vote",
+    "phonetic": "/voʊt/",
+    "解释": "n./v. 投票（指 Formal expression of choice in an election）",
+    "sentence": "Citizens have the right to vote."
+  },
+  {
+    "id": 1310,
+    "word": "Voyage",
+    "phonetic": "/ˈvɔɪɪdʒ/",
+    "解释": "n. 航行（指长途海上或空中旅行）",
+    "sentence": "The voyage across the Atlantic took a week."
+  },
+  {
+    "id": 1311,
+    "word": "Wage",
+    "phonetic": "/weɪdʒ/",
+    "解释": "n. 工资（指按小时或按周支付的劳动报酬）",
+    "sentence": "The minimum wage is too low."
+  },
+  {
+    "id": 1312,
+    "word": "Wait",
+    "phonetic": "/weɪt/",
+    "解释": "v. 等待（指留在某地直到某事发生或某人到来）",
+    "sentence": "Please wait here for a moment."
+  },
+  {
+    "id": 1313,
+    "word": "Wake",
+    "phonetic": "/weɪk/",
+    "解释": "v. 醒来（指停止睡觉、恢复意识）",
+    "sentence": "I usually wake up at 7 a.m."
+  },
+  {
+    "id": 1314,
+    "word": "Walk",
+    "phonetic": "/wɔːk/",
+    "解释": "v./n. 走路（指用双腿步行移动）",
+    "sentence": "Let's walk to school together."
+  },
+  {
+    "id": 1315,
+    "word": "Want",
+    "phonetic": "/wɒnt/",
+    "解释": "v. 想要（指有得到或做某事的愿望）",
+    "sentence": "I want to learn English well."
+  },
+  {
+    "id": 1316,
+    "word": "War",
+    "phonetic": "/wɔːr/",
+    "解释": "n. 战争（指国家或群体之间的武装冲突）",
+    "sentence": "War brings great suffering."
+  },
+  {
+    "id": 1317,
+    "word": "Warm",
+    "phonetic": "/wɔːrm/",
+    "解释": "adj. 温暖的（指温度适中、不冷的）",
+    "sentence": "It's a warm day today."
+  },
+  {
+    "id": 1318,
+    "word": "Warn",
+    "phonetic": "/wɔːrn/",
+    "解释": "v. 警告（指提前告知可能的危险）",
+    "sentence": "The teacher warned us about the exam."
+  },
+  {
+    "id": 1319,
+    "word": "Wash",
+    "phonetic": "/wɒʃ/",
+    "解释": "v. 洗（指用水和肥皂清洁某物）",
+    "sentence": "Please wash your hands before eating."
+  },
+  {
+    "id": 1320,
+    "word": "Waste",
+    "phonetic": "/weɪst/",
+    "解释": "n./v. 浪费（指不必要地消耗或未能充分利用某物）",
+    "sentence": "Don't waste food."
+  },
+  {
+    "id": 1321,
+    "word": "Watch",
+    "phonetic": "/wɒtʃ/",
+    "解释": "n./v. 手表；观看（指系在手腕上的计时器，或注意地看着）",
+    "sentence": "I watch TV every evening."
+  },
+  {
+    "id": 1322,
+    "word": "Water",
+    "phonetic": "/ˈwɔːtər/",
+    "解释": "n. 水（指无色无味的透明液体，化学式 H2O）",
+    "sentence": "We need to drink more water."
+  },
+  {
+    "id": 1323,
+    "word": "Wave",
+    "phonetic": "/weɪv/",
+    "解释": "n./v. 波浪（指水面的波动，或挥手致意）",
+    "sentence": "The waves are very high today."
+  },
+  {
+    "id": 1324,
+    "word": "Way",
+    "phonetic": "/weɪ/",
+    "解释": "n. 方式；道路（指做某事的方法，或通向某地的路径）",
+    "sentence": "This is the best way to learn English."
+  },
+  {
+    "id": 1325,
+    "word": "We",
+    "phonetic": "/wiː/",
+    "解释": "pron. 我们（第一人称复数主格）",
+    "sentence": "We are going to the park."
+  },
+  {
+    "id": 1326,
+    "word": "Weak",
+    "phonetic": "/wiːk/",
+    "解释": "adj. 虚弱的（指缺乏力量、能量或权力的）",
+    "sentence": "He feels weak after the illness."
+  },
+  {
+    "id": 1327,
+    "word": "Wealth",
+    "phonetic": "/welθ/",
+    "解释": "n. 财富（指大量金钱或贵重物品）",
+    "sentence": "He accumulated great wealth over the years."
+  },
+  {
+    "id": 1328,
+    "word": "Wear",
+    "phonetic": "/wer/",
+    "解释": "v. 穿（指把衣服、鞋子等穿在身上）",
+    "sentence": "What do you wear to school?"
+  },
+  {
+    "id": 1329,
+    "word": "Weather",
+    "phonetic": "/ˈweðər/",
+    "解释": "n. 天气（指某地某时的大气状况，如晴雨冷热）",
+    "sentence": "The weather is nice today."
+  },
+  {
+    "id": 1330,
+    "word": "Website",
+    "phonetic": "/ˈwebsaɪt/",
+    "解释": "n. 网站（指互联网上由单一域名标识的一组相关网页）",
+    "sentence": "Visit our website for more information."
+  },
+  {
+    "id": 1331,
+    "word": "Wedding",
+    "phonetic": "/ˈwedɪŋ/",
+    "解释": "n. 婚礼（指结婚仪式）",
+    "sentence": "The wedding will be held next month."
+  },
+  {
+    "id": 1332,
+    "word": "Wednesday",
+    "phonetic": "/ˈwenzdeɪ/",
+    "解释": "n. 星期三（指一周的第四天）",
+    "sentence": "The meeting is on Wednesday."
+  },
+  {
+    "id": 1333,
+    "word": "Week",
+    "phonetic": "/wiːk/",
+    "解释": "n. 星期（指连续七天的时间段，尤指周日至周六）",
+    "sentence": "I have a busy week ahead."
+  },
+  {
+    "id": 1334,
+    "word": "Weekend",
+    "phonetic": "/ˌwiːkˈend/",
+    "解释": "n. 周末（指周六和周日）",
+    "sentence": "What are you doing this weekend?"
+  },
+  {
+    "id": 1335,
+    "word": "Welcome",
+    "phonetic": "/ˈwelkəm/",
+    "解释": "v./adj. 欢迎（指向某人表示乐于见到，或受欢迎的）",
+    "sentence": "Welcome to our school!"
+  },
+  {
+    "id": 1336,
+    "word": "Welfare",
+    "phonetic": "/ˈwelfer/",
+    "解释": "n. 福利（指健康、幸福或社会救助）",
+    "sentence": "The government provides welfare for the poor."
+  },
+  {
+    "id": 1337,
+    "word": "Well",
+    "phonetic": "/wel/",
+    "解释": "adv./adj. 好地（指以令人满意的方式，或身体健康）",
+    "sentence": "She speaks English very well."
+  },
+  {
+    "id": 1338,
+    "word": "West",
+    "phonetic": "/west/",
+    "解释": "n./adj. 西方（指日落的方向，或欧美的）",
+    "sentence": "The sun sets in the west."
+  },
+  {
+    "id": 1339,
+    "word": "Western",
+    "phonetic": "/ˈwestərn/",
+    "解释": "adj. 西方的（指欧洲、北美等地区的）",
+    "sentence": "Western culture is different from Eastern culture."
+  },
+  {
+    "id": 1340,
+    "word": "Whale",
+    "phonetic": "/weɪl/",
+    "解释": "n. 鲸鱼（指生活在海洋中的大型哺乳动物）",
+    "sentence": "Whales are the largest animals on Earth."
+  },
+  {
+    "id": 1341,
+    "word": "What",
+    "phonetic": "/wɒt/",
+    "解释": "pron. 什么（用于询问事物）",
+    "sentence": "What is your name?"
+  },
+  {
+    "id": 1342,
+    "word": "Whatever",
+    "phonetic": "/wɒtˈevər/",
+    "解释": "pron. 无论什么（指任何事物都行）",
+    "sentence": "You can choose whatever you like."
+  },
+  {
+    "id": 1343,
+    "word": "When",
+    "phonetic": "/wen/",
+    "解释": "adv. 什么时候（用于询问时间）",
+    "sentence": "When is your birthday?"
+  },
+  {
+    "id": 1344,
+    "word": "Whenever",
+    "phonetic": "/wenˈevər/",
+    "解释": "conj. 无论何时（指在任何时候）",
+    "sentence": "You can call me whenever you need help."
+  },
+  {
+    "id": 1345,
+    "word": "Where",
+    "phonetic": "/wer/",
+    "解释": "adv. 哪里（用于询问地点）",
+    "sentence": "Where do you live?"
+  },
+  {
+    "id": 1346,
+    "word": "Whereas",
+    "phonetic": "/werˈæz/",
+    "解释": "conj. 然而（用于比较两种不同的情况）",
+    "sentence": "He likes coffee, whereas she prefers tea."
+  },
+  {
+    "id": 1347,
+    "word": "Whether",
+    "phonetic": "/ˈweðər/",
+    "解释": "conj. 是否（用于表达两种可能性）",
+    "sentence": "I don't know whether he will come."
+  },
+  {
+    "id": 1348,
+    "word": "Which",
+    "phonetic": "/wɪtʃ/",
+    "解释": "pron. 哪一个（用于询问或引导定语从句）",
+    "sentence": "Which color do you like best?"
+  },
+  {
+    "id": 1349,
+    "word": "While",
+    "phonetic": "/waɪl/",
+    "解释": "conj. 当…时候（指在某事发生的同时）",
+    "sentence": "I read a book while waiting for the bus."
+  },
+  {
+    "id": 1350,
+    "word": "White",
+    "phonetic": "/waɪt/",
+    "解释": "adj. 白色的（指雪、牛奶等颜色的）",
+    "sentence": "She wears a white dress."
+  },
+  {
+    "id": 1351,
+    "word": "Who",
+    "phonetic": "/huː/",
+    "解释": "pron. 谁（用于询问人的身份）",
+    "sentence": "Who is your English teacher?"
+  },
+  {
+    "id": 1352,
+    "word": "Whole",
+    "phonetic": "/hoʊl/",
+    "解释": "adj. 整个的（指完整的、全部的）",
+    "sentence": "I spent the whole day studying."
+  },
+  {
+    "id": 1353,
+    "word": "Whom",
+    "phonetic": "/huːm/",
+    "解释": "pron. 谁（who 的宾格，用于正式语境）",
+    "sentence": "Whom did you invite to the party?"
+  },
+  {
+    "id": 1354,
+    "word": "Whose",
+    "phonetic": "/huːz/",
+    "解释": "pron. 谁的（用于询问所属关系）",
+    "sentence": "Whose book is this?"
+  },
+  {
+    "id": 1355,
+    "word": "Why",
+    "phonetic": "/waɪ/",
+    "解释": "adv. 为什么（用于询问原因）",
+    "sentence": "Why are you late?"
+  },
+  {
+    "id": 1356,
+    "word": "Wide",
+    "phonetic": "/waɪd/",
+    "解释": "adj. 宽的（指从一侧到另一侧的尺寸大的）",
+    "sentence": "The river is very wide."
+  },
+  {
+    "id": 1357,
+    "word": "Wife",
+    "phonetic": "/waɪf/",
+    "解释": "n. 妻子（指已婚女子的配偶）",
+    "sentence": "This is my wife, Mary."
+  },
+  {
+    "id": 1358,
+    "word": "Wild",
+    "phonetic": "/waɪld/",
+    "解释": "adj. 野生的（指未驯化的、生活在自然状态中的）",
+    "sentence": "There are many wild animals in the forest."
+  },
+  {
+    "id": 1359,
+    "word": "Will",
+    "phonetic": "/wɪl/",
+    "解释": "v. 将（用于表示将来时态或意愿）",
+    "sentence": "I will help you with your homework."
+  },
+  {
+    "id": 1360,
+    "word": "Willing",
+    "phonetic": "/ˈwɪlɪŋ/",
+    "解释": "adj. 愿意的（指不反对做某事、准备去做的）",
+    "sentence": "Are you willing to work overtime?"
+  },
+  {
+    "id": 1361,
+    "word": "Win",
+    "phonetic": "/wɪn/",
+    "解释": "v. 赢（指在竞争、比赛等中获得胜利）",
+    "sentence": "Our team won the game."
+  },
+  {
+    "id": 1362,
+    "word": "Wind",
+    "phonetic": "/wɪnd/",
+    "解释": "n. 风（指空气在地球表面的流动）",
+    "sentence": "The wind is blowing strongly today."
+  },
+  {
+    "id": 1363,
+    "word": "Window",
+    "phonetic": "/ˈwɪndoʊ/",
+    "解释": "n. 窗户（指墙上开的用于透光透气的开口）",
+    "sentence": "Please open the window."
+  },
+  {
+    "id": 1364,
+    "word": "Wine",
+    "phonetic": "/waɪn/",
+    "解释": "n. 葡萄酒（指用葡萄发酵制成的酒精饮料）",
+    "sentence": "Would you like a glass of wine?"
+  },
+  {
+    "id": 1365,
+    "word": "Wing",
+    "phonetic": "/wɪŋ/",
+    "解释": "n. 翅膀（指鸟、昆虫或飞机用于飞行的身体部位）",
+    "sentence": "The bird spread its wings and flew away."
+  },
+  {
+    "id": 1366,
+    "word": "Winter",
+    "phonetic": "/ˈwɪntər/",
+    "解释": "n. 冬天（指一年中最冷的季节）",
+    "sentence": "It snows a lot in winter."
+  },
+  {
+    "id": 1367,
+    "word": "Wipe",
+    "phonetic": "/waɪp/",
+    "解释": "v. 擦（指用布等擦拭某物表面）",
+    "sentence": "Please wipe the table clean."
+  },
+  {
+    "id": 1368,
+    "word": "Wireless",
+    "phonetic": "/ˈwaɪərlɪs/",
+    "解释": "adj. 无线的（指不用导线传输信号或电力的）",
+    "sentence": "I use wireless headphones."
+  },
+  {
+    "id": 1369,
+    "word": "Wisdom",
+    "phonetic": "/ˈwɪzdəm/",
+    "解释": "n. 智慧（指通过经验获得的良好判断力和知识）",
+    "sentence": "With age comes wisdom."
+  },
+  {
+    "id": 1370,
+    "word": "Wish",
+    "phonetic": "/wɪʃ/",
+    "解释": "n./v. 愿望（指想要某事发生的感觉，或表达这种感觉）",
+    "sentence": "I wish you all the best."
+  },
+  {
+    "id": 1371,
+    "word": "With",
+    "phonetic": "/wɪð/",
+    "解释": "prep. 和…一起（表示伴随）",
+    "sentence": "I live with my parents."
+  },
+  {
+    "id": 1372,
+    "word": "Withdraw",
+    "phonetic": "/wɪðˈdrɔː/",
+    "解释": "v. 撤退（指离开某处或取消某提议）",
+    "sentence": "He withdrew his application."
+  },
+  {
+    "id": 1373,
+    "word": "Within",
+    "phonetic": "/wɪˈðɪn/",
+    "解释": "prep. 在…之内（指不超过某时间或范围）",
+    "sentence": "You must finish the work within a week."
+  },
+  {
+    "id": 1374,
+    "word": "Without",
+    "phonetic": "/wɪˈðaʊt/",
+    "解释": "prep. 没有（指缺乏某物）",
+    "sentence": "I can't live without you."
+  },
+  {
+    "id": 1375,
+    "word": "Witness",
+    "phonetic": "/ˈwɪtnəs/",
+    "解释": "n./v. 目击者（指亲眼看见某事发生的人，或作为目击者作证）",
+    "sentence": "He was a witness to the accident."
+  },
+  {
+    "id": 1376,
+    "word": "Woman",
+    "phonetic": "/ˈwʊmən/",
+    "解释": "n. 女人（指成年女性）",
+    "sentence": "She is a successful businesswoman."
+  },
+  {
+    "id": 1377,
+    "word": "Wonder",
+    "phonetic": "/ˈwʌndər/",
+    "解释": "v. 想知道（指对某事感到好奇或惊讶）",
+    "sentence": "I wonder what time it is."
+  },
+  {
+    "id": 1378,
+    "word": "Wonderful",
+    "phonetic": "/ˈwʌndərfl/",
+    "解释": "adj. 精彩的（指极好的、令人愉快的）",
+    "sentence": "We had a wonderful time."
+  },
+  {
+    "id": 1379,
+    "word": "Wood",
+    "phonetic": "/wʊd/",
+    "解释": "n. 木头（指树木的坚硬部分，可用于建筑或做家具）",
+    "sentence": "The table is made of wood."
+  },
+  {
+    "id": 1380,
+    "word": "Wool",
+    "phonetic": "/wʊl/",
+    "解释": "n. 羊毛（指从羊身上剪下的毛发，用于纺成毛线）",
+    "sentence": "This sweater is made of wool."
+  },
+  {
+    "id": 1381,
+    "word": "Word",
+    "phonetic": "/wɜːrd/",
+    "解释": "n. 单词（指语言中能独立使用的最小单位）",
+    "sentence": "What does this word mean?"
+  },
+  {
+    "id": 1382,
+    "word": "Work",
+    "phonetic": "/wɜːrk/",
+    "解释": "n./v. 工作（指需要体力或脑力劳动的活动，或有工作做）",
+    "sentence": "I have a lot of work to do."
+  },
+  {
+    "id": 1383,
+    "word": "Worker",
+    "phonetic": "/ˈwɜːrkər/",
+    "解释": "n. 工人（指受雇从事体力或脑力劳动的人）",
+    "sentence": "The workers are on strike."
+  },
+  {
+    "id": 1384,
+    "word": "World",
+    "phonetic": "/wɜːrld/",
+    "解释": "n. 世界（指地球及其上的所有人类和事物）",
+    "sentence": "He traveled around the world."
+  },
+  {
+    "id": 1385,
+    "word": "Worry",
+    "phonetic": "/ˈwɜːri/",
+    "解释": "n./v. 担心（指因可能发生不好的事而感到焦虑）",
+    "sentence": "Don't worry about the exam."
+  },
+  {
+    "id": 1386,
+    "word": "Worse",
+    "phonetic": "/wɜːrs/",
+    "解释": "adj. 更糟的（指比另一个更差的）",
+    "sentence": "The situation is getting worse."
+  },
+  {
+    "id": 1387,
+    "word": "Worst",
+    "phonetic": "/wɜːrst/",
+    "解释": "adj. 最糟的（指所有中最差的）",
+    "sentence": "This is the worst movie I've ever seen."
+  },
+  {
+    "id": 1388,
+    "word": "Worth",
+    "phonetic": "/wɜːrθ/",
+    "解释": "adj. 值得的（指有足够价值去做某事）",
+    "sentence": "This book is worth reading."
+  },
+  {
+    "id": 1389,
+    "word": "Would",
+    "phonetic": "/wʊd/",
+    "解释": "v. 会（will 的过去式，或用于表示委婉语气）",
+    "sentence": "I would like a cup of coffee, please."
+  },
+  {
+    "id": 1390,
+    "word": "Wound",
+    "phonetic": "/wuːnd/",
+    "解释": "n./v. 伤口（指身体受伤的地方，或使某人受伤）",
+    "sentence": "The wound is healing well."
+  },
+  {
+    "id": 1391,
+    "word": "Wrap",
+    "phonetic": "/ræp/",
+    "解释": "v. 包裹（指用纸、布等覆盖某物）",
+    "sentence": "Please wrap the gift."
+  },
+  {
+    "id": 1392,
+    "word": "Write",
+    "phonetic": "/raɪt/",
+    "解释": "v. 写（指用笔画符号组成文字以记录语言）",
+    "sentence": "Please write your name on the paper."
+  },
+  {
+    "id": 1393,
+    "word": "Writer",
+    "phonetic": "/ˈraɪtər/",
+    "解释": "n. 作家（指创作文学作品的人）",
+    "sentence": "She is a famous writer."
+  },
+  {
+    "id": 1394,
+    "word": "Writing",
+    "phonetic": "/ˈraɪtɪŋ/",
+    "解释": "n. 写作（指创作书面作品的行为或结果）",
+    "sentence": "His writing is very clear."
+  },
+  {
+    "id": 1395,
+    "word": "Wrong",
+    "phonetic": "/rɔːŋ/",
+    "解释": "adj. 错误的（指不真实、不正确或道德上坏的）",
+    "sentence": "You gave the wrong answer."
+  },
+  {
+    "id": 1396,
+    "word": "Yard",
+    "phonetic": "/jɑːrd/",
+    "解释": "n. 院子（指房屋旁用围墙围住的空地）",
+    "sentence": "The children are playing in the yard."
+  },
+  {
+    "id": 1397,
+    "word": "Yeah",
+    "phonetic": "/jeə/",
+    "解释": "adv. 是的（yes 的口语说法）",
+    "sentence": "Yeah, I think so too."
+  },
+  {
+    "id": 1398,
+    "word": "Year",
+    "phonetic": "/jɪr/",
+    "解释": "n. 年（指地球绕太阳公转一周的时间，约365天）",
+    "sentence": "Happy New Year!"
+  },
+  {
+    "id": 1399,
+    "word": "Yellow",
+    "phonetic": "/ˈjeloʊ/",
+    "解释": "adj. 黄色的（指蛋黄、向日葵等颜色的）",
+    "sentence": "The taxi is yellow."
+  },
+  {
+    "id": 1400,
+    "word": "Yes",
+    "phonetic": "/jes/",
+    "解释": "adv. 是的（用于表示同意或肯定）",
+    "sentence": "Yes, that's correct."
+  },
+  {
+    "id": 1401,
+    "word": "Yesterday",
+    "phonetic": "/ˈjestərdeɪ/",
+    "解释": "n. 昨天（指今天的前一天）",
+    "sentence": "I met him yesterday."
+  },
+  {
+    "id": 1402,
+    "word": "Yet",
+    "phonetic": "/jet/",
+    "解释": "adv. 还（用于表示某事尚未发生，但可能将要发生）",
+    "sentence": "I haven't finished yet."
+  },
+  {
+    "id": 1403,
+    "word": "Yield",
+    "phonetic": "/jiːld/",
+    "解释": "v. 产量（指生产或提供某物，尤指农作物或利润）",
+    "sentence": "The land yields good crops."
+  },
+  {
+    "id": 1404,
+    "word": "You",
+    "phonetic": "/juː/",
+    "解释": "pron. 你（第二人称单复数主宾格）",
+    "sentence": "You are my best friend."
+  },
+  {
+    "id": 1405,
+    "word": "Young",
+    "phonetic": "/jʌŋ/",
+    "解释": "adj. 年轻的（指处于生命或发展早期阶段的）",
+    "sentence": "She is still young."
+  },
+  {
+    "id": 1406,
+    "word": "Your",
+    "phonetic": "/jɔːr/",
+    "解释": "pron. 你的（第二人称单复数所有格）",
+    "sentence": "Is this your book?"
+  },
+  {
+    "id": 1407,
+    "word": "Yourself",
+    "phonetic": "/jɔːrˈself/",
+    "解释": "pron. 你自己（第二人称单数反身代词）",
+    "sentence": "You can do it yourself."
+  },
+  {
+    "id": 1408,
+    "word": "Youth",
+    "phonetic": "/juːθ/",
+    "解释": "n. 青年时期（指人年轻的时候，或年轻人）",
+    "sentence": "She spent her youth in Paris."
+  },
+  {
+    "id": 1409,
+    "word": "Zone",
+    "phonetic": "/zoʊn/",
+    "解释": "n. 区（指具有某种特征或用途的特定区域）",
+    "sentence": "This is a no-parking zone."
+  },
+  {
+    "id": 1410,
+    "word": "Zoo",
+    "phonetic": "/zuː/",
+    "解释": "n. 动物园（指饲养展示野生动物的场所）",
+    "sentence": "We took the kids to the zoo."
+  },
+  {
+    "id": 1411,
+    "word": "Zoom",
+    "phonetic": "/zuːm/",
+    "解释": "v. 快速移动（指以极快速度移动，或镜头推近）",
+    "sentence": "The car zoomed past us."
+  },
+  {
+    "id": 1412,
+    "word": "Abroad",
+    "phonetic": "/əˈbrɔːd/",
+    "解释": "adv. 在国外（指到或在一个外国）",
+    "sentence": "He studied abroad for a year."
+  },
+  {
+    "id": 1413,
+    "word": "Absence",
+    "phonetic": "/ˈæbsəns/",
+    "解释": "n. 缺席（指不在场、不在某地的状态）",
+    "sentence": "His absence was noted at the meeting."
+  },
+  {
+    "id": 1414,
+    "word": "Absorb",
+    "phonetic": "/əbˈsɔːrb/",
+    "解释": "v. 吸收（见前文）",
+    "sentence": "Plants absorb carbon dioxide from the atmosphere."
+  },
+  {
+    "id": 1415,
+    "word": "Abstract",
+    "phonetic": "/ˈæbstrækt/",
+    "解释": "adj. 抽象的（见前文）",
+    "sentence": "The painting is too abstract for me."
+  },
+  {
+    "id": 1416,
+    "word": "Abundant",
+    "phonetic": "/əˈbʌndənt/",
+    "解释": "adj. 丰富的（见前文）",
+    "sentence": "The region has abundant natural resources."
+  },
+  {
+    "id": 1417,
+    "word": "Accelerate",
+    "phonetic": "/əkˈseləreɪt/",
+    "解释": "v. 加速（见前文）",
+    "sentence": "Climate change is accelerating."
+  },
+  {
+    "id": 1418,
+    "word": "Accommodate",
+    "phonetic": "/əˈkɒmədeɪt/",
+    "解释": "v. 容纳（指提供空间或房间供某人使用）",
+    "sentence": "The hotel can accommodate 500 guests."
+  },
+  {
+    "id": 1419,
+    "word": "Accompany",
+    "phonetic": "/əˈkʌmpəni/",
+    "解释": "v. 陪伴（指陪同某人去某地）",
+    "sentence": "I will accompany you to the station."
+  },
+  {
+    "id": 1420,
+    "word": "Accomplish",
+    "phonetic": "/əˈkɒmplɪʃ/",
+    "解释": "v. 完成（指成功地做到某事）",
+    "sentence": "She accomplished her goal."
+  },
+  {
+    "id": 1421,
+    "word": "Account",
+    "phonetic": "/əˈkaʊnt/",
+    "解释": "n. 账户（指银行或网络上用于记录交易的档案）",
+    "sentence": "I opened a bank account."
+  },
+  {
+    "id": 1422,
+    "word": "Accumulate",
+    "phonetic": "/əˈkjuːmjəleɪt/",
+    "解释": "v. 积累（指逐渐收集或增加）",
+    "sentence": "Dust accumulates on the shelves."
+  },
+  {
+    "id": 1423,
+    "word": "Accurate",
+    "phonetic": "/ˈækjərət/",
+    "解释": "adj. 准确的（见前文）",
+    "sentence": "The data is accurate."
+  },
+  {
+    "id": 1424,
+    "word": "Accuse",
+    "phonetic": "/əˈkjuːz/",
+    "解释": "v. 指责（指声称某人有错或有罪）",
+    "sentence": "He was accused of theft."
+  },
+  {
+    "id": 1425,
+    "word": "Achieve",
+    "phonetic": "/əˈtʃiːv/",
+    "解释": "v. 实现（指通过努力成功地做到某事）",
+    "sentence": "She achieved her dream of becoming a doctor."
+  },
+  {
+    "id": 1426,
+    "word": "Acknowledge",
+    "phonetic": "/əkˈnɒlɪdʒ/",
+    "解释": "v. 承认（指公开接受某事实为真）",
+    "sentence": "He acknowledged his mistake."
+  },
+  {
+    "id": 1427,
+    "word": "Acquire",
+    "phonetic": "/əˈkwaɪər/",
+    "解释": "v. 获得（指通过努力或购买得到某物）",
+    "sentence": "She acquired a good knowledge of French."
+  },
+  {
+    "id": 1428,
+    "word": "Act",
+    "phonetic": "/ækt/",
+    "解释": "n./v. 行为（指做某事，或为了娱乐在观众前表演）",
+    "sentence": "It was an act of kindness."
+  },
+  {
+    "id": 1429,
+    "word": "Action",
+    "phonetic": "/ˈækʃn/",
+    "解释": "n. 行动（指做某事的过程）",
+    "sentence": "We need to take action now."
+  },
+  {
+    "id": 1430,
+    "word": "Activate",
+    "phonetic": "/ˈæktɪveɪt/",
+    "解释": "v. 激活（指使某物开始工作）",
+    "sentence": "Please activate your account."
+  },
+  {
+    "id": 1431,
+    "word": "Active",
+    "phonetic": "/ˈæktɪv/",
+    "解释": "adj. 活跃的（指积极参与或正在运作的）",
+    "sentence": "She is very active in class."
+  },
+  {
+    "id": 1432,
+    "word": "Actual",
+    "phonetic": "/ˈæktʃuəl/",
+    "解释": "adj. 实际的（指真实存在的，非想象的）",
+    "sentence": "The actual cost was higher than expected."
+  },
+  {
+    "id": 1433,
+    "word": "Adapt",
+    "phonetic": "/əˈdæpt/",
+    "解释": "v. 适应（指改变自己以应对新情况）",
+    "sentence": "Animals must adapt to climate change."
+  },
+  {
+    "id": 1434,
+    "word": "Add",
+    "phonetic": "/æd/",
+    "解释": "v. 添加（指将某物放到另一物上或里）",
+    "sentence": "Please add some sugar to my coffee."
+  },
+  {
+    "id": 1435,
+    "word": "Address",
+    "phonetic": "/əˈdres/",
+    "解释": "n./v. 地址（指房屋或建筑的所在位置，或向一群人说话）",
+    "sentence": "What is your email address?"
+  },
+  {
+    "id": 1436,
+    "word": "Adequate",
+    "phonetic": "/ˈædɪkwət/",
+    "解释": "adj. 足够的（指足够满足需要或要求的）",
+    "sentence": "The supply is adequate for our needs."
+  },
+  {
+    "id": 1437,
+    "word": "Adjust",
+    "phonetic": "/əˈdʒʌst/",
+    "解释": "v. 调整（指稍微改变某物以使其更好）",
+    "sentence": "Please adjust the seat."
+  },
+  {
+    "id": 1438,
+    "word": "Administration",
+    "phonetic": "/ədˌmɪnɪˈstreɪʃn/",
+    "解释": "n. 管理（指经营或监督某组织或活动）",
+    "sentence": "The administration of the school is efficient."
+  },
+  {
+    "id": 1439,
+    "word": "Admire",
+    "phonetic": "/ədˈmaɪər/",
+    "解释": "v. 钦佩（指对某人或某物深感赞叹）",
+    "sentence": "I admire her courage."
+  },
+  {
+    "id": 1440,
+    "word": "Admit",
+    "phonetic": "/ədˈmɪt/",
+    "解释": "v. 承认（指不情愿地供认真实情况）",
+    "sentence": "He admitted his error."
+  },
+  {
+    "id": 1441,
+    "word": "Adopt",
+    "phonetic": "/əˈdɒpt/",
+    "解释": "v. 收养（指 legally take another's child as one's own）",
+    "sentence": "They adopted a baby girl."
+  },
+  {
+    "id": 1442,
+    "word": "Advance",
+    "phonetic": "/ədˈvɑːns/",
+    "解释": "n./v. 前进（指向前移动或发展）",
+    "sentence": "Science has advanced rapidly."
+  },
+  {
+    "id": 1443,
+    "word": "Advantage",
+    "phonetic": "/ədˈvɑːntɪdʒ/",
+    "解释": "n. 优势（指使某人优于他人的条件）",
+    "sentence": "The main advantage is cost."
+  },
+  {
+    "id": 1444,
+    "word": "Adventure",
+    "phonetic": "/ədˈventʃər/",
+    "解释": "n. 冒险（指出乎寻常或危险的经历）",
+    "sentence": "They went on an adventure in the Amazon."
+  },
+  {
+    "id": 1445,
+    "word": "Advertise",
+    "phonetic": "/ˈædvərtaɪz/",
+    "解释": "v. 做广告（指公开宣传某商品或服务）",
+    "sentence": "The company advertised on TV."
+  },
+  {
+    "id": 1446,
+    "word": "Advice",
+    "phonetic": "/ədˈvaɪs/",
+    "解释": "n. 建议（指向某人提供的关于如何做某事的想法）",
+    "sentence": "Can you give me some advice?"
+  },
+  {
+    "id": 1447,
+    "word": "Advise",
+    "phonetic": "/ədˈvaɪz/",
+    "解释": "v. 建议（指向某人提供关于如何做某事的想法）",
+    "sentence": "My lawyer advised me to settle."
+  },
+  {
+    "id": 1448,
+    "word": "Afford",
+    "phonetic": "/əˈfɔːrd/",
+    "解释": "v. 买得起（指有足够的钱去买某物）",
+    "sentence": "I can't afford a new car."
+  },
+  {
+    "id": 1449,
+    "word": "Afraid",
+    "phonetic": "/əˈfreɪd/",
+    "解释": "adj. 害怕的（指感到恐惧或担心）",
+    "sentence": "She is afraid of dogs."
+  },
+  {
+    "id": 1450,
+    "word": "After",
+    "phonetic": "/ˈæftər/",
+    "解释": "prep. 在…之后（指时间或顺序上晚于）",
+    "sentence": "We'll meet after class."
+  },
+  {
+    "id": 1451,
+    "word": "Afternoon",
+    "phonetic": "/ˌæftərˈnuːn/",
+    "解释": "n. 下午（指正午到傍晚之间的时间）",
+    "sentence": "See you this afternoon."
+  },
+  {
+    "id": 1452,
+    "word": "Again",
+    "phonetic": "/əˈɡen/",
+    "解释": "adv. 再（指又一次、重新）",
+    "sentence": "Can you say that again?"
+  },
+  {
+    "id": 1453,
+    "word": "Against",
+    "phonetic": "/əˈɡenst/",
+    "解释": "prep. 反对（指与之相反或对立）",
+    "sentence": "We are fighting against poverty."
+  },
+  {
+    "id": 1454,
+    "word": "Age",
+    "phonetic": "/eɪdʒ/",
+    "解释": "n. 年龄（指一个人活了多久）",
+    "sentence": "What age are you?"
+  },
+  {
+    "id": 1455,
+    "word": "Agency",
+    "phonetic": "/ˈeɪdʒənsi/",
+    "解释": "n. 机构（指提供特定服务的组织或政府部门）",
+    "sentence": "She works for a government agency."
+  },
+  {
+    "id": 1456,
+    "word": "Aggressive",
+    "phonetic": "/əˈɡresɪv/",
+    "解释": "adj. 侵略性的（指好斗的、爱挑衅的）",
+    "sentence": "He has an aggressive driving style."
+  },
+  {
+    "id": 1457,
+    "word": "Agree",
+    "phonetic": "/əˈɡriː/",
+    "解释": "v. 同意（指对想法、建议等表示接受）",
+    "sentence": "I agree with you."
+  },
+  {
+    "id": 1458,
+    "word": "Agriculture",
+    "phonetic": "/ˈæɡrɪkʌltʃər/",
+    "解释": "n. 农业（指耕种土地、饲养牲畜以获取食物的行为）",
+    "sentence": "Agriculture employs many people in this country."
+  },
+  {
+    "id": 1459,
+    "word": "Ahead",
+    "phonetic": "/əˈhed/",
+    "解释": "adv. 在前面（指在某人某物的前面或未来）",
+    "sentence": "The road ahead is clear."
+  },
+  {
+    "id": 1460,
+    "word": "Aid",
+    "phonetic": "/eɪd/",
+    "解释": "n./v. 援助（指向有需要的人或国家提供帮助）",
+    "sentence": "The government provided aid to the victims."
+  },
+  {
+    "id": 1461,
+    "word": "Aim",
+    "phonetic": "/eɪm/",
+    "解释": "n./v. 目标（指想要实现的某事，或对准目标）",
+    "sentence": "My aim is to become a teacher."
+  },
+  {
+    "id": 1462,
+    "word": "Air",
+    "phonetic": "/er/",
+    "解释": "n. 空气（指环绕地球的气体混合物）",
+    "sentence": "The air is fresh in the mountains."
+  },
+  {
+    "id": 1463,
+    "word": "Airline",
+    "phonetic": "/ˈerlaɪn/",
+    "解释": "n. 航空公司（指经营客运航班服务的公司）",
+    "sentence": "Which airline are you flying with?"
+  },
+  {
+    "id": 1464,
+    "word": "Airport",
+    "phonetic": "/ˈerpɔːrt/",
+    "解释": "n. 机场（指飞机起飞降落的场地及相关设施）",
+    "sentence": "We arrived at the airport early."
+  },
+  {
+    "id": 1465,
+    "word": "Alarm",
+    "phonetic": "/əˈlɑːrm/",
+    "解释": "n. 警报（指警告危险或唤醒人的装置或声音）",
+    "sentence": "The alarm went off at 6 a.m."
+  },
+  {
+    "id": 1466,
+    "word": "Album",
+    "phonetic": "/ˈælbəm/",
+    "解释": "n. 相册（指用于存放照片的册子，或音乐专辑）",
+    "sentence": "This is my favorite album."
+  },
+  {
+    "id": 1467,
+    "word": "Alcohol",
+    "phonetic": "/ˈælkəhɒl/",
+    "解释": "n. 酒精（指含乙醇的饮料，如啤酒、葡萄酒等）",
+    "sentence": "He doesn't drink alcohol."
+  },
+  {
+    "id": 1468,
+    "word": "Alert",
+    "phonetic": "/əˈlɜːrt/",
+    "解释": "adj. 警觉的（指完全清醒、注意周围情况的）",
+    "sentence": "Drivers must stay alert."
+  },
+  {
+    "id": 1469,
+    "word": "Alien",
+    "phonetic": "/ˈeɪliən/",
+    "解释": "n. 外星人（指假想中来自其他星球的人形生物）",
+    "sentence": "The movie is about aliens."
+  },
+  {
+    "id": 1470,
+    "word": "Alive",
+    "phonetic": "/əˈlaɪv/",
+    "解释": "adj. 活着的（指有生命的、未死的）",
+    "sentence": "He is still alive."
+  },
+  {
+    "id": 1471,
+    "word": "All",
+    "phonetic": "/ɔːl/",
+    "解释": "adj./pron. 所有的（指每一个、全部的）",
+    "sentence": "All students must attend."
+  },
+  {
+    "id": 1472,
+    "word": "Alley",
+    "phonetic": "/ˈæli/",
+    "解释": "n. 小巷（指两排房屋之间的窄通道）",
+    "sentence": "The children played in the alley."
+  },
+  {
+    "id": 1473,
+    "word": "Allocate",
+    "phonetic": "/ˈæləkeɪt/",
+    "解释": "v. 分配（指为特定目的拨出或分派资源）",
+    "sentence": "The budget was allocated to various departments."
+  },
+  {
+    "id": 1474,
+    "word": "Allow",
+    "phonetic": "/əˈlaʊ/",
+    "解释": "v. 允许（指同意让某事发生或某人做某事）",
+    "sentence": "Smoking is not allowed here."
+  },
+  {
+    "id": 1475,
+    "word": "Ally",
+    "phonetic": "/ˈælaɪ/",
+    "解释": "n. 盟友（指与自己国家或团体结盟的国家或个人）",
+    "sentence": "France was an ally of the US in World War II."
+  },
+  {
+    "id": 1476,
+    "word": "Almost",
+    "phonetic": "/ˈɔːlmoʊst/",
+    "解释": "adv. 几乎（指非常接近但还没有完全）",
+    "sentence": "It's almost midnight."
+  },
+  {
+    "id": 1477,
+    "word": "Alone",
+    "phonetic": "/əˈloʊn/",
+    "解释": "adj./adv. 独自的（指没有他人陪伴的）",
+    "sentence": "She lives alone."
+  },
+  {
+    "id": 1478,
+    "word": "Along",
+    "phonetic": "/əˈlɔːŋ/",
+    "解释": "prep. 沿着（指顺着某长形物的方向）",
+    "sentence": "We walked along the river."
+  },
+  {
+    "id": 1479,
+    "word": "Aloud",
+    "phonetic": "/əˈlaʊd/",
+    "解释": "adv. 大声地（指让别人能听到的音量）",
+    "sentence": "Please read the text aloud."
+  },
+  {
+    "id": 1480,
+    "word": "Alphabet",
+    "phonetic": "/ˈælfəbet/",
+    "解释": "n. 字母表（指一种语言的字母系统）",
+    "sentence": "Children learn the alphabet in kindergarten."
+  },
+  {
+    "id": 1481,
+    "word": "Already",
+    "phonetic": "/ɔːlˈredi/",
+    "解释": "adv. 已经（指某事在某个指定时间之前发生）",
+    "sentence": "I have already finished my homework."
+  },
+  {
+    "id": 1482,
+    "word": "Also",
+    "phonetic": "/ˈɔːlsoʊ/",
+    "解释": "adv. 也（指另外、加之）",
+    "sentence": "I also like swimming."
+  },
+  {
+    "id": 1483,
+    "word": "Alter",
+    "phonetic": "/ˈɔːltər/",
+    "解释": "v. 改变（指对某物做些修改而不完全改变其性质）",
+    "sentence": "The plan was altered slightly."
+  },
+  {
+    "id": 1484,
+    "word": "Alternative",
+    "phonetic": "/ɔːlˈtɜːrnətɪv/",
+    "解释": "n./adj. 替代选择（指可以在两个或多个选项中选一个，或备选的）",
+    "sentence": "We need to find alternative energy sources."
+  },
+  {
+    "id": 1485,
+    "word": "Although",
+    "phonetic": "/ɔːlˈðoʊ/",
+    "解释": "conj. 虽然（用于引导让步状语从句）",
+    "sentence": "Although it was raining, we went out."
+  },
+  {
+    "id": 1486,
+    "word": "Altogether",
+    "phonetic": "/ˌɔːltəˈɡeðər/",
+    "解释": "adv. 完全（指作为一个整体或全部）",
+    "sentence": "The project was altogether successful."
+  },
+  {
+    "id": 1487,
+    "word": "Always",
+    "phonetic": "/ˈɔːlweɪz/",
+    "解释": "adv. 总是（指 every time、all the time）",
+    "sentence": "She always arrives on time."
+  },
+  {
+    "id": 1488,
+    "word": "A.M.",
+    "phonetic": "/ˌeɪ ˈem/",
+    "解释": "adv. 上午（指午夜到正午之间的时间）",
+    "sentence": "The meeting is at 9 a.m."
+  },
+  {
+    "id": 1489,
+    "word": "Amaze",
+    "phonetic": "/əˈmeɪz/",
+    "解释": "v. 使惊奇（指令某人感到非常惊讶）",
+    "sentence": "Her progress amazed me."
+  },
+  {
+    "id": 1490,
+    "word": "Ambition",
+    "phonetic": "/æmˈbɪʃn/",
+    "解释": "n. 雄心（指想成就大事的强烈愿望）",
+    "sentence": "His ambition is to become president."
+  },
+  {
+    "id": 1491,
+    "word": "Amend",
+    "phonetic": "/əˈmend/",
+    "解释": "v. 修正（指改进或纠正某文本、法律等）",
+    "sentence": "The law was amended last year."
+  },
+  {
+    "id": 1492,
+    "word": "America",
+    "phonetic": "/əˈmerɪkə/",
+    "解释": "n. 美国（指美利坚合众国）",
+    "sentence": "He moved to America."
+  },
+  {
+    "id": 1493,
+    "word": "Amount",
+    "phonetic": "/əˈmaʊnt/",
+    "解释": "n. 数量（指某物总计多少）",
+    "sentence": "A large amount of money was spent."
+  },
+  {
+    "id": 1494,
+    "word": "Amuse",
+    "phonetic": "/əˈmjuːz/",
+    "解释": "v. 逗乐（指使某人觉得有趣、发笑）",
+    "sentence": "The clown amused the children."
+  },
+  {
+    "id": 1495,
+    "word": "Analysis",
+    "phonetic": "/əˈnælɪsɪs/",
+    "解释": "n. 分析（指仔细研究某事物以了解其性质）",
+    "sentence": "The analysis shows a clear trend."
+  },
+  {
+    "id": 1496,
+    "word": "Ancestor",
+    "phonetic": "/ˈænsestər/",
+    "解释": "n. 祖先（指家族中较早世代的人）",
+    "sentence": "My ancestors came from Ireland."
+  },
+  {
+    "id": 1497,
+    "word": "Ancient",
+    "phonetic": "/ˈeɪnʃənt/",
+    "解释": "adj. 古代的（指存在于很久以前的历史时期的）",
+    "sentence": "The ancient Greeks developed democracy."
+  },
+  {
+    "id": 1498,
+    "word": "And",
+    "phonetic": "/ænd/",
+    "解释": "conj. 和（用于连接单词、短语或句子）",
+    "sentence": "She bought apples and oranges."
+  },
+  {
+    "id": 1499,
+    "word": "Anger",
+    "phonetic": "/ˈæŋɡər/",
+    "解释": "n. 愤怒（指因某事不对而心生不快或敌意的强烈感情）",
+    "sentence": "He couldn't hide his anger."
+  },
+  {
+    "id": 1500,
+    "word": "Angle",
+    "phonetic": "/ˈæŋɡl/",
+    "解释": "n. 角度（指从同一点出发的两条线之间的空间）",
+    "sentence": "The angle of the roof is 45 degrees."
+  },
+  {
+    "id": 1501,
+    "word": "Angry",
+    "phonetic": "/ˈæŋɡri/",
+    "解释": "adj. 生气的（指因某事而感到不快或愤怒的）",
+    "sentence": "She was angry about the decision."
+  },
+  {
+    "id": 1502,
+    "word": "Animal",
+    "phonetic": "/ˈænɪml/",
+    "解释": "n. 动物（指非人类的生物体，能感知和移动）",
+    "sentence": "The animal kingdom is diverse."
+  },
+  {
+    "id": 1503,
+    "word": "Announce",
+    "phonetic": "/əˈnaʊns/",
+    "解释": "v. 宣布（指正式公开地告知某事）",
+    "sentence": "The company announced a new product."
+  },
+  {
+    "id": 1504,
+    "word": "Annual",
+    "phonetic": "/ˈænjuəl/",
+    "解释": "adj. 每年的（指一年一次或持续一整年的）",
+    "sentence": "The annual meeting is next week."
+  },
+  {
+    "id": 1505,
+    "word": "Another",
+    "phonetic": "/əˈnʌðər/",
+    "解释": "adj./pron. 另一个（指额外的、不同的一个）",
+    "sentence": "I need another cup of coffee."
+  },
+  {
+    "id": 1506,
+    "word": "Answer",
+    "phonetic": "/ˈænsər/",
+    "解释": "n./v. 回答（指对问题的回应，或对问题做出回应）",
+    "sentence": "Please answer my question."
+  },
+  {
+    "id": 1507,
+    "word": "Anticipate",
+    "phonetic": "/ænˈtɪsɪpeɪt/",
+    "解释": "v. 预期（指预料某事将要发生并做好准备）",
+    "sentence": "We anticipate a large crowd."
+  },
+  {
+    "id": 1508,
+    "word": "Anxiety",
+    "phonetic": "/æŋˈzaɪəti/",
+    "解释": "n. 焦虑（指对未来不确定性的担忧和紧张感）",
+    "sentence": "He felt anxiety before the exam."
+  },
+  {
+    "id": 1509,
+    "word": "Apart",
+    "phonetic": "/əˈpɑːrt/",
+    "解释": "adv. 分开（指在空间上分离、相隔一段距离）",
+    "sentence": "The two buildings are far apart."
+  },
+  {
+    "id": 1510,
+    "word": "Apology",
+    "phonetic": "/əˈpɒlədʒi/",
+    "解释": "n. 道歉（指为做错事而表达歉意的话或行为）",
+    "sentence": "She wrote an apology letter."
+  },
+  {
+    "id": 1511,
+    "word": "Apparent",
+    "phonetic": "/əˈpærənt/",
+    "解释": "adj. 明显的（指容易看到或理解的）",
+    "sentence": "It became apparent that he was lying."
+  },
+  {
+    "id": 1512,
+    "word": "Appeal",
+    "phonetic": "/əˈpiːl/",
+    "解释": "n./v. 吸引力；上诉（指使人感兴趣的事物，或请求更高权威重新审理案件）",
+    "sentence": "The movie has wide appeal."
+  },
+  {
+    "id": 1513,
+    "word": "Appear",
+    "phonetic": "/əˈpɪr/",
+    "解释": "v. 出现（指变得可见或到达某处）",
+    "sentence": "A ship appeared on the horizon."
+  },
+  {
+    "id": 1514,
+    "word": "Appetite",
+    "phonetic": "/ˈæpɪtaɪt/",
+    "解释": "n. 食欲（指想要吃东西的自然欲望）",
+    "sentence": "Exercise can increase your appetite."
+  },
+  {
+    "id": 1515,
+    "word": "Appliance",
+    "phonetic": "/əˈplaɪəns/",
+    "解释": "n. 家用电器（指用于家庭中的电动设备）",
+    "sentence": "Kitchen appliances are expensive."
+  },
+  {
+    "id": 1516,
+    "word": "Application",
+    "phonetic": "/ˌæplɪˈkeɪʃn/",
+    "解释": "n. 申请（指为获得某物如工作、贷款等提交的正式书面请求）",
+    "sentence": "I submitted a job application."
+  },
+  {
+    "id": 1517,
+    "word": "Apply",
+    "phonetic": "/əˈplaɪ/",
+    "解释": "v. 应用；申请（指使用某方法或规则于某事物，或正式请求得到某物）",
+    "sentence": "Apply the cream to your skin."
+  },
+  {
+    "id": 1518,
+    "word": "Appoint",
+    "phonetic": "/əˈpɔɪnt/",
+    "解释": "v. 任命（指正式选定某人担任某职务或职位）",
+    "sentence": "She was appointed manager."
+  },
+  {
+    "id": 1519,
+    "word": "Appreciate",
+    "phonetic": "/əˈpriːʃieɪt/",
+    "解释": "v. 感激（指因某人的帮助或某事物的价值而感到高兴）",
+    "sentence": "I appreciate your help."
+  },
+  {
+    "id": 1520,
+    "word": "Approach",
+    "phonetic": "/əˈproʊtʃ/",
+    "解释": "n./v. 方法；接近（指处理某事的方式，或在空间或时间上靠近）",
+    "sentence": "We need a new approach."
+  },
+  {
+    "id": 1521,
+    "word": "Appropriate",
+    "phonetic": "/əˈproʊpriət/",
+    "解释": "adj. 合适的（指正确、适合特定场合或情况的）",
+    "sentence": "Wear appropriate clothing."
+  },
+  {
+    "id": 1522,
+    "word": "Approve",
+    "phonetic": "/əˈpruːv/",
+    "解释": "v. 批准（指正式同意某计划、请求等）",
+    "sentence": "The plan was approved."
+  },
+  {
+    "id": 1523,
+    "word": "Approximate",
+    "phonetic": "/əˈprɒksɪmət/",
+    "解释": "adj./v. 近似的（指接近正确但不完全精确的）",
+    "sentence": "The approximate cost is $500."
+  },
+  {
+    "id": 1524,
+    "word": "Arbitrary",
+    "phonetic": "/ˈɑːrbɪtreri/",
+    "解释": "adj. 任意的（指基于个人意愿而非理性判断的）",
+    "sentence": "The decision seemed arbitrary."
+  },
+  {
+    "id": 1525,
+    "word": "Area",
+    "phonetic": "/ˈeriə/",
+    "解释": "n. 区域（指地球表面的特定部分，或某一主题的范围）",
+    "sentence": "This area is known for wine."
+  },
+  {
+    "id": 1526,
+    "word": "Argue",
+    "phonetic": "/ˈɑːrɡjuː/",
+    "解释": "v. 争论（指用理由支持自己的观点，尤指情绪激动时）",
+    "sentence": "They argued about money."
+  },
+  {
+    "id": 1527,
+    "word": "Argument",
+    "phonetic": "/ˈɑːrɡjumənt/",
+    "解释": "n. 论点（指用来支持观点的理由集合）",
+    "sentence": "Her argument was convincing."
+  },
+  {
+    "id": 1528,
+    "word": "Arid",
+    "phonetic": "/ˈærɪd/",
+    "解释": "adj. 干旱的（指降雨极少、气候干燥的）",
+    "sentence": "Desert regions are arid."
+  },
+  {
+    "id": 1529,
+    "word": "Arouse",
+    "phonetic": "/əˈraʊz/",
+    "解释": "v. 引起（指激起某种感情或反应）",
+    "sentence": "The speech aroused great enthusiasm."
+  },
+  {
+    "id": 1530,
+    "word": "Arrange",
+    "phonetic": "/əˈreɪndʒ/",
+    "解释": "v. 安排（指有组织地准备或规划）",
+    "sentence": "Can you arrange a meeting?"
+  },
+  {
+    "id": 1531,
+    "word": "Arrival",
+    "phonetic": "/əˈraɪvl/",
+    "解释": "n. 到达（指到达某地的行为或时间）",
+    "sentence": "Our arrival was delayed."
+  },
+  {
+    "id": 1532,
+    "word": "Artificial",
+    "phonetic": "/ˌɑːrtɪˈfɪʃl/",
+    "解释": "adj. 人造的（指由人制造而非自然形成的）",
+    "sentence": "Artificial sweeteners are common."
+  },
+  {
+    "id": 1533,
+    "word": "Artist",
+    "phonetic": "/ˈɑːrtɪst/",
+    "解释": "n. 艺术家（指从事绘画、音乐等艺术创作的人）",
+    "sentence": "She is a talented artist."
+  },
+  {
+    "id": 1534,
+    "word": "Aspect",
+    "phonetic": "/ˈæspekt/",
+    "解释": "n. 方面（指某事物的某个特征或侧面）",
+    "sentence": "Every aspect was considered."
+  },
+  {
+    "id": 1535,
+    "word": "Assemble",
+    "phonetic": "/əˈsembl/",
+    "解释": "v. 组装（指将零件装配在一起成为整体）",
+    "sentence": "The furniture is easy to assemble."
+  },
+  {
+    "id": 1536,
+    "word": "Assess",
+    "phonetic": "/əˈses/",
+    "解释": "v. 评估（指评价某人或某事物的性质、质量、价值等）",
+    "sentence": "We need to assess the situation."
+  },
+  {
+    "id": 1537,
+    "word": "Assignment",
+    "phonetic": "/əˈsaɪnmənt/",
+    "解释": "n. 任务（指分配给某人去完成的工作或职责）",
+    "sentence": "I have a math assignment due."
+  },
+  {
+    "id": 1538,
+    "word": "Assist",
+    "phonetic": "/əˈsɪst/",
+    "解释": "v. 协助（指以辅助角色帮助某人完成某事）",
+    "sentence": "Please assist me with this."
+  },
+  {
+    "id": 1539,
+    "word": "Associate",
+    "phonetic": "/əˈsoʊsieɪt/",
+    "解释": "v./n. 联系；同伴（指将人或物在思想上连接在一起，或一起工作的伙伴）",
+    "sentence": "I associate summer with beaches."
+  },
+  {
+    "id": 1540,
+    "word": "Association",
+    "phonetic": "/əˌsoʊsiˈeɪʃn/",
+    "解释": "n. 协会（指由共同目标或兴趣联系在一起的群体组成的正式组织）",
+    "sentence": "He joined the alumni association."
+  },
+  {
+    "id": 1541,
+    "word": "Assume",
+    "phonetic": "/əˈsjuːm/",
+    "解释": "v. 假设（指在没有证据的情况下认为某事是真实的）",
+    "sentence": "Don't assume anything."
+  },
+  {
+    "id": 1542,
+    "word": "Assure",
+    "phonetic": "/əˈʃʊr/",
+    "解释": "v. 向…保证（指使某人确信某事是真实的或确定的）",
+    "sentence": "I assure you it's true."
+  },
+  {
+    "id": 1543,
+    "word": "Astronaut",
+    "phonetic": "/ˈæstrənɔːt/",
+    "解释": "n. 宇航员（指受过专业训练、能在太空飞行器中工作的人员）",
+    "sentence": "The astronaut spent six months in space."
+  },
+  {
+    "id": 1544,
+    "word": "Astronomy",
+    "phonetic": "/əˈstrɒnəmi/",
+    "解释": "n. 天文学（指研究天体和宇宙的科学）",
+    "sentence": "Astronomy is a fascinating subject."
+  },
+  {
+    "id": 1545,
+    "word": "Atmosphere",
+    "phonetic": "/ˈætməsfɪr/",
+    "解释": "n. 大气层（指环绕行星的气体层）",
+    "sentence": "The atmosphere protects us from radiation."
+  },
+  {
+    "id": 1546,
+    "word": "Attach",
+    "phonetic": "/əˈtætʃ/",
+    "解释": "v. 附上（指把一物固定或连接到另一物上）",
+    "sentence": "Attach your photo here."
+  },
+  {
+    "id": 1547,
+    "word": "Attack",
+    "phonetic": "/əˈtæk/",
+    "解释": "n./v. 攻击（指用武力伤害他人，或批评性地针对某人某物）",
+    "sentence": "The city came under attack."
+  },
+  {
+    "id": 1548,
+    "word": "Attain",
+    "phonetic": "/əˈteɪn/",
+    "解释": "v. 达到（指经过努力后成功获得或实现）",
+    "sentence": "You must work hard to attain success."
+  },
+  {
+    "id": 1549,
+    "word": "Attempt",
+    "phonetic": "/əˈtempt/",
+    "解释": "n./v. 尝试（指努力去做某事，尤其指困难的事）",
+    "sentence": "His attempt failed."
+  },
+  {
+    "id": 1550,
+    "word": "Attend",
+    "phonetic": "/əˈtend/",
+    "解释": "v. 参加（指出席会议、课程等活动）",
+    "sentence": "Did you attend the lecture?"
+  },
+  {
+    "id": 1551,
+    "word": "Attention",
+    "phonetic": "/əˈtenʃn/",
+    "解释": "n. 注意力（指集中精力于某事物的心理活动）",
+    "sentence": "Pay attention in class."
+  },
+  {
+    "id": 1552,
+    "word": "Attitude",
+    "phonetic": "/ˈætɪtuːd/",
+    "解释": "n. 态度（指对人或事的看法和行为方式）",
+    "sentence": "She has a positive attitude."
+  },
+  {
+    "id": 1553,
+    "word": "Attorney",
+    "phonetic": "/əˈtɜːrni/",
+    "解释": "n. 律师（指经法律授权代表当事人进行诉讼的专业人士）",
+    "sentence": "Hire an attorney for legal advice."
+  },
+  {
+    "id": 1554,
+    "word": "Attract",
+    "phonetic": "/əˈtrækt/",
+    "解释": "v. 吸引（指引起他人的兴趣、注意或好感）",
+    "sentence": "Flowers attract bees."
+  },
+  {
+    "id": 1555,
+    "word": "Attraction",
+    "phonetic": "/əˈtrækʃn/",
+    "解释": "n. 吸引（指令人感兴趣或想去参观的地方或事物）",
+    "sentence": "The park is a tourist attraction."
+  },
+  {
+    "id": 1556,
+    "word": "Attribute",
+    "phonetic": "/əˈtrɪbjuːt/",
+    "解释": "n./v. 属性；归因于（指某人或某物的特征，或认为某事由某原因引起）",
+    "sentence": "Patience is his best attribute."
+  },
+  {
+    "id": 1557,
+    "word": "Audience",
+    "phonetic": "/ˈɔːdiəns/",
+    "解释": "n. 观众（指观看表演、电影或阅读作品的群体）",
+    "sentence": "The audience applauded loudly."
+  },
+  {
+    "id": 1558,
+    "word": "Author",
+    "phonetic": "/ˈɔːθər/",
+    "解释": "n. 作者（指书或其他书面作品创作者）",
+    "sentence": "Who is the author of this book?"
+  },
+  {
+    "id": 1559,
+    "word": "Authority",
+    "phonetic": "/ɔːˈθɒrɪti/",
+    "解释": "n. 当局（指拥有权力或控制权的官方机构或个人）",
+    "sentence": "Local authorities issued a warning."
+  },
+  {
+    "id": 1560,
+    "word": "Automatic",
+    "phonetic": "/ˌɔːtəˈmætɪk/",
+    "解释": "adj. 自动的（指无需人工操作即可运行的）",
+    "sentence": "The door opens automatically."
+  },
+  {
+    "id": 1561,
+    "word": "Available",
+    "phonetic": "/əˈveɪləbl/",
+    "解释": "adj. 可用的（指可被获取、利用或达到的）",
+    "sentence": "Is this seat available?"
+  },
+  {
+    "id": 1562,
+    "word": "Average",
+    "phonetic": "/ˈævərɪdʒ/",
+    "解释": "n./adj. 平均（指典型值或中间值，或普通的）",
+    "sentence": "The average temperature is rising."
+  },
+  {
+    "id": 1563,
+    "word": "Avoid",
+    "phonetic": "/əˈvɔɪd/",
+    "解释": "v. 避免（指设法不让某事发生或不接触某人某物）",
+    "sentence": "Try to avoid processed foods."
+  },
+  {
+    "id": 1564,
+    "word": "Awareness",
+    "phonetic": "/əˈwernəs/",
+    "解释": "n. 意识（指知道或了解某事的状态）",
+    "sentence": "Public awareness is growing."
+  },
+  {
+    "id": 1565,
+    "word": "Awful",
+    "phonetic": "/ˈɔːfl/",
+    "解释": "adj. 糟糕的（指非常坏的、令人不愉快的）",
+    "sentence": "The weather was awful."
+  },
+  {
+    "id": 1566,
+    "word": "Balance",
+    "phonetic": "/ˈbæləns/",
+    "解释": "n./v. 平衡（指保持稳定不倾斜的状态，或使各部分均等）",
+    "sentence": "Work-life balance is important."
+  },
+  {
+    "id": 1567,
+    "word": "Balloon",
+    "phonetic": "/bəˈluːn/",
+    "解释": "n. 气球（指充气后飘浮在空中的薄橡皮囊）",
+    "sentence": "Children love balloons at parties."
+  },
+  {
+    "id": 1568,
+    "word": "Ban",
+    "phonetic": "/bæn/",
+    "解释": "n./v. 禁止（指官方宣布不允许做某事或使用某物）",
+    "sentence": "There's a ban on smoking here."
+  },
+  {
+    "id": 1569,
+    "word": "Band",
+    "phonetic": "/bænd/",
+    "解释": "n. 乐队（指一起演奏音乐的几个人组成的小组）",
+    "sentence": "The band played all night."
+  },
+  {
+    "id": 1570,
+    "word": "Bankrupt",
+    "phonetic": "/ˈbæŋkrʌpt/",
+    "解释": "adj. 破产的（指无力偿还债务的）",
+    "sentence": "The company went bankrupt."
+  },
+  {
+    "id": 1571,
+    "word": "Banner",
+    "phonetic": "/ˈbænər/",
+    "解释": "n. 横幅（指写有标语的布条，常用于游行或集会）",
+    "sentence": "They held a protest banner."
+  },
+  {
+    "id": 1572,
+    "word": "Bar",
+    "phonetic": "/bɑːr/",
+    "解释": "n. 条；酒吧（指细长的固体条状物，或卖酒的场所）",
+    "sentence": "Let's go to a bar tonight."
+  },
+  {
+    "id": 1573,
+    "word": "Barrel",
+    "phonetic": "/ˈbærəl/",
+    "解释": "n. 桶（指圆柱形的大容器，常用于装油或酒）",
+    "sentence": "Oil prices per barrel fluctuate."
+  },
+  {
+    "id": 1574,
+    "word": "Barrier",
+    "phonetic": "/ˈbæriər/",
+    "解释": "n. 障碍（指阻止通过或进展的东西）",
+    "sentence": "Language is not a barrier."
+  },
+  {
+    "id": 1575,
+    "word": "Base",
+    "phonetic": "/beɪs/",
+    "解释": "n./v. 基础（指支撑某物的底部，或以某事物为基础）",
+    "sentence": "The base of the tower is strong."
+  },
+  {
+    "id": 1576,
+    "word": "Basic",
+    "phonetic": "/ˈbeɪsɪk/",
+    "解释": "adj. 基本的（指最简单的、最根本的）",
+    "sentence": "Everyone needs basic education."
+  },
+  {
+    "id": 1577,
+    "word": "Batch",
+    "phonetic": "/bætʃ/",
+    "解释": "n. 一批（指同时生产或处理的一组物品）",
+    "sentence": "A new batch of products arrived."
+  },
+  {
+    "id": 1578,
+    "word": "Bath",
+    "phonetic": "/bæθ/",
+    "解释": "n. 沐浴（指将身体浸入水中清洁的行为）",
+    "sentence": "Take a hot bath to relax."
+  },
+  {
+    "id": 1579,
+    "word": "Battery",
+    "phonetic": "/ˈbætəri/",
+    "解释": "n. 电池（指储存电能供装置使用的容器）",
+    "sentence": "My phone battery is low."
+  },
+  {
+    "id": 1580,
+    "word": "Battle",
+    "phonetic": "/ˈbætl/",
+    "解释": "n./v. 战斗（指两个军队之间的武装冲突，或为达成某目标的激烈斗争）",
+    "sentence": "The battle lasted three days."
+  },
+  {
+    "id": 1581,
+    "word": "Beam",
+    "phonetic": "/biːm/",
+    "解释": "n./v. 光束；微笑（指从光源发出的光线，或露出灿烂的笑容）",
+    "sentence": "The sun's beam lit up the room."
+  },
+  {
+    "id": 1582,
+    "word": "Bear",
+    "phonetic": "/ber/",
+    "解释": "v. 忍受（指承受痛苦、困难或不愉快之事）",
+    "sentence": "I can't bear the noise."
+  },
+  {
+    "id": 1583,
+    "word": "Beat",
+    "phonetic": "/biːt/",
+    "解释": "v./n. 击打（指反复击打某物，或心脏的跳动节奏）",
+    "sentence": "My heart beats fast when I run."
+  },
+  {
+    "id": 1584,
+    "word": "Behavior",
+    "phonetic": "/bɪˈheɪvjər/",
+    "解释": "n. 行为（指一个人做事或待人接物的方式）",
+    "sentence": "His behavior improved over time."
+  },
+  {
+    "id": 1585,
+    "word": "Belief",
+    "phonetic": "/bɪˈliːf/",
+    "解释": "n. 信仰（指接受某事物为真的心理状态）",
+    "sentence": "Religious belief varies by culture."
+  },
+  {
+    "id": 1586,
+    "word": "Belong",
+    "phonetic": "/bɪˈlɒŋ/",
+    "解释": "v. 属于（指是某团体或组织的成员，或应在某处）",
+    "sentence": "Where does this belong?"
+  },
+  {
+    "id": 1587,
+    "word": "Beneficial",
+    "phonetic": "/ˌbenɪˈfɪʃl/",
+    "解释": "adj. 有益的（指产生好的效果或结果的）",
+    "sentence": "Exercise is beneficial for health."
+  },
+  {
+    "id": 1588,
+    "word": "Benefit",
+    "phonetic": "/ˈbenɪfɪt/",
+    "解释": "n./v. 利益（指优势或有助于改善情况的效果，或从中获益）",
+    "sentence": "Reading has many benefits."
+  },
+  {
+    "id": 1589,
+    "word": "Beside",
+    "phonetic": "/bɪˈsaɪd/",
+    "解释": "prep. 在…旁边（指紧邻某人或某物的位置）",
+    "sentence": "Sit beside me."
+  },
+  {
+    "id": 1590,
+    "word": "Besides",
+    "phonetic": "/bɪˈsaɪdz/",
+    "解释": "prep./adv. 此外（指除…之外还有，或而且）",
+    "sentence": "Besides English, I speak French."
+  },
+  {
+    "id": 1591,
+    "word": "Best-seller",
+    "phonetic": "/ˈbestselər/",
+    "解释": "n. 畅销品（指销售量极大的商品，尤指书籍）",
+    "sentence": "Her book became a best-seller."
+  },
+  {
+    "id": 1592,
+    "word": "Bet",
+    "phonetic": "/bet/",
+    "解释": "v./n. 打赌（指就结果与别人赌钱，或确信会发生某事）",
+    "sentence": "I bet you're wrong."
+  },
+  {
+    "id": 1593,
+    "word": "Bid",
+    "phonetic": "/bɪd/",
+    "解释": "n./v. 出价（指在拍卖中给出的价格）",
+    "sentence": "He made the highest bid."
+  },
+  {
+    "id": 1594,
+    "word": "Bind",
+    "phonetic": "/baɪnd/",
+    "解释": "v. 捆绑（指用绳等将物体绑在一起）",
+    "sentence": "Bind the package with tape."
+  },
+  {
+    "id": 1595,
+    "word": "Biography",
+    "phonetic": "/baɪˈɒɡrəfi/",
+    "解释": "n. 传记（指关于某人生平事迹的文字记录）",
+    "sentence": "I'm reading a biography of Lincoln."
+  },
+  {
+    "id": 1596,
+    "word": "Birth",
+    "phonetic": "/bɜːrθ/",
+    "解释": "n. 出生（指婴儿从母体中诞生的过程）",
+    "sentence": "What is your date of birth?"
+  },
+  {
+    "id": 1597,
+    "word": "Bit",
+    "phonetic": "/bɪt/",
+    "解释": "n. 少量（指少量或一小部分某物）",
+    "sentence": "Wait a bit, please."
+  },
+  {
+    "id": 1598,
+    "word": "Blade",
+    "phonetic": "/bleɪd/",
+    "解释": "n. 刀片（指刀、剑等锋利的金属部分）",
+    "sentence": "Be careful with the razor blade."
+  },
+  {
+    "id": 1599,
+    "word": "Blank",
+    "phonetic": "/blæŋk/",
+    "解释": "adj. 空白的（指未填写内容、没有文字或图像的）",
+    "sentence": "Write your name on the blank line."
+  },
+  {
+    "id": 1600,
+    "word": "Blast",
+    "phonetic": "/blæst/",
+    "解释": "n./v. 爆炸（指巨大的爆炸声或冲击波，或发出爆炸声）",
+    "sentence": "The bomb blast shook the building."
+  },
+  {
+    "id": 1601,
+    "word": "Blend",
+    "phonetic": "/blend/",
+    "解释": "v./n. 混合（指将不同物质均匀地混合在一起）",
+    "sentence": "Blend the ingredients well."
+  },
+  {
+    "id": 1602,
+    "word": "Block",
+    "phonetic": "/blɒk/",
+    "解释": "n./v. 街区；阻挡（指城市中四面被街道包围的建筑群，或阻止某物通过）",
+    "sentence": "They blocked the road."
+  },
+  {
+    "id": 1603,
+    "word": "Blood",
+    "phonetic": "/blʌd/",
+    "解释": "n. 血液（指在血管中流动的红色液体，输送氧气和养分）",
+    "sentence": "He donated blood at the hospital."
+  },
+  {
+    "id": 1604,
+    "word": "Board",
+    "phonetic": "/bɔːrd/",
+    "解释": "n./v. 董事会；登机（指管理公司的群体，或上船/飞机/火车等交通工具）",
+    "sentence": "Please board the plane."
+  },
+  {
+    "id": 1605,
+    "word": "Boast",
+    "phonetic": "/boʊst/",
+    "解释": "v. 吹嘘（指骄傲或自夸地说自己的能力或成就）",
+    "sentence": "He boasts about his car."
+  },
+  {
+    "id": 1606,
+    "word": "Bond",
+    "phonetic": "/bɒnd/",
+    "解释": "n. 纽带（指连接人与人之间关系的感情或共同利益）",
+    "sentence": "There's a strong bond between them."
+  },
+  {
+    "id": 1607,
+    "word": "Bonus",
+    "phonetic": "/ˈboʊnəs/",
+    "解释": "n. 奖金（指除正常工资外额外给予的钱）",
+    "sentence": "I got a year-end bonus."
+  },
+  {
+    "id": 1608,
+    "word": "Booklet",
+    "phonetic": "/ˈbʊklɪt/",
+    "解释": "n. 小册子（指有封面装订成册的薄书）",
+    "sentence": "Read this instruction booklet."
+  },
+  {
+    "id": 1609,
+    "word": "Border",
+    "phonetic": "/ˈbɔːrdər/",
+    "解释": "n. 边界（指分隔两个国家的界线）",
+    "sentence": "We crossed the border."
+  },
+  {
+    "id": 1610,
+    "word": "Boring",
+    "phonetic": "/ˈbɔːrɪŋ/",
+    "解释": "adj. 无聊的（指令人厌倦、没有趣味的）",
+    "sentence": "The movie was boring."
+  },
+  {
+    "id": 1611,
+    "word": "Bound",
+    "phonetic": "/baʊnd/",
+    "解释": "adj. 必定的；前往…的（指一定会发生的，或正去往某地的）",
+    "sentence": "The train is bound for New York."
+  },
+  {
+    "id": 1612,
+    "word": "Boundary",
+    "phonetic": "/ˈbaʊndəri/",
+    "解释": "n. 界线（指划分两个区域的线）",
+    "sentence": "The river forms a natural boundary."
+  },
+  {
+    "id": 1613,
+    "word": "Brand",
+    "phonetic": "/brænd/",
+    "解释": "n./v. 品牌（指产品制造商的名字或标志）",
+    "sentence": "What brand of shoes do you wear?"
+  },
+  {
+    "id": 1614,
+    "word": "Breakdown",
+    "phonetic": "/ˈbreɪkdaʊn/",
+    "解释": "n. 故障（指机器停止工作或系统崩溃的情况）",
+    "sentence": "The car had a breakdown on the highway."
+  },
+  {
+    "id": 1615,
+    "word": "Breath",
+    "phonetic": "/breθ/",
+    "解释": "n. 呼吸（指吸入和呼出空气的动作）",
+    "sentence": "Take a deep breath."
+  },
+  {
+    "id": 1616,
+    "word": "Breed",
+    "phonetic": "/briːd/",
+    "解释": "n./v. 品种；繁殖（指具有特定特征的动物类型，或使动物生育后代）",
+    "sentence": "Dogs come in many breeds."
+  },
+  {
+    "id": 1617,
+    "word": "Brief",
+    "phonetic": "/briːf/",
+    "解释": "adj. 简短的（指时间短、语言简洁的）",
+    "sentence": "Keep your answer brief."
+  },
+  {
+    "id": 1618,
+    "word": "Brilliant",
+    "phonetic": "/ˈbrɪliənt/",
+    "解释": "adj. 杰出的（指非常聪明、技艺高超或极好的）",
+    "sentence": "She gave a brilliant performance."
+  },
+  {
+    "id": 1619,
+    "word": "Broad",
+    "phonetic": "/brɔːd/",
+    "解释": "adj. 宽阔的（指从一边到另一边距离大的）",
+    "sentence": "He has broad shoulders."
+  },
+  {
+    "id": 1620,
+    "word": "Broadcast",
+    "phonetic": "/ˈbrɔːdkæst/",
+    "解释": "n./v. 广播（指通过无线电或电视向公众传播信息）",
+    "sentence": "The news was broadcast live."
+  },
+  {
+    "id": 1621,
+    "word": "Bronze",
+    "phonetic": "/brɒnz/",
+    "解释": "n. 青铜（指铜锡合金，常用于制作雕塑和奖牌）",
+    "sentence": "The statue is made of bronze."
+  },
+  {
+    "id": 1622,
+    "word": "Budget",
+    "phonetic": "/ˈbʌdʒɪt/",
+    "解释": "n./v. 预算（指为一段时间内的开支所做的计划）",
+    "sentence": "We need to cut our budget."
+  },
+  {
+    "id": 1623,
+    "word": "Bump",
+    "phonetic": "/bʌmp/",
+    "解释": "v./n. 撞击（指与某物碰撞发出沉闷的声音）",
+    "sentence": "I bumped into an old friend."
+  },
+  {
+    "id": 1624,
+    "word": "Burden",
+    "phonetic": "/ˈbɜːrdn/",
+    "解释": "n. 负担（指沉重的责任或困难任务）",
+    "sentence": "Tax is a burden for many."
+  },
+  {
+    "id": 1625,
+    "word": "Bureau",
+    "phonetic": "/ˈbjʊroʊ/",
+    "解释": "n. 局（指政府部门或办公室，尤指处理特定事务的）",
+    "sentence": "The weather bureau issued a warning."
+  },
+  {
+    "id": 1626,
+    "word": "Burn",
+    "phonetic": "/bɜːrn/",
+    "解释": "v. 燃烧（指物质与氧化合产生热和光的过程）",
+    "sentence": "Don't touch — it burns!"
+  },
+  {
+    "id": 1627,
+    "word": "Cabinet",
+    "phonetic": "/ˈkæbɪnət/",
+    "解释": "n. 橱柜；内阁（指存放物品的家具箱体，或政府最高决策机构）",
+    "sentence": "The cabinet met to discuss policy."
+  },
+  {
+    "id": 1628,
+    "word": "Campaign",
+    "phonetic": "/kæmˈpeɪn/",
+    "解释": "n. 运动（指为达成政治、商业或社会目标而组织的一系列活动）",
+    "sentence": "She led a successful campaign."
+  },
+  {
+    "id": 1629,
+    "word": "Campus",
+    "phonetic": "/ˈkæmpəs/",
+    "解释": "n. 校园（指大学或学院建筑所在的区域）",
+    "sentence": "The campus is beautiful in spring."
+  },
+  {
+    "id": 1630,
+    "word": "Candidate",
+    "phonetic": "/ˈkændɪdeɪt/",
+    "解释": "n. 候选人（指申请职位或参加选举的人）",
+    "sentence": "Who is the best candidate?"
+  },
+  {
+    "id": 1631,
+    "word": "Capable",
+    "phonetic": "/ˈkeɪpəbl/",
+    "解释": "adj. 有能力的（指有能力做某事的）",
+    "sentence": "She is very capable."
+  },
+  {
+    "id": 1632,
+    "word": "Capacity",
+    "phonetic": "/kəˈpæsɪti/",
+    "解释": "n. 容量（指容器能容纳的最大数量）",
+    "sentence": "The stadium has a capacity of 50,000."
+  },
+  {
+    "id": 1633,
+    "word": "Capture",
+    "phonetic": "/ˈkæptʃər/",
+    "解释": "v. 捕获（指抓住并控制某人或动物）",
+    "sentence": "The police captured the thief."
+  },
+  {
+    "id": 1634,
+    "word": "Carbon",
+    "phonetic": "/ˈkɑːrbən/",
+    "解释": "n. 碳（指化学元素C，是构成有机物的基本元素之一）",
+    "sentence": "Carbon emissions must be reduced."
+  },
+  {
+    "id": 1635,
+    "word": "Cargo",
+    "phonetic": "/ˈkɑːrɡoʊ/",
+    "解释": "n. 货物（指由船舶、飞机或车辆运输的商品）",
+    "sentence": "The ship carries cargo worldwide."
+  },
+  {
+    "id": 1636,
+    "word": "Carrier",
+    "phonetic": "/ˈkæriər/",
+    "解释": "n. 承运人（指运输货物或乘客的公司）",
+    "sentence": "The airline is a major carrier."
+  },
+  {
+    "id": 1637,
+    "word": "Cartoon",
+    "phonetic": "/kɑːrˈtuːn/",
+    "解释": "n. 卡通（指以夸张手法绘制的动画或连环画）",
+    "sentence": "Children love watching cartoons."
+  },
+  {
+    "id": 1638,
+    "word": "Carve",
+    "phonetic": "/kɑːrv/",
+    "解释": "v. 雕刻（指用刀将木头或石头刻成某种形状）",
+    "sentence": "He carved a wooden figure."
+  },
+  {
+    "id": 1639,
+    "word": "Case",
+    "phonetic": "/keɪs/",
+    "解释": "n. 案例；情况（指具体的事例，或某人所处的状况）",
+    "sentence": "In case of fire, use stairs."
+  },
+  {
+    "id": 1640,
+    "word": "Cash",
+    "phonetic": "/kæʃ/",
+    "解释": "n. 现金（指纸币和硬币形式的货币）",
+    "sentence": "Do you accept cash?"
+  },
+  {
+    "id": 1641,
+    "word": "Cast",
+    "phonetic": "/kæst/",
+    "解释": "v./n. 投射；演员表（指将光线或影子投向表面，或电影中的全部演员）",
+    "sentence": "The cast of the movie was excellent."
+  },
+  {
+    "id": 1642,
+    "word": "Casual",
+    "phonetic": "/ˈkæʒuəl/",
+    "解释": "adj. 随意的（指不正式、非严肃的，或偶尔发生的）",
+    "sentence": "It's a casual party."
+  },
+  {
+    "id": 1643,
+    "word": "Catalog",
+    "phonetic": "/ˈkætəlɒɡ/",
+    "解释": "n. 目录（指按顺序排列的商品或书籍列表）",
+    "sentence": "Look through the catalog."
+  },
+  {
+    "id": 1644,
+    "word": "Category",
+    "phonetic": "/ˈkætəɡɔːri/",
+    "解释": "n. 类别（指将事物归入的不同种类或组）",
+    "sentence": "Which category does this belong to?"
+  },
+  {
+    "id": 1645,
+    "word": "Cease",
+    "phonetic": "/siːs/",
+    "解释": "v. 停止（指结束或不再继续做某事）",
+    "sentence": "The fighting ceased at midnight."
+  },
+  {
+    "id": 1646,
+    "word": "Cell",
+    "phonetic": "/sel/",
+    "解释": "n. 细胞（指生物体的基本结构和功能单位）",
+    "sentence": "Every living thing is made of cells."
+  },
+  {
+    "id": 1647,
+    "word": "Cement",
+    "phonetic": "/sɪˈment/",
+    "解释": "n. 水泥（指用于建筑中的灰色粉末状粘合材料）",
+    "sentence": "Concrete is made of cement and sand."
+  },
+  {
+    "id": 1648,
+    "word": "Ceremony",
+    "phonetic": "/ˈserɪmoʊni/",
+    "解释": "n. 典礼（指为庆祝或纪念而举行的正式活动）",
+    "sentence": "The wedding ceremony was beautiful."
+  },
+  {
+    "id": 1649,
+    "word": "Certificate",
+    "phonetic": "/sərˈtɪfɪkət/",
+    "解释": "n. 证书（指官方文件，证明某人具备某种资格或完成某项学业）",
+    "sentence": "I got a certificate in English."
+  },
+  {
+    "id": 1650,
+    "word": "Chamber",
+    "phonetic": "/ˈtʃeɪmbər/",
+    "解释": "n. 房间；议院（指用于特定目的的房间，或立法机构的议事厅）",
+    "sentence": "The chamber was filled with people."
+  },
+  {
+    "id": 1651,
+    "word": "Champion",
+    "phonetic": "/ˈtʃæmpiən/",
+    "解释": "n./v. 冠军；支持者（指比赛中获胜的人，或坚定支持某事业的人）",
+    "sentence": "She became the world champion."
+  },
+  {
+    "id": 1652,
+    "word": "Chaos",
+    "phonetic": "/ˈkeɪɒs/",
+    "解释": "n. 混乱（指完全无序的状态）",
+    "sentence": "The room was in chaos."
+  },
+  {
+    "id": 1653,
+    "word": "Chapter",
+    "phonetic": "/ˈtʃæptər/",
+    "解释": "n. 章（指书中划分的主要部分）",
+    "sentence": "This chapter covers grammar."
+  },
+  {
+    "id": 1654,
+    "word": "Character",
+    "phonetic": "/ˈkærəktər/",
+    "解释": "n. 角色；性格（指故事中的人物，或一个人独特的品质组合）",
+    "sentence": "She has a strong character."
+  },
+  {
+    "id": 1655,
+    "word": "Characteristic",
+    "phonetic": "/ˌkærəktəˈrɪstɪk/",
+    "解释": "n./adj. 特征（指使某人或某物独特且可辨认的性质）",
+    "sentence": "Kindness is his main characteristic."
+  },
+  {
+    "id": 1656,
+    "word": "Charge",
+    "phonetic": "/tʃɑːrdʒ/",
+    "解释": "n./v. 收费；指控（指要求支付金钱，或正式控告某人犯罪）",
+    "sentence": "How much do you charge?"
+  },
+  {
+    "id": 1657,
+    "word": "Charity",
+    "phonetic": "/ˈtʃærəti/",
+    "解释": "n. 慈善（指向需要帮助的人提供金钱或物资的组织或行为）",
+    "sentence": "She donates to charity regularly."
+  },
+  {
+    "id": 1658,
+    "word": "Chart",
+    "phonetic": "/tʃɑːrt/",
+    "解释": "n./v. 图表；绘制（指用图形表示数据的工具）",
+    "sentence": "The chart shows sales trends."
+  },
+  {
+    "id": 1659,
+    "word": "Chase",
+    "phonetic": "/tʃeɪs/",
+    "解释": "v./n. 追赶（指快速跟随某人或动物试图抓住他们）",
+    "sentence": "The dog chased the cat."
+  },
+  {
+    "id": 1660,
+    "word": "Cheap",
+    "phonetic": "/tʃiːp/",
+    "解释": "adj. 便宜的（指价格低廉的）",
+    "sentence": "This restaurant is cheap and good."
+  },
+  {
+    "id": 1661,
+    "word": "Cheer",
+    "phonetic": "/tʃɪr/",
+    "解释": "v./n. 欢呼（指大声表达高兴或支持）",
+    "sentence": "The crowd cheered loudly."
+  },
+  {
+    "id": 1662,
+    "word": "Chemical",
+    "phonetic": "/ˈkemɪkl/",
+    "解释": "n./adj. 化学物质（指通过化学反应形成的物质）",
+    "sentence": "Many chemicals are harmful to the environment."
+  },
+  {
+    "id": 1663,
+    "word": "Chess",
+    "phonetic": "/tʃes/",
+    "解释": "n. 国际象棋（指双方各16枚棋子、在棋盘上进行对弈的游戏）",
+    "sentence": "Do you play chess?"
+  },
+  {
+    "id": 1664,
+    "word": "Chew",
+    "phonetic": "/tʃuː/",
+    "解释": "v. 咀嚼（指用牙齿咬碎食物）",
+    "sentence": "Chew your food slowly."
+  },
+  {
+    "id": 1665,
+    "word": "Childhood",
+    "phonetic": "/ˈtʃaɪldhʊd/",
+    "解释": "n. 童年时期（指从婴儿到青春期之间的阶段）",
+    "sentence": "She had a happy childhood."
+  },
+  {
+    "id": 1666,
+    "word": "Chill",
+    "phonetic": "/tʃɪl/",
+    "解释": "v. 使变冷（指使温度降低）",
+    "sentence": "Chill the drinks before serving."
+  },
+  {
+    "id": 1667,
+    "word": "Chimney",
+    "phonetic": "/ˈtʃɪmni/",
+    "解释": "n. 烟囱（指建筑物顶部用于排烟的竖直通道）",
+    "sentence": "Smoke rose from the chimney."
+  },
+  {
+    "id": 1668,
+    "word": "Choice",
+    "phonetic": "/tʃɔɪs/",
+    "解释": "n. 选择（指从多个选项中选出一个的行为）",
+    "sentence": "You have no choice."
+  },
+  {
+    "id": 1669,
+    "word": "Chop",
+    "phonetic": "/tʃɒp/",
+    "解释": "v. 砍（指用刀用力向下切）",
+    "sentence": "Chop the onions finely."
+  },
+  {
+    "id": 1670,
+    "word": "Civil",
+    "phonetic": "/ˈsɪvl/",
+    "解释": "adj. 公民的；文明的（指与普通民众有关的，或有礼貌的）",
+    "sentence": "Civil rights are fundamental."
+  },
+  {
+    "id": 1671,
+    "word": "Claim",
+    "phonetic": "/kleɪm/",
+    "解释": "n./v. 声称；索赔（指断言某事为真，或要求获得应得的钱财或赔偿）",
+    "sentence": "He claimed he was innocent."
+  },
+  {
+    "id": 1672,
+    "word": "Clap",
+    "phonetic": "/klæp/",
+    "解释": "v./n. 拍手（指用手掌相互击打以表示赞赏）",
+    "sentence": "Everyone clapped at the end."
+  },
+  {
+    "id": 1673,
+    "word": "Classification",
+    "phonetic": "/ˌklæsɪfɪˈkeɪʃn/",
+    "解释": "n. 分类（指根据特征将事物归入不同类别）",
+    "sentence": "The classification system is complex."
+  },
+  {
+    "id": 1674,
+    "word": "Classify",
+    "phonetic": "/ˈklæsɪfaɪ/",
+    "解释": "v. 分类（指把人或物按类型分组）",
+    "sentence": "Books are classified by subject."
+  },
+  {
+    "id": 1675,
+    "word": "Clay",
+    "phonetic": "/kleɪ/",
+    "解释": "n. 黏土（指一种细密的土壤，湿润时柔软可塑形）",
+    "sentence": "Pots are made from clay."
+  },
+  {
+    "id": 1676,
+    "word": "Client",
+    "phonetic": "/ˈklaɪənt/",
+    "解释": "n. 客户（指接受专业服务的人或公司）",
+    "sentence": "Our clients are satisfied."
+  },
+  {
+    "id": 1677,
+    "word": "Climate",
+    "phonetic": "/ˈklaɪmət/",
+    "解释": "n. 气候（指某地区长期的天气模式）",
+    "sentence": "The climate here is mild."
+  },
+  {
+    "id": 1678,
+    "word": "Clockwise",
+    "phonetic": "/ˈklɒkwaɪz/",
+    "解释": "adv. 顺时针方向（指钟表指针转动的方向）",
+    "sentence": "Turn the key clockwise."
+  },
+  {
+    "id": 1679,
+    "word": "Cloth",
+    "phonetic": "/klɒθ/",
+    "解释": "n. 布（指用于制作衣服或其他物品的织物材料）",
+    "sentence": "Use a soft cloth to clean it."
+  },
+  {
+    "id": 1680,
+    "word": "Clothing",
+    "phonetic": "/ˈkloʊðɪŋ/",
+    "解释": "n. 衣服（指人穿在身上的各种服装的总称）",
+    "sentence": "Winter clothing is expensive."
+  },
+  {
+    "id": 1681,
+    "word": "Coarse",
+    "phonetic": "/kɔːrs/",
+    "解释": "adj. 粗糙的（指表面不平滑的，或言语粗俗的）",
+    "sentence": "Sandpaper has a coarse surface."
+  },
+  {
+    "id": 1682,
+    "word": "Collapse",
+    "phonetic": "/kəˈlæps/",
+    "解释": "v./n. 坍塌（指突然倒下或失败）",
+    "sentence": "The bridge collapsed during the storm."
+  },
+  {
+    "id": 1683,
+    "word": "Collar",
+    "phonetic": "/ˈkɒlər/",
+    "解释": "n. 领子（指衣服颈部周围的部分）",
+    "sentence": "His collar is too tight."
+  },
+  {
+    "id": 1684,
+    "word": "Colleague",
+    "phonetic": "/ˈkɒliːɡ/",
+    "解释": "n. 同事（指在同一组织中一起工作的人）",
+    "sentence": "I had lunch with my colleague."
+  },
+  {
+    "id": 1685,
+    "word": "Collection",
+    "phonetic": "/kəˈlekʃn/",
+    "解释": "n. 收集（指收集在一起的一组物品）",
+    "sentence": "He has a coin collection."
+  },
+  {
+    "id": 1686,
+    "word": "Collision",
+    "phonetic": "/kəˈlɪʒn/",
+    "解释": "n. 碰撞（指两个移动物体的猛烈相撞）",
+    "sentence": "Two cars were involved in the collision."
+  },
+  {
+    "id": 1687,
+    "word": "Colony",
+    "phonetic": "/ˈkɒləni/",
+    "解释": "n. 殖民地（指一国在另一国领土上建立的定居点）",
+    "sentence": "Britain had many colonies."
+  },
+  {
+    "id": 1688,
+    "word": "Column",
+    "phonetic": "/ˈkɒləm/",
+    "解释": "n. 栏目；柱（指报纸或表格中的一列垂直部分）",
+    "sentence": "Read the left column."
+  },
+  {
+    "id": 1689,
+    "word": "Combat",
+    "phonetic": "/ˈkɒmbæt/",
+    "解释": "n./v. 战斗（指武装冲突，或努力减少或消除某坏事）",
+    "sentence": "Soldiers were sent into combat."
+  },
+  {
+    "id": 1690,
+    "word": "Combine",
+    "phonetic": "/kəmˈbaɪn/",
+    "解释": "v. 结合（指将两件或多件事物放在一起形成整体）",
+    "sentence": "Combine the eggs and sugar."
+  },
+  {
+    "id": 1691,
+    "word": "Comedy",
+    "phonetic": "/ˈkɒmədi/",
+    "解释": "n. 喜剧（指旨在使人发笑的戏剧、电影或节目）",
+    "sentence": "We watched a comedy last night."
+  },
+  {
+    "id": 1692,
+    "word": "Comfort",
+    "phonetic": "/ˈkʌmfərt/",
+    "解释": "n./v. 舒适（指身体或心理上的轻松愉快状态）",
+    "sentence": "The hotel offers great comfort."
+  },
+  {
+    "id": 1693,
+    "word": "Command",
+    "phonetic": "/kəˈmɑːnd/",
+    "解释": "n./v. 命令（指权威人物发出的指示）",
+    "sentence": "The general gave a command."
+  },
+  {
+    "id": 1694,
+    "word": "Comment",
+    "phonetic": "/ˈkɒment/",
+    "解释": "n./v. 评论（指对某事发表的意见）",
+    "sentence": "No comments allowed."
+  },
+  {
+    "id": 1695,
+    "word": "Commerce",
+    "phonetic": "/ˈkɒmɜːrs/",
+    "解释": "n. 商业（指商品买卖的活动）",
+    "sentence": "E-commerce is growing fast."
+  },
+  {
+    "id": 1696,
+    "word": "Commercial",
+    "phonetic": "/kəˈmɜːrʃl/",
+    "解释": "adj. 商业的（指与商业活动有关的，或以营利为目的的）",
+    "sentence": "TV commercials are annoying."
+  },
+  {
+    "id": 1697,
+    "word": "Commission",
+    "phonetic": "/kəˈmɪʃn/",
+    "解释": "n. 委员会（指被授权执行某任务的官方团体）",
+    "sentence": "The commission investigated the scandal."
+  },
+  {
+    "id": 1698,
+    "word": "Commit",
+    "phonetic": "/kəˈmɪt/",
+    "解释": "v. 承诺（指保证会做某事或遵守某约定）",
+    "sentence": "We commit to reducing waste."
+  },
+  {
+    "id": 1699,
+    "word": "Committee",
+    "phonetic": "/kəˈmɪti/",
+    "解释": "n. 委员会（指一群被选出或指定来做决策或调查的人）",
+    "sentence": "The committee meets monthly."
+  },
+  {
+    "id": 1700,
+    "word": "Commodity",
+    "phonetic": "/kəˈmɒdɪti/",
+    "解释": "n. 商品（指可在市场上交易的基本产品，如农产品或原材料）",
+    "sentence": "Oil is a valuable commodity."
+  },
+  {
+    "id": 1701,
+    "word": "Common",
+    "phonetic": "/ˈkɒmən/",
+    "解释": "adj. 共同的（指两个或多个人或事物所共有的）",
+    "sentence": "It's a common mistake."
+  },
+  {
+    "id": 1702,
+    "word": "Communicate",
+    "phonetic": "/kəˈmjuːnɪkeɪt/",
+    "解释": "v. 交流（指通过语言、文字或符号交换信息或想法）",
+    "sentence": "We communicate by email."
+  },
+  {
+    "id": 1703,
+    "word": "Community",
+    "phonetic": "/kəˈmjuːnəti/",
+    "解释": "n. 社区（指居住在同一地区、有共同利益的一群人）",
+    "sentence": "The community center is busy."
+  },
+  {
+    "id": 1704,
+    "word": "Companion",
+    "phonetic": "/kəmˈpæniən/",
+    "解释": "n. 同伴（指一起旅行、工作或生活的人）",
+    "sentence": "My dog is my constant companion."
+  },
+  {
+    "id": 1705,
+    "word": "Comparable",
+    "phonetic": "/ˈkɒmpərəbl/",
+    "解释": "adj. 可比较的（指可以与另一事物进行相似性对比的）",
+    "sentence": "The results are comparable."
+  },
+  {
+    "id": 1706,
+    "word": "Comparative",
+    "phonetic": "/kəmˈpærətɪv/",
+    "解释": "adj. 比较的（指通过比较来评估两事物的）",
+    "sentence": "She studies comparative literature."
+  },
+  {
+    "id": 1707,
+    "word": "Comparison",
+    "phonetic": "/kəmˈpærɪsn/",
+    "解释": "n. 比较（指判断两事物之间异同的行为）",
+    "sentence": "A comparison of the two plans is needed."
+  },
+  {
+    "id": 1708,
+    "word": "Compel",
+    "phonetic": "/kəmˈpel/",
+    "解释": "v. 强迫（指使用力量或权威迫使某人做某事）",
+    "sentence": "The law compels us to pay taxes."
+  },
+  {
+    "id": 1709,
+    "word": "Compensate",
+    "phonetic": "/ˈkɒmpenseɪt/",
+    "解释": "v. 补偿（指为损失或伤害给予金钱或其他形式的弥补）",
+    "sentence": "The company will compensate you."
+  },
+  {
+    "id": 1710,
+    "word": "Compete",
+    "phonetic": "/kəmˈpiːt/",
+    "解释": "v. 竞争（指在比赛中努力争取胜利，或在商业中争夺客户）",
+    "sentence": "Companies compete for customers."
+  },
+  {
+    "id": 1711,
+    "word": "Competent",
+    "phonetic": "/ˈkɒmpɪtənt/",
+    "解释": "adj. 有能力的（指有能力做好某工作的）",
+    "sentence": "He is a competent manager."
+  },
+  {
+    "id": 1712,
+    "word": "Competitive",
+    "phonetic": "/kəmˈpetɪtɪv/",
+    "解释": "adj. 有竞争力的（指善于与他人竞争的）",
+    "sentence": "The market is very competitive."
+  },
+  {
+    "id": 1713,
+    "word": "Compile",
+    "phonetic": "/kəmˈpaɪl/",
+    "解释": "v. 编译；汇编（指将信息收集整理成列表或书籍）",
+    "sentence": "We compiled data from 100 sources."
+  },
+  {
+    "id": 1714,
+    "word": "Complain",
+    "phonetic": "/kəmˈpleɪn/",
+    "解释": "v. 抱怨（指表达对某人或某事的不满）",
+    "sentence": "Don't complain about the weather."
+  },
+  {
+    "id": 1715,
+    "word": "Complete",
+    "phonetic": "/kəmˈpliːt/",
+    "解释": "v./adj. 完成（指做完某事使其完整无缺的）",
+    "sentence": "Please complete the form."
+  },
+  {
+    "id": 1716,
+    "word": "Complex",
+    "phonetic": "/ˈkɒmpleks/",
+    "解释": "adj. 复杂的（指由许多相互关联的部分组成的，难以理解的）",
+    "sentence": "The problem is complex."
+  },
+  {
+    "id": 1717,
+    "word": "Complicate",
+    "phonetic": "/ˈkɒmplɪkeɪt/",
+    "解释": "v. 使复杂化（指使某事变得困难或混乱）",
+    "sentence": "Don't complicate things."
+  },
+  {
+    "id": 1718,
+    "word": "Component",
+    "phonetic": "/kəmˈpoʊnənt/",
+    "解释": "n. 组成部分（指构成更大整体的零件或要素）",
+    "sentence": "Each component must be tested."
+  },
+  {
+    "id": 1719,
+    "word": "Compose",
+    "phonetic": "/kəmˈpoʊz/",
+    "解释": "v. 组成；创作（指由各部分构成整体，或创作音乐/文学作品）",
+    "sentence": "Water is composed of hydrogen and oxygen."
+  },
+  {
+    "id": 1720,
+    "word": "Composition",
+    "phonetic": "/ˌkɒmpəˈzɪʃn/",
+    "解释": "n. 构成；作文（指某物的组成部分，或学生写的文章）",
+    "sentence": "What is the composition of air?"
+  },
+  {
+    "id": 1721,
+    "word": "Compound",
+    "phonetic": "/ˈkɒmpaʊnd/",
+    "解释": "n./adj. 化合物（指两种以上元素化学结合形成的物质）",
+    "sentence": "Salt is a simple compound."
+  },
+  {
+    "id": 1722,
+    "word": "Comprehend",
+    "phonetic": "/ˌkɒmprɪˈhend/",
+    "解释": "v. 理解（指完全明白某事物的意义或重要性）",
+    "sentence": "I can't comprehend his behavior."
+  },
+  {
+    "id": 1723,
+    "word": "Comprehensive",
+    "phonetic": "/ˌkɒmprɪˈhensɪv/",
+    "解释": "adj. 全面的（指包含所有或几乎一切相关内容的）",
+    "sentence": "We need a comprehensive review."
+  },
+  {
+    "id": 1724,
+    "word": "Comprise",
+    "phonetic": "/kəmˈpraɪz/",
+    "解释": "v. 由…组成（指包含作为整体的部分）",
+    "sentence": "The team comprises 20 people."
+  },
+  {
+    "id": 1725,
+    "word": "Compromise",
+    "phonetic": "/ˈkɒmprəmaɪz/",
+    "解释": "n./v. 妥协（指各方各让一步以达成协议）",
+    "sentence": "They reached a compromise."
+  },
+  {
+    "id": 1726,
+    "word": "Conceal",
+    "phonetic": "/kənˈsiːl/",
+    "解释": "v. 隐藏（指把某物藏起来不让他人发现）",
+    "sentence": "He concealed the truth."
+  },
+  {
+    "id": 1727,
+    "word": "Concede",
+    "phonetic": "/kənˈsiːd/",
+    "解释": "v. 承认失败（指承认自己在辩论中输了或对方是对的）",
+    "sentence": "He conceded defeat."
+  },
+  {
+    "id": 1728,
+    "word": "Conceive",
+    "phonetic": "/kənˈsiːv/",
+    "解释": "v. 设想（指在脑中形成想法或计划）",
+    "sentence": "Scientists conceived a new theory."
+  },
+  {
+    "id": 1729,
+    "word": "Concentrate",
+    "phonetic": "/ˈkɒnsntreɪt/",
+    "解释": "v. 集中（指将注意力全部放在某事上）",
+    "sentence": "I need to concentrate on work."
+  },
+  {
+    "id": 1730,
+    "word": "Concept",
+    "phonetic": "/ˈkɒnsept/",
+    "解释": "n. 概念（指思想或观念，尤指抽象的）",
+    "sentence": "It's a difficult concept."
+  },
+  {
+    "id": 1731,
+    "word": "Concern",
+    "phonetic": "/kənˈsɜːrn/",
+    "解释": "n./v. 关心（指对某事的担忧或兴趣，或涉及某人）",
+    "sentence": "Climate change is a major concern."
+  },
+  {
+    "id": 1732,
+    "word": "Conclude",
+    "phonetic": "/kənˈkluːd/",
+    "解释": "v. 结论（指经过推理后得出最终决定或判断）",
+    "sentence": "The study concluded that..."
+  },
+  {
+    "id": 1733,
+    "word": "Concrete",
+    "phonetic": "/ˈkɒŋkriːt/",
+    "解释": "n./adj. 具体的（指水泥混合物，或明确而非模糊的）",
+    "sentence": "Give me a concrete example."
+  },
+  {
+    "id": 1734,
+    "word": "Condense",
+    "phonetic": "/kənˈdens/",
+    "解释": "v. 压缩（指去除多余部分使内容更简洁）",
+    "sentence": "Condense the report to one page."
+  },
+  {
+    "id": 1735,
+    "word": "Condition",
+    "phonetic": "/kənˈdɪʃn/",
+    "解释": "n. 条件（指影响某事发生或发展的环境因素）",
+    "sentence": "The car is in good condition."
+  },
+  {
+    "id": 1736,
+    "word": "Conduct",
+    "phonetic": "/kənˈdʌkt/",
+    "解释": "v. 实施（指组织和执行某项活动）",
+    "sentence": "They conducted a survey."
+  },
+  {
+    "id": 1737,
+    "word": "Confess",
+    "phonetic": "/kənˈfes/",
+    "解释": "v. 坦白（指承认自己做了错事或犯了罪）",
+    "sentence": "He confessed to stealing."
+  },
+  {
+    "id": 1738,
+    "word": "Confident",
+    "phonetic": "/ˈkɒnfɪdənt/",
+    "解释": "adj. 自信的（指相信自己能力的）",
+    "sentence": "Be confident in your answer."
+  },
+  {
+    "id": 1739,
+    "word": "Confirm",
+    "phonetic": "/kənˈfɜːrm/",
+    "解释": "v. 确认（指证明某事的真实性或确定性）",
+    "sentence": "Please confirm your booking."
+  },
+  {
+    "id": 1740,
+    "word": "Conflict",
+    "phonetic": "/ˈkɒnflɪkt/",
+    "解释": "n./v. 冲突（指因意见不同而产生的争斗或不和）",
+    "sentence": "There was a conflict between them."
+  },
+  {
+    "id": 1741,
+    "word": "Conform",
+    "phonetic": "/kənˈfɔːrm/",
+    "解释": "v. 遵守（指符合规则或社会期望）",
+    "sentence": "You must conform to the rules."
+  },
+  {
+    "id": 1742,
+    "word": "Confuse",
+    "phonetic": "/kənˈfjuːz/",
+    "解释": "v. 使困惑（指使人无法清楚理解某事）",
+    "sentence": "The instructions confused me."
+  },
+  {
+    "id": 1743,
+    "word": "Congratulate",
+    "phonetic": "/kənˈɡrætʃuleɪt/",
+    "解释": "v. 祝贺（指因为某人的成就而向其表示高兴）",
+    "sentence": "Congratulations on your promotion!"
+  },
+  {
+    "id": 1744,
+    "word": "Congress",
+    "phonetic": "/ˈkɒŋɡres/",
+    "解释": "n. 国会（指国家的立法机构，尤指美国的参众两院）",
+    "sentence": "Congress passed the bill."
+  },
+  {
+    "id": 1745,
+    "word": "Connect",
+    "phonetic": "/kəˈnekt/",
+    "解释": "v. 连接（指将一物与另一物物理地或逻辑地接合）",
+    "sentence": "Connect the cable here."
+  },
+  {
+    "id": 1746,
+    "word": "Connection",
+    "phonetic": "/kəˈnekʃn/",
+    "解释": "n. 联系（指人与人之间的关系，或物与物之间的连接）",
+    "sentence": "There's no connection between the two events."
+  },
+  {
+    "id": 1747,
+    "word": "Conscious",
+    "phonetic": "/ˈkɒnʃəs/",
+    "解释": "adj. 有意识的（指清醒并知道周围正在发生什么的）",
+    "sentence": "Are you conscious of the risk?"
+  },
+  {
+    "id": 1748,
+    "word": "Consensus",
+    "phonetic": "/kənˈsensəs/",
+    "解释": "n. 一致意见（指群体中大多数人同意的观点）",
+    "sentence": "We reached a consensus."
+  },
+  {
+    "id": 1749,
+    "word": "Consent",
+    "phonetic": "/kənˈsent/",
+    "解释": "n./v. 同意（指允许某事发生或正式准许）",
+    "sentence": "Parental consent is required."
+  },
+  {
+    "id": 1750,
+    "word": "Consequence",
+    "phonetic": "/ˈkɒnsɪkwens/",
+    "解释": "n. 结果（指某行为或情况造成的后果）",
+    "sentence": "Accept the consequences."
+  },
+  {
+    "id": 1751,
+    "word": "Conservation",
+    "phonetic": "/ˌkɒnsərˈveɪʃn/",
+    "解释": "n. 保护（指保护自然资源的做法）",
+    "sentence": "Wildlife conservation is important."
+  },
+  {
+    "id": 1752,
+    "word": "Consider",
+    "phonetic": "/kənˈsɪdər/",
+    "解释": "v. 考虑（指在做出决定前仔细思考某事）",
+    "sentence": "Please consider my proposal."
+  },
+  {
+    "id": 1753,
+    "word": "Considerable",
+    "phonetic": "/kənˈsɪdərəbl/",
+    "解释": "adj. 相当大的（指数量或程度大到值得注意的）",
+    "sentence": "A considerable amount of money was saved."
+  },
+  {
+    "id": 1754,
+    "word": "Consistent",
+    "phonetic": "/kənˈsɪstənt/",
+    "解释": "adj. 一致的（指始终如一、没有矛盾的）",
+    "sentence": "His results are consistent."
+  },
+  {
+    "id": 1755,
+    "word": "Constant",
+    "phonetic": "/ˈkɒnstənt/",
+    "解释": "adj. 持续不断的（指在整个时期内持续发生的）",
+    "sentence": "Constant practice is necessary."
+  },
+  {
+    "id": 1756,
+    "word": "Constitute",
+    "phonetic": "/ˈkɒnstɪtjuːt/",
+    "解释": "v. 构成（指被认作整体的一部分或要素）",
+    "sentence": "Women constitute 50 percent of the population."
+  },
+  {
+    "id": 1757,
+    "word": "Construct",
+    "phonetic": "/kənˈstrʌkt/",
+    "解释": "v. 建造（指通过组合材料来建造某物，如建筑或机器）",
+    "sentence": "They constructed a new bridge."
+  },
+  {
+    "id": 1758,
+    "word": "Consult",
+    "phonetic": "/kənˈsʌlt/",
+    "解释": "v. 咨询（指向专业人士征求信息或建议）",
+    "sentence": "Consult a doctor if symptoms persist."
+  },
+  {
+    "id": 1759,
+    "word": "Consume",
+    "phonetic": "/kənˈsuːm/",
+    "解释": "v. 消耗（指使用掉燃料、食物等资源）",
+    "sentence": "Cars consume a lot of fuel."
+  },
+  {
+    "id": 1760,
+    "word": "Consumer",
+    "phonetic": "/kənˈsuːmər/",
+    "解释": "n. 消费者（指购买商品或服务的人）",
+    "sentence": "Consumers are demanding greener products."
+  },
+  {
+    "id": 1761,
+    "word": "Consumption",
+    "phonetic": "/kənˈsʌmpʃn/",
+    "解释": "n. 消费（指购买和使用商品的行为）",
+    "sentence": "Energy consumption is rising."
+  },
+  {
+    "id": 1762,
+    "word": "Contact",
+    "phonetic": "/ˈkɒntækt/",
+    "解释": "n./v. 联系（指与某人通过通信方式沟通的状态或行为）",
+    "sentence": "Contact me by email."
+  },
+  {
+    "id": 1763,
+    "word": "Container",
+    "phonetic": "/kənˈteɪnər/",
+    "解释": "n. 容器（指用于存放物品的盒子、罐子等）",
+    "sentence": "Recycling containers are placed on every street."
+  },
+  {
+    "id": 1764,
+    "word": "Contemporary",
+    "phonetic": "/kənˈtempəreri/",
+    "解释": "adj. 当代的（指属于当前时期的，或同时代的）",
+    "sentence": "Contemporary art is diverse."
+  },
+  {
+    "id": 1765,
+    "word": "Content",
+    "phonetic": "/ˈkɒntent/",
+    "解释": "n./adj. 内容；满足的（指书中所含的信息，或对现状感到满意的）",
+    "sentence": "The content of the report is useful."
+  },
+  {
+    "id": 1766,
+    "word": "Contest",
+    "phonetic": "/ˈkɒntest/",
+    "解释": "n./v. 比赛（指为获得奖品而进行的竞赛活动）",
+    "sentence": "She won the writing contest."
+  },
+  {
+    "id": 1767,
+    "word": "Context",
+    "phonetic": "/ˈkɒntekst/",
+    "解释": "n. 上下文（指帮助理解词句意义的周围文字或环境情况）",
+    "sentence": "Look at the context to understand the meaning."
+  },
+  {
+    "id": 1768,
+    "word": "Continent",
+    "phonetic": "/ˈkɒntɪnənt/",
+    "解释": "n. 大洲（指地球上七大块陆地之一）",
+    "sentence": "Asia is the largest continent."
+  },
+  {
+    "id": 1769,
+    "word": "Continual",
+    "phonetic": "/kənˈtɪnjuəl/",
+    "解释": "adj. 持续的（指频繁地重复发生而不间断的）",
+    "sentence": "We face continual challenges."
+  },
+  {
+    "id": 1770,
+    "word": "Continue",
+    "phonetic": "/kənˈtɪnjuː/",
+    "解释": "v. 继续（指不间断地做同一件事或保持相同状态）",
+    "sentence": "Please continue reading."
+  },
+  {
+    "id": 1771,
+    "word": "Continuous",
+    "phonetic": "/kənˈtɪnjuəs/",
+    "解释": "adj. 连续的（指无中断地持续存在的）",
+    "sentence": "The monitoring is continuous."
+  },
+  {
+    "id": 1772,
+    "word": "Contract",
+    "phonetic": "/kɒntrækt/",
+    "解释": "n./v. 合同（指具有法律效力的书面协议）",
+    "sentence": "Sign the contract here."
+  },
+  {
+    "id": 1773,
+    "word": "Contradict",
+    "phonetic": "/ˌkɒntrəˈdɪkt/",
+    "解释": "v. 反驳（指与某人所说相矛盾）",
+    "sentence": "Don't contradict me!"
+  },
+  {
+    "id": 1774,
+    "word": "Contrast",
+    "phonetic": "/ˈkɒntræst/",
+    "解释": "n./v. 对比（指比较两事物以显示差异）",
+    "sentence": "In contrast to her sister, she is quiet."
+  },
+  {
+    "id": 1775,
+    "word": "Contribute",
+    "phonetic": "/kənˈtrɪbjuːt/",
+    "解释": "v. 贡献（指给予资金、时间、知识等以帮助达成目标）",
+    "sentence": "Everyone should contribute."
+  },
+  {
+    "id": 1776,
+    "word": "Control",
+    "phonetic": "/kənˈtroʊl/",
+    "解释": "n./v. 控制（指对某人或某事行使权力以决定其行为）",
+    "sentence": "You need better self-control."
+  },
+  {
+    "id": 1777,
+    "word": "Controversial",
+    "phonetic": "/ˌkɒntrəˈvɜːrʃl/",
+    "解释": "adj. 有争议的（指引起公众大量讨论和不同意见的）",
+    "sentence": "The topic is controversial."
+  },
+  {
+    "id": 1778,
+    "word": "Convention",
+    "phonetic": "/kənˈvenʃn/",
+    "解释": "n. 惯例（指大多数人遵循的传统行为方式或规则）",
+    "sentence": "It's a social convention to shake hands."
+  },
+  {
+    "id": 1779,
+    "word": "Conventional",
+    "phonetic": "/kənˈvenʃənl/",
+    "解释": "adj. 传统的（指符合习惯和一般做法的）",
+    "sentence": "Conventional medicine treats symptoms."
+  },
+  {
+    "id": 1780,
+    "word": "Conversation",
+    "phonetic": "/ˌkɒnvərˈseɪʃn/",
+    "解释": "n. 对话（指两个或多个人之间的非正式交谈）",
+    "sentence": "We had an interesting conversation."
+  },
+  {
+    "id": 1781,
+    "word": "Convert",
+    "phonetic": "/kənˈvɜːrt/",
+    "解释": "v. 转换（指将某物从一种形式变为另一种形式）",
+    "sentence": "Solar panels convert sunlight into electricity."
+  },
+  {
+    "id": 1782,
+    "word": "Convey",
+    "phonetic": "/kənˈveɪ/",
+    "解释": "v. 传达（指使思想、感情等为他人所知）",
+    "sentence": "Words cannot convey how I feel."
+  },
+  {
+    "id": 1783,
+    "word": "Conviction",
+    "phonetic": "/kənˈvɪkʃn/",
+    "解释": "n. 确信（指坚定认为某事是正确的信念）",
+    "sentence": "She spoke with conviction."
+  },
+  {
+    "id": 1784,
+    "word": "Convince",
+    "phonetic": "/kənˈvɪns/",
+    "解释": "v. 说服（指使某人相信某事是真实的或正确的）",
+    "sentence": "Can you convince him?"
+  },
+  {
+    "id": 1785,
+    "word": "Cooperate",
+    "phonetic": "/koʊˈɒpəreɪt/",
+    "解释": "v. 合作（指与他人一起工作以达成共同目标）",
+    "sentence": "Countries must cooperate on climate."
+  },
+  {
+    "id": 1786,
+    "word": "Coordinate",
+    "phonetic": "/koʊˈɔːrdɪneɪt/",
+    "解释": "v. 协调（指组织各部分使有效协同工作）",
+    "sentence": "We need to coordinate our efforts."
+  },
+  {
+    "id": 1787,
+    "word": "Core",
+    "phonetic": "/kɔːr/",
+    "解释": "n. 核心（指事物最重要或最基本的部分）",
+    "sentence": "This is a core issue."
+  },
+  {
+    "id": 1788,
+    "word": "Corn",
+    "phonetic": "/kɔːrn/",
+    "解释": "n. 玉米（指广泛种植的高秆谷物作物）",
+    "sentence": "Corn is used to make ethanol."
+  },
+  {
+    "id": 1789,
+    "word": "Corporate",
+    "phonetic": "/ˈkɔːrpərət/",
+    "解释": "adj. 公司的（指与大公司有关的）",
+    "sentence": "Corporate responsibility is important."
+  },
+  {
+    "id": 1790,
+    "word": "Corporation",
+    "phonetic": "/ˌkɔːrpəˈreɪʃn/",
+    "解释": "n. 公司（指大型商业组织，尤指股份制的）",
+    "sentence": "Multinational corporations dominate global trade."
+  },
+  {
+    "id": 1791,
+    "word": "Correct",
+    "phonetic": "/kəˈrekt/",
+    "解释": "adj./v. 正确的（指对的、准确的，或改正错误）",
+    "sentence": "Is this answer correct?"
+  },
+  {
+    "id": 1792,
+    "word": "Correspond",
+    "phonetic": "/ˌkɒrɪˈspɒnd/",
+    "解释": "v. 符合（指与另一事物一致或匹配）",
+    "sentence": "Does this correspond to reality?"
+  },
+  {
+    "id": 1793,
+    "word": "Costly",
+    "phonetic": "/ˈkɒstli/",
+    "解释": "adj. 昂贵的（指价格很高的）",
+    "sentence": "The repairs were very costly."
+  },
+  {
+    "id": 1794,
+    "word": "Cottage",
+    "phonetic": "/ˈkɒtɪdʒ/",
+    "解释": "n. 小屋（指乡村中的小型住宅）",
+    "sentence": "They rented a cottage by the lake."
+  },
+  {
+    "id": 1795,
+    "word": "Cotton",
+    "phonetic": "/ˈkɒtn/",
+    "解释": "n. 棉花（指用于纺织的柔软白色植物纤维）",
+    "sentence": "This shirt is made of cotton."
+  },
+  {
+    "id": 1796,
+    "word": "Cough",
+    "phonetic": "/kɒf/",
+    "解释": "n./v. 咳嗽（指因喉咙受刺激而突然用力呼气）",
+    "sentence": "She has a bad cough."
+  },
+  {
+    "id": 1797,
+    "word": "Council",
+    "phonetic": "/ˈkaʊnsl/",
+    "解释": "n. 委员会（指被选出管理地方事务的一群人）",
+    "sentence": "The city council voted on the plan."
+  },
+  {
+    "id": 1798,
+    "word": "Counsel",
+    "phonetic": "/ˈkaʊnsl/",
+    "解释": "n./v. 咨询；法律顾问（指就问题提供建议，或在法庭上代理当事人）",
+    "sentence": "He sought legal counsel."
+  },
+  {
+    "id": 1799,
+    "word": "Count",
+    "phonetic": "/kaʊnt/",
+    "解释": "v./n. 数数；计数（指逐一计算总数，或计算的结果）",
+    "sentence": "Count to ten before you speak."
+  },
+  {
+    "id": 1800,
+    "word": "Counterpart",
+    "phonetic": "/ˈkaʊntərpɑːrt/",
+    "解释": "n. 对应方（指在另一组织中职位相当的人或物）",
+    "sentence": "Her counterpart in London agreed."
+  },
+  {
+    "id": 1801,
+    "word": "Countryside",
+    "phonetic": "/ˈkʌntrisaɪd/",
+    "解释": "n. 乡村（指远离城市的农村地区，以农田和自然风光为主）",
+    "sentence": "The countryside is peaceful."
+  },
+  {
+    "id": 1802,
+    "word": "County",
+    "phonetic": "/ˈkaʊnti/",
+    "解释": "n. 县（指一国内部的行政区域划分单位）",
+    "sentence": "The county fair is next week."
+  },
+  {
+    "id": 1803,
+    "word": "Coupon",
+    "phonetic": "/ˈkuːpɒn/",
+    "解释": "n. 优惠券（指可抵扣部分金额的小票或代码）",
+    "sentence": "Use this coupon for 20 percent off."
+  },
+  {
+    "id": 1804,
+    "word": "Courage",
+    "phonetic": "/ˈkʌrɪdʒ/",
+    "解释": "n. 勇气（指面对危险或困难时不退缩的品质）",
+    "sentence": "It takes courage to speak up."
+  },
+  {
+    "id": 1805,
+    "word": "Course",
+    "phonetic": "/kɔːrs/",
+    "解释": "n. 课程；路线（指学校中教授的一系列课程，或船/飞机的行进路径）",
+    "sentence": "I'm taking an English course."
+  },
+  {
+    "id": 1806,
+    "word": "Court",
+    "phonetic": "/kɔːrt/",
+    "解释": "n. 法院（指审理案件、做出判决的司法机构）",
+    "sentence": "The case went to court."
+  },
+  {
+    "id": 1807,
+    "word": "Cover",
+    "phonetic": "/ˈkʌvər/",
+    "解释": "v./n. 覆盖（指将某物置于另一物之上以遮盖或保护它）",
+    "sentence": "Snow covered the ground."
+  },
+  {
+    "id": 1808,
+    "word": "Craft",
+    "phonetic": "/kræft/",
+    "解释": "n./v. 手工艺（指需要特殊技巧的手工制作活动）",
+    "sentence": "She learned the craft of pottery."
+  },
+  {
+    "id": 1809,
+    "word": "Crash",
+    "phonetic": "/kræʃ/",
+    "解释": "n./v. 撞击（指车辆猛烈碰撞，或突然发出巨响）",
+    "sentence": "The car crashed into a tree."
+  },
+  {
+    "id": 1810,
+    "word": "Crawl",
+    "phonetic": "/krɔːl/",
+    "解释": "v. 爬行（指用手和膝盖在地面移动）",
+    "sentence": "The baby started to crawl."
+  },
+  {
+    "id": 1811,
+    "word": "Create",
+    "phonetic": "/kriˈeɪt/",
+    "解释": "v. 创造（指使某事物开始存在）",
+    "sentence": "Artists create beautiful things."
+  },
+  {
+    "id": 1812,
+    "word": "Creation",
+    "phonetic": "/kriˈeɪʃn/",
+    "解释": "n. 创造物（指被创造出来的东西）",
+    "sentence": "This painting is a masterpiece of creation."
+  },
+  {
+    "id": 1813,
+    "word": "Creative",
+    "phonetic": "/kriˈeɪtɪv/",
+    "解释": "adj. 有创造力的（指有想象力并能产生新想法的）",
+    "sentence": "She has a creative mind."
+  },
+  {
+    "id": 1814,
+    "word": "Creature",
+    "phonetic": "/ˈkriːtʃər/",
+    "解释": "n. 生物（指任何活的动物，尤指非人类的）",
+    "sentence": "Sea creatures are fascinating."
+  },
+  {
+    "id": 1815,
+    "word": "Credit",
+    "phonetic": "/ˈkredɪt/",
+    "解释": "n./v. 信用；学分（指因过去行为而获得的好名声，或大学课程的计量单位）",
+    "sentence": "Do you accept credit cards?"
+  },
+  {
+    "id": 1816,
+    "word": "Creep",
+    "phonetic": "/kriːp/",
+    "解释": "v. 爬行（指身体贴近地面缓慢移动，或悄悄地接近）",
+    "sentence": "The cat crept toward the bird."
+  },
+  {
+    "id": 1817,
+    "word": "Crime",
+    "phonetic": "/kraɪm/",
+    "解释": "n. 罪行（指违反法律、应受惩罚的行为）",
+    "sentence": "Crime rates have fallen."
+  },
+  {
+    "id": 1818,
+    "word": "Criminal",
+    "phonetic": "/ˈkrɪmɪnl/",
+    "解释": "n./adj. 罪犯；犯罪的（指犯法的人，或与犯罪有关的）",
+    "sentence": "He was sent to criminal court."
+  },
+  {
+    "id": 1819,
+    "word": "Criterion",
+    "phonetic": "/kraɪˈtɪəriən/",
+    "解释": "n. 标准（指判断或决定某事的原则或依据）",
+    "sentence": "What are your criteria?"
+  },
+  {
+    "id": 1820,
+    "word": "Critical",
+    "phonetic": "/ˈkrɪtɪkl/",
+    "解释": "adj. 关键的（指极其重要或决定性的）",
+    "sentence": "This is a critical moment."
+  },
+  {
+    "id": 1821,
+    "word": "Criticism",
+    "phonetic": "/ˈkrɪtɪsɪzəm/",
+    "解释": "n. 批评（指指出某人或某事缺点的言论）",
+    "sentence": "Her criticism was constructive."
+  },
+  {
+    "id": 1822,
+    "word": "Crop",
+    "phonetic": "/krɒp/",
+    "解释": "n./v. 作物（指在农场种植的植物）",
+    "sentence": "Wheat is a major crop here."
+  },
+  {
+    "id": 1823,
+    "word": "Cross",
+    "phonetic": "/krɒs/",
+    "解释": "v./n. 穿越（指从一边到另一边通过某物）",
+    "sentence": "Cross the street carefully."
+  },
+  {
+    "id": 1824,
+    "word": "Crowded",
+    "phonetic": "/ˈkraʊdɪd/",
+    "解释": "adj. 拥挤的（指人或物过多而空间不足的）",
+    "sentence": "The train was crowded."
+  },
+  {
+    "id": 1825,
+    "word": "Crown",
+    "phonetic": "/kraʊn/",
+    "解释": "n. 王冠（指君主戴的圆形头饰，象征权力）",
+    "sentence": "The king wore a golden crown."
+  },
+  {
+    "id": 1826,
+    "word": "Crucial",
+    "phonetic": "/ˈkruːʃl/",
+    "解释": "adj. 至关重要的（指决定成败的关键性因素）",
+    "sentence": "Water is crucial for life."
+  },
+  {
+    "id": 1827,
+    "word": "Cruel",
+    "phonetic": "/ˈkruːəl/",
+    "解释": "adj. 残酷的（指故意造成痛苦或伤害的）",
+    "sentence": "Don't be cruel to animals."
+  },
+  {
+    "id": 1828,
+    "word": "Crush",
+    "phonetic": "/krʌʃ/",
+    "解释": "v. 压碎（指用力挤压使变形或破碎）",
+    "sentence": "Crush the garlic first."
+  },
+  {
+    "id": 1829,
+    "word": "Cube",
+    "phonetic": "/kjuːb/",
+    "解释": "n. 立方体（指六面都是正方形的立体形状）",
+    "sentence": "A cube has six faces."
+  },
+  {
+    "id": 1830,
+    "word": "Cultivate",
+    "phonetic": "/ˈkʌltɪveɪt/",
+    "解释": "v. 耕作；培养（指准备土地用于种植作物，或发展某种技能/品质）",
+    "sentence": "Farmers cultivate the land."
+  },
+  {
+    "id": 1831,
+    "word": "Culture",
+    "phonetic": "/ˈkʌltʃər/",
+    "解释": "n. 文化（指特定群体的艺术、习俗、信仰等生活方式的总称）",
+    "sentence": "Every culture is unique."
+  },
+  {
+    "id": 1832,
+    "word": "Curiosity",
+    "phonetic": "/ˌkjʊriˈɒsɪti/",
+    "解释": "n. 好奇心（指强烈想知道更多关于某事物的欲望）",
+    "sentence": "Children have natural curiosity."
+  },
+  {
+    "id": 1833,
+    "word": "Currency",
+    "phonetic": "/ˈkɜːrənsi/",
+    "解释": "n. 货币（指一个国家使用的钱币体系）",
+    "sentence": "The local currency is the euro."
+  },
+  {
+    "id": 1834,
+    "word": "Current",
+    "phonetic": "/ˈkɜːrənt/",
+    "解释": "adj. 当前的（指正在发生或存在的，非过去的）",
+    "sentence": "What is the situation now?"
+  },
+  {
+    "id": 1835,
+    "word": "Curriculum",
+    "phonetic": "/kəˈrɪkjələm/",
+    "解释": "n. 课程（指学校教授的全部科目和内容安排）",
+    "sentence": "The curriculum includes math and science."
+  },
+  {
+    "id": 1836,
+    "word": "Curve",
+    "phonetic": "/kɜːrv/",
+    "解释": "n./v. 曲线（指平滑弯曲的线条）",
+    "sentence": "The road curves to the left."
+  },
+  {
+    "id": 1837,
+    "word": "Custom",
+    "phonetic": "/ˈkʌstəm/",
+    "解释": "n. 习惯（指某人或某群体长期遵循的行为方式）",
+    "sentence": "It's a local custom."
+  },
+  {
+    "id": 1838,
+    "word": "Cycle",
+    "phonetic": "/ˈsaɪkl/",
+    "解释": "n. 循环（指一系列重复发生的事件）",
+    "sentence": "The water cycle is essential for life."
+  },
+  {
+    "id": 1839,
+    "word": "Daily",
+    "phonetic": "/ˈdeɪli/",
+    "解释": "adj./adv. 每日的（指每天发生的或按天计算的）",
+    "sentence": "I read the daily newspaper."
+  },
+  {
+    "id": 1840,
+    "word": "Dairy",
+    "phonetic": "/ˈdeəri/",
+    "解释": "n. 奶制品（指由牛奶制成的食品如黄油、奶酪等）",
+    "sentence": "Dairy products contain calcium."
+  },
+  {
+    "id": 1841,
+    "word": "Dam",
+    "phonetic": "/dæm/",
+    "解释": "n. 大坝（指横跨河流建造以蓄水的建筑结构）",
+    "sentence": "The dam provides electricity."
+  },
+  {
+    "id": 1842,
+    "word": "Damage",
+    "phonetic": "/ˈdæmɪdʒ/",
+    "解释": "n./v. 损害（指对物体或人造成的破坏或伤害）",
+    "sentence": "The storm caused severe damage."
+  },
+  {
+    "id": 1843,
+    "word": "Damn",
+    "phonetic": "/dæm/",
+    "解释": "v. 该死（表示愤怒或烦恼的感叹词）",
+    "sentence": "Damn! I forgot my keys."
+  },
+  {
+    "id": 1844,
+    "word": "Damp",
+    "phonetic": "/dæmp/",
+    "解释": "adj. 潮湿的（指略微湿润的）",
+    "sentence": "The basement feels damp."
+  },
+  {
+    "id": 1845,
+    "word": "Dangerous",
+    "phonetic": "/ˈdeɪndʒərəs/",
+    "解释": "adj. 危险的（指可能引起伤害或损失的）",
+    "sentence": "That area is dangerous at night."
+  },
+  {
+    "id": 1846,
+    "word": "Dash",
+    "phonetic": "/dæʃ/",
+    "解释": "v./n. 猛冲（指快速向前跑）",
+    "sentence": "He dashed to catch the bus."
+  },
+  {
+    "id": 1847,
+    "word": "Database",
+    "phonetic": "/ˈdeɪtəbeɪs/",
+    "解释": "n. 数据库（指以系统方式组织存储的信息集合）",
+    "sentence": "We stored the data in a database."
+  },
+  {
+    "id": 1848,
+    "word": "Deaf",
+    "phonetic": "/def/",
+    "解释": "adj. 聋的（指听不见声音的）",
+    "sentence": "She was born deaf."
+  },
+  {
+    "id": 1849,
+    "word": "Debate",
+    "phonetic": "/dɪˈbeɪt/",
+    "解释": "n./v. 辩论（指就某一议题进行的正式讨论）",
+    "sentence": "There was a heated debate."
+  },
+  {
+    "id": 1850,
+    "word": "Debt",
+    "phonetic": "/det/",
+    "解释": "n. 债务（指欠别人的钱）",
+    "sentence": "The country has a large national debt."
+  },
+  {
+    "id": 1851,
+    "word": "Decade",
+    "phonetic": "/ˈdekeɪd/",
+    "解释": "n. 十年（指连续十年的时间段）",
+    "sentence": "The last decade was the hottest on record."
+  },
+  {
+    "id": 1852,
+    "word": "Decline",
+    "phonetic": "/dɪˈklaɪn/",
+    "解释": "v./n. 下降；衰退（指逐渐减少或变差）",
+    "sentence": "Biodiversity has been in decline for years."
+  },
+  {
+    "id": 1853,
+    "word": "Decrease",
+    "phonetic": "/dɪˈkriːs/",
+    "解释": "v./n. 减少（指数量或程度变小）",
+    "sentence": "CO2 emissions need to decrease sharply."
+  },
+  {
+    "id": 1854,
+    "word": "Deep",
+    "phonetic": "/diːp/",
+    "解释": "adj. 深的（指从表面向内延伸距离大的）",
+    "sentence": "Deep cuts in emissions are needed."
+  },
+  {
+    "id": 1855,
+    "word": "Deforestation",
+    "phonetic": "/ˌdiːˌfɒrɪˈsteɪʃn/",
+    "解释": "n. 森林砍伐（指大规模清除树木的行为，通常为农业或工业目的）",
+    "sentence": "Deforestation is a major driver of climate change."
+  },
+  {
+    "id": 1856,
+    "word": "Delay",
+    "phonetic": "/dɪˈleɪ/",
+    "解释": "n./v. 延迟（指比预期时间晚发生或到达）",
+    "sentence": "Any delay in climate action will cost lives."
+  },
+  {
+    "id": 1857,
+    "word": "Deliberate",
+    "phonetic": "/dɪˈlɪbərɪt/",
+    "解释": "adj. 故意的（指有意为之而非偶然的）",
+    "sentence": "It was a deliberate decision."
+  },
+  {
+    "id": 1858,
+    "word": "Demand",
+    "phonetic": "/dɪˈmɑːnd/",
+    "解释": "n./v. 需求（指强烈要求某物，或市场对某产品的需要量）",
+    "sentence": "The demand for clean energy is growing."
+  },
+  {
+    "id": 1859,
+    "word": "Demonstrate",
+    "phonetic": "/ˈdemənstreɪt/",
+    "解释": "v. 演示；示威（指通过实例展示某事，或公开抗议）",
+    "sentence": "The study demonstrates the link clearly."
+  },
+  {
+    "id": 1860,
+    "word": "Deny",
+    "phonetic": "/dɪˈnaɪ/",
+    "解释": "v. 否认（指声称某事物不是真实的）",
+    "sentence": "He denied any wrongdoing."
+  },
+  {
+    "id": 1861,
+    "word": "Deplete",
+    "phonetic": "/dɪˈpliːt/",
+    "解释": "v. 耗尽（指大量减少某资源的存量）",
+    "sentence": "Fossil fuels are being depleted rapidly."
+  },
+  {
+    "id": 1862,
+    "word": "Deploy",
+    "phonetic": "/dɪˈplɔɪ/",
+    "解释": "v. 部署（指将人员或设备投入使用）",
+    "sentence": "We need to deploy solar panels at scale."
+  },
+  {
+    "id": 1863,
+    "word": "Deposit",
+    "phonetic": "/dɪˈpɒzɪt/",
+    "解释": "n./v. 存款；沉积（指在银行存入的金额，或物质沉积的层次）",
+    "sentence": "Carbon deposits form over millions of years."
+  },
+  {
+    "id": 1864,
+    "word": "Derive",
+    "phonetic": "/dɪˈraɪv/",
+    "解释": "v. 获得；源自（指从某来源得到某物）",
+    "sentence": "Much of our energy derives from fossil fuels."
+  },
+  {
+    "id": 1865,
+    "word": "Describe",
+    "phonetic": "/dɪˈskraɪb/",
+    "解释": "v. 描述（指用词语表达人或事物的性质）",
+    "sentence": "Describe the effects of climate change."
+  },
+  {
+    "id": 1866,
+    "word": "Design",
+    "phonetic": "/dɪˈzaɪn/",
+    "解释": "n./v. 设计（指为特定目的而规划某事物）",
+    "sentence": "Good urban design reduces energy use."
+  },
+  {
+    "id": 1867,
+    "word": "Destination",
+    "phonetic": "/ˌdestɪˈneɪʃn/",
+    "解释": "n. 目的地（指旅行者前往的地方）",
+    "sentence": "The destination of the carbon is unclear."
+  },
+  {
+    "id": 1868,
+    "word": "Detect",
+    "phonetic": "/dɪˈtekt/",
+    "解释": "v. 检测（指发现原本不易察觉的存在）",
+    "sentence": "Scientists can detect tiny changes in CO2."
+  },
+  {
+    "id": 1869,
+    "word": "Determine",
+    "phonetic": "/dɪˈtɜːrmɪn/",
+    "解释": "v. 确定（指发现某事物的真相或特征）",
+    "sentence": "We must determine the cause of the problem."
+  },
+  {
+    "id": 1870,
+    "word": "Devastate",
+    "phonetic": "/ˈdevəsteɪt/",
+    "解释": "v. 毁坏（指对某地或某人造成极大破坏或痛苦）",
+    "sentence": "The hurricane devastated the region."
+  },
+  {
+    "id": 1871,
+    "word": "Develop",
+    "phonetic": "/dɪˈveləp/",
+    "解释": "v. 发展（指逐渐增长或改进）",
+    "sentence": "We need to develop clean energy technologies."
+  },
+  {
+    "id": 1872,
+    "word": "Devise",
+    "phonetic": "/dɪˈvaɪz/",
+    "解释": "v. 设计（指发明或创造一种计划或方法）",
+    "sentence": "Scientists devised a new method to measure emissions."
+  },
+  {
+    "id": 1873,
+    "word": "Differ",
+    "phonetic": "/ˈdɪfər/",
+    "解释": "v. 不同（指在某方面不相似）",
+    "sentence": "Countries differ in their approaches."
+  },
+  {
+    "id": 1874,
+    "word": "Dimension",
+    "phonetic": "/daɪˈmenʃn/",
+    "解释": "n. 维度（指空间中的一个方向或测量值）",
+    "sentence": "Climate change has a social dimension."
+  },
+  {
+    "id": 1875,
+    "word": "Diminish",
+    "phonetic": "/dɪˈmɪnɪʃ/",
+    "解释": "v. 减少（指变得更小、更弱或更不重要）",
+    "sentence": "The ozone layer continues to diminish."
+  },
+  {
+    "id": 1876,
+    "word": "Direct",
+    "phonetic": "/dɪˈrekt/",
+    "解释": "adj./v. 直接的（指没有中间环节的，或指挥某活动）",
+    "sentence": "Direct action is needed."
+  },
+  {
+    "id": 1877,
+    "word": "Disagree",
+    "phonetic": "/ˌdɪsəˈɡriː/",
+    "解释": "v. 不同意（指对某观点有不同看法）",
+    "sentence": "Scientists rarely disagree on the basics."
+  },
+  {
+    "id": 1878,
+    "word": "Disaster",
+    "phonetic": "/dɪˈzɑːstər/",
+    "解释": "n. 灾难（指造成重大破坏或痛苦的事件）",
+    "sentence": "Climate disasters are more frequent."
+  },
+  {
+    "id": 1879,
+    "word": "Discount",
+    "phonetic": "/ˈdɪskaʊnt/",
+    "解释": "n./v. 折扣（指减少价格，或忽视某事的重要性）",
+    "sentence": "Don't discount the long-term risks."
+  },
+  {
+    "id": 1880,
+    "word": "Discover",
+    "phonetic": "/dɪˈskʌvər/",
+    "解释": "v. 发现（指找到以前未知的事物）",
+    "sentence": "Scientists discovered a new climate feedback."
+  },
+  {
+    "id": 1881,
+    "word": "Discriminate",
+    "phonetic": "/dɪˈskrɪmɪneɪt/",
+    "解释": "v. 歧视（指因种族、性别等而区别对待）",
+    "sentence": "It is wrong to discriminate."
+  },
+  {
+    "id": 1882,
+    "word": "Disease",
+    "phonetic": "/dɪˈziːz/",
+    "解释": "n. 疾病（指影响机体正常功能的病症）",
+    "sentence": "Climate change can spread infectious diseases."
+  },
+  {
+    "id": 1883,
+    "word": "Displace",
+    "phonetic": "/dɪsˈpleɪs/",
+    "解释": "v. 使流离失所（指迫使某人离开其住所）",
+    "sentence": "Climate change displaces millions each year."
+  },
+  {
+    "id": 1884,
+    "word": "Dispute",
+    "phonetic": "/dɪˈspjuːt/",
+    "解释": "n./v. 争议（指对某事实或问题的公开争论）",
+    "sentence": "There is no scientific dispute on warming."
+  },
+  {
+    "id": 1885,
+    "word": "Dissolve",
+    "phonetic": "/dɪˈzɒlv/",
+    "解释": "v. 溶解（指固体与液体混合后消失）",
+    "sentence": "CO2 dissolves in the ocean."
+  },
+  {
+    "id": 1886,
+    "word": "Distinct",
+    "phonetic": "/dɪˈstɪŋkt/",
+    "解释": "adj. 不同的（指明显区别于其他事物的）",
+    "sentence": "There are distinct regional impacts."
+  },
+  {
+    "id": 1887,
+    "word": "Distribute",
+    "phonetic": "/dɪˈstrɪbjuːt/",
+    "解释": "v. 分发（指将物品分给一群人）",
+    "sentence": "Aid was distributed to affected families."
+  },
+  {
+    "id": 1888,
+    "word": "Domain",
+    "phonetic": "/doʊˈmeɪn/",
+    "解释": "n. 领域（指某人知识或活动的范围）",
+    "sentence": "Climate change affects every domain of life."
+  },
+  {
+    "id": 1889,
+    "word": "Dominate",
+    "phonetic": "/ˈdɒmɪneɪt/",
+    "解释": "v. 主导（指在规模、地位或影响方面凌驾于其他）",
+    "sentence": "Fossil fuels dominate the energy mix."
+  },
+  {
+    "id": 1890,
+    "word": "Doubt",
+    "phonetic": "/daʊt/",
+    "解释": "n./v. 怀疑（指感到不确定或不相信某事）",
+    "sentence": "There is no doubt that climate change is real."
+  },
+  {
+    "id": 1891,
+    "word": "Draft",
+    "phonetic": "/drɑːft/",
+    "解释": "n./v. 草案（指文件或协议的初稿）",
+    "sentence": "The first draft of the agreement was released."
+  },
+  {
+    "id": 1892,
+    "word": "Drain",
+    "phonetic": "/dreɪn/",
+    "解释": "v./n. 排水（指使液体流走，或消耗资源）",
+    "sentence": "Droughts can drain reservoirs quickly."
+  },
+  {
+    "id": 1893,
+    "word": "Drastically",
+    "phonetic": "/ˈdræstɪkli/",
+    "解释": "adv. 剧烈地（指以极大幅度或极端方式）",
+    "sentence": "Emissions must be reduced drastically."
+  },
+  {
+    "id": 1894,
+    "word": "Drought",
+    "phonetic": "/draʊt/",
+    "解释": "n. 干旱（指长时间少雨、土地干燥的气候现象）",
+    "sentence": "Droughts are becoming longer and more severe."
+  },
+  {
+    "id": 1895,
+    "word": "Durable",
+    "phonetic": "/ˈdjʊərəbl/",
+    "解释": "adj. 耐用的（指能长期使用不易磨损的）",
+    "sentence": "Durable goods have a lower environmental impact."
+  },
+  {
+    "id": 1896,
+    "word": "Dynamic",
+    "phonetic": "/daɪˈnæmɪk/",
+    "解释": "adj. 动态的（指不断变化或产生能量的）",
+    "sentence": "The climate system is complex and dynamic."
+  },
+  {
+    "id": 1897,
+    "word": "Ecological",
+    "phonetic": "/ˌiːkəˈlɒdʒɪkl/",
+    "解释": "adj. 生态的（指与有机体和环境关系有关的）",
+    "sentence": "Climate change has profound ecological impacts."
+  },
+  {
+    "id": 1898,
+    "word": "Economy",
+    "phonetic": "/ɪˈkɒnəmi/",
+    "解释": "n. 经济（指一个国家或地区的生产、消费等经济活动的总体）",
+    "sentence": "A green economy creates millions of jobs."
+  },
+  {
+    "id": 1899,
+    "word": "Efficiency",
+    "phonetic": "/ɪˈfɪʃənsi/",
+    "解释": "n. 效率（指以最少资源完成最多工作的能力）",
+    "sentence": "Energy efficiency is key to reducing emissions."
+  },
+  {
+    "id": 1900,
+    "word": "Eliminate",
+    "phonetic": "/ɪˈlɪmɪneɪt/",
+    "解释": "v. 消除（指彻底去除某问题或障碍）",
+    "sentence": "We must eliminate fossil fuel subsidies."
+  },
+  {
+    "id": 1901,
+    "word": "Emission",
+    "phonetic": "/ɪˈmɪʃn/",
+    "解释": "n. 排放（指气体、辐射等向外界的释放，尤指温室气体的排放）",
+    "sentence": "Carbon emissions must be cut by half this decade."
+  },
+  {
+    "id": 1902,
+    "word": "Emphasize",
+    "phonetic": "/ˈemfəsaɪz/",
+    "解释": "v. 强调（指给予某事特别的重要性或突出地位）",
+    "sentence": "Scientists emphasize the urgency of action."
+  },
+  {
+    "id": 1903,
+    "word": "Enable",
+    "phonetic": "/ɪˈneɪbl/",
+    "解释": "v. 使能够（指提供手段或机会使某事成为可能）",
+    "sentence": "Solar power enables villages to get electricity."
+  },
+  {
+    "id": 1904,
+    "word": "Encounter",
+    "phonetic": "/ɪnˈkaʊntər/",
+    "解释": "v./n. 遭遇（指意外地与某人或困难相遇）",
+    "sentence": "We may encounter more extreme weather events."
+  },
+  {
+    "id": 1905,
+    "word": "Encourage",
+    "phonetic": "/ɪnˈkʌrɪdʒ/",
+    "解释": "v. 鼓励（指给予支持、信心或希望）",
+    "sentence": "Policies should encourage renewable investment."
+  },
+  {
+    "id": 1906,
+    "word": "Energy",
+    "phonetic": "/ˈenədʒi/",
+    "解释": "n. 能量（指做功的能力，或来自燃料、电力等的动力来源）",
+    "sentence": "Renewable energy can power the whole world."
+  },
+  {
+    "id": 1907,
+    "word": "Enforce",
+    "phonetic": "/ɪnˈfɔːrs/",
+    "解释": "v. 执行（指使法律或规则得到遵守）",
+    "sentence": "Regulations must be enforced strictly."
+  },
+  {
+    "id": 1908,
+    "word": "Enhance",
+    "phonetic": "/ɪnˈhɑːns/",
+    "解释": "v. 增强（指使某物质量或数量提高）",
+    "sentence": "Forests enhance carbon absorption."
+  },
+  {
+    "id": 1909,
+    "word": "Environment",
+    "phonetic": "/ɪnˈvaɪrənmənt/",
+    "解释": "n. 环境（指影响生物生存的外部条件和自然世界）",
+    "sentence": "We must protect the environment for future generations."
+  },
+  {
+    "id": 1910,
+    "word": "Equal",
+    "phonetic": "/ˈiːkwəl/",
+    "解释": "adj./v. 相等的（指在大小、数量、价值等方面相同的）",
+    "sentence": "All countries are not equal in causing climate change."
+  },
+  {
+    "id": 1911,
+    "word": "Equip",
+    "phonetic": "/ɪˈkwɪp/",
+    "解释": "v. 配备（指为某人或某物提供所需的工具或技能）",
+    "sentence": "We need to equip communities to adapt."
+  },
+  {
+    "id": 1912,
+    "word": "Essential",
+    "phonetic": "/ɪˈsenʃl/",
+    "解释": "adj. 必不可少的（指基本的、极其重要的）",
+    "sentence": "Clean water is essential for health."
+  },
+  {
+    "id": 1913,
+    "word": "Establish",
+    "phonetic": "/ɪˈstæblɪʃ/",
+    "解释": "v. 建立（指使某事物开始运作并持续下去）",
+    "sentence": "The Paris Agreement established key targets."
+  },
+  {
+    "id": 1914,
+    "word": "Evaluate",
+    "phonetic": "/ɪˈvæljueɪt/",
+    "解释": "v. 评估（指判断某事物的质量、重要性或条件）",
+    "sentence": "We need to evaluate the evidence."
+  },
+  {
+    "id": 1915,
+    "word": "Eventually",
+    "phonetic": "/ɪˈventʃuəli/",
+    "解释": "adv. 最终（指经过一段时间后）",
+    "sentence": "The planet will eventually warm beyond safe limits."
+  },
+  {
+    "id": 1916,
+    "word": "Evidence",
+    "phonetic": "/ˈevɪdəns/",
+    "解释": "n. 证据（指表明某事真实或有效的事实信息）",
+    "sentence": "The evidence for climate change is overwhelming."
+  },
+  {
+    "id": 1917,
+    "word": "Evolution",
+    "phonetic": "/ˌiːvəˈluːʃn/",
+    "解释": "n. 进化（指生物的逐渐发展变化）",
+    "sentence": "Climate change is driving rapid evolution in some species."
+  },
+  {
+    "id": 1918,
+    "word": "Excessive",
+    "phonetic": "/ɪkˈsesɪv/",
+    "解释": "adj. 过度的（指超出正常或合理范围的）",
+    "sentence": "Excessive consumption is a driver of climate change."
+  },
+  {
+    "id": 1919,
+    "word": "Expand",
+    "phonetic": "/ɪkˈspænd/",
+    "解释": "v. 扩大（指使更大或更广泛）",
+    "sentence": "We need to expand renewable energy capacity."
+  },
+  {
+    "id": 1920,
+    "word": "Expertise",
+    "phonetic": "/ˌekspɜːˈtiːz/",
+    "解释": "n. 专业知识（指在某领域的深厚技能和知识）",
+    "sentence": "We need scientific expertise to solve climate change."
+  },
+  {
+    "id": 1921,
+    "word": "Exploit",
+    "phonetic": "/ɪkˈsplɔɪt/",
+    "解释": "v. 开发；剥削（指充分利用自然资源，或不公平地利用他人）",
+    "sentence": "We exploit natural resources faster than they renew."
+  },
+  {
+    "id": 1922,
+    "word": "Export",
+    "phonetic": "/ˈekspɔːrt/",
+    "解释": "n./v. 出口（指将商品或服务卖给其他国家）",
+    "sentence": "Renewable energy technology is a growing export."
+  },
+  {
+    "id": 1923,
+    "word": "Expose",
+    "phonetic": "/ɪkˈspoʊz/",
+    "解释": "v. 暴露（指使某人或事物受到某种影响，或揭露事实）",
+    "sentence": "Low-income communities are exposed to more pollution."
+  },
+  {
+    "id": 1924,
+    "word": "Extreme",
+    "phonetic": "/ɪkˈstriːm/",
+    "解释": "adj. 极端的（指非常大或强烈，超出正常范围的）",
+    "sentence": "Extreme weather events are becoming more common."
+  },
+  {
+    "id": 1925,
+    "word": "Facility",
+    "phonetic": "/fəˈsɪlɪti/",
+    "解释": "n. 设施（指为特定目的建造的建筑物或设备）",
+    "sentence": "New facilities for recycling are needed."
+  },
+  {
+    "id": 1926,
+    "word": "Factor",
+    "phonetic": "/ˈfæktər/",
+    "解释": "n. 因素（指影响某结果的原因或条件之一）",
+    "sentence": "Human activity is the key factor in warming."
+  },
+  {
+    "id": 1927,
+    "word": "Famine",
+    "phonetic": "/ˈfæmɪn/",
+    "解释": "n. 饥荒（指大规模极度食物匮乏，导致饥饿和死亡）",
+    "sentence": "Droughts can trigger famine."
+  },
+  {
+    "id": 1928,
+    "word": "Feedback",
+    "phonetic": "/ˈfiːdbæk/",
+    "解释": "n. 反馈（指某过程的结果对该过程产生的影响）",
+    "sentence": "Climate feedbacks can amplify warming."
+  },
+  {
+    "id": 1929,
+    "word": "Fertile",
+    "phonetic": "/ˈfɜːrtaɪl/",
+    "解释": "adj. 肥沃的（指土地能良好支持植物生长的）",
+    "sentence": "Fertile land is becoming scarce due to climate change."
+  },
+  {
+    "id": 1930,
+    "word": "Filter",
+    "phonetic": "/ˈfɪltər/",
+    "解释": "v./n. 过滤（指通过多孔物质去除杂质）",
+    "sentence": "Trees filter pollutants from the air."
+  },
+  {
+    "id": 1931,
+    "word": "Flexible",
+    "phonetic": "/ˈfleksɪbl/",
+    "解释": "adj. 灵活的（指可以容易地改变或适应的）",
+    "sentence": "Climate policy must be flexible."
+  },
+  {
+    "id": 1932,
+    "word": "Flood",
+    "phonetic": "/flʌd/",
+    "解释": "n./v. 洪水（指水流过多淹没陆地的自然灾害）",
+    "sentence": "Floods are becoming more severe."
+  },
+  {
+    "id": 1933,
+    "word": "Focus",
+    "phonetic": "/ˈfoʊkəs/",
+    "解释": "n./v. 焦点（指注意力或活动集中的中心）",
+    "sentence": "The focus must be on rapid decarbonization."
+  },
+  {
+    "id": 1934,
+    "word": "Forecast",
+    "phonetic": "/ˈfɔːrkæst/",
+    "解释": "n./v. 预报（指基于当前数据对未来的预测）",
+    "sentence": "Climate models provide long-term forecasts."
+  },
+  {
+    "id": 1935,
+    "word": "Forest",
+    "phonetic": "/ˈfɒrɪst/",
+    "解释": "n. 森林（指大面积树木密集生长的地区）",
+    "sentence": "Tropical forests store huge amounts of carbon."
+  },
+  {
+    "id": 1936,
+    "word": "Fossil",
+    "phonetic": "/ˈfɒsl/",
+    "解释": "n./adj. 化石（指古代生物遗留在岩石中的印迹或遗骸，或以此为燃料的）",
+    "sentence": "We must move away from fossil fuels."
+  },
+  {
+    "id": 1937,
+    "word": "Foundation",
+    "phonetic": "/faʊnˈdeɪʃn/",
+    "解释": "n. 基础（指支撑整个结构的最底层，或基本原则）",
+    "sentence": "Science is the foundation of climate policy."
+  },
+  {
+    "id": 1938,
+    "word": "Fraction",
+    "phonetic": "/ˈfrækʃn/",
+    "解释": "n. 一小部分（指整体中的一个小份额）",
+    "sentence": "Only a fraction of climate pledges are on track."
+  },
+  {
+    "id": 1939,
+    "word": "Framework",
+    "phonetic": "/ˈfreɪmwɜːrk/",
+    "解释": "n. 框架（指支撑某体系或活动的基本结构）",
+    "sentence": "A global framework is needed for action."
+  },
+  {
+    "id": 1940,
+    "word": "Fund",
+    "phonetic": "/fʌnd/",
+    "解释": "n./v. 基金（指为特定目的设立的资金，或为某活动提供资金）",
+    "sentence": "Rich nations must fund climate adaptation."
+  },
+  {
+    "id": 1941,
+    "word": "Future",
+    "phonetic": "/ˈfjuːtʃər/",
+    "解释": "n./adj. 未来（指此后将发生的时间或事件）",
+    "sentence": "The future depends on the decisions we make now."
+  },
+  {
+    "id": 1942,
+    "word": "Generate",
+    "phonetic": "/ˈdʒenəreɪt/",
+    "解释": "v. 产生（指制造或产出某物）",
+    "sentence": "Solar panels generate clean electricity."
+  },
+  {
+    "id": 1943,
+    "word": "Global",
+    "phonetic": "/ˈɡloʊbl/",
+    "解释": "adj. 全球的（指涉及全世界的）",
+    "sentence": "Global action is needed on climate change."
+  },
+  {
+    "id": 1944,
+    "word": "Goal",
+    "phonetic": "/ɡoʊl/",
+    "解释": "n. 目标（指努力想要达到的成果）",
+    "sentence": "The goal is to limit warming to 1.5 degrees."
+  },
+  {
+    "id": 1945,
+    "word": "Greenhouse",
+    "phonetic": "/ˈɡriːnhaʊs/",
+    "解释": "n. 温室（指用玻璃建造供植物生长的建筑，或比喻大气层保温效应）",
+    "sentence": "Greenhouse gas concentrations are rising."
+  },
+  {
+    "id": 1946,
+    "word": "Grow",
+    "phonetic": "/ɡroʊ/",
+    "解释": "v. 增长（指变大或增加）",
+    "sentence": "Renewable capacity has grown dramatically."
+  },
+  {
+    "id": 1947,
+    "word": "Habitat",
+    "phonetic": "/ˈhæbɪtæt/",
+    "解释": "n. 栖息地（指动物或植物的自然生存环境）",
+    "sentence": "Loss of habitat threatens many species."
+  },
+  {
+    "id": 1948,
+    "word": "Harmful",
+    "phonetic": "/ˈhɑːrmfl/",
+    "解释": "adj. 有害的（指造成损害或危险的）",
+    "sentence": "Harmful chemicals pollute the environment."
+  },
+  {
+    "id": 1949,
+    "word": "Heat",
+    "phonetic": "/hiːt/",
+    "解释": "n./v. 热量（指高温或温度升高的状态）",
+    "sentence": "Heat waves are becoming more intense."
+  },
+  {
+    "id": 1950,
+    "word": "Humanity",
+    "phonetic": "/hjuːˈmænɪti/",
+    "解释": "n. 人类（指人作为整体，或对他人的同情与怜悯）",
+    "sentence": "Climate change is an existential threat to humanity."
+  },
+  {
+    "id": 1951,
+    "word": "Identify",
+    "phonetic": "/aɪˈdentɪfaɪ/",
+    "解释": "v. 识别（指认出某人或某物）",
+    "sentence": "Scientists identified the main causes of warming."
+  },
+  {
+    "id": 1952,
+    "word": "Impact",
+    "phonetic": "/ˈɪmpækt/",
+    "解释": "n./v. 影响（指某事物对另一事物的强烈效果）",
+    "sentence": "The impact of climate change is already felt worldwide."
+  },
+  {
+    "id": 1953,
+    "word": "Implement",
+    "phonetic": "/ˈɪmplɪment/",
+    "解释": "v. 实施（指使计划或政策付诸实践）",
+    "sentence": "Countries must implement their climate pledges."
+  },
+  {
+    "id": 1954,
+    "word": "Include",
+    "phonetic": "/ɪnˈkluːd/",
+    "解释": "v. 包括（指使某人或某物成为整体的一部分）",
+    "sentence": "The plan includes measures for adaptation."
+  },
+  {
+    "id": 1955,
+    "word": "Increase",
+    "phonetic": "/ɪnˈkriːs/",
+    "解释": "v./n. 增加（指数量或程度变大）",
+    "sentence": "Global temperatures have increased by over 1 degree."
+  },
+  {
+    "id": 1956,
+    "word": "Inevitable",
+    "phonetic": "/ɪnˈevɪtəbl/",
+    "解释": "adj. 不可避免的（指必然会发生的）",
+    "sentence": "Some warming is now inevitable."
+  },
+  {
+    "id": 1957,
+    "word": "Infrastructure",
+    "phonetic": "/ˈɪnfrəstrʌktʃər/",
+    "解释": "n. 基础设施（指支撑社会正常运作的公共设施，如道路、电网等）",
+    "sentence": "Climate-resilient infrastructure is essential."
+  },
+  {
+    "id": 1958,
+    "word": "Initiative",
+    "phonetic": "/ɪˈnɪʃətɪv/",
+    "解释": "n. 倡议（指旨在解决某问题的新计划或行动）",
+    "sentence": "A global climate initiative was launched."
+  },
+  {
+    "id": 1959,
+    "word": "Innovation",
+    "phonetic": "/ˌɪnəˈveɪʃn/",
+    "解释": "n. 创新（指引入新思想、方法或产品）",
+    "sentence": "Innovation in clean energy is accelerating."
+  },
+  {
+    "id": 1960,
+    "word": "Integrate",
+    "phonetic": "/ˈɪntɪɡreɪt/",
+    "解释": "v. 整合（指将不同部分结合成一个整体）",
+    "sentence": "We must integrate climate into all policies."
+  },
+  {
+    "id": 1961,
+    "word": "Intensity",
+    "phonetic": "/ɪnˈtensɪti/",
+    "解释": "n. 强度（指某事物的强烈程度）",
+    "sentence": "The intensity of hurricanes is increasing."
+  },
+  {
+    "id": 1962,
+    "word": "International",
+    "phonetic": "/ˌɪntəˈnæʃnəl/",
+    "解释": "adj. 国际的（指涉及两个或多个国家的）",
+    "sentence": "International cooperation is vital."
+  },
+  {
+    "id": 1963,
+    "word": "Invest",
+    "phonetic": "/ɪnˈvest/",
+    "解释": "v. 投资（指投入金钱以期获得利润或改善情况）",
+    "sentence": "We must invest heavily in renewables."
+  },
+  {
+    "id": 1964,
+    "word": "Issue",
+    "phonetic": "/ˈɪʃuː/",
+    "解释": "n. 问题（指需要讨论、决定或解决的重要题目）",
+    "sentence": "Climate change is the defining issue of our time."
+  },
+  {
+    "id": 1965,
+    "word": "Justice",
+    "phonetic": "/ˈdʒʌstɪs/",
+    "解释": "n. 正义（指公平合理地对待每个人）",
+    "sentence": "Climate justice demands equitable action."
+  },
+  {
+    "id": 1966,
+    "word": "Knowledge",
+    "phonetic": "/ˈnɒlɪdʒ/",
+    "解释": "n. 知识（指通过经验或教育获得的信息和技能）",
+    "sentence": "Scientific knowledge guides climate policy."
+  },
+  {
+    "id": 1967,
+    "word": "Land",
+    "phonetic": "/lænd/",
+    "解释": "n./v. 土地（指地球的固体表面，或使飞机降落）",
+    "sentence": "Land use change is a major emission source."
+  },
+  {
+    "id": 1968,
+    "word": "Leader",
+    "phonetic": "/ˈliːdər/",
+    "解释": "n. 领导者（指在组织或运动中引领他人的人）",
+    "sentence": "World leaders met to discuss climate goals."
+  },
+  {
+    "id": 1969,
+    "word": "Legacy",
+    "phonetic": "/ˈleɡəsi/",
+    "解释": "n. 遗产（指前人留下的影响或成就）",
+    "sentence": "We must not leave a climate debt as our legacy."
+  },
+  {
+    "id": 1970,
+    "word": "Limit",
+    "phonetic": "/ˈlɪmɪt/",
+    "解释": "n./v. 限制（指允许的最大或最小量，或加以控制）",
+    "sentence": "We must limit warming to 1.5 degrees Celsius."
+  },
+  {
+    "id": 1971,
+    "word": "Long-term",
+    "phonetic": "/ˌlɒŋ ˈtɜːrm/",
+    "解释": "adj. 长期的（指持续很长时间或考虑遥远未来的）",
+    "sentence": "Long-term thinking is essential for climate policy."
+  },
+  {
+    "id": 1972,
+    "word": "Loss",
+    "phonetic": "/lɒs/",
+    "解释": "n. 损失（指失去某物所造成的不利后果）",
+    "sentence": "Loss of biodiversity is linked to climate change."
+  },
+  {
+    "id": 1973,
+    "word": "Major",
+    "phonetic": "/ˈmeɪdʒər/",
+    "解释": "adj. 主要的（指重要程度最大的）",
+    "sentence": "Fossil fuels are a major source of emissions."
+  },
+  {
+    "id": 1974,
+    "word": "Manage",
+    "phonetic": "/ˈmænɪdʒ/",
+    "解释": "v. 管理（指负责控制或组织某事）",
+    "sentence": "We must manage natural resources wisely."
+  },
+  {
+    "id": 1975,
+    "word": "Mechanism",
+    "phonetic": "/ˈmekənɪzəm/",
+    "解释": "n. 机制（指使某系统工作的方法或过程）",
+    "sentence": "Carbon pricing is a key mechanism."
+  },
+  {
+    "id": 1976,
+    "word": "Methane",
+    "phonetic": "/ˈmeθeɪn/",
+    "解释": "n. 甲烷（指无色无味的可燃气体，是主要温室气体之一）",
+    "sentence": "Methane from livestock contributes to warming."
+  },
+  {
+    "id": 1977,
+    "word": "Migration",
+    "phonetic": "/maɪˈɡreɪʃn/",
+    "解释": "n. 迁移（指动物或人的季节性或永久性移动）",
+    "sentence": "Climate migration is already occurring."
+  },
+  {
+    "id": 1978,
+    "word": "Model",
+    "phonetic": "/ˈmɒdl/",
+    "解释": "n./v. 模型（指对现实的简化表示，用于预测未来行为）",
+    "sentence": "Climate models predict warming trends."
+  },
+  {
+    "id": 1979,
+    "word": "Monitor",
+    "phonetic": "/ˈmɒnɪtər/",
+    "解释": "v./n. 监测（指持续观察某事物以发现变化）",
+    "sentence": "Satellites monitor global temperatures."
+  },
+  {
+    "id": 1980,
+    "word": "Net-zero",
+    "phonetic": "/ˌnet ˈzɪroʊ/",
+    "解释": "adj. 净零排放的（指温室气体的排放量与吸收量相等）",
+    "sentence": "We must achieve net-zero emissions by 2050."
+  },
+  {
+    "id": 1981,
+    "word": "Neutral",
+    "phonetic": "/ˈnjuːtrəl/",
+    "解释": "adj. 中性的（指不偏向任何一方的，或没有显著特征的）",
+    "sentence": "We aim to be carbon neutral."
+  },
+  {
+    "id": 1982,
+    "word": "Ocean",
+    "phonetic": "/ˈoʊʃn/",
+    "解释": "n. 海洋（指覆盖地球表面大部分的盐水体）",
+    "sentence": "The oceans absorb heat and CO2."
+  },
+  {
+    "id": 1983,
+    "word": "Offset",
+    "phonetic": "/ˈɒfset/",
+    "解释": "n./v. 抵消（指以某一行动补偿另一行动的影响）",
+    "sentence": "Companies must offset their carbon emissions."
+  },
+  {
+    "id": 1984,
+    "word": "Opportunity",
+    "phonetic": "/ˌɒpəˈtjuːnɪti/",
+    "解释": "n. 机遇（指出现的有利时机）",
+    "sentence": "The energy transition is an economic opportunity."
+  },
+  {
+    "id": 1985,
+    "word": "Ozone",
+    "phonetic": "/ˈoʊzoʊn/",
+    "解释": "n. 臭氧（指大气中能吸收紫外线辐射的气体层）",
+    "sentence": "The ozone layer protects life on Earth."
+  },
+  {
+    "id": 1986,
+    "word": "Pattern",
+    "phonetic": "/ˈpætərn/",
+    "解释": "n. 规律（指以固定方式重复出现的事物）",
+    "sentence": "Precipitation patterns are changing globally."
+  },
+  {
+    "id": 1987,
+    "word": "Permafrost",
+    "phonetic": "/ˈpɜːrməfrɒst/",
+    "解释": "n. 永久冻土（指多年保持冻结状态的地下土层）",
+    "sentence": "Melting permafrost releases methane."
+  },
+  {
+    "id": 1988,
+    "word": "Pollution",
+    "phonetic": "/pəˈluːʃn/",
+    "解释": "n. 污染（指有害物质进入环境的过程或结果）",
+    "sentence": "Air pollution causes millions of deaths annually."
+  },
+  {
+    "id": 1989,
+    "word": "Population",
+    "phonetic": "/ˌpɒpjuˈleɪʃn/",
+    "解释": "n. 人口（指某地区所有居民的总数）",
+    "sentence": "A growing global population increases resource pressure."
+  },
+  {
+    "id": 1990,
+    "word": "Potential",
+    "phonetic": "/pəˈtenʃl/",
+    "解释": "n./adj. 潜力（指尚未实现但可能发展的能力）",
+    "sentence": "Solar energy has enormous potential."
+  },
+  {
+    "id": 1991,
+    "word": "Poverty",
+    "phonetic": "/ˈpɒvəti/",
+    "解释": "n. 贫困（指极度缺乏物质财富或资源的状态）",
+    "sentence": "Climate change drives people into poverty."
+  },
+  {
+    "id": 1992,
+    "word": "Precaution",
+    "phonetic": "/prɪˈkɔːʃn/",
+    "解释": "n. 预防措施（指为避免危险或问题而采取的预防行动）",
+    "sentence": "Precautions must be taken before the storm."
+  },
+  {
+    "id": 1993,
+    "word": "Preserve",
+    "phonetic": "/prɪˈzɜːrv/",
+    "解释": "v. 保护（指防止某物被破坏、毁坏或改变）",
+    "sentence": "We must preserve rainforests."
+  },
+  {
+    "id": 1994,
+    "word": "Prevent",
+    "phonetic": "/prɪˈvent/",
+    "解释": "v. 防止（指使某事物不发生）",
+    "sentence": "We can still prevent the worst outcomes."
+  },
+  {
+    "id": 1995,
+    "word": "Priority",
+    "phonetic": "/praɪˈɒrɪti/",
+    "解释": "n. 优先事项（指最重要或最需要先处理的事情）",
+    "sentence": "Climate action is the top priority."
+  },
+  {
+    "id": 1996,
+    "word": "Progress",
+    "phonetic": "/ˈprɒɡres/",
+    "解释": "n./v. 进展（指朝某目标的向前移动或改善）",
+    "sentence": "Progress on climate goals has been too slow."
+  },
+  {
+    "id": 1997,
+    "word": "Projections",
+    "phonetic": "/prəˈdʒekʃnz/",
+    "解释": "n. 预测（指基于已有数据对未来状况的估计）",
+    "sentence": "Temperature projections show continued warming."
+  },
+  {
+    "id": 1998,
+    "word": "Resilience",
+    "phonetic": "/rɪˈzɪliəns/",
+    "解释": "n. 韧性（指从困境中快速恢复的能力）",
+    "sentence": "Communities need resilience to cope with climate impacts."
+  },
+  {
+    "id": 1999,
+    "word": "Responsibility",
+    "phonetic": "/rɪˌspɒnsəˈbɪlɪti/",
+    "解释": "n. 责任（指必须为行为后果负责的义务）",
+    "sentence": "All nations share responsibility for the climate."
+  },
+  {
+    "id": 2000,
+    "word": "Restore",
+    "phonetic": "/rɪˈstɔːr/",
+    "解释": "v. 恢复（指将某事物带回原来的状态或位置）",
+    "sentence": "We can restore degraded ecosystems."
+  }
+]
